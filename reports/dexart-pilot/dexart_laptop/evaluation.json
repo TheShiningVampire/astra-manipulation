@@ -1,0 +1,2252 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": -0.04045107385392301,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": -0.039403091896202044,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 3,
+    "success": false,
+    "reward": -0.03835364970858883,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 4,
+    "success": false,
+    "reward": -0.037876413472018824,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 5,
+    "success": false,
+    "reward": -0.039236664322799125,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 6,
+    "success": false,
+    "reward": -0.03757987479381102,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 7,
+    "success": false,
+    "reward": -0.03510798482543254,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 8,
+    "success": false,
+    "reward": -0.033533837276672536,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 9,
+    "success": false,
+    "reward": -0.033392491954526114,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 10,
+    "success": false,
+    "reward": -0.0331899804028272,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 11,
+    "success": false,
+    "reward": -0.03302974392406444,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 12,
+    "success": false,
+    "reward": -0.03286790609825023,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 13,
+    "success": false,
+    "reward": -0.032665149072501405,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 14,
+    "success": false,
+    "reward": -0.03246608416103837,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 15,
+    "success": false,
+    "reward": -0.032270539388112404,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 16,
+    "success": false,
+    "reward": -0.03207714074196369,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 17,
+    "success": false,
+    "reward": -0.032159345747463944,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 18,
+    "success": false,
+    "reward": -0.032102608739148615,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 19,
+    "success": false,
+    "reward": -0.03201772400764944,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 20,
+    "success": false,
+    "reward": -0.03191900589589981,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 21,
+    "success": false,
+    "reward": -0.03186158144735544,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 22,
+    "success": false,
+    "reward": -0.03175236274438154,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 23,
+    "success": false,
+    "reward": -0.031626497943306325,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 24,
+    "success": false,
+    "reward": -0.031508050458354635,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 25,
+    "success": false,
+    "reward": -0.03175081073664135,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 26,
+    "success": false,
+    "reward": -0.03169323828449846,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 27,
+    "success": false,
+    "reward": -0.03170140698061259,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 28,
+    "success": false,
+    "reward": -0.031702410112012774,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 29,
+    "success": false,
+    "reward": -0.03186918452141986,
+    "native_evaluation": "is_eval_done",
+    "progress": 3.591479402764719e-08,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 30,
+    "success": false,
+    "reward": -0.0317652466692898,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.005983350808349774,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 31,
+    "success": false,
+    "reward": -0.031815620542518,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.014856908749123487,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 32,
+    "success": false,
+    "reward": -0.03184711796431889,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.020816160730698696,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 33,
+    "success": false,
+    "reward": -0.03198130937466484,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.028731601754514946,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 34,
+    "success": false,
+    "reward": -0.03219754677723247,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03269659501220823,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 35,
+    "success": false,
+    "reward": -0.03261876114972442,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03603541383649678,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 36,
+    "success": false,
+    "reward": -0.032522204004082456,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041319018755931025,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 37,
+    "success": false,
+    "reward": -0.03286727434196964,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04566408032113822,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 38,
+    "success": false,
+    "reward": -0.033240462212583984,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 39,
+    "success": false,
+    "reward": -0.03382332201648236,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 40,
+    "success": false,
+    "reward": -0.03394760806691391,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 41,
+    "success": false,
+    "reward": -0.034457542431813,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 42,
+    "success": false,
+    "reward": -0.03478400562978737,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 43,
+    "success": false,
+    "reward": -0.035083636751950566,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 44,
+    "success": false,
+    "reward": -0.035580676132863774,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 45,
+    "success": false,
+    "reward": -0.03605260473592724,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 46,
+    "success": false,
+    "reward": -0.03656638686828787,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 47,
+    "success": false,
+    "reward": -0.037110171188795005,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 48,
+    "success": false,
+    "reward": -0.037683883515458205,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 49,
+    "success": false,
+    "reward": -0.036519191593187596,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 50,
+    "success": false,
+    "reward": -0.035340004604379124,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 51,
+    "success": false,
+    "reward": -0.0341685869300391,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 52,
+    "success": false,
+    "reward": -0.033003512211288735,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 53,
+    "success": false,
+    "reward": -0.03184360057569854,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 54,
+    "success": false,
+    "reward": -0.030688036408324175,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 55,
+    "success": false,
+    "reward": -0.029536331062920675,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 56,
+    "success": false,
+    "reward": -0.028386139101326528,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 57,
+    "success": false,
+    "reward": -0.028793735963667553,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 58,
+    "success": false,
+    "reward": -0.029313931554694767,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 59,
+    "success": false,
+    "reward": -0.029712047672190125,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 60,
+    "success": false,
+    "reward": -0.03014289329228849,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 61,
+    "success": false,
+    "reward": -0.030565139698106453,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 62,
+    "success": false,
+    "reward": -0.030997210796993167,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 63,
+    "success": false,
+    "reward": -0.031437115900793254,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 64,
+    "success": false,
+    "reward": -0.03192667024122425,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 65,
+    "success": false,
+    "reward": -0.031657222323254096,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 66,
+    "success": false,
+    "reward": -0.0314877743826823,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04649245504476773,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 67,
+    "success": false,
+    "reward": -0.0312753035230264,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04582300328459199,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 68,
+    "success": false,
+    "reward": -0.031093849087764757,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04239619321500143,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 69,
+    "success": false,
+    "reward": -0.03100642974106548,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041799468912677384,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 70,
+    "success": false,
+    "reward": -0.031070977115799363,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041799468912677384,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 71,
+    "success": false,
+    "reward": -0.03128023299656163,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04176391326661655,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 72,
+    "success": false,
+    "reward": -0.031470640987661,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 73,
+    "success": false,
+    "reward": -0.03174279471829759,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 74,
+    "success": false,
+    "reward": -0.032059709904689745,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 75,
+    "success": false,
+    "reward": -0.032387678189206355,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 76,
+    "success": false,
+    "reward": -0.032123147236703696,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 77,
+    "success": false,
+    "reward": -0.03187333337002473,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 78,
+    "success": false,
+    "reward": -0.031633351075820645,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 79,
+    "success": false,
+    "reward": -0.03138042800045339,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 80,
+    "success": false,
+    "reward": -0.03118875560084314,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 81,
+    "success": false,
+    "reward": -0.031201440483780478,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 82,
+    "success": false,
+    "reward": -0.031272903773224815,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 83,
+    "success": false,
+    "reward": -0.03130507894381422,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.041746763952481114,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 84,
+    "success": false,
+    "reward": -0.03133659734886287,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04131345196286096,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 85,
+    "success": false,
+    "reward": -0.03139549624911284,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04083758094234968,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 86,
+    "success": false,
+    "reward": -0.031497805320144345,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 87,
+    "success": false,
+    "reward": -0.03125329463511335,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 88,
+    "success": false,
+    "reward": -0.031076564632146995,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 89,
+    "success": false,
+    "reward": -0.030934601276273548,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 90,
+    "success": false,
+    "reward": -0.030822566046460595,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 91,
+    "success": false,
+    "reward": -0.030745038619215317,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 92,
+    "success": false,
+    "reward": -0.030706198278147696,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 93,
+    "success": false,
+    "reward": -0.03081608118270536,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 94,
+    "success": false,
+    "reward": -0.030602783223000182,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 95,
+    "success": false,
+    "reward": -0.030384886178307192,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 96,
+    "success": false,
+    "reward": -0.030188342542602553,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 97,
+    "success": false,
+    "reward": -0.030014836589558575,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 98,
+    "success": false,
+    "reward": -0.029865205558320375,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 99,
+    "success": false,
+    "reward": -0.030101510187601672,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 100,
+    "success": false,
+    "reward": -0.030359930843208045,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 101,
+    "success": false,
+    "reward": -0.03064660983675002,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 102,
+    "success": false,
+    "reward": -0.030943393117187957,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040797984881963845,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 103,
+    "success": false,
+    "reward": -0.031282495880167786,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.040143347974313404,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 104,
+    "success": false,
+    "reward": -0.03147561859252056,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 105,
+    "success": false,
+    "reward": -0.032270782055040824,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 106,
+    "success": false,
+    "reward": -0.03201573934208958,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 107,
+    "success": false,
+    "reward": -0.03181465661074886,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 108,
+    "success": false,
+    "reward": -0.0316104086287054,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 109,
+    "success": false,
+    "reward": -0.031393009405006195,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 110,
+    "success": false,
+    "reward": -0.03157535348619005,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 111,
+    "success": false,
+    "reward": -0.03152437843153043,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 112,
+    "success": false,
+    "reward": -0.0314843385521737,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 113,
+    "success": false,
+    "reward": -0.031498297587744487,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 114,
+    "success": false,
+    "reward": -0.03155857808972856,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 115,
+    "success": false,
+    "reward": -0.031659564271712286,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 116,
+    "success": false,
+    "reward": -0.031795466422561494,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 117,
+    "success": false,
+    "reward": -0.03194425183667705,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 118,
+    "success": false,
+    "reward": -0.032369004263109576,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 119,
+    "success": false,
+    "reward": -0.03264121448176402,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 120,
+    "success": false,
+    "reward": -0.03288351984760307,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 121,
+    "success": false,
+    "reward": -0.03302664637732665,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 122,
+    "success": false,
+    "reward": -0.033228224604186875,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 123,
+    "success": false,
+    "reward": -0.033322534475792906,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 124,
+    "success": false,
+    "reward": -0.033416470103975984,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 125,
+    "success": false,
+    "reward": -0.03351028936815254,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 126,
+    "success": false,
+    "reward": -0.03335944077127486,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 127,
+    "success": false,
+    "reward": -0.032785272016124585,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 128,
+    "success": false,
+    "reward": -0.0322471490922043,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 129,
+    "success": false,
+    "reward": -0.031853482367816904,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 130,
+    "success": false,
+    "reward": -0.03128273607013944,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 131,
+    "success": false,
+    "reward": -0.030719190847132122,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 132,
+    "success": false,
+    "reward": -0.030989261063663478,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 133,
+    "success": false,
+    "reward": -0.031125497140265294,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 134,
+    "success": false,
+    "reward": -0.03125413206923045,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 135,
+    "success": false,
+    "reward": -0.03136397908569589,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 136,
+    "success": false,
+    "reward": -0.03149282929998985,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 137,
+    "success": false,
+    "reward": -0.03164746724812109,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 138,
+    "success": false,
+    "reward": -0.03183356573909395,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 139,
+    "success": false,
+    "reward": -0.03185008359930015,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 140,
+    "success": false,
+    "reward": -0.03159408929741576,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 141,
+    "success": false,
+    "reward": -0.03135381112273849,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 142,
+    "success": false,
+    "reward": -0.031136119453826473,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 143,
+    "success": false,
+    "reward": -0.03093400972384418,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 144,
+    "success": false,
+    "reward": -0.03074196372440958,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 145,
+    "success": false,
+    "reward": -0.030555394225554172,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 146,
+    "success": false,
+    "reward": -0.031180587955512092,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 147,
+    "success": false,
+    "reward": -0.03119405803107142,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 148,
+    "success": false,
+    "reward": -0.0312329412211631,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 149,
+    "success": false,
+    "reward": -0.031316584578302456,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 150,
+    "success": false,
+    "reward": -0.03144259667367686,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 151,
+    "success": false,
+    "reward": -0.03160920195467728,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 152,
+    "success": false,
+    "reward": -0.03181472683108374,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 153,
+    "success": false,
+    "reward": -0.03212243418878735,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 154,
+    "success": false,
+    "reward": -0.032412124926987494,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 155,
+    "success": false,
+    "reward": -0.03274063170140926,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 156,
+    "success": false,
+    "reward": -0.03310646964425171,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 157,
+    "success": false,
+    "reward": -0.0335068391613657,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 158,
+    "success": false,
+    "reward": -0.03393752756087095,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 159,
+    "success": false,
+    "reward": -0.033970908964879816,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 160,
+    "success": false,
+    "reward": -0.03323532539440292,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 161,
+    "success": false,
+    "reward": -0.032498877191335034,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 162,
+    "success": false,
+    "reward": -0.03180158318073048,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 163,
+    "success": false,
+    "reward": -0.031137386329517052,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 164,
+    "success": false,
+    "reward": -0.030501941295154374,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 165,
+    "success": false,
+    "reward": -0.030087649581064392,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 166,
+    "success": false,
+    "reward": -0.029481114582357294,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 167,
+    "success": false,
+    "reward": -0.02889741405001218,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 168,
+    "success": false,
+    "reward": -0.02833138386617272,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 169,
+    "success": false,
+    "reward": -0.027779069087018243,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 170,
+    "success": false,
+    "reward": -0.027647234560734514,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 171,
+    "success": false,
+    "reward": -0.027540692565634014,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 172,
+    "success": false,
+    "reward": -0.027452819541864022,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 173,
+    "success": false,
+    "reward": -0.02738259606144252,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 174,
+    "success": false,
+    "reward": -0.027329308741346467,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 175,
+    "success": false,
+    "reward": -0.027300291289538398,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 176,
+    "success": false,
+    "reward": -0.027088000415945956,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 177,
+    "success": false,
+    "reward": -0.02687943986165798,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 178,
+    "success": false,
+    "reward": -0.026675832139609643,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 179,
+    "success": false,
+    "reward": -0.026481994015431515,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 180,
+    "success": false,
+    "reward": -0.026976285821069697,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 181,
+    "success": false,
+    "reward": -0.027235847122938976,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 182,
+    "success": false,
+    "reward": -0.027526128932751776,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 183,
+    "success": false,
+    "reward": -0.027845932726542753,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 184,
+    "success": false,
+    "reward": -0.02819365940401903,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 185,
+    "success": false,
+    "reward": -0.028826624028221868,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 186,
+    "success": false,
+    "reward": -0.02945420450690439,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 187,
+    "success": false,
+    "reward": -0.03011074438760282,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 188,
+    "success": false,
+    "reward": -0.030793773009231622,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 189,
+    "success": false,
+    "reward": -0.03150106636240642,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 190,
+    "success": false,
+    "reward": -0.03223055915188917,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 191,
+    "success": false,
+    "reward": -0.03247115478504104,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 192,
+    "success": false,
+    "reward": -0.03268843566716215,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 193,
+    "success": false,
+    "reward": -0.032904115900807204,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 194,
+    "success": false,
+    "reward": -0.033229602488408526,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 195,
+    "success": false,
+    "reward": -0.03335744606456706,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 196,
+    "success": false,
+    "reward": -0.033608103913996094,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 197,
+    "success": false,
+    "reward": -0.03286254981934714,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 198,
+    "success": false,
+    "reward": -0.03219191436321825,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 199,
+    "success": false,
+    "reward": -0.031505117860615696,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 200,
+    "success": false,
+    "reward": -0.030813070557273375,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 201,
+    "success": false,
+    "reward": -0.03012570580464217,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 202,
+    "success": false,
+    "reward": -0.031180317237555613,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 203,
+    "success": false,
+    "reward": -0.031113957323757692,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 204,
+    "success": false,
+    "reward": -0.031022242451568875,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 205,
+    "success": false,
+    "reward": -0.030992255797344707,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 206,
+    "success": false,
+    "reward": -0.0310156473836089,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 207,
+    "success": false,
+    "reward": -0.031086916718087124,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 208,
+    "success": false,
+    "reward": -0.031318592731397754,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 209,
+    "success": false,
+    "reward": -0.03161593218518006,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 210,
+    "success": false,
+    "reward": -0.03201139281381323,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 211,
+    "success": false,
+    "reward": -0.03241558619334775,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 212,
+    "success": false,
+    "reward": -0.032773727964742816,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 213,
+    "success": false,
+    "reward": -0.033080343564898904,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 214,
+    "success": false,
+    "reward": -0.03338915982782377,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 215,
+    "success": false,
+    "reward": -0.03329803669661359,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 216,
+    "success": false,
+    "reward": -0.03346637666902911,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 217,
+    "success": false,
+    "reward": -0.033780795088811495,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 218,
+    "success": false,
+    "reward": -0.03423026369063475,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 219,
+    "success": false,
+    "reward": -0.0347635031986601,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 220,
+    "success": false,
+    "reward": -0.03425380742963714,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 221,
+    "success": false,
+    "reward": -0.03356210366365655,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 222,
+    "success": false,
+    "reward": -0.03289297962323224,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 223,
+    "success": false,
+    "reward": -0.032242974045033235,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 224,
+    "success": false,
+    "reward": -0.031609287545666075,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 225,
+    "success": false,
+    "reward": -0.030989792545046965,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 226,
+    "success": false,
+    "reward": -0.03166958250907974,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 227,
+    "success": false,
+    "reward": -0.03143511588182986,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 228,
+    "success": false,
+    "reward": -0.03118950204971068,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 229,
+    "success": false,
+    "reward": -0.03095128026691629,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 230,
+    "success": false,
+    "reward": -0.030472972426795274,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 231,
+    "success": false,
+    "reward": -0.03193198185530377,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 232,
+    "success": false,
+    "reward": -0.03301119626786397,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 233,
+    "success": false,
+    "reward": -0.034121019161386545,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 234,
+    "success": false,
+    "reward": -0.03536560666225095,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 235,
+    "success": false,
+    "reward": -0.03670219412225614,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 236,
+    "success": false,
+    "reward": -0.03820036557917761,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 237,
+    "success": false,
+    "reward": -0.03677190221582247,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 238,
+    "success": false,
+    "reward": -0.03461759330975533,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 239,
+    "success": false,
+    "reward": -0.03249839120559446,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 240,
+    "success": false,
+    "reward": -0.030416809905271902,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 241,
+    "success": false,
+    "reward": -0.028289453111515928,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 242,
+    "success": false,
+    "reward": -0.030626368381050467,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 243,
+    "success": false,
+    "reward": -0.033100823465287775,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 244,
+    "success": false,
+    "reward": -0.03553354873325574,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 245,
+    "success": false,
+    "reward": -0.0381027577522355,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 246,
+    "success": false,
+    "reward": -0.036236216634653276,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 247,
+    "success": false,
+    "reward": -0.03417688406319035,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 248,
+    "success": false,
+    "reward": -0.032201886304769216,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 249,
+    "success": false,
+    "reward": -0.030377755647951265,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 250,
+    "success": false,
+    "reward": -0.02886178397286552,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.03814172671766136,
+    "is_contact": 0.0,
+    "state": 1.0
+  }
+]

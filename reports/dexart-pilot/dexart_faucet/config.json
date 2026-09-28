@@ -1,0 +1,15 @@
+{
+  "seed": 0,
+  "episode_id": null,
+  "provider": "codex",
+  "task": "dexart_faucet",
+  "instruction": "Reach the faucet handle, grasp it with the Allegro hand, and turn the faucet on while maintaining the grasp.",
+  "dataset_path": null,
+  "requested_model": "gpt-6-astra",
+  "reasoning": "medium",
+  "request_timeout_seconds": 240.0,
+  "request_retries": 1,
+  "max_calls": 40,
+  "max_steps": 250,
+  "max_repeat": 10
+}

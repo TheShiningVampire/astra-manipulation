@@ -1,0 +1,5433 @@
+{
+  "source_run": "runs/dexart-pilot/dexart_faucet",
+  "task": "faucet",
+  "seed": 0,
+  "evaluation_only": true,
+  "policy_feedback": false,
+  "method": "Independent reset followed by exact recorded action replay; 64px audit cameras, native physics unchanged.",
+  "initial_state": {
+    "progress": null,
+    "success": false,
+    "object_qpos": [
+      0.0
+    ]
+  },
+  "steps": 250,
+  "evaluation_matches_original_within_1e_9": true,
+  "max_numeric_evaluation_difference": 0.0,
+  "max_proprioception_difference": 0.0,
+  "call_observation_checks": [
+    {
+      "call": "call_000",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_001",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_002",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_003",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_004",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_005",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_006",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_007",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_008",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_009",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_010",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_011",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_012",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_013",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_014",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_015",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_016",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_017",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_018",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_019",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_020",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_021",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_022",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_023",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_024",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_025",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_026",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_027",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_028",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_029",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_030",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_031",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_032",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_033",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_034",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_035",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_036",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_037",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_038",
+      "max_proprioception_absolute_difference": 0.0
+    },
+    {
+      "call": "call_039",
+      "max_proprioception_absolute_difference": 0.0
+    }
+  ],
+  "evaluation_with_contacts": [
+    {
+      "step": 1,
+      "call": "call_000",
+      "success": false,
+      "reward": -0.031060200595041474,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.30787986516952515,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 2,
+      "call": "call_000",
+      "success": false,
+      "reward": -0.029880421306874246,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.2962903082370758,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 3,
+      "call": "call_000",
+      "success": false,
+      "reward": -0.028742050028114596,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.28501811623573303,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 4,
+      "call": "call_000",
+      "success": false,
+      "reward": -0.02764403360470977,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.27410560846328735,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 5,
+      "call": "call_000",
+      "success": false,
+      "reward": -0.02658134305273769,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.26361364126205444,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 6,
+      "call": "call_000",
+      "success": false,
+      "reward": -0.025571947103610757,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.2536091208457947,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 7,
+      "call": "call_000",
+      "success": false,
+      "reward": -0.024621676442422122,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.2441616654396057,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 8,
+      "call": "call_000",
+      "success": false,
+      "reward": -0.023733553074286245,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.23534516990184784,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 9,
+      "call": "call_000",
+      "success": false,
+      "reward": -0.022916519929870018,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.2272350788116455,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 10,
+      "call": "call_000",
+      "success": false,
+      "reward": -0.022179652789847567,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.21990974247455597,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 11,
+      "call": "call_001",
+      "success": false,
+      "reward": -0.02081542601526144,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.20615339279174805,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 12,
+      "call": "call_001",
+      "success": false,
+      "reward": -0.00019859253791855005,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.19254443049430847,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 13,
+      "call": "call_001",
+      "success": false,
+      "reward": -0.00019645933996155905,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17909976840019226,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 14,
+      "call": "call_001",
+      "success": false,
+      "reward": -0.00019402911593781322,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16586460173130035,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 15,
+      "call": "call_001",
+      "success": false,
+      "reward": -0.00019139971767860565,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15289968252182007,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 16,
+      "call": "call_001",
+      "success": false,
+      "reward": -0.0001887016018009941,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.0,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14028456807136536,
+      "object_qpos": [
+        0.0
+      ]
+    },
+    {
+      "step": 17,
+      "call": "call_001",
+      "success": false,
+      "reward": -0.00041781055146035233,
+      "native_evaluation": "is_eval_done",
+      "openness": 5.913115774802691e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13170640170574188,
+      "object_qpos": [
+        5.913115774802691e-09
+      ]
+    },
+    {
+      "step": 18,
+      "call": "call_001",
+      "success": false,
+      "reward": -0.001804775170397258,
+      "native_evaluation": "is_eval_done",
+      "openness": 1.9205707246783277e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13075003027915955,
+      "object_qpos": [
+        1.9205707246783277e-08
+      ]
+    },
+    {
+      "step": 19,
+      "call": "call_001",
+      "success": false,
+      "reward": -0.0018942140461880666,
+      "native_evaluation": "is_eval_done",
+      "openness": 5.425120619406698e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.12982028722763062,
+      "object_qpos": [
+        5.425120619406698e-08
+      ]
+    },
+    {
+      "step": 20,
+      "call": "call_001",
+      "success": false,
+      "reward": -0.0020956252678311395,
+      "native_evaluation": "is_eval_done",
+      "openness": 3.919441127209211e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.12911094725131989,
+      "object_qpos": [
+        3.919441127209211e-08
+      ]
+    },
+    {
+      "step": 21,
+      "call": "call_002",
+      "success": false,
+      "reward": -0.00024487749071669076,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13586948812007904,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 22,
+      "call": "call_002",
+      "success": false,
+      "reward": -0.00019877578023868485,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1427067220211029,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 23,
+      "call": "call_002",
+      "success": false,
+      "reward": -0.00016343910254007043,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14959914982318878,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 24,
+      "call": "call_002",
+      "success": false,
+      "reward": -0.00013641244417010159,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15653923153877258,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 25,
+      "call": "call_002",
+      "success": false,
+      "reward": -0.00011576363148626506,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16352060437202454,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 26,
+      "call": "call_002",
+      "success": false,
+      "reward": -0.00010000769421612409,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17053832113742828,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 27,
+      "call": "call_002",
+      "success": false,
+      "reward": -8.800472114325174e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17758779227733612,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 28,
+      "call": "call_002",
+      "success": false,
+      "reward": -7.888026886520055e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18466533720493317,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 29,
+      "call": "call_003",
+      "success": false,
+      "reward": -0.00012320478982621495,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1746029108762741,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 30,
+      "call": "call_003",
+      "success": false,
+      "reward": -0.00011683982048891043,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1645796149969101,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 31,
+      "call": "call_003",
+      "success": false,
+      "reward": -0.00011173315017521628,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15461218357086182,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 32,
+      "call": "call_003",
+      "success": false,
+      "reward": -0.00010759712716327831,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14471428096294403,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 33,
+      "call": "call_003",
+      "success": false,
+      "reward": -0.00010422894538712123,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.0032801962297526e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13490267097949982,
+      "object_qpos": [
+        4.0032801962297526e-08
+      ]
+    },
+    {
+      "step": 34,
+      "call": "call_003",
+      "success": false,
+      "reward": -0.0002774771074482868,
+      "native_evaluation": "is_eval_done",
+      "openness": 5.069968267434888e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.12710346281528473,
+      "object_qpos": [
+        5.069968267434888e-08
+      ]
+    },
+    {
+      "step": 35,
+      "call": "call_003",
+      "success": false,
+      "reward": -0.0011298255835192192,
+      "native_evaluation": "is_eval_done",
+      "openness": 4.5444100038594115e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.126439169049263,
+      "object_qpos": [
+        4.5444100038594115e-08
+      ]
+    },
+    {
+      "step": 36,
+      "call": "call_003",
+      "success": false,
+      "reward": -0.0010815085639009397,
+      "native_evaluation": "is_eval_done",
+      "openness": 1.123354209653371e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.125406876206398,
+      "object_qpos": [
+        1.123354209653371e-08
+      ]
+    },
+    {
+      "step": 37,
+      "call": "call_004",
+      "success": false,
+      "reward": -0.0012054481500342069,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.12584750354290009,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 38,
+      "call": "call_004",
+      "success": false,
+      "reward": -0.0011871265460276692,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.12647713720798492,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 39,
+      "call": "call_004",
+      "success": false,
+      "reward": -0.0011530463601871247,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1271272897720337,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 40,
+      "call": "call_004",
+      "success": false,
+      "reward": -0.001121983536550966,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.12744183838367462,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 41,
+      "call": "call_004",
+      "success": false,
+      "reward": -0.0011193008894324371,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.12722469866275787,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 42,
+      "call": "call_004",
+      "success": false,
+      "reward": -0.0010546666594719646,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.12696415185928345,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 43,
+      "call": "call_005",
+      "success": false,
+      "reward": -0.001014303524318607,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.12691226601600647,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 44,
+      "call": "call_005",
+      "success": false,
+      "reward": -0.0008505178603631933,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.12689916789531708,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 45,
+      "call": "call_005",
+      "success": false,
+      "reward": -0.0007183530181038478,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1268506944179535,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 46,
+      "call": "call_005",
+      "success": false,
+      "reward": -0.0005661042884121693,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.12676534056663513,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 47,
+      "call": "call_005",
+      "success": false,
+      "reward": -0.00043040207810586756,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.12670540809631348,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 48,
+      "call": "call_005",
+      "success": false,
+      "reward": -0.0003292182310094667,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.12665879726409912,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 49,
+      "call": "call_005",
+      "success": false,
+      "reward": -0.0002526472660154766,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1266108602285385,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 50,
+      "call": "call_005",
+      "success": false,
+      "reward": -0.00019421206639315758,
+      "native_evaluation": "is_eval_done",
+      "openness": 6.803603902483246e-09,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.126562237739563,
+      "object_qpos": [
+        -6.803603902483246e-09
+      ]
+    },
+    {
+      "step": 51,
+      "call": "call_006",
+      "success": false,
+      "reward": -0.0006671262798558929,
+      "native_evaluation": "is_eval_done",
+      "openness": 1.6745053343925065e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.12562018632888794,
+      "object_qpos": [
+        1.6745053343925065e-08
+      ]
+    },
+    {
+      "step": 52,
+      "call": "call_006",
+      "success": false,
+      "reward": -0.0009184316045693251,
+      "native_evaluation": "is_eval_done",
+      "openness": 7.907510024551812e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.12754695117473602,
+      "object_qpos": [
+        -7.907510024551812e-08
+      ]
+    },
+    {
+      "step": 53,
+      "call": "call_006",
+      "success": false,
+      "reward": -0.10095197757008521,
+      "native_evaluation": "is_eval_done",
+      "openness": 7.63080265642202e-08,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13091014325618744,
+      "object_qpos": [
+        -7.63080265642202e-08
+      ]
+    },
+    {
+      "step": 54,
+      "call": "call_006",
+      "success": false,
+      "reward": -0.10061241447081125,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.09080049395561218,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13480713963508606,
+      "object_qpos": [
+        0.09080049395561218
+      ]
+    },
+    {
+      "step": 55,
+      "call": "call_006",
+      "success": false,
+      "reward": -0.1005857976107331,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2540310025215149,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13723182678222656,
+      "object_qpos": [
+        0.2540310025215149
+      ]
+    },
+    {
+      "step": 56,
+      "call": "call_006",
+      "success": false,
+      "reward": -0.00036978910488561287,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640307307243347,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13753262162208557,
+      "object_qpos": [
+        0.36640307307243347
+      ]
+    },
+    {
+      "step": 57,
+      "call": "call_007",
+      "success": false,
+      "reward": -0.0008313114902632578,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640307307243347,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13728612661361694,
+      "object_qpos": [
+        0.36640307307243347
+      ]
+    },
+    {
+      "step": 58,
+      "call": "call_007",
+      "success": false,
+      "reward": -0.0010675617411460636,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13664212822914124,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 59,
+      "call": "call_007",
+      "success": false,
+      "reward": -0.0005035073337650268,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13597643375396729,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 60,
+      "call": "call_007",
+      "success": false,
+      "reward": -0.0004758800391401714,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1358015090227127,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 61,
+      "call": "call_007",
+      "success": false,
+      "reward": -0.0003525836748847077,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1359819620847702,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 62,
+      "call": "call_007",
+      "success": false,
+      "reward": -0.00021366627051055788,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13608461618423462,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 63,
+      "call": "call_008",
+      "success": false,
+      "reward": -0.0003016223734702983,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13607840240001678,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 64,
+      "call": "call_008",
+      "success": false,
+      "reward": -0.00026407828599441587,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13613846898078918,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 65,
+      "call": "call_008",
+      "success": false,
+      "reward": -0.0002303721276772285,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13628710806369781,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 66,
+      "call": "call_008",
+      "success": false,
+      "reward": -0.00020238630492627242,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13651132583618164,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 67,
+      "call": "call_008",
+      "success": false,
+      "reward": -0.00033984668139349283,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13704842329025269,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 68,
+      "call": "call_008",
+      "success": false,
+      "reward": -0.00018354671713025119,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13795024156570435,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 69,
+      "call": "call_009",
+      "success": false,
+      "reward": -0.0002666866186218891,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13592220842838287,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 70,
+      "call": "call_009",
+      "success": false,
+      "reward": -0.000257220408514928,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1345449537038803,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 71,
+      "call": "call_009",
+      "success": false,
+      "reward": -0.00038699626265744643,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13484013080596924,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 72,
+      "call": "call_009",
+      "success": false,
+      "reward": -0.00035685898300857416,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1348963975906372,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 73,
+      "call": "call_009",
+      "success": false,
+      "reward": -0.0005762732171593782,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13394087553024292,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 74,
+      "call": "call_009",
+      "success": false,
+      "reward": -0.00022772726765371784,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13382013142108917,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 75,
+      "call": "call_010",
+      "success": false,
+      "reward": -0.0001795393707834809,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1349548101425171,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 76,
+      "call": "call_010",
+      "success": false,
+      "reward": -0.0001762238415544676,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13498125970363617,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 77,
+      "call": "call_010",
+      "success": false,
+      "reward": -0.00016583393097013594,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13489723205566406,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 78,
+      "call": "call_010",
+      "success": false,
+      "reward": -0.00014697001401225851,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13503704965114594,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 79,
+      "call": "call_010",
+      "success": false,
+      "reward": -0.0001332822345806075,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13512305915355682,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 80,
+      "call": "call_010",
+      "success": false,
+      "reward": -0.00010639863413800314,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13527646660804749,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 81,
+      "call": "call_010",
+      "success": false,
+      "reward": -7.982337933488948e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1356251835823059,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 82,
+      "call": "call_010",
+      "success": false,
+      "reward": -6.76057102809742e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13585461676120758,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 83,
+      "call": "call_011",
+      "success": false,
+      "reward": -5.0908242845650505e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13609826564788818,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 84,
+      "call": "call_011",
+      "success": false,
+      "reward": -5.527968198294231e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1364734172821045,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 85,
+      "call": "call_011",
+      "success": false,
+      "reward": -5.422494526225727e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13682837784290314,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 86,
+      "call": "call_011",
+      "success": false,
+      "reward": -4.128524736920626e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13727101683616638,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 87,
+      "call": "call_011",
+      "success": false,
+      "reward": -0.000301564209521059,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1378185898065567,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 88,
+      "call": "call_011",
+      "success": false,
+      "reward": -4.150729144278426e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13829049468040466,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 89,
+      "call": "call_012",
+      "success": false,
+      "reward": -4.1504317105127266e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13780809938907623,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 90,
+      "call": "call_012",
+      "success": false,
+      "reward": -5.08996384440886e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13763079047203064,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 91,
+      "call": "call_012",
+      "success": false,
+      "reward": -0.00016862699240294986,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13781556487083435,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 92,
+      "call": "call_012",
+      "success": false,
+      "reward": -6.330294814174675e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13752996921539307,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 93,
+      "call": "call_012",
+      "success": false,
+      "reward": -6.690667721928686e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13736940920352936,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 94,
+      "call": "call_012",
+      "success": false,
+      "reward": -5.334585821152033e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13716371357440948,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 95,
+      "call": "call_013",
+      "success": false,
+      "reward": -5.228812479326584e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13740429282188416,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 96,
+      "call": "call_013",
+      "success": false,
+      "reward": -4.434106211752711e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13757216930389404,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 97,
+      "call": "call_013",
+      "success": false,
+      "reward": -3.8534417267116036e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13777688145637512,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 98,
+      "call": "call_013",
+      "success": false,
+      "reward": -3.406049345937814e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13801787793636322,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 99,
+      "call": "call_013",
+      "success": false,
+      "reward": -3.060998342781131e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13829483091831207,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 100,
+      "call": "call_013",
+      "success": false,
+      "reward": -2.79460873058667e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13860736787319183,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 101,
+      "call": "call_014",
+      "success": false,
+      "reward": -0.0002372571352890162,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13654834032058716,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 102,
+      "call": "call_014",
+      "success": false,
+      "reward": -0.00021879509175346532,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1352294683456421,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 103,
+      "call": "call_014",
+      "success": false,
+      "reward": -0.0002956168511143779,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13476397097110748,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 104,
+      "call": "call_014",
+      "success": false,
+      "reward": -0.00022346512266952894,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1342926025390625,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 105,
+      "call": "call_014",
+      "success": false,
+      "reward": -0.00021027904165545164,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13389624655246735,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 106,
+      "call": "call_014",
+      "success": false,
+      "reward": -0.10023296533932967,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1334230750799179,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 107,
+      "call": "call_015",
+      "success": false,
+      "reward": -5.926994229791932e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13552778959274292,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 108,
+      "call": "call_015",
+      "success": false,
+      "reward": -4.5266220023023364e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1380884200334549,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 109,
+      "call": "call_015",
+      "success": false,
+      "reward": -3.671463131635033e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14067308604717255,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 110,
+      "call": "call_015",
+      "success": false,
+      "reward": -3.0144264532228067e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1432807445526123,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 111,
+      "call": "call_015",
+      "success": false,
+      "reward": -2.5094321087472603e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14591017365455627,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 112,
+      "call": "call_015",
+      "success": false,
+      "reward": -2.1211742725389367e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14856047928333282,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 113,
+      "call": "call_015",
+      "success": false,
+      "reward": -1.822496616972786e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1512300670146942,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 114,
+      "call": "call_015",
+      "success": false,
+      "reward": -1.5926961630224305e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1539182811975479,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 115,
+      "call": "call_016",
+      "success": false,
+      "reward": -2.8130253535103424e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.157897487282753,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 116,
+      "call": "call_016",
+      "success": false,
+      "reward": -2.6745519957534066e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16189898550510406,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 117,
+      "call": "call_016",
+      "success": false,
+      "reward": -2.5676415610573354e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16591718792915344,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 118,
+      "call": "call_016",
+      "success": false,
+      "reward": -2.4860168893597766e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16995051503181458,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 119,
+      "call": "call_016",
+      "success": false,
+      "reward": -2.4242844114897842e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17399786412715912,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 120,
+      "call": "call_016",
+      "success": false,
+      "reward": -2.3780408766865547e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17805810272693634,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 121,
+      "call": "call_017",
+      "success": false,
+      "reward": -3.422441862857131e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1821550577878952,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 122,
+      "call": "call_017",
+      "success": false,
+      "reward": -3.416548158384672e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18630561232566833,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 123,
+      "call": "call_017",
+      "success": false,
+      "reward": -3.420104087821818e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.19050332903862,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 124,
+      "call": "call_017",
+      "success": false,
+      "reward": -3.4325910720770256e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.19474440813064575,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 125,
+      "call": "call_017",
+      "success": false,
+      "reward": -3.4530758467173375e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.19902579486370087,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 126,
+      "call": "call_017",
+      "success": false,
+      "reward": -0.02036918172184594,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.2033437341451645,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 127,
+      "call": "call_017",
+      "success": false,
+      "reward": -0.020804705228653887,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.20769548416137695,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 128,
+      "call": "call_017",
+      "success": false,
+      "reward": -0.02124336593872472,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.21207794547080994,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 129,
+      "call": "call_018",
+      "success": false,
+      "reward": -0.020754805024878545,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.20362158119678497,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 130,
+      "call": "call_018",
+      "success": false,
+      "reward": -0.00032156865395869264,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.19527480006217957,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 131,
+      "call": "call_018",
+      "success": false,
+      "reward": -0.0003531559644239597,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18681581318378448,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 132,
+      "call": "call_018",
+      "success": false,
+      "reward": -0.0006431598601037451,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1753886193037033,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 133,
+      "call": "call_018",
+      "success": false,
+      "reward": -0.0008462806014020502,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16314010322093964,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 134,
+      "call": "call_018",
+      "success": false,
+      "reward": -0.0007731141128716626,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1517905443906784,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 135,
+      "call": "call_018",
+      "success": false,
+      "reward": -0.00040627374069814536,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640310287475586,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1433282345533371,
+      "object_qpos": [
+        0.36640310287475586
+      ]
+    },
+    {
+      "step": 136,
+      "call": "call_018",
+      "success": false,
+      "reward": -0.001201824400464534,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1431305706501007,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 137,
+      "call": "call_019",
+      "success": false,
+      "reward": -0.00042122629222577474,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.14369584619998932,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 138,
+      "call": "call_019",
+      "success": false,
+      "reward": -0.00032917260819616745,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.14331775903701782,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 139,
+      "call": "call_019",
+      "success": false,
+      "reward": -0.000297252427319286,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1429126262664795,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 140,
+      "call": "call_019",
+      "success": false,
+      "reward": -0.0004285034096989171,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.14231900870800018,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 141,
+      "call": "call_019",
+      "success": false,
+      "reward": -0.0002243890787697496,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.141278475522995,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 142,
+      "call": "call_019",
+      "success": false,
+      "reward": -0.0003119478704876999,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13993287086486816,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 143,
+      "call": "call_020",
+      "success": false,
+      "reward": -1.1881003334801822e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13991335034370422,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 144,
+      "call": "call_020",
+      "success": false,
+      "reward": -1.0119649054262602e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1397293210029602,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 145,
+      "call": "call_020",
+      "success": false,
+      "reward": -9.510847101879982e-06,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1396164745092392,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 146,
+      "call": "call_020",
+      "success": false,
+      "reward": -9.04317963405422e-06,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1395748108625412,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 147,
+      "call": "call_020",
+      "success": false,
+      "reward": -0.10044255290876763,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664030134677887,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13864438235759735,
+      "object_qpos": [
+        0.3664030134677887
+      ]
+    },
+    {
+      "step": 148,
+      "call": "call_021",
+      "success": false,
+      "reward": -0.000147179985470826,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664029836654663,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1362794190645218,
+      "object_qpos": [
+        0.3664029836654663
+      ]
+    },
+    {
+      "step": 149,
+      "call": "call_021",
+      "success": false,
+      "reward": -0.0002943952123991834,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640292406082153,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13710077106952667,
+      "object_qpos": [
+        0.36640292406082153
+      ]
+    },
+    {
+      "step": 150,
+      "call": "call_021",
+      "success": false,
+      "reward": -0.00043011736132692464,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640292406082153,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13858084380626678,
+      "object_qpos": [
+        0.36640292406082153
+      ]
+    },
+    {
+      "step": 151,
+      "call": "call_021",
+      "success": false,
+      "reward": -0.00042737406489320556,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.3664029538631439,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.14002959430217743,
+      "object_qpos": [
+        0.3664029538631439
+      ]
+    },
+    {
+      "step": 152,
+      "call": "call_021",
+      "success": false,
+      "reward": -0.10032104845359949,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640289425849915,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.14177778363227844,
+      "object_qpos": [
+        0.36640289425849915
+      ]
+    },
+    {
+      "step": 153,
+      "call": "call_021",
+      "success": false,
+      "reward": -0.10029260907100693,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640292406082153,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.14356234669685364,
+      "object_qpos": [
+        0.36640292406082153
+      ]
+    },
+    {
+      "step": 154,
+      "call": "call_022",
+      "success": false,
+      "reward": -0.10063858514486775,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640292406082153,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.14203687012195587,
+      "object_qpos": [
+        0.36640292406082153
+      ]
+    },
+    {
+      "step": 155,
+      "call": "call_022",
+      "success": false,
+      "reward": -0.10042774472109846,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640286445617676,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14045318961143494,
+      "object_qpos": [
+        0.36640286445617676
+      ]
+    },
+    {
+      "step": 156,
+      "call": "call_022",
+      "success": false,
+      "reward": -0.10033552389779903,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640292406082153,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13895395398139954,
+      "object_qpos": [
+        0.36640292406082153
+      ]
+    },
+    {
+      "step": 157,
+      "call": "call_022",
+      "success": false,
+      "reward": -0.10064546606139685,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.36640283465385437,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.13762851059436798,
+      "object_qpos": [
+        0.36640283465385437
+      ]
+    },
+    {
+      "step": 158,
+      "call": "call_022",
+      "success": false,
+      "reward": -0.1008655482886101,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4985279142856598,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.13768009841442108,
+      "object_qpos": [
+        0.4985279142856598
+      ]
+    },
+    {
+      "step": 159,
+      "call": "call_022",
+      "success": false,
+      "reward": -0.10092726259993968,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4985278844833374,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.1394968181848526,
+      "object_qpos": [
+        0.4985278844833374
+      ]
+    },
+    {
+      "step": 160,
+      "call": "call_023",
+      "success": false,
+      "reward": -0.10125131757512468,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.18249081075191498,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14136730134487152,
+      "object_qpos": [
+        0.18249081075191498
+      ]
+    },
+    {
+      "step": 161,
+      "call": "call_023",
+      "success": false,
+      "reward": -0.10117668759643124,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.08234995603561401,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1430409550666809,
+      "object_qpos": [
+        -0.08234995603561401
+      ]
+    },
+    {
+      "step": 162,
+      "call": "call_023",
+      "success": false,
+      "reward": -0.10113359974381506,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751676082611,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14389728009700775,
+      "object_qpos": [
+        -0.4273751676082611
+      ]
+    },
+    {
+      "step": 163,
+      "call": "call_023",
+      "success": false,
+      "reward": -0.10026281695851542,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1467684656381607,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 164,
+      "call": "call_023",
+      "success": false,
+      "reward": -0.0002177648549933188,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15124714374542236,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 165,
+      "call": "call_024",
+      "success": false,
+      "reward": -0.00010446225839525515,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15342245995998383,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 166,
+      "call": "call_024",
+      "success": false,
+      "reward": -8.478580361772314e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15572616457939148,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 167,
+      "call": "call_024",
+      "success": false,
+      "reward": -6.963549557384523e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1581517904996872,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 168,
+      "call": "call_024",
+      "success": false,
+      "reward": -5.795788836919842e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16069373488426208,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 169,
+      "call": "call_024",
+      "success": false,
+      "reward": -4.894610824416015e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1633470058441162,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 170,
+      "call": "call_024",
+      "success": false,
+      "reward": -4.197955851129507e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1661061942577362,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 171,
+      "call": "call_025",
+      "success": false,
+      "reward": -4.0424973541456514e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1610606610774994,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 172,
+      "call": "call_025",
+      "success": false,
+      "reward": -3.6459196634901956e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1561240702867508,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 173,
+      "call": "call_025",
+      "success": false,
+      "reward": -3.3378531709160666e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15130996704101562,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 174,
+      "call": "call_025",
+      "success": false,
+      "reward": -3.076905105275329e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.4273751974105835,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.14663954079151154,
+      "object_qpos": [
+        -0.4273751974105835
+      ]
+    },
+    {
+      "step": 175,
+      "call": "call_025",
+      "success": false,
+      "reward": -0.00028100457771786227,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.34532278776168823,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.14569567143917084,
+      "object_qpos": [
+        -0.34532278776168823
+      ]
+    },
+    {
+      "step": 176,
+      "call": "call_025",
+      "success": false,
+      "reward": -0.0003162387026782779,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.14639346301555634,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 177,
+      "call": "call_026",
+      "success": false,
+      "reward": -0.0007733380889222123,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14740854501724243,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 178,
+      "call": "call_026",
+      "success": false,
+      "reward": -0.0006572343014631877,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14790233969688416,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 179,
+      "call": "call_026",
+      "success": false,
+      "reward": -0.0005746053948037526,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1484183371067047,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 180,
+      "call": "call_026",
+      "success": false,
+      "reward": -0.00045705996018002024,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14895585179328918,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 181,
+      "call": "call_026",
+      "success": false,
+      "reward": -0.00035123043025518837,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14951492846012115,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 182,
+      "call": "call_027",
+      "success": false,
+      "reward": -0.0006246352003556438,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15022610127925873,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 183,
+      "call": "call_027",
+      "success": false,
+      "reward": -0.00048097318458771804,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15094247460365295,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 184,
+      "call": "call_027",
+      "success": false,
+      "reward": -0.0003707686469980657,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15166468918323517,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 185,
+      "call": "call_027",
+      "success": false,
+      "reward": -0.0002862307686943839,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1523931622505188,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 186,
+      "call": "call_027",
+      "success": false,
+      "reward": -0.00022138227885185217,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15312740206718445,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 187,
+      "call": "call_028",
+      "success": false,
+      "reward": -0.0001641263938888098,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1551874428987503,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 188,
+      "call": "call_028",
+      "success": false,
+      "reward": -0.00013162058097997465,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15739598870277405,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 189,
+      "call": "call_028",
+      "success": false,
+      "reward": -0.00010878828567022825,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15975265204906464,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 190,
+      "call": "call_028",
+      "success": false,
+      "reward": -9.301958811368689e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1622331738471985,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 191,
+      "call": "call_028",
+      "success": false,
+      "reward": -7.78508599490293e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16484080255031586,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 192,
+      "call": "call_029",
+      "success": false,
+      "reward": -4.607797382865146e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16073447465896606,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 193,
+      "call": "call_029",
+      "success": false,
+      "reward": -3.368603309595312e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15669190883636475,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 194,
+      "call": "call_029",
+      "success": false,
+      "reward": -2.8418287691081716e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15271994471549988,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 195,
+      "call": "call_029",
+      "success": false,
+      "reward": -2.4189897630678288e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14882443845272064,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 196,
+      "call": "call_029",
+      "success": false,
+      "reward": -7.54120240141811e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "palm_to_handle_distance_m": 0.14648298919200897,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 197,
+      "call": "call_030",
+      "success": false,
+      "reward": -5.825355528955881e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.14984194934368134,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 198,
+      "call": "call_030",
+      "success": false,
+      "reward": -5.4313432182300154e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.15331913530826569,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 199,
+      "call": "call_030",
+      "success": false,
+      "reward": -5.364345100709348e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1569206863641739,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 200,
+      "call": "call_030",
+      "success": false,
+      "reward": -5.334706872020345e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16063766181468964,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 201,
+      "call": "call_030",
+      "success": false,
+      "reward": -5.3150973556317544e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16446171700954437,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 202,
+      "call": "call_031",
+      "success": false,
+      "reward": -0.00011314191744967834,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16390831768512726,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 203,
+      "call": "call_031",
+      "success": false,
+      "reward": -9.311234377733048e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16351881623268127,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 204,
+      "call": "call_031",
+      "success": false,
+      "reward": -7.767892608167261e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16329257190227509,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 205,
+      "call": "call_031",
+      "success": false,
+      "reward": -6.579079856848545e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16323068737983704,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 206,
+      "call": "call_031",
+      "success": false,
+      "reward": -5.662691407282335e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1633330136537552,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 207,
+      "call": "call_031",
+      "success": false,
+      "reward": -4.955477295243507e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16359975934028625,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 208,
+      "call": "call_032",
+      "success": false,
+      "reward": -3.452709664520905e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16727957129478455,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 209,
+      "call": "call_032",
+      "success": false,
+      "reward": -3.4050365804933986e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17096012830734253,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 210,
+      "call": "call_032",
+      "success": false,
+      "reward": -3.382647879671887e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17463967204093933,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 211,
+      "call": "call_032",
+      "success": false,
+      "reward": -3.374867150953257e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17831774055957794,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 212,
+      "call": "call_032",
+      "success": false,
+      "reward": -3.378444925545161e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1819937825202942,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 213,
+      "call": "call_033",
+      "success": false,
+      "reward": -0.0001523647979326544,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18105508387088776,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 214,
+      "call": "call_033",
+      "success": false,
+      "reward": -0.00012065373301558646,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18017403781414032,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 215,
+      "call": "call_033",
+      "success": false,
+      "reward": -9.629635592250169e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17935311794281006,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 216,
+      "call": "call_033",
+      "success": false,
+      "reward": -7.757988012285187e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17859375476837158,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 217,
+      "call": "call_033",
+      "success": false,
+      "reward": -6.319256795166976e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1778964400291443,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 218,
+      "call": "call_034",
+      "success": false,
+      "reward": -0.00023169116836863548,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18089529871940613,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 219,
+      "call": "call_034",
+      "success": false,
+      "reward": -0.00018385091128632344,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18391694128513336,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 220,
+      "call": "call_034",
+      "success": false,
+      "reward": -0.00014719988398880684,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18695931136608124,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 221,
+      "call": "call_034",
+      "success": false,
+      "reward": -0.00010057705287360237,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1900264322757721,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 222,
+      "call": "call_034",
+      "success": false,
+      "reward": -8.927175753166169e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1931159943342209,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 223,
+      "call": "call_035",
+      "success": false,
+      "reward": -2.0934802820634885e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18796668946743011,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 224,
+      "call": "call_035",
+      "success": false,
+      "reward": -1.9412288112793338e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18281950056552887,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 225,
+      "call": "call_035",
+      "success": false,
+      "reward": -1.8244430447494726e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17767958343029022,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 226,
+      "call": "call_035",
+      "success": false,
+      "reward": -1.736014462250061e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17254813015460968,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 227,
+      "call": "call_035",
+      "success": false,
+      "reward": -1.6689941135355085e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16742612421512604,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 228,
+      "call": "call_035",
+      "success": false,
+      "reward": -1.6185532627466087e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16231480240821838,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 229,
+      "call": "call_036",
+      "success": false,
+      "reward": -9.565714190234668e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16438321769237518,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 230,
+      "call": "call_036",
+      "success": false,
+      "reward": -6.58100514553672e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.16646239161491394,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 231,
+      "call": "call_036",
+      "success": false,
+      "reward": -7.717399413250814e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1685430407524109,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 232,
+      "call": "call_036",
+      "success": false,
+      "reward": -6.714441212416266e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1706266850233078,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 233,
+      "call": "call_036",
+      "success": false,
+      "reward": -5.9532890781487484e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1727152317762375,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 234,
+      "call": "call_036",
+      "success": false,
+      "reward": -5.3779953305058796e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17480812966823578,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 235,
+      "call": "call_037",
+      "success": false,
+      "reward": -0.0001286865254382286,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17615972459316254,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 236,
+      "call": "call_037",
+      "success": false,
+      "reward": -0.00011094752990519299,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.17754973471164703,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 237,
+      "call": "call_037",
+      "success": false,
+      "reward": -0.00010919237535941954,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1789758801460266,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 238,
+      "call": "call_037",
+      "success": false,
+      "reward": -9.718368843813531e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18042205274105072,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 239,
+      "call": "call_037",
+      "success": false,
+      "reward": -8.028423391082347e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18188941478729248,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 240,
+      "call": "call_037",
+      "success": false,
+      "reward": -9.489239332561939e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1833648681640625,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 241,
+      "call": "call_038",
+      "success": false,
+      "reward": -8.385632384331736e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18490596115589142,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 242,
+      "call": "call_038",
+      "success": false,
+      "reward": -7.911632307188212e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1865946352481842,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 243,
+      "call": "call_038",
+      "success": false,
+      "reward": -7.693707952842826e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.18843969702720642,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 244,
+      "call": "call_038",
+      "success": false,
+      "reward": -7.5831952179274e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.1904260367155075,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 245,
+      "call": "call_038",
+      "success": false,
+      "reward": -7.416407389609803e-05,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.19256535172462463,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 246,
+      "call": "call_039",
+      "success": false,
+      "reward": -0.00010433906176318662,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.19536863267421722,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 247,
+      "call": "call_039",
+      "success": false,
+      "reward": -0.00010421656247920034,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 2.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.19824561476707458,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 248,
+      "call": "call_039",
+      "success": false,
+      "reward": -0.020223064790001896,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.2011891007423401,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 249,
+      "call": "call_039",
+      "success": false,
+      "reward": -0.020523473087474438,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.20419307053089142,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    },
+    {
+      "step": 250,
+      "call": "call_039",
+      "success": false,
+      "reward": -0.020829521190390873,
+      "native_evaluation": "is_eval_done",
+      "openness": 0.2583284080028534,
+      "is_contact": 0.0,
+      "state": 1.0,
+      "contact_groups_thumb_index_middle_ring_palm": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "palm_to_handle_distance_m": 0.20725277066230774,
+      "object_qpos": [
+        -0.2583284080028534
+      ]
+    }
+  ]
+}

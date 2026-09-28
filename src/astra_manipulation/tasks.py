@@ -5,11 +5,16 @@ from .hand_tasks import HAND_TASKS, HandTaskEnvironment
 
 def list_tasks():
     from .bullet_tasks import BULLET_TASKS
+    from .dexart_tasks import DEXART_TASKS
     return {**{"gripper_" + key: value for key, value in GRIPPER_TASKS.items()},
-            **{"hand_" + key: value for key, value in HAND_TASKS.items()}, **BULLET_TASKS}
+            **{"hand_" + key: value for key, value in HAND_TASKS.items()}, **BULLET_TASKS,
+            **{"dexart_" + key: value for key, value in DEXART_TASKS.items()}}
 
 
 def make_task(task, instruction=None, dataset_path=None, max_steps=600, image_size=None):
+    if task.startswith("dexart_"):
+        from .dexart_tasks import DexArtTaskEnvironment
+        return DexArtTaskEnvironment(task, instruction, dataset_path, max_steps, image_size or 768)
     if task.startswith("bullet_"):
         from .bullet_tasks import BulletTaskEnvironment
         return BulletTaskEnvironment(task, instruction, dataset_path, max_steps, image_size or 768)

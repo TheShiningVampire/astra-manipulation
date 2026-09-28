@@ -1,0 +1,17 @@
+{
+  "provider": "codex",
+  "task": "dexart_faucet",
+  "seed": 0,
+  "episode_id": null,
+  "status": "environment_terminal",
+  "error": null,
+  "success_any_step": false,
+  "success_final_step": false,
+  "longest_success_hold_steps": 0,
+  "control_steps": 250,
+  "model_calls": 40,
+  "validated_decisions": 40,
+  "wall_seconds": 720.4994524400026,
+  "is_astra_trial": true,
+  "evaluation_scope": "task_completion_under_authored_instruction"
+}

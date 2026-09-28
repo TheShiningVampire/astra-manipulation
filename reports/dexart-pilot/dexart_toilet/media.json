@@ -1,0 +1,39 @@
+{
+  "source_run": "runs/dexart-pilot/dexart_toilet",
+  "title": "DexArt \u00b7 toilet",
+  "frames": 121,
+  "simulation_seconds": 4.800000227987766,
+  "video_seconds": 20.0,
+  "fps": 6.05,
+  "resolution": [
+    1920,
+    1536
+  ],
+  "camera_panel_height": 768,
+  "request_waits_in_video": false,
+  "action_alignment": "frame 0 reset; input step k action starts frame k+1",
+  "gif": {
+    "width": 640,
+    "fps": 6,
+    "colors": 128,
+    "bytes": 2276282,
+    "timeline_seconds": 20.0
+  },
+  "result": {
+    "provider": "codex",
+    "task": "dexart_toilet",
+    "seed": 0,
+    "episode_id": null,
+    "status": "model_stopped",
+    "error": null,
+    "success_any_step": false,
+    "success_final_step": false,
+    "longest_success_hold_steps": 0,
+    "control_steps": 120,
+    "model_calls": 15,
+    "validated_decisions": 15,
+    "wall_seconds": 179.94623596900055,
+    "is_astra_trial": true,
+    "evaluation_scope": "task_completion_under_authored_instruction"
+  }
+}

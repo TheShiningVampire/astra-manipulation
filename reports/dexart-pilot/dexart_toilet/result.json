@@ -1,0 +1,17 @@
+{
+  "provider": "codex",
+  "task": "dexart_toilet",
+  "seed": 0,
+  "episode_id": null,
+  "status": "model_stopped",
+  "error": null,
+  "success_any_step": false,
+  "success_final_step": false,
+  "longest_success_hold_steps": 0,
+  "control_steps": 120,
+  "model_calls": 15,
+  "validated_decisions": 15,
+  "wall_seconds": 179.94623596900055,
+  "is_astra_trial": true,
+  "evaluation_scope": "task_completion_under_authored_instruction"
+}

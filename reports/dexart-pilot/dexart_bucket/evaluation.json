@@ -1,0 +1,2502 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": -0.03424515674955959,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": -0.03151570720089698,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 3,
+    "success": false,
+    "reward": -0.029298828127315223,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 4,
+    "success": false,
+    "reward": -0.027174973802008576,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 5,
+    "success": false,
+    "reward": -0.025111731175657872,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 6,
+    "success": false,
+    "reward": -0.023201131339653017,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 7,
+    "success": false,
+    "reward": -0.02511950676430325,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 1.0
+  },
+  {
+    "step": 8,
+    "success": false,
+    "reward": -0.21626060183443238,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 9,
+    "success": false,
+    "reward": -0.20671163208968502,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 10,
+    "success": false,
+    "reward": -0.20377065658149132,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 11,
+    "success": false,
+    "reward": -0.20680207039985743,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.005813178215977044,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 12,
+    "success": false,
+    "reward": -0.21823596244965654,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 13,
+    "success": false,
+    "reward": -0.2171023069258145,
+    "native_evaluation": "is_eval_done",
+    "progress": -2.3013373784408486e-07,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 14,
+    "success": false,
+    "reward": -0.2058929680581009,
+    "native_evaluation": "is_eval_done",
+    "progress": -2.3013373784408486e-07,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 15,
+    "success": false,
+    "reward": -0.20706191533377466,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 16,
+    "success": false,
+    "reward": -0.24960822598677126,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 17,
+    "success": false,
+    "reward": -0.2498946143126479,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 18,
+    "success": false,
+    "reward": -0.2516094654623464,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 19,
+    "success": false,
+    "reward": -0.25158668981618787,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 20,
+    "success": false,
+    "reward": -0.2517201596090599,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 21,
+    "success": false,
+    "reward": -0.250862668394642,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 22,
+    "success": false,
+    "reward": -0.25420050718048315,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 23,
+    "success": false,
+    "reward": -0.255406349913515,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 24,
+    "success": false,
+    "reward": -0.2568845921047667,
+    "native_evaluation": "is_eval_done",
+    "progress": -2.3013373784408486e-07,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 25,
+    "success": false,
+    "reward": -0.2529568757753069,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 26,
+    "success": false,
+    "reward": -0.251255872356977,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 27,
+    "success": false,
+    "reward": -0.25065710198972374,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 28,
+    "success": false,
+    "reward": -0.2511250360406405,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 29,
+    "success": false,
+    "reward": -0.2521633465083441,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 30,
+    "success": false,
+    "reward": -0.24306567490818434,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.012101582600441585,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 31,
+    "success": false,
+    "reward": -0.22804980001557415,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.028347988884923403,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 32,
+    "success": false,
+    "reward": -0.22156038535734573,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04011150502458627,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 33,
+    "success": false,
+    "reward": -0.17404260298753896,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0516108276332935,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 34,
+    "success": false,
+    "reward": -0.16989807342091734,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.06403413719913242,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 35,
+    "success": false,
+    "reward": -0.16529689551638668,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.07328827506219138,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 36,
+    "success": false,
+    "reward": -0.15997262977133703,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.08008757634449715,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 37,
+    "success": false,
+    "reward": -0.150069162499914,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.09582308573113774,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 38,
+    "success": false,
+    "reward": -0.1470726314622887,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.10205223067812741,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 39,
+    "success": false,
+    "reward": -0.17556608627978093,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.059508327112220094,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 40,
+    "success": false,
+    "reward": -0.20548005342633013,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 41,
+    "success": false,
+    "reward": -0.20330576343948203,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 42,
+    "success": false,
+    "reward": -0.2024025429799591,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 43,
+    "success": false,
+    "reward": -0.19996630622804706,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0037341500289962415,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 44,
+    "success": false,
+    "reward": -0.20152369533073636,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 45,
+    "success": false,
+    "reward": -0.20176490405445247,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 46,
+    "success": false,
+    "reward": -0.20161089672448812,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 47,
+    "success": false,
+    "reward": -0.20087552357099095,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 48,
+    "success": false,
+    "reward": -0.20070309488821156,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 49,
+    "success": false,
+    "reward": -0.20107745421371898,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 50,
+    "success": false,
+    "reward": -0.2011007825339633,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 51,
+    "success": false,
+    "reward": -0.2006418729631968,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 52,
+    "success": false,
+    "reward": -0.20053897313996422,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 53,
+    "success": false,
+    "reward": -0.20039371327724162,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 54,
+    "success": false,
+    "reward": -0.2001662355607188,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 55,
+    "success": false,
+    "reward": -0.20014506039141186,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 56,
+    "success": false,
+    "reward": -0.20005347629174794,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 57,
+    "success": false,
+    "reward": -0.20001338662585774,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 58,
+    "success": false,
+    "reward": -0.19987975582254772,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 59,
+    "success": false,
+    "reward": -0.19965344624551282,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 60,
+    "success": false,
+    "reward": -0.19948763953371287,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 61,
+    "success": false,
+    "reward": -0.19936538346206617,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 62,
+    "success": false,
+    "reward": -0.19925745467182088,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 63,
+    "success": false,
+    "reward": -0.1991845175095308,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 64,
+    "success": false,
+    "reward": -0.21139943976577866,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 65,
+    "success": false,
+    "reward": -0.2113290742555229,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 66,
+    "success": false,
+    "reward": -0.21126294138639024,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 67,
+    "success": false,
+    "reward": -0.21105793523908145,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 68,
+    "success": false,
+    "reward": -0.2108226633912411,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 69,
+    "success": false,
+    "reward": -0.21064548274934045,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 70,
+    "success": false,
+    "reward": -0.21067026493007363,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 71,
+    "success": false,
+    "reward": -0.21206731456908878,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 72,
+    "success": false,
+    "reward": -0.20949864143457403,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 73,
+    "success": false,
+    "reward": -0.2097705385503582,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 74,
+    "success": false,
+    "reward": -0.21068738672362014,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 75,
+    "success": false,
+    "reward": -0.20971845348003532,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 76,
+    "success": false,
+    "reward": -0.2076962953896068,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 77,
+    "success": false,
+    "reward": -0.20726220813856785,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 78,
+    "success": false,
+    "reward": -0.20683918102092932,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 79,
+    "success": false,
+    "reward": -0.20542729577941268,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 80,
+    "success": false,
+    "reward": -0.20439884997247856,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 81,
+    "success": false,
+    "reward": -0.20666862461806979,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 82,
+    "success": false,
+    "reward": -0.2034763980763795,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 83,
+    "success": false,
+    "reward": -0.20246565057924568,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 84,
+    "success": false,
+    "reward": -0.20160953492887823,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 85,
+    "success": false,
+    "reward": -0.20071994422863093,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 86,
+    "success": false,
+    "reward": -0.1997888973124295,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 87,
+    "success": false,
+    "reward": -0.20020803003957058,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 88,
+    "success": false,
+    "reward": -0.19941109077552868,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 89,
+    "success": false,
+    "reward": -0.19973718734014242,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 90,
+    "success": false,
+    "reward": -0.19963187078002823,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 91,
+    "success": false,
+    "reward": -0.19883150295326102,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 92,
+    "success": false,
+    "reward": -0.1983254223910841,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 93,
+    "success": false,
+    "reward": -0.19898962035478251,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 94,
+    "success": false,
+    "reward": -0.199321281282291,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 95,
+    "success": false,
+    "reward": -0.19992033386750538,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 96,
+    "success": false,
+    "reward": -0.1994515243144231,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 97,
+    "success": false,
+    "reward": -0.19934822699916427,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 98,
+    "success": false,
+    "reward": -0.19910854667186742,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 99,
+    "success": false,
+    "reward": -0.1989038485388514,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 100,
+    "success": false,
+    "reward": -0.1987901853091186,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 101,
+    "success": false,
+    "reward": -0.19871500910329334,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 102,
+    "success": false,
+    "reward": -0.1986297945331547,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 103,
+    "success": false,
+    "reward": -0.19861680683628363,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 104,
+    "success": false,
+    "reward": -0.19849074512727993,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 105,
+    "success": false,
+    "reward": -0.20702217228638783,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 106,
+    "success": false,
+    "reward": -0.20623673360327285,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 107,
+    "success": false,
+    "reward": -0.2055218640440473,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 108,
+    "success": false,
+    "reward": -0.2047899560808348,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 109,
+    "success": false,
+    "reward": -0.20455136742635407,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 110,
+    "success": false,
+    "reward": -0.2031204573717156,
+    "native_evaluation": "is_eval_done",
+    "progress": 2.3013373773306256e-07,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 111,
+    "success": false,
+    "reward": -0.2013498947889735,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 112,
+    "success": false,
+    "reward": -0.20016299800848822,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 113,
+    "success": false,
+    "reward": -0.2056877949222684,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 114,
+    "success": false,
+    "reward": -0.20665407250156095,
+    "native_evaluation": "is_eval_done",
+    "progress": -2.3013373784408486e-07,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 115,
+    "success": false,
+    "reward": -0.20484632317360194,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 116,
+    "success": false,
+    "reward": -0.20388462335636792,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 117,
+    "success": false,
+    "reward": -0.2030095062622471,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 118,
+    "success": false,
+    "reward": -0.203232078896799,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 119,
+    "success": false,
+    "reward": -0.20182876703381394,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 120,
+    "success": false,
+    "reward": -0.20120846404832668,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 121,
+    "success": false,
+    "reward": -0.19883725646896047,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 122,
+    "success": false,
+    "reward": -0.1983222876844882,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 123,
+    "success": false,
+    "reward": -0.1979773815215584,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 124,
+    "success": false,
+    "reward": -0.19769468370365645,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 125,
+    "success": false,
+    "reward": -0.19769888301808286,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 126,
+    "success": false,
+    "reward": -0.19723915439529208,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 127,
+    "success": false,
+    "reward": -0.19724073405483813,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 128,
+    "success": false,
+    "reward": -0.19851513610971108,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 129,
+    "success": false,
+    "reward": -0.19746914920166522,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 130,
+    "success": false,
+    "reward": -0.1977375445317009,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 131,
+    "success": false,
+    "reward": -0.19704724251207756,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 132,
+    "success": false,
+    "reward": -0.19692319576832895,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 133,
+    "success": false,
+    "reward": -0.19695423231456494,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 134,
+    "success": false,
+    "reward": -0.19699098054551992,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 135,
+    "success": false,
+    "reward": -0.208213865038279,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 136,
+    "success": false,
+    "reward": -0.20805396525390316,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 137,
+    "success": false,
+    "reward": -0.2075571331027126,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 138,
+    "success": false,
+    "reward": -0.20648206886843626,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 139,
+    "success": false,
+    "reward": -0.2056359553144274,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 140,
+    "success": false,
+    "reward": -0.2048648700170117,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 141,
+    "success": false,
+    "reward": -0.20694977862635913,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 142,
+    "success": false,
+    "reward": -0.20217313533721565,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 143,
+    "success": false,
+    "reward": -0.20662233160250346,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 144,
+    "success": false,
+    "reward": -0.2061713086114429,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 145,
+    "success": false,
+    "reward": -0.20450461043823598,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 146,
+    "success": false,
+    "reward": -0.201508236566238,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 147,
+    "success": false,
+    "reward": -0.2042204084077672,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 148,
+    "success": false,
+    "reward": -0.19415303301529266,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.02191402491132166,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 149,
+    "success": false,
+    "reward": -0.2025590750498475,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 150,
+    "success": false,
+    "reward": -0.20396874509437854,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 151,
+    "success": false,
+    "reward": -0.19651047959680668,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00398545607063705,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 152,
+    "success": false,
+    "reward": -0.1900659561436412,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.010583850599872768,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 153,
+    "success": false,
+    "reward": -0.17489919661384398,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.034326978458961155,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 154,
+    "success": false,
+    "reward": -0.19060530419958815,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.004543990652195906,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 155,
+    "success": false,
+    "reward": -0.1869790072628809,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.012340001152767455,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 156,
+    "success": false,
+    "reward": -0.17580783973621475,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.02850160315488237,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 157,
+    "success": false,
+    "reward": -0.16353484540924798,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.048561670674758695,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 158,
+    "success": false,
+    "reward": -0.15287378282862477,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0676882006873859,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 159,
+    "success": false,
+    "reward": -0.144527092774973,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.08206764702423852,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 160,
+    "success": false,
+    "reward": -0.14572230838298794,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.07888087009051947,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 161,
+    "success": false,
+    "reward": -0.13654321341288836,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.09455758030716077,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 162,
+    "success": false,
+    "reward": -0.12294049846367591,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.1185491375361678,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 163,
+    "success": false,
+    "reward": -0.11118656652301144,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.13909490230959987,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 164,
+    "success": false,
+    "reward": -0.09926715765596156,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.16004754353140282,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 165,
+    "success": false,
+    "reward": -0.08467625651635449,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.18570768542608462,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 166,
+    "success": false,
+    "reward": -0.07810665699843206,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.19658092920119852,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 167,
+    "success": false,
+    "reward": -0.06424612399837473,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.22108073679006246,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 168,
+    "success": false,
+    "reward": -0.09563691773374082,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.17476252485791866,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 169,
+    "success": false,
+    "reward": -0.15949112521946252,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.04700378033694963,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 170,
+    "success": false,
+    "reward": -0.18289513975268373,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 171,
+    "success": false,
+    "reward": -0.18289302207499003,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 172,
+    "success": false,
+    "reward": -0.18289249366893331,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 173,
+    "success": false,
+    "reward": -0.18289234638846288,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 174,
+    "success": false,
+    "reward": -0.18289264672483385,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 175,
+    "success": false,
+    "reward": -0.18289390282077986,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 176,
+    "success": false,
+    "reward": -0.18289396341435,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 177,
+    "success": false,
+    "reward": -0.1948328745156585,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 178,
+    "success": false,
+    "reward": -0.1946963947662572,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 179,
+    "success": false,
+    "reward": -0.19450378487359954,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 180,
+    "success": false,
+    "reward": -0.19421023039864274,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 181,
+    "success": false,
+    "reward": -0.19398592596270928,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.00018940006618162197,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 182,
+    "success": false,
+    "reward": -0.19361247326953826,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0001615538839119246,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 183,
+    "success": false,
+    "reward": -0.19279756972340747,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0001615538839119246,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 184,
+    "success": false,
+    "reward": -0.19174276526345937,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0001615538839119246,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 185,
+    "success": false,
+    "reward": -0.18944460114564626,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 186,
+    "success": false,
+    "reward": -0.1927212202113612,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 187,
+    "success": false,
+    "reward": -0.19598627423309728,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 188,
+    "success": false,
+    "reward": -0.19467835781478743,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 189,
+    "success": false,
+    "reward": -0.19268869211919323,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 190,
+    "success": false,
+    "reward": -0.18953627592015945,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 191,
+    "success": false,
+    "reward": -0.1876836264565845,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 192,
+    "success": false,
+    "reward": -0.18973371327970637,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 193,
+    "success": false,
+    "reward": -0.18613033733626388,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 194,
+    "success": false,
+    "reward": -0.18379334055829027,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 195,
+    "success": false,
+    "reward": -0.18211912444798634,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 196,
+    "success": false,
+    "reward": -0.18030901161138804,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 197,
+    "success": false,
+    "reward": -0.18034778495739967,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 198,
+    "success": false,
+    "reward": -0.1811955748216041,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 199,
+    "success": false,
+    "reward": -0.18032091633879072,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 200,
+    "success": false,
+    "reward": -0.17974069707959117,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 201,
+    "success": false,
+    "reward": -0.17925967918795407,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 202,
+    "success": false,
+    "reward": -0.1788946465685648,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 203,
+    "success": false,
+    "reward": -0.17854027941498632,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 204,
+    "success": false,
+    "reward": -0.17822074371865207,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 205,
+    "success": false,
+    "reward": -0.17801898205181993,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 206,
+    "success": false,
+    "reward": -0.17792800277111367,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 207,
+    "success": false,
+    "reward": -0.17788684888444614,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 208,
+    "success": false,
+    "reward": -0.17790147569730988,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 209,
+    "success": false,
+    "reward": -0.18963047218957116,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 210,
+    "success": false,
+    "reward": -0.18945243392161215,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 211,
+    "success": false,
+    "reward": -0.18931960553232827,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 212,
+    "success": false,
+    "reward": -0.1891283987291948,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 213,
+    "success": false,
+    "reward": -0.18883513526876541,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 214,
+    "success": false,
+    "reward": -0.1886566512234226,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 215,
+    "success": false,
+    "reward": -0.187367084812516,
+    "native_evaluation": "is_eval_done",
+    "progress": 2.3013373773306256e-07,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 216,
+    "success": false,
+    "reward": -0.18674454883983502,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 217,
+    "success": false,
+    "reward": -0.18782672209639414,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 218,
+    "success": false,
+    "reward": -0.18346660455173772,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 219,
+    "success": false,
+    "reward": -0.1863792121114784,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 220,
+    "success": false,
+    "reward": -0.18736486650722287,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 221,
+    "success": false,
+    "reward": -0.1839183407678703,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 222,
+    "success": false,
+    "reward": -0.1841009274004558,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 223,
+    "success": false,
+    "reward": -0.18757451763866842,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 224,
+    "success": false,
+    "reward": -0.18021304312745764,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 225,
+    "success": false,
+    "reward": -0.17972974116540796,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 226,
+    "success": false,
+    "reward": -0.176962393489123,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 227,
+    "success": false,
+    "reward": -0.17453987308790114,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 228,
+    "success": false,
+    "reward": -0.17350906880968048,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 229,
+    "success": false,
+    "reward": -0.17189110963386572,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 230,
+    "success": false,
+    "reward": -0.17056306237802346,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 231,
+    "success": false,
+    "reward": -0.17137275125327892,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 232,
+    "success": false,
+    "reward": -0.1701624319694166,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 233,
+    "success": false,
+    "reward": -0.1695492878053845,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 234,
+    "success": false,
+    "reward": -0.16859869536168226,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 235,
+    "success": false,
+    "reward": -0.16795674374720876,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 236,
+    "success": false,
+    "reward": -0.17622361291694555,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 237,
+    "success": false,
+    "reward": -0.1755836606175445,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 238,
+    "success": false,
+    "reward": -0.17521706536028298,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 239,
+    "success": false,
+    "reward": -0.17416327797181877,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 240,
+    "success": false,
+    "reward": -0.1748555468591102,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 241,
+    "success": false,
+    "reward": -0.17382453564608888,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 242,
+    "success": false,
+    "reward": -0.17413530663343674,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 243,
+    "success": false,
+    "reward": -0.17270248028891855,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 244,
+    "success": false,
+    "reward": -0.17190736883694205,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 245,
+    "success": false,
+    "reward": -0.17051695554329369,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 246,
+    "success": false,
+    "reward": -0.16905553812774232,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 247,
+    "success": false,
+    "reward": -0.16916928087882901,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 248,
+    "success": false,
+    "reward": -0.16858250342158268,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 249,
+    "success": false,
+    "reward": -0.1679916326661165,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  },
+  {
+    "step": 250,
+    "success": false,
+    "reward": -0.1677585112782271,
+    "native_evaluation": "is_eval_done",
+    "progress": 0.0,
+    "delta_height": 0.0,
+    "is_contact": 0.0,
+    "state": 2.0
+  }
+]

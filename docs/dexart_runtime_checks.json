@@ -1,0 +1,927 @@
+{
+  "evaluation_only": true,
+  "policy_feedback": false,
+  "tasks": [
+    {
+      "task": "bucket",
+      "asset_id": 100431,
+      "seed": 0,
+      "evaluation_only": true,
+      "policy_feedback": false,
+      "control_dt": 0.04000000189989805,
+      "native_horizon_steps": 250,
+      "checks": {
+        "initial_success_false": true,
+        "two_nonconstant_rgb_images": true,
+        "finite_22_joint_robot_sensing": true,
+        "deterministic_reset_within_1e_9": true,
+        "adapter_matches_native_step_within_1e_9": true,
+        "positive_xyz_pulses_have_positive_commanded_axis_motion": true
+      },
+      "all_checks_pass": true,
+      "images": {
+        "front": {
+          "shape": [
+            768,
+            768,
+            3
+          ],
+          "dtype": "uint8",
+          "minimum": 18,
+          "maximum": 255,
+          "standard_deviation": 82.02855079057568
+        },
+        "oblique": {
+          "shape": [
+            768,
+            768,
+            3
+          ],
+          "dtype": "uint8",
+          "minimum": 13,
+          "maximum": 255,
+          "standard_deviation": 62.120276837949774
+        }
+      },
+      "proprioception_keys": [
+        "joint_positions",
+        "joint_velocities",
+        "palm_position_world",
+        "palm_rotation_world_rowmajor",
+        "controller_link_position_world",
+        "controller_link_rotation_world_rowmajor"
+      ],
+      "reset_max_absolute_differences": {
+        "robot_qpos": 0.0,
+        "robot_qvel": 0.0,
+        "palm_position": 0.0,
+        "controller_end_position": 0.0,
+        "object_qpos_evaluator_only": 0.0,
+        "object_pose_evaluator_only": 0.0
+      },
+      "native_comparison": {
+        "action": [
+          0.02,
+          -0.02,
+          0.02,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          -1.0,
+          -0.8343848611674483,
+          -0.7937806977224254,
+          -0.8277511940496248
+        ],
+        "max_absolute_differences": {
+          "robot_qpos": 0.0,
+          "robot_qvel": 0.0,
+          "palm_position": 0.0,
+          "controller_end_position": 0.0,
+          "object_qpos_evaluator_only": 0.0,
+          "object_pose_evaluator_only": 0.0
+        },
+        "reward_absolute_difference": 0.0,
+        "adapter_evaluation": {
+          "success": false,
+          "reward": -0.03402122954043228,
+          "native_evaluation": "is_eval_done",
+          "progress": 0.0,
+          "delta_height": 0.0,
+          "is_contact": 0.0,
+          "state": 1.0
+        },
+        "native_reward": -0.03402122954043228,
+        "adapter_done": false,
+        "native_done": false,
+        "native_success": false,
+        "native_observation_is_empty": true,
+        "native_info": {}
+      },
+      "axis_pulses": {
+        "x": {
+          "command": [
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            0.0036889314651489258,
+            5.16069121658802e-07,
+            7.978081703186035e-05
+          ],
+          "palm_displacement_world_m": [
+            0.003688722848892212,
+            5.21540641784668e-07,
+            7.978081703186035e-05
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        },
+        "y": {
+          "command": [
+            0.0,
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            -3.7848949432373047e-06,
+            0.003472422482445836,
+            3.606081008911133e-06
+          ],
+          "palm_displacement_world_m": [
+            -2.9206275939941406e-06,
+            0.003472454845905304,
+            3.5762786865234375e-06
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        },
+        "z": {
+          "command": [
+            0.0,
+            0.0,
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            8.037686347961426e-05,
+            7.147318683564663e-07,
+            0.0029338598251342773
+          ],
+          "palm_displacement_world_m": [
+            8.106231689453125e-05,
+            7.152557373046875e-07,
+            0.0029338598251342773
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        }
+      },
+      "limitations": "Small initial-state pulses verify signs locally, not all-pose IK performance or graspability. Object state is used only to audit reset/native equivalence and is never policy feedback."
+    },
+    {
+      "task": "faucet",
+      "asset_id": 148,
+      "seed": 0,
+      "evaluation_only": true,
+      "policy_feedback": false,
+      "control_dt": 0.04000000189989805,
+      "native_horizon_steps": 250,
+      "checks": {
+        "initial_success_false": true,
+        "two_nonconstant_rgb_images": true,
+        "finite_22_joint_robot_sensing": true,
+        "deterministic_reset_within_1e_9": true,
+        "adapter_matches_native_step_within_1e_9": true,
+        "positive_xyz_pulses_have_positive_commanded_axis_motion": true
+      },
+      "all_checks_pass": true,
+      "images": {
+        "front": {
+          "shape": [
+            768,
+            768,
+            3
+          ],
+          "dtype": "uint8",
+          "minimum": 16,
+          "maximum": 255,
+          "standard_deviation": 58.06387751149718
+        },
+        "oblique": {
+          "shape": [
+            768,
+            768,
+            3
+          ],
+          "dtype": "uint8",
+          "minimum": 57,
+          "maximum": 255,
+          "standard_deviation": 36.89736137636492
+        }
+      },
+      "proprioception_keys": [
+        "joint_positions",
+        "joint_velocities",
+        "palm_position_world",
+        "palm_rotation_world_rowmajor",
+        "controller_link_position_world",
+        "controller_link_rotation_world_rowmajor"
+      ],
+      "reset_max_absolute_differences": {
+        "robot_qpos": 0.0,
+        "robot_qvel": 0.0,
+        "palm_position": 0.0,
+        "controller_end_position": 0.0,
+        "object_qpos_evaluator_only": 0.0,
+        "object_pose_evaluator_only": 0.0
+      },
+      "native_comparison": {
+        "action": [
+          0.02,
+          -0.02,
+          0.02,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          -1.0,
+          -0.8343848611674483,
+          -0.7937806977224254,
+          -0.8277511940496248
+        ],
+        "max_absolute_differences": {
+          "robot_qpos": 0.0,
+          "robot_qvel": 0.0,
+          "palm_position": 0.0,
+          "controller_end_position": 0.0,
+          "object_qpos_evaluator_only": 0.0,
+          "object_pose_evaluator_only": 0.0
+        },
+        "reward_absolute_difference": 0.0,
+        "adapter_evaluation": {
+          "success": false,
+          "reward": -0.03199522357891832,
+          "native_evaluation": "is_eval_done",
+          "openness": 0.0,
+          "is_contact": 0.0,
+          "state": 1.0
+        },
+        "native_reward": -0.03199522357891832,
+        "adapter_done": false,
+        "native_done": false,
+        "native_success": false,
+        "native_observation_is_empty": true,
+        "native_info": {}
+      },
+      "axis_pulses": {
+        "x": {
+          "command": [
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            0.0036889314651489258,
+            5.16069121658802e-07,
+            7.984042167663574e-05
+          ],
+          "palm_displacement_world_m": [
+            0.003688722848892212,
+            5.21540641784668e-07,
+            7.984042167663574e-05
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        },
+        "y": {
+          "command": [
+            0.0,
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            -3.7848949432373047e-06,
+            0.003472426673397422,
+            3.56137752532959e-06
+          ],
+          "palm_displacement_world_m": [
+            -2.9206275939941406e-06,
+            0.0034724585711956024,
+            3.5315752029418945e-06
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        },
+        "z": {
+          "command": [
+            0.0,
+            0.0,
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            8.034706115722656e-05,
+            6.941263563930988e-07,
+            0.002933800220489502
+          ],
+          "palm_displacement_world_m": [
+            8.103251457214355e-05,
+            6.891787052154541e-07,
+            0.002933800220489502
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        }
+      },
+      "limitations": "Small initial-state pulses verify signs locally, not all-pose IK performance or graspability. Object state is used only to audit reset/native equivalence and is never policy feedback."
+    },
+    {
+      "task": "laptop",
+      "asset_id": 11395,
+      "seed": 0,
+      "evaluation_only": true,
+      "policy_feedback": false,
+      "control_dt": 0.04000000189989805,
+      "native_horizon_steps": 250,
+      "checks": {
+        "initial_success_false": true,
+        "two_nonconstant_rgb_images": true,
+        "finite_22_joint_robot_sensing": true,
+        "deterministic_reset_within_1e_9": true,
+        "adapter_matches_native_step_within_1e_9": true,
+        "positive_xyz_pulses_have_positive_commanded_axis_motion": true
+      },
+      "all_checks_pass": true,
+      "images": {
+        "front": {
+          "shape": [
+            768,
+            768,
+            3
+          ],
+          "dtype": "uint8",
+          "minimum": 22,
+          "maximum": 255,
+          "standard_deviation": 56.49849945682753
+        },
+        "oblique": {
+          "shape": [
+            768,
+            768,
+            3
+          ],
+          "dtype": "uint8",
+          "minimum": 15,
+          "maximum": 255,
+          "standard_deviation": 55.91912159590544
+        }
+      },
+      "proprioception_keys": [
+        "joint_positions",
+        "joint_velocities",
+        "palm_position_world",
+        "palm_rotation_world_rowmajor",
+        "controller_link_position_world",
+        "controller_link_rotation_world_rowmajor"
+      ],
+      "reset_max_absolute_differences": {
+        "robot_qpos": 0.0,
+        "robot_qvel": 0.0,
+        "palm_position": 0.0,
+        "controller_end_position": 0.0,
+        "object_qpos_evaluator_only": 0.0,
+        "object_pose_evaluator_only": 0.0
+      },
+      "native_comparison": {
+        "action": [
+          0.02,
+          -0.02,
+          0.02,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          -1.0,
+          -0.8343848611674483,
+          -0.7937806977224254,
+          -0.8277511940496248
+        ],
+        "max_absolute_differences": {
+          "robot_qpos": 0.0,
+          "robot_qvel": 0.0,
+          "palm_position": 0.0,
+          "controller_end_position": 0.0,
+          "object_qpos_evaluator_only": 0.0,
+          "object_pose_evaluator_only": 0.0
+        },
+        "reward_absolute_difference": 0.0,
+        "adapter_evaluation": {
+          "success": false,
+          "reward": -0.04129641514729295,
+          "native_evaluation": "is_eval_done",
+          "progress": 3.591479402764719e-08,
+          "is_contact": 0.0,
+          "state": 1.0
+        },
+        "native_reward": -0.04129641514729295,
+        "adapter_done": false,
+        "native_done": false,
+        "native_success": false,
+        "native_observation_is_empty": true,
+        "native_info": {}
+      },
+      "axis_pulses": {
+        "x": {
+          "command": [
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            0.0036889314651489258,
+            5.16069121658802e-07,
+            7.984042167663574e-05
+          ],
+          "palm_displacement_world_m": [
+            0.003688722848892212,
+            5.21540641784668e-07,
+            7.984042167663574e-05
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        },
+        "y": {
+          "command": [
+            0.0,
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            -3.7848949432373047e-06,
+            0.003472426673397422,
+            3.56137752532959e-06
+          ],
+          "palm_displacement_world_m": [
+            -2.9206275939941406e-06,
+            0.0034724585711956024,
+            3.5315752029418945e-06
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        },
+        "z": {
+          "command": [
+            0.0,
+            0.0,
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            8.034706115722656e-05,
+            6.941263563930988e-07,
+            0.002933800220489502
+          ],
+          "palm_displacement_world_m": [
+            8.103251457214355e-05,
+            6.891787052154541e-07,
+            0.002933800220489502
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        }
+      },
+      "limitations": "Small initial-state pulses verify signs locally, not all-pose IK performance or graspability. Object state is used only to audit reset/native equivalence and is never policy feedback."
+    },
+    {
+      "task": "toilet",
+      "asset_id": 102677,
+      "seed": 0,
+      "evaluation_only": true,
+      "policy_feedback": false,
+      "control_dt": 0.04000000189989805,
+      "native_horizon_steps": 250,
+      "checks": {
+        "initial_success_false": true,
+        "two_nonconstant_rgb_images": true,
+        "finite_22_joint_robot_sensing": true,
+        "deterministic_reset_within_1e_9": true,
+        "adapter_matches_native_step_within_1e_9": true,
+        "positive_xyz_pulses_have_positive_commanded_axis_motion": true
+      },
+      "all_checks_pass": true,
+      "images": {
+        "front": {
+          "shape": [
+            768,
+            768,
+            3
+          ],
+          "dtype": "uint8",
+          "minimum": 31,
+          "maximum": 255,
+          "standard_deviation": 66.9593256257043
+        },
+        "oblique": {
+          "shape": [
+            768,
+            768,
+            3
+          ],
+          "dtype": "uint8",
+          "minimum": 19,
+          "maximum": 255,
+          "standard_deviation": 81.50897556483423
+        }
+      },
+      "proprioception_keys": [
+        "joint_positions",
+        "joint_velocities",
+        "palm_position_world",
+        "palm_rotation_world_rowmajor",
+        "controller_link_position_world",
+        "controller_link_rotation_world_rowmajor"
+      ],
+      "reset_max_absolute_differences": {
+        "robot_qpos": 0.0,
+        "robot_qvel": 0.0,
+        "palm_position": 0.0,
+        "controller_end_position": 0.0,
+        "object_qpos_evaluator_only": 0.0,
+        "object_pose_evaluator_only": 0.0
+      },
+      "native_comparison": {
+        "action": [
+          0.02,
+          -0.02,
+          0.02,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          0.0,
+          -0.7829457432139341,
+          -0.8151885329272536,
+          -0.7539295451787693,
+          -1.0,
+          -0.8343848611674483,
+          -0.7937806977224254,
+          -0.8277511940496248
+        ],
+        "max_absolute_differences": {
+          "robot_qpos": 0.0,
+          "robot_qvel": 0.0,
+          "palm_position": 0.0,
+          "controller_end_position": 0.0,
+          "object_qpos_evaluator_only": 0.0,
+          "object_pose_evaluator_only": 0.0
+        },
+        "reward_absolute_difference": 0.0,
+        "adapter_evaluation": {
+          "success": false,
+          "reward": -0.05221442701156434,
+          "native_evaluation": "is_eval_done",
+          "progress": -0.07525161708402095,
+          "is_contact": 0.0,
+          "state": 1.0
+        },
+        "native_reward": -0.05221442701156434,
+        "adapter_done": false,
+        "native_done": false,
+        "native_success": false,
+        "native_observation_is_empty": true,
+        "native_info": {}
+      },
+      "axis_pulses": {
+        "x": {
+          "command": [
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            0.003901928663253784,
+            -0.00011225359048694372,
+            0.0002503395080566406
+          ],
+          "palm_displacement_world_m": [
+            0.0038003623485565186,
+            -0.00011174008250236511,
+            0.0002499520778656006
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        },
+        "y": {
+          "command": [
+            0.0,
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            0.00023376941680908203,
+            0.0033358170185238123,
+            0.00018066167831420898
+          ],
+          "palm_displacement_world_m": [
+            0.00012245774269104004,
+            0.0033373385667800903,
+            0.0001793205738067627
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        },
+        "z": {
+          "command": [
+            0.0,
+            0.0,
+            0.03,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            0.0,
+            -0.7829457432139341,
+            -0.8151885329272536,
+            -0.7539295451787693,
+            -1.0,
+            -0.8343848611674483,
+            -0.7937806977224254,
+            -0.8277511940496248
+          ],
+          "requested_ticks": 3,
+          "executed_ticks": 3,
+          "controller_end_displacement_world_m": [
+            0.0002473294734954834,
+            -7.056083995848894e-05,
+            0.003056168556213379
+          ],
+          "palm_displacement_world_m": [
+            0.00020697712898254395,
+            -6.995350122451782e-05,
+            0.0030556023120880127
+          ],
+          "commanded_axis_displacement_positive": true,
+          "nominal_velocity_m_per_s": 0.03
+        }
+      },
+      "limitations": "Small initial-state pulses verify signs locally, not all-pose IK performance or graspability. Object state is used only to audit reset/native equivalence and is never policy feedback."
+    }
+  ]
+}
