@@ -1,0 +1,15 @@
+{
+  "provider": "codex",
+  "seed": 0,
+  "episode_id": 0,
+  "status": "environment_terminal",
+  "error": null,
+  "success_any_step": false,
+  "success_final_step": false,
+  "longest_success_hold_steps": 0,
+  "control_steps": 300,
+  "model_calls": 30,
+  "wall_seconds": 352.0093748949985,
+  "is_astra_trial": true,
+  "evaluation_scope": "task_completion_under_authored_instruction"
+}

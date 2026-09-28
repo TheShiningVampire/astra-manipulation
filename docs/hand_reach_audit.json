@@ -61,6 +61,26 @@
       "success_any_step": false,
       "success_final_step": false,
       "interpretation": "Evaluator-only geometry from independently verified replay. Palm-site distance is not finger contact or grasp success. Old-spec trials have incorrect action-description confounds."
+    },
+    {
+      "run": "astra-hand-corrected-episode0",
+      "episode_id": 0,
+      "control_steps": 300,
+      "action_spec_version": "adroit-actuator-audit-v2",
+      "replay_verified": true,
+      "verified_call_observations": 30,
+      "joint_replay_max_abs_error": 0.0,
+      "joint_replay_tolerance": 1e-08,
+      "palm_to_ball_distance_initial_m": 0.30734194388844255,
+      "palm_to_ball_distance_min_m": 0.009581749112142693,
+      "palm_to_ball_distance_final_m": 0.07254388413845063,
+      "closest_step": 127,
+      "palm_net_displacement_m": 0.21913174659334084,
+      "palm_path_length_m": 1.2492887889746431,
+      "ball_net_displacement_m": 0.04556293056025956,
+      "success_any_step": false,
+      "success_final_step": false,
+      "interpretation": "Evaluator-only geometry from independently verified replay. Palm-site distance is not finger contact or grasp success. Old-spec trials have incorrect action-description confounds."
     }
   ]
 }

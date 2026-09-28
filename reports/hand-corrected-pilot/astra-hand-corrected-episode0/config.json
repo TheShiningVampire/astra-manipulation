@@ -1,0 +1,12 @@
+{
+  "seed": 0,
+  "episode_id": 0,
+  "provider": "codex",
+  "instruction": "Grasp the blue ball with the dexterous hand and move it to the green target.",
+  "requested_model": "gpt-6-astra",
+  "reasoning": "medium",
+  "request_timeout_seconds": 240,
+  "max_calls": 30,
+  "max_steps": 300,
+  "max_repeat": 10
+}

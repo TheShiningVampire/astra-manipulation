@@ -1,0 +1,56 @@
+{
+  "decision": {
+    "action": [
+      -0.292,
+      0.7,
+      -0.084,
+      0.205,
+      0.0064,
+      0.041,
+      0.574,
+      -0.38,
+      0,
+      -0.05,
+      0.1,
+      0.15,
+      0,
+      -0.05,
+      0.1,
+      0.15,
+      0,
+      -0.05,
+      0.1,
+      0.15,
+      -0.73,
+      0,
+      -0.05,
+      0.1,
+      0.15,
+      0.5,
+      0.075,
+      0,
+      0,
+      0.15
+    ],
+    "repeat": 10,
+    "done": false
+  },
+  "metadata": {
+    "requested_model": "gpt-6-astra",
+    "resolved_model": null,
+    "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+    "provider": "codex-cli",
+    "usage": {
+      "input_tokens": 13805,
+      "cached_input_tokens": 6912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 221,
+      "reasoning_output_tokens": 88
+    },
+    "latency_seconds": 10.591008317998785,
+    "tool_calls": 0
+  },
+  "image_sha256": {
+    "external": "ce1b38b068581d2d9fb8c8a9c25df41c236fd6830bc34fb6ab2d857d0c2a32c0"
+  }
+}

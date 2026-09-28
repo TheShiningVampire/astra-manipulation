@@ -80,6 +80,8 @@ The pinned Lift evaluator checks that the cube center is more than 4 cm above th
 
 The [gripper pilot](reports/gripper-pilot/README.md) includes two completed successful Astra trials with full observation/action traces and videos. The [hand simulator compatibility check](docs/replay_validation.json) independently replays original human actions and succeeds on both tested initializations. That replay is not an Astra trial and is never used to guide Astra.
 
+The [corrected hand pilot](reports/hand-corrected-pilot/README.md) completes 30 decisions and 300 simulator steps: the palm reference point approaches within 0.96 cm of the ball center, but relocation is not achieved. This is one exploratory trial, not a general success-rate estimate.
+
 **Pilot caveat:** the first hand trials used an incorrect action description (rotated arm axes and non-unit servo gain were not explained). They are confounded and not a fair measure of Astra's reaching ability. See the [results interpretation](reports/README.md) and [corrected action-space audit](docs/action_space_audit.md).
 
 ## Tests

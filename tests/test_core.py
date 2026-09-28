@@ -100,3 +100,15 @@ def test_codex_invocation_isolated_and_validated(monkeypatch):
 def test_invalid_specification_cannot_skip_action_validation(spec):
     with pytest.raises(ValueError, match="specification"):
         validate_action({"action": [0, 1000], "repeat": 1, "done": False}, spec)
+
+
+def test_codex_timeout_returns_no_action(monkeypatch):
+    import subprocess
+
+    def run(command, **kwargs):
+        assert kwargs["timeout"] == 12
+        raise subprocess.TimeoutExpired(command, 12)
+
+    monkeypatch.setattr("astra_manipulation.codex_policy.subprocess.run", run)
+    with pytest.raises(TimeoutError, match="no action executed"):
+        CodexPolicy(timeout=12).act(observation(), SPEC, [])
