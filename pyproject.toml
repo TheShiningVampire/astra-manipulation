@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "astra-manipulation"
+version = "0.1.0"
+description = "Direct Astra robot control from images and proprioception"
+requires-python = ">=3.11"
+dependencies = ["numpy<2", "pillow", "openai>=1.0", "h5py", "imageio", "imageio-ffmpeg"]
+
+[project.optional-dependencies]
+sim = ["mujoco==3.3.7", "robosuite==1.5.1", "gymnasium-robotics==1.4.2", "minari[hf]==0.5.3"]
+test = ["pytest>=8"]
+
+[project.scripts]
+astra-manipulation = "astra_manipulation.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

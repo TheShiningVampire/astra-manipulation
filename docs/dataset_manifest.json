@@ -1,0 +1,49 @@
+{
+  "gripper": {
+    "dataset": "robomimic/lift/ph/v1.5",
+    "source": "https://huggingface.co/datasets/robomimic/robomimic_datasets/tree/main/v1.5/lift/ph",
+    "file": "data/lift_ph_demo_v15.hdf5",
+    "sha256": "68f2a8cfe2502de1224f0708fb82e46da07abce108c63e721d72fc1618272f37",
+    "episodes": 200,
+    "transitions": 9666,
+    "action_dimensions": 7,
+    "policy_cameras": ["agentview", "robot0_eye_in_hand"],
+    "camera_shape": [256, 256, 3],
+    "dataset_episode_reset": true,
+    "simulator_version": "robosuite==1.5.1"
+  },
+  "dexterous": {
+    "dataset": "D4RL/relocate/human-v2",
+    "source": "https://minari.farama.org/datasets/D4RL/relocate/human-v2/",
+    "file": "data/minari/D4RL/relocate/human-v2/data/main_data.hdf5",
+    "sha256": "3a3ef46b93e8ed86daf1593264b16d9d136b13013a7e78a72ad624540b4a545e",
+    "episodes": 25,
+    "transitions": 9942,
+    "action_dimensions": 30,
+    "recorded_observation_dimensions": 39,
+    "policy_proprioception_dimensions": 30,
+    "privileged_dimensions_removed": 9,
+    "recorded_images": false,
+    "policy_camera_shape": [384, 384, 3],
+    "dataset_episode_reset": "Supported via original hand_dapg initial-state JSON, not Minari alone",
+    "original_source": "https://raw.githubusercontent.com/aravindr93/hand_dapg/master/dapg/demonstrations/relocate-v0_demos.pickle",
+    "original_source_sha256": "1ad6bbe10e9550865279a44540745eccd22ef623aa0c2e95d2baf5678b3a3284",
+    "initial_states_file": "data/adroit_relocate_initial_states.json",
+    "original_initial_states": 25,
+    "episode_0_initial_observation_max_abs_error": 1.3877787807814457e-16,
+    "dataset_info_keys": ["success"],
+    "offline_sample_export": "runs/adroit-dataset-samples/policy_inputs.json",
+    "offline_sample_count": 8,
+    "simulator_version": "gymnasium-robotics==1.4.2",
+    "environment_id": "AdroitHandRelocate-v1"
+  },
+  "verification": {
+    "render_backend": "osmesa",
+    "mujoco_version": "3.3.7",
+    "reset_render_step_close": "passed for both adapters",
+    "lift_episode_0_reset": "passed",
+    "adroit_episode_0_reset": "passed; original dataset initial observation matches to floating-point precision",
+    "sensor_boundary_tests": "3 passed",
+    "hashes": "Computed locally after download; not publisher-supplied integrity signatures."
+  }
+}
