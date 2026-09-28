@@ -127,6 +127,27 @@ def test_failed_model_attempt_is_counted(tmp_path):
     assert env.closed
 
 
+def test_timeout_retry_does_not_advance_simulation_twice(tmp_path):
+    class RetryPolicy(Policy):
+        def act(self, obs, spec, history):
+            if self.calls == 0:
+                self.calls += 1
+                assert obs.step_index == 0
+                raise TimeoutError("transient timeout")
+            assert obs.step_index == 0
+            return super().act(obs, spec, history)
+
+    env = Environment()
+    output = tmp_path / "retry"
+    report = run_episode(env, RetryPolicy(repeat=1), output, max_calls=1, max_steps=1, request_retries=1)
+    assert report["model_calls"] == 2
+    assert report["validated_decisions"] == 1
+    assert env.steps == 1
+    assert report["error"] is None
+    error = json.loads((output / "call_000/attempt_0_error.json").read_text())
+    assert error["action_executed"] is False
+
+
 @pytest.mark.parametrize("component", ["video", "environment"])
 def test_cleanup_errors_preserve_report_and_close_environment(tmp_path, monkeypatch, component):
     class Video:

@@ -12,7 +12,10 @@ Return actuator commands under the supplied action specification, not a plan or 
 There is no hidden perception, grasp planner, expert policy or task skill executing for you.
 Use visual feedback and your previous actions to correct motion. done means you choose to stop;
 it does not determine evaluator success. Do not infer that a previous action succeeded without
-checking the images. Respond with the exact requested JSON schema."""
+checking the images. The control budget specifies remaining decisions and simulator ticks.
+Allocate repeat intelligently: short ticks may barely move the robot, while a repeated pose
+delta can accumulate movement. Observe again before large uncertain changes. Respond with
+the exact requested JSON schema."""
 
 
 def prompt_payload(observation, spec, history):
