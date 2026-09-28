@@ -2,7 +2,7 @@
 
 Direct GPT-6 Astra control of a robot arm with a parallel gripper, then a dexterous hand. At every decision, Astra receives camera images, measured robot proprioception, a language instruction, static actuator documentation, and its recent actions. It returns a bounded numeric actuator vector and the number of control ticks to execute before observing again.
 
-There is no learned manipulation policy, object-state oracle, grasp planner, or high-level skill executing the task for Astra. Standard low-level operational-space control (Panda) or joint position control (Adroit) converts its commands into physics actions. This is simulation research, not a hardware deployment interface.
+There is no learned manipulation policy, object-state oracle, grasp planner, or high-level skill executing the task for Astra. Standard low-level operational-space control (Panda) or the native joint actuators (Adroit) convert its commands into physics actions. This is simulation research, not a hardware deployment interface.
 
 ## Tasks and observation boundary
 
@@ -11,8 +11,8 @@ There is no learned manipulation policy, object-state oracle, grasp planner, or 
 | Task | Lift a red cube | Move a blue ball to a green target |
 | Robot | Panda, parallel gripper | Adroit Shadow hand, free six-axis arm |
 | Dataset | robomimic Lift PH, 200 demos | Original hand_dapg Relocate, 25 demos; Minari copy for inspection |
-| Inputs | External + wrist RGB; robot joints, encoder-derived end-effector pose, gripper state | External RGB; 30 robot joint positions |
-| Outputs | 6 pose deltas + gripper | 30 absolute normalized position targets |
+| Inputs | External + wrist RGB; robot joints, encoder-derived end-effector pose, gripper state | External RGB; 30 robot joint positions/velocities; robot-only palm forward kinematics |
+| Outputs | 6 pose deltas + gripper | 30 normalized native actuator controls; audited gains and local axes |
 | Initialization | Seed or recorded dataset episode | Seed or recorded hand_dapg episode |
 
 Object poses, relative object/goal vectors, contacts, rewards, success flags, simulator states, and future demonstration actions never enter the policy request. Simulator state is used only for physics, dataset initialization, and evaluation. All policy requests and camera images are recorded for audit.
@@ -75,6 +75,12 @@ Each run directory contains:
 - `rollout.mp4`: both camera views where available, at simulation time.
 
 `done` is the model's decision to stop and never establishes task success. Invalid/nonfinite/out-of-range actions fail without being executed; commands are not silently clipped. Errors remain errors, not ordinary task failures. A few trials are exploratory evidence only; report seeds, prompts, budgets, and failures before making success-rate claims. Offline demonstration action agreement is not closed-loop success.
+
+The pinned Lift evaluator checks that the cube center is more than 4 cm above the table surface. Adroit Relocate checks that the ball center is within 10 cm of the target. Neither predicate verifies a particular grasp style. The report separately records the longest continuous success streak; multiply by `control_dt` to obtain its simulated duration.
+
+The [gripper pilot](reports/gripper-pilot/README.md) includes two completed successful Astra trials with full observation/action traces and videos. The [hand simulator compatibility check](docs/replay_validation.json) independently replays original human actions and succeeds on both tested initializations. That replay is not an Astra trial and is never used to guide Astra.
+
+**Pilot caveat:** the first hand trials used an incorrect action description (rotated arm axes and non-unit servo gain were not explained). They are confounded and not a fair measure of Astra's reaching ability. See the [results interpretation](reports/README.md) and [corrected action-space audit](docs/action_space_audit.md).
 
 ## Tests
 

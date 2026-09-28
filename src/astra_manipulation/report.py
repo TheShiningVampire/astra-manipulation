@@ -17,6 +17,7 @@ def export_trials(run_paths, destination):
         latencies = [r["metadata"]["latency_seconds"] for r in responses if "latency_seconds" in r["metadata"]]
         usage = [r["metadata"].get("usage") or {} for r in responses]
         row = {"run": run.name, **result, "instruction": config["instruction"],
+               "reasoning": config.get("reasoning", "not recorded in early run config"),
                "mean_latency_seconds": statistics.mean(latencies) if latencies else None,
                "input_tokens": sum(u.get("input_tokens", 0) for u in usage),
                "output_tokens": sum(u.get("output_tokens", 0) for u in usage)}
@@ -29,11 +30,12 @@ def export_trials(run_paths, destination):
         for call in sorted(run.glob("call_*")):
             shutil.copytree(call, target / call.name)
     (destination / "summary.json").write_text(json.dumps(summary, indent=2) + "\n")
-    lines = ["# Exploratory Astra trials", "", "These selected completed trials are a pilot, not a statistically reliable success-rate estimate.",
+    lines = ["# Exploratory Astra trials", "", "These recorded trials are a pilot, not a statistically reliable success-rate estimate. Errors are interrupted trials, not completed task failures.",
              "Model: requested `gpt-6-astra` via Codex CLI. No privileged task state in model inputs.", "",
-             "| Trial | Final success | Calls | Control steps | Wall seconds |", "|---|---:|---:|---:|---:|"]
+             "| Trial | Outcome | Calls | Control steps | Wall seconds |", "|---|---|---:|---:|---:|"]
     for row in summary:
-        lines.append(f"| [{row['run']}]({row['run']}/result.json) | {row['success_final_step']} | {row['model_calls']} | {row['control_steps']} | {row['wall_seconds']:.1f} |")
+        outcome = "Interrupted (error)" if row["error"] else ("Success" if row["success_final_step"] else "Not achieved")
+        lines.append(f"| [{row['run']}]({row['run']}/result.json) | {outcome} | {row['model_calls']} | {row['control_steps']} | {row['wall_seconds']:.1f} |")
     lines += ["", "Each trial includes a simulation-time MP4, sensor inputs, actuator commands, and separate evaluator data.",
               "Task instructions and initializations differ; this is not a controlled comparison of embodiments or paraphrases."]
     (destination / "README.md").write_text("\n".join(lines) + "\n")

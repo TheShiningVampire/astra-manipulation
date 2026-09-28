@@ -1,0 +1,33 @@
+{
+  "baseline": "original_human_demonstration_action_replay",
+  "is_astra_trial": false,
+  "source_sha256": "1ad6bbe10e9550865279a44540745eccd22ef623aa0c2e95d2baf5678b3a3284",
+  "environment": "AdroitHandRelocate-v1",
+  "gymnasium_robotics": "1.4.2",
+  "mujoco": "3.3.7",
+  "episodes": [
+    {
+      "episode_id": 0,
+      "steps": 352,
+      "success_any_step": true,
+      "success_final_step": true,
+      "success_steps": 170,
+      "longest_success_hold_steps": 170,
+      "first_success_step": 183,
+      "initial_observation_max_abs_error": 1.3877787807814457e-16,
+      "trajectory_observation_max_abs_error": 0.020737699055793313
+    },
+    {
+      "episode_id": 1,
+      "steps": 437,
+      "success_any_step": true,
+      "success_final_step": true,
+      "success_steps": 159,
+      "longest_success_hold_steps": 159,
+      "first_success_step": 279,
+      "initial_observation_max_abs_error": 5.551115123125783e-17,
+      "trajectory_observation_max_abs_error": 0.033941604157524445
+    }
+  ],
+  "interpretation": "Evaluator-only compatibility diagnostic; original actions never enter model policy inputs."
+}

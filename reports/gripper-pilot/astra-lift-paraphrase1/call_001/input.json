@@ -1,0 +1,114 @@
+{
+  "observation": {
+    "instruction": "Pick up the red block and keep it suspended above the tabletop.",
+    "step_index": 2,
+    "proprioception": {
+      "robot0_joint_pos": [
+        -0.02190330382550325,
+        0.23218349412953782,
+        0.007219688692871151,
+        -2.556692212350648,
+        0.01160418966189522,
+        2.9677790853111072,
+        0.8019880900539678
+      ],
+      "robot0_joint_pos_cos": [
+        0.9997601322308017,
+        0.9731662867688916,
+        0.999973938160793,
+        -0.8337670580413414,
+        0.9999326721466656,
+        -0.984932413213435,
+        0.6952791649102843
+      ],
+      "robot0_joint_pos_sin": [
+        -0.021901552498620743,
+        0.23010297324556112,
+        0.007219625973306899,
+        -0.5521163762514986,
+        0.011603929232333056,
+        0.17293970452605512,
+        0.7187397879912157
+      ],
+      "robot0_joint_vel": [
+        0.01752301965071417,
+        0.9959652727775739,
+        -0.010507459935700238,
+        0.6988813594940722,
+        -0.024748735379217995,
+        0.3021627143534279,
+        -0.00527983271715881
+      ],
+      "robot0_eef_pos": [
+        -0.07455825452285762,
+        -0.007450709718230989,
+        1.0175129200829547
+      ],
+      "robot0_eef_quat": [
+        0.9957756244778431,
+        -0.02113350936555508,
+        0.08932264801094753,
+        -0.002396879214405602
+      ],
+      "robot0_gripper_qpos": [
+        0.023504952028458658,
+        -0.02349053097702326
+      ],
+      "robot0_gripper_qvel": [
+        0.039178577807374514,
+        -0.0399788308086772
+      ]
+    },
+    "camera_names": [
+      "agentview",
+      "robot0_eye_in_hand"
+    ]
+  },
+  "action_specification": {
+    "names": [
+      "delta_x",
+      "delta_y",
+      "delta_z",
+      "delta_rx",
+      "delta_ry",
+      "delta_rz",
+      "gripper"
+    ],
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "dimension": 7,
+    "control_dt": 0.05,
+    "semantics": "Normalized base-frame end-effector pose deltas. Translation scale 0.05 meters; rotation scale 0.5 radians. Gripper -1 opens, +1 closes. Each command advances one control interval."
+  },
+  "previous_actions": [
+    {
+      "action": [
+        0.8,
+        0,
+        -0.8,
+        0,
+        0,
+        0,
+        -1
+      ],
+      "repeat": 2,
+      "done": false
+    }
+  ]
+}

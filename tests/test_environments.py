@@ -15,10 +15,19 @@ def test_adroit_never_exposes_privileged_object_goal_channels():
     adapter = AdroitEnvironment.__new__(AdroitEnvironment)
     adapter.instruction, adapter.step_index = "Move the ball", 4
     frame = np.full((3, 4, 3), 127, dtype=np.uint8)
-    adapter.env = SimpleNamespace(render=lambda: frame)
+    # Last six velocities and every site other than the robot palm are privileged sentinels.
+    data = SimpleNamespace(qvel=np.concatenate([np.arange(30), np.full(6, 991234.0)]),
+                           site_xpos=np.array([[0.1, 0.2, 0.3], [991234.0]*3]),
+                           site_xmat=np.array([np.eye(3).reshape(-1), [991234.0]*9]))
+    adapter._robot_qvel_indices = np.arange(30)
+    adapter._palm_site_id = 0
+    adapter.env = SimpleNamespace(render=lambda: frame, unwrapped=SimpleNamespace(data=data))
     raw = np.concatenate([np.arange(30), np.full(9, 991234.0)])
     observation = adapter._observation(raw)
-    assert observation.proprioception == {"joint_positions": list(range(30))}
+    assert observation.proprioception["joint_positions"] == list(range(30))
+    assert observation.proprioception["joint_velocities"] == list(range(30))
+    assert observation.proprioception["palm_site_position_world"] == [0.1, 0.2, 0.3]
+    assert observation.proprioception["palm_site_rotation_world_rowmajor"] == np.eye(3).reshape(-1).tolist()
     raw[:30] = -999
     frame[:] = 0
     assert observation.proprioception["joint_positions"][0] == 0

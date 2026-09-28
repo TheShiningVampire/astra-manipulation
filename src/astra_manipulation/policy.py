@@ -21,11 +21,12 @@ def prompt_payload(observation, spec, history):
 
 
 class AstraPolicy:
-    def __init__(self, model="gpt-6-astra", reasoning="medium", max_repeat=10):
+    def __init__(self, model="gpt-6-astra", reasoning="medium", max_repeat=10, timeout=240):
         from openai import OpenAI
         if not os.environ.get("OPENAI_API_KEY"):
             raise RuntimeError("OPENAI_API_KEY is required for --provider api")
-        self.client = OpenAI(timeout=180, max_retries=1)
+        self.timeout = timeout
+        self.client = OpenAI(timeout=timeout, max_retries=1)
         self.model, self.reasoning, self.max_repeat = model, reasoning, max_repeat
 
     def act(self, observation, spec, history):

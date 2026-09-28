@@ -33,6 +33,9 @@ def run_episode(env, policy, output, *, seed=0, episode_id=None,
         write_json(output / "action_spec.json", spec)
         write_json(output / "config.json", {"seed": seed, "episode_id": episode_id,
             "provider": provider, "instruction": obs.instruction,
+            "requested_model": getattr(policy, "model", None),
+            "reasoning": getattr(policy, "reasoning", None),
+            "request_timeout_seconds": getattr(policy, "timeout", None),
             "max_calls": max_calls, "max_steps": max_steps, "max_repeat": max_repeat})
         video = imageio.get_writer(str(output / "rollout.mp4"), fps=1 / spec["control_dt"])
 

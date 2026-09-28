@@ -1,0 +1,100 @@
+{
+  "observation": {
+    "instruction": "Pick up the red block and keep it suspended above the tabletop.",
+    "step_index": 0,
+    "proprioception": {
+      "robot0_joint_pos": [
+        -0.02366626465238672,
+        0.15550904032112473,
+        0.005023171311716862,
+        -2.601732710357031,
+        0.015395424000237015,
+        2.9534024311355593,
+        0.8072469504625998
+      ],
+      "robot0_joint_pos_cos": [
+        0.9997199670294218,
+        0.9879328170745322,
+        0.9999873839015143,
+        -0.8577806811761373,
+        0.9998814928006599,
+        -0.9823444193419121,
+        0.6914898159534504
+      ],
+      "robot0_joint_pos_sin": [
+        -0.023664055499678,
+        0.15488301697467993,
+        0.005023150187424436,
+        -0.5140158587057425,
+        0.015394815839238513,
+        0.1870813774478947,
+        0.7223862086395776
+      ],
+      "robot0_joint_vel": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "robot0_eef_pos": [
+        -0.08321156656807713,
+        -0.00950168870992183,
+        1.0369113838529591
+      ],
+      "robot0_eef_quat": [
+        0.9948151970777301,
+        -0.02735258895295881,
+        0.09791486186660091,
+        -0.00269060707127924
+      ],
+      "robot0_gripper_qpos": [
+        0.020833,
+        -0.020833
+      ],
+      "robot0_gripper_qvel": [
+        0.0,
+        0.0
+      ]
+    },
+    "camera_names": [
+      "agentview",
+      "robot0_eye_in_hand"
+    ]
+  },
+  "action_specification": {
+    "names": [
+      "delta_x",
+      "delta_y",
+      "delta_z",
+      "delta_rx",
+      "delta_ry",
+      "delta_rz",
+      "gripper"
+    ],
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "dimension": 7,
+    "control_dt": 0.05,
+    "semantics": "Normalized base-frame end-effector pose deltas. Translation scale 0.05 meters; rotation scale 0.5 radians. Gripper -1 opens, +1 closes. Each command advances one control interval."
+  },
+  "previous_actions": []
+}

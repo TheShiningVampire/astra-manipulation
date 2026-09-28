@@ -1,0 +1,9 @@
+{
+  "seed": 0,
+  "episode_id": 0,
+  "provider": "codex",
+  "instruction": "Grasp the red cube with the gripper and lift it above the table.",
+  "max_calls": 30,
+  "max_steps": 300,
+  "max_repeat": 10
+}

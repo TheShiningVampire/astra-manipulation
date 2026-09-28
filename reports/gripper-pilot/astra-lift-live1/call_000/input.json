@@ -1,0 +1,100 @@
+{
+  "observation": {
+    "instruction": "Grasp the red cube with the gripper and lift it above the table.",
+    "step_index": 0,
+    "proprioception": {
+      "robot0_joint_pos": [
+        -0.041410389327799474,
+        0.21736868939218443,
+        0.007539738887367773,
+        -2.589845402931484,
+        -0.007843816214400163,
+        2.9554575771696747,
+        0.7738283119303786
+      ],
+      "robot0_joint_pos_cos": [
+        0.9991427123462239,
+        0.9764683001348743,
+        0.9999715763034073,
+        -0.851609955590076,
+        0.9999692374313213,
+        -0.9827268240955787,
+        0.7152403924484989
+      ],
+      "robot0_joint_pos_sin": [
+        -0.04139855511284203,
+        0.21566098124535443,
+        0.0075396674514822334,
+        -0.5241760043533744,
+        -0.007843735782256875,
+        0.1850621225508276,
+        0.6988785166322665
+      ],
+      "robot0_joint_vel": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "robot0_eef_pos": [
+        -0.09049417906185225,
+        -0.015229465003988632,
+        1.0118479674761154
+      ],
+      "robot0_eef_quat": [
+        0.9972275858407217,
+        -0.007232815062599263,
+        0.07403510413011813,
+        0.0019057232216048575
+      ],
+      "robot0_gripper_qpos": [
+        0.020833,
+        -0.020833
+      ],
+      "robot0_gripper_qvel": [
+        0.0,
+        0.0
+      ]
+    },
+    "camera_names": [
+      "agentview",
+      "robot0_eye_in_hand"
+    ]
+  },
+  "action_specification": {
+    "names": [
+      "delta_x",
+      "delta_y",
+      "delta_z",
+      "delta_rx",
+      "delta_ry",
+      "delta_rz",
+      "gripper"
+    ],
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "dimension": 7,
+    "control_dt": 0.05,
+    "semantics": "Normalized base-frame end-effector pose deltas. Translation scale 0.05 meters; rotation scale 0.5 radians. Gripper -1 opens, +1 closes. Each command advances one control interval."
+  },
+  "previous_actions": []
+}

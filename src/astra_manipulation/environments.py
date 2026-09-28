@@ -110,19 +110,67 @@ class AdroitEnvironment:
                             height=384, max_episode_steps=max_steps)
         model = self.env.unwrapped.model
         names = [mujoco.mj_id2name(model, mujoco.mjtObj.mjOBJ_ACTUATOR, i) for i in range(model.nu)]
+        joint_ids = model.actuator_trnid[:, 0]
+        self._robot_qvel_indices = model.jnt_dofadr[joint_ids].copy()
+        qpos_indices = model.jnt_qposadr[joint_ids]
+        if not np.array_equal(qpos_indices, np.arange(30)):
+            raise RuntimeError("Adroit robot observation ordering differs from audited actuator ordering")
+        if not np.array_equal(self._robot_qvel_indices, np.arange(30)):
+            raise RuntimeError("Adroit velocity ordering differs from audited actuator ordering")
+        if not np.all(model.actuator_gear[:, 0] == 1):
+            raise RuntimeError("Adroit actuator gearing differs from audited unit gearing")
+        self._palm_site_id = mujoco.mj_name2id(model, mujoco.mjtObj.mjOBJ_SITE, "S_grasp")
+        forearm_id = mujoco.mj_name2id(model, mujoco.mjtObj.mjOBJ_BODY, "forearm")
+        if model.body_parentid[forearm_id] != 0:
+            raise RuntimeError("Adroit forearm no longer directly attached to world")
+        base_rotation = np.empty(9)
+        mujoco.mju_quat2Mat(base_rotation, model.body_quat[forearm_id])
+        translation_axes = (base_rotation.reshape(3, 3) @ model.jnt_axis[joint_ids[:3]].T).T
+        gain = model.actuator_gainprm[:, 0]
+        position_bias = model.actuator_biasprm[:, 1]
+        equilibrium_scale = -gain / position_bias
+        descriptions = [
+            "Arm local X translation: positive moves approximately world -X (horizontal).",
+            "Arm local Y translation: positive moves approximately world +Z (UP).",
+            "Arm local Z translation: positive moves approximately world +Y (horizontal), NOT up.",
+            "Arm rotation around local X (radians); axis depends on preceding joint rotations.",
+            "Arm rotation around local Y (radians); axis depends on preceding joint rotations.",
+            "Arm rotation around local Z (radians); axis depends on preceding joint rotations.",
+            "Wrist radial/ulnar deviation (WRJ1).", "Wrist flexion/extension (WRJ0).",
+        ]
+        finger_names = {"FF": "index", "MF": "middle", "RF": "ring", "LF": "little", "TH": "thumb"}
+        descriptions.extend(f"{finger_names[name[2:4]]} finger joint {name[2:]}; positive increases that joint coordinate."
+                            for name in names[8:])
         self.action_spec = {
+            "spec_version": "adroit-actuator-audit-v2",
             "names": names, "low": self.env.action_space.low.tolist(),
             "high": self.env.action_space.high.tolist(), "dimension": model.nu,
             "control_dt": float(self.env.unwrapped.dt),
-            "joint_target_ranges": model.actuator_ctrlrange.tolist(),
-            "semantics": "30 normalized absolute joint-position targets: target = midpoint + action * half_range. First 3 are arm XYZ translations (meters), next 3 arm rotations (radians), then wrist and finger joints. See joint_target_ranges in the same order as names. Zero means range midpoint, NOT hold current position. Each command advances one control interval.",
+            "descriptions": descriptions,
+            "control_ranges": model.actuator_ctrlrange.tolist(),
+            "joint_coordinate_limits": model.jnt_range[joint_ids].tolist(),
+            "joint_position_indices": qpos_indices.tolist(),
+            "actuator_gain": gain.tolist(),
+            "actuator_position_bias": position_bias.tolist(),
+            "actuator_velocity_bias": model.actuator_biasprm[:, 2].tolist(),
+            "actuator_constant_bias": model.actuator_biasprm[:, 0].tolist(),
+            "no_load_equilibrium_scale": equilibrium_scale.tolist(),
+            "arm_translation_positive_axes_world": translation_axes.tolist(),
+            "semantics": "30 normalized actuator controls, NOT direct joint-position targets. u = control_range_midpoint + action * control_range_halfwidth. Actuator force = gain*u + constant_bias + position_bias*q + velocity_bias*qdot (unit gear). Ignoring gravity/contact/passive forces, equilibrium q = -gain/position_bias*u: first SIX arm joints q_eq=2.5*u; wrist/fingers q_eq=u. To approximately hold measured q without external loads: u=q/no_load_equilibrium_scale, then action=(u-midpoint)/halfwidth, bounded [-1,1]. Actual equilibrium can differ under loads and joint limits. First 3 q values are LOCAL translations in meters; local Y raises/lowers the arm, local Z moves horizontally. Last 27 q values are radians. Zero action means control-range midpoint, NOT hold. One step advances control_dt. Palm pose is robot-only forward kinematics in world coordinates; rotation matrix is row-major, with columns giving local palm-site axes in world.",
         }
 
     def _observation(self, raw):
         # Adroit's last nine observation entries are privileged relative object/goal positions.
         joints = np.asarray(raw)[:30].copy()
+        data = self.env.unwrapped.data
+        proprioception = {
+            "joint_positions": joints.tolist(),
+            "joint_velocities": data.qvel[self._robot_qvel_indices].copy().tolist(),
+            "palm_site_position_world": data.site_xpos[self._palm_site_id].copy().tolist(),
+            "palm_site_rotation_world_rowmajor": data.site_xmat[self._palm_site_id].copy().reshape(-1).tolist(),
+        }
         return Observation(images={"external": self.env.render().copy()},
-                           proprioception={"joint_positions": joints.tolist()},
+                           proprioception=proprioception,
                            instruction=self.instruction, step_index=self.step_index)
 
     def reset(self, seed: int, episode_id: int | None = None):

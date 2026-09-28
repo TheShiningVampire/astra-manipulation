@@ -1,0 +1,42 @@
+[
+  {
+    "run": "astra-lift-live1",
+    "provider": "codex",
+    "seed": 0,
+    "episode_id": 0,
+    "status": "model_stopped",
+    "error": null,
+    "success_any_step": true,
+    "success_final_step": true,
+    "longest_success_hold_steps": 14,
+    "control_steps": 49,
+    "model_calls": 20,
+    "wall_seconds": 165.27433950799968,
+    "is_astra_trial": true,
+    "evaluation_scope": "task_completion_under_authored_instruction",
+    "instruction": "Grasp the red cube with the gripper and lift it above the table.",
+    "mean_latency_seconds": 7.8240512348498665,
+    "input_tokens": 198995,
+    "output_tokens": 2353
+  },
+  {
+    "run": "astra-lift-paraphrase1",
+    "provider": "codex",
+    "seed": 0,
+    "episode_id": 1,
+    "status": "model_stopped",
+    "error": null,
+    "success_any_step": true,
+    "success_final_step": true,
+    "longest_success_hold_steps": 11,
+    "control_steps": 46,
+    "model_calls": 17,
+    "wall_seconds": 145.5851166370012,
+    "is_astra_trial": true,
+    "evaluation_scope": "task_completion_under_authored_instruction",
+    "instruction": "Pick up the red block and keep it suspended above the tabletop.",
+    "mean_latency_seconds": 8.069051613294183,
+    "input_tokens": 168845,
+    "output_tokens": 1756
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "seed": 0,
+  "episode_id": 0,
+  "provider": "codex",
+  "instruction": "Grasp the blue ball with the dexterous hand and move it to the green target.",
+  "max_calls": 30,
+  "max_steps": 300,
+  "max_repeat": 10
+}

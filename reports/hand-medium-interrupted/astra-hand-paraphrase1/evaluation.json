@@ -1,0 +1,467 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": 0.04845369675854839
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": 0.048529709025940546
+  },
+  {
+    "step": 3,
+    "success": false,
+    "reward": 0.04866635108797339
+  },
+  {
+    "step": 4,
+    "success": false,
+    "reward": 0.048866392345842356
+  },
+  {
+    "step": 5,
+    "success": false,
+    "reward": 0.04912398138456214
+  },
+  {
+    "step": 6,
+    "success": false,
+    "reward": 0.04943432105182302
+  },
+  {
+    "step": 7,
+    "success": false,
+    "reward": 0.049793175258873064
+  },
+  {
+    "step": 8,
+    "success": false,
+    "reward": 0.05019675656118823
+  },
+  {
+    "step": 9,
+    "success": false,
+    "reward": 0.05064173171288475
+  },
+  {
+    "step": 10,
+    "success": false,
+    "reward": 0.051125234774838726
+  },
+  {
+    "step": 11,
+    "success": false,
+    "reward": 0.05164486508939033
+  },
+  {
+    "step": 12,
+    "success": false,
+    "reward": 0.05219864879983668
+  },
+  {
+    "step": 13,
+    "success": false,
+    "reward": 0.052784972882427755
+  },
+  {
+    "step": 14,
+    "success": false,
+    "reward": 0.05340249120708527
+  },
+  {
+    "step": 15,
+    "success": false,
+    "reward": 0.05404998177045146
+  },
+  {
+    "step": 16,
+    "success": false,
+    "reward": 0.05472625466213096
+  },
+  {
+    "step": 17,
+    "success": false,
+    "reward": 0.055426792630681204
+  },
+  {
+    "step": 18,
+    "success": false,
+    "reward": 0.056128400955591844
+  },
+  {
+    "step": 19,
+    "success": false,
+    "reward": 0.05681633025953258
+  },
+  {
+    "step": 20,
+    "success": false,
+    "reward": 0.05748465627820203
+  },
+  {
+    "step": 21,
+    "success": false,
+    "reward": 0.05814493223339985
+  },
+  {
+    "step": 22,
+    "success": false,
+    "reward": 0.05880858077015075
+  },
+  {
+    "step": 23,
+    "success": false,
+    "reward": 0.05948619147041359
+  },
+  {
+    "step": 24,
+    "success": false,
+    "reward": 0.06018702230178137
+  },
+  {
+    "step": 25,
+    "success": false,
+    "reward": 0.060918824093940865
+  },
+  {
+    "step": 26,
+    "success": false,
+    "reward": 0.06168766544849616
+  },
+  {
+    "step": 27,
+    "success": false,
+    "reward": 0.06249777950541338
+  },
+  {
+    "step": 28,
+    "success": false,
+    "reward": 0.0633516192664258
+  },
+  {
+    "step": 29,
+    "success": false,
+    "reward": 0.06348252612206921
+  },
+  {
+    "step": 30,
+    "success": false,
+    "reward": 0.06302408651333488
+  },
+  {
+    "step": 31,
+    "success": false,
+    "reward": 0.062358511228304214
+  },
+  {
+    "step": 32,
+    "success": false,
+    "reward": 0.061461121285265596
+  },
+  {
+    "step": 33,
+    "success": false,
+    "reward": 0.06017795416368887
+  },
+  {
+    "step": 34,
+    "success": false,
+    "reward": 0.05845533621619989
+  },
+  {
+    "step": 35,
+    "success": false,
+    "reward": 0.05633175252145759
+  },
+  {
+    "step": 36,
+    "success": false,
+    "reward": 0.05392453842121873
+  },
+  {
+    "step": 37,
+    "success": false,
+    "reward": 0.05140677974517121
+  },
+  {
+    "step": 38,
+    "success": false,
+    "reward": 0.04897413830285963
+  },
+  {
+    "step": 39,
+    "success": false,
+    "reward": 0.04679378481450558
+  },
+  {
+    "step": 40,
+    "success": false,
+    "reward": 0.04500363337205743
+  },
+  {
+    "step": 41,
+    "success": false,
+    "reward": 0.04372814039114656
+  },
+  {
+    "step": 42,
+    "success": false,
+    "reward": 0.043063243377195075
+  },
+  {
+    "step": 43,
+    "success": false,
+    "reward": 0.043061818287116034
+  },
+  {
+    "step": 44,
+    "success": false,
+    "reward": 0.043725711175551935
+  },
+  {
+    "step": 45,
+    "success": false,
+    "reward": 0.04501041201002005
+  },
+  {
+    "step": 46,
+    "success": false,
+    "reward": 0.04683887557174096
+  },
+  {
+    "step": 47,
+    "success": false,
+    "reward": 0.04911836538256453
+  },
+  {
+    "step": 48,
+    "success": false,
+    "reward": 0.05175168502229177
+  },
+  {
+    "step": 49,
+    "success": false,
+    "reward": 0.054651700115895756
+  },
+  {
+    "step": 50,
+    "success": false,
+    "reward": 0.057745592500029634
+  },
+  {
+    "step": 51,
+    "success": false,
+    "reward": 0.060973954952513176
+  },
+  {
+    "step": 52,
+    "success": false,
+    "reward": 0.06428863842984121
+  },
+  {
+    "step": 53,
+    "success": false,
+    "reward": 0.06765043776376994
+  },
+  {
+    "step": 54,
+    "success": false,
+    "reward": 0.07102706865824947
+  },
+  {
+    "step": 55,
+    "success": false,
+    "reward": 0.07439154329807571
+  },
+  {
+    "step": 56,
+    "success": false,
+    "reward": 0.07772104675985408
+  },
+  {
+    "step": 57,
+    "success": false,
+    "reward": 0.08105099688653733
+  },
+  {
+    "step": 58,
+    "success": false,
+    "reward": 0.08410875181508044
+  },
+  {
+    "step": 59,
+    "success": false,
+    "reward": 0.08654814060455807
+  },
+  {
+    "step": 60,
+    "success": false,
+    "reward": 0.0881059181561412
+  },
+  {
+    "step": 61,
+    "success": false,
+    "reward": 0.08891091520775565
+  },
+  {
+    "step": 62,
+    "success": false,
+    "reward": 0.08904284220978109
+  },
+  {
+    "step": 63,
+    "success": false,
+    "reward": 0.08869124968648356
+  },
+  {
+    "step": 64,
+    "success": false,
+    "reward": 0.08766669989184946
+  },
+  {
+    "step": 65,
+    "success": false,
+    "reward": 0.08580526508440313
+  },
+  {
+    "step": 66,
+    "success": false,
+    "reward": 0.08360850034146197
+  },
+  {
+    "step": 67,
+    "success": false,
+    "reward": 0.08120617255980134
+  },
+  {
+    "step": 68,
+    "success": false,
+    "reward": 0.07861602370351402
+  },
+  {
+    "step": 69,
+    "success": false,
+    "reward": 0.07584704187758247
+  },
+  {
+    "step": 70,
+    "success": false,
+    "reward": 0.07291297873423179
+  },
+  {
+    "step": 71,
+    "success": false,
+    "reward": 0.06983232229809178
+  },
+  {
+    "step": 72,
+    "success": false,
+    "reward": 0.06662817326672817
+  },
+  {
+    "step": 73,
+    "success": false,
+    "reward": 0.0633281968934287
+  },
+  {
+    "step": 74,
+    "success": false,
+    "reward": 0.05998295969369369
+  },
+  {
+    "step": 75,
+    "success": false,
+    "reward": 0.056588347829105594
+  },
+  {
+    "step": 76,
+    "success": false,
+    "reward": 0.05315548255425232
+  },
+  {
+    "step": 77,
+    "success": false,
+    "reward": 0.04971055794065912
+  },
+  {
+    "step": 78,
+    "success": false,
+    "reward": 0.0462835804209633
+  },
+  {
+    "step": 79,
+    "success": false,
+    "reward": 0.042909822207523346
+  },
+  {
+    "step": 80,
+    "success": false,
+    "reward": 0.03963179239908613
+  },
+  {
+    "step": 81,
+    "success": false,
+    "reward": 0.036501670815809274
+  },
+  {
+    "step": 82,
+    "success": false,
+    "reward": 0.03358401427180343
+  },
+  {
+    "step": 83,
+    "success": false,
+    "reward": 0.03095804618624732
+  },
+  {
+    "step": 84,
+    "success": false,
+    "reward": 0.028691947040938567
+  },
+  {
+    "step": 85,
+    "success": false,
+    "reward": 0.02696330158801844
+  },
+  {
+    "step": 86,
+    "success": false,
+    "reward": 0.0258450551084489
+  },
+  {
+    "step": 87,
+    "success": false,
+    "reward": 0.0253431438301316
+  },
+  {
+    "step": 88,
+    "success": false,
+    "reward": 0.025347429347912495
+  },
+  {
+    "step": 89,
+    "success": false,
+    "reward": 0.025704379744367914
+  },
+  {
+    "step": 90,
+    "success": false,
+    "reward": 0.02631564944828187
+  },
+  {
+    "step": 91,
+    "success": false,
+    "reward": 0.027085267795027276
+  },
+  {
+    "step": 92,
+    "success": false,
+    "reward": 0.027926371424151553
+  },
+  {
+    "step": 93,
+    "success": false,
+    "reward": 0.02877135285288975
+  }
+]

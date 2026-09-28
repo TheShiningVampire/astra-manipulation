@@ -14,10 +14,11 @@ def main():
     parser.add_argument("--max-calls", type=int, default=30)
     parser.add_argument("--max-steps", type=int, default=300)
     parser.add_argument("--max-repeat", type=int, default=10)
+    parser.add_argument("--timeout", type=float, default=240, help="Per model request timeout in seconds")
     parser.add_argument("--reasoning", choices=["low", "medium", "high", "xhigh", "max"], default="medium")
     parser.add_argument("--output", required=True)
     args = parser.parse_args()
-    if min(args.max_calls, args.max_steps, args.max_repeat) < 1:
+    if min(args.max_calls, args.max_steps, args.max_repeat, args.timeout) < 1:
         parser.error("Budgets must be positive")
     os.environ.setdefault("MUJOCO_GL", "osmesa")
     from .environments import make_environment
@@ -30,7 +31,7 @@ def main():
     }[args.backend]
     policy = NeutralPolicy() if args.provider == "neutral" else (
         AstraPolicy if args.provider == "api" else CodexPolicy)(
-            reasoning=args.reasoning, max_repeat=args.max_repeat)
+            reasoning=args.reasoning, max_repeat=args.max_repeat, timeout=args.timeout)
     env = make_environment(args.backend, instruction, args.dataset_path, args.max_steps)
     result = run_episode(env, policy, args.output, seed=args.seed, episode_id=args.episode_id,
         max_calls=args.max_calls, max_steps=args.max_steps, max_repeat=args.max_repeat,

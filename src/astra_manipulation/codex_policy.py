@@ -11,8 +11,9 @@ from .policy import SYSTEM, prompt_payload
 
 
 class CodexPolicy:
-    def __init__(self, model="gpt-6-astra", reasoning="medium", max_repeat=10):
+    def __init__(self, model="gpt-6-astra", reasoning="medium", max_repeat=10, timeout=240):
         self.model, self.reasoning, self.max_repeat = model, reasoning, max_repeat
+        self.timeout = timeout
 
     def act(self, observation, spec, history):
         # Empty working directory: no dataset, code, evaluation, or prior session.
@@ -46,8 +47,11 @@ class CodexPolicy:
             for key in ("CODEX_THREAD_ID", "CODEX_SESSION_ID"):
                 environment.pop(key, None)
             start = time.monotonic()
-            result = subprocess.run(command, input=prompt, text=True, capture_output=True,
-                                    env=environment, timeout=240)
+            try:
+                result = subprocess.run(command, input=prompt, text=True, capture_output=True,
+                                        env=environment, timeout=self.timeout)
+            except subprocess.TimeoutExpired as exc:
+                raise TimeoutError(f"Astra did not return an action within {self.timeout} seconds; no action executed") from exc
             if result.returncode:
                 raise RuntimeError(f"Codex failed ({result.returncode}): {result.stderr[-3000:]}")
             events = []
