@@ -45,7 +45,7 @@ def outcome(result):
     if result.get("error") or result.get("status") == "error":
         return "ERROR / incomplete trial", "#f8a55b"
     if result.get("success_any_step"):
-        suffix = "held at end" if result.get("success_final_step") else "not held at end"
+        suffix = "criterion met at final frame" if result.get("success_final_step") else "criterion not met at final frame"
         return f"SUCCESS observed ({suffix})", "#69e0ab"
     if result.get("status") == "budget_exhausted":
         return "BUDGET EXHAUSTED / no success observed", "#f8cf6b"

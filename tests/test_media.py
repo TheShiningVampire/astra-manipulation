@@ -18,4 +18,4 @@ def test_outcome_distinguishes_incomplete_trials():
     assert outcome({"status": "error", "success_any_step": True})[0].startswith("ERROR")
     assert outcome({"status": "budget_exhausted"})[0].startswith("BUDGET EXHAUSTED")
     assert outcome({"status": "environment_terminal"})[0].startswith("NO SUCCESS")
-    assert "not held at end" in outcome({"success_any_step": True})[0]
+    assert "criterion not met at final frame" in outcome({"success_any_step": True})[0]

@@ -1,0 +1,33 @@
+{
+  "evaluation_only": true,
+  "policy_feedback": false,
+  "source_run": "runs/bullet-pilot/bullet_pick_place",
+  "seed": 3,
+  "method": "Independent fresh BulletTaskEnvironment reset and exact replay of all ten recorded Astra decisions. Camera resolution 64 during audit; physics unchanged. Evaluator-only contacts sampled after each control step.",
+  "initial_object_position_world": [-0.12176140732788024, -0.02006191792905787, 0.02],
+  "target_position_world": [-0.12430524985691269, -0.07895684802117009, 0.18025489304127937],
+  "initial_distance_m": 0.1707533738145141,
+  "success_threshold_m": 0.05,
+  "initial_success": false,
+  "replayed_control_steps": 25,
+  "replayed_decisions": 10,
+  "all_25_replayed_evaluation_rows_exactly_match_original": true,
+  "final_object_position_world": [-0.13577982465718924, -0.06784741989013036, 0.1810818722032559],
+  "final_goal_distance_m": 0.015992784459881334,
+  "native_success": true,
+  "environment_terminated": true,
+  "contact_evidence": {
+    "robot_link_names": {"9": "panda_leftfinger", "10": "panda_rightfinger"},
+    "no_robot_object_contact_steps": [1, 2, 3, 4, 5, 6, 7, 8],
+    "both_fingers_contact_object_steps": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25],
+    "finger_width_m_at_step_9": 0.03765174773526932,
+    "finger_width_m_at_step_25": 0.0401844049342201,
+    "total_contact_normal_force_at_step_25_N": 339.8680755174182,
+    "object_center_height_m_step_12": 0.020045283233901246,
+    "object_center_height_m_step_16": 0.10567597794175966,
+    "object_center_height_m_step_22": 0.12329164717587028,
+    "object_center_height_m_step_25": 0.1810818722032559,
+    "interpretation": "Both fingers contact the rising object at every sampled step from first closure through goal crossing. This supports grasped transport rather than a ballistic threshold crossing. Contacts are sampled per control step, not every internal physics substep. Forces reflect this simulator setup, not physical-robot realism."
+  },
+  "limitations": "Success terminates immediately on the first threshold crossing. No post-success hold, release, stable placement, or broader success-rate claim is established. Task/controller/cameras differ from the ten-task baseline, so this is not a controlled simulator comparison."
+}

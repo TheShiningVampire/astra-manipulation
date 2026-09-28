@@ -1,0 +1,1822 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": -0.4440333925598766,
+    "pen_orientation_similarity": -0.4436433550249165,
+    "pen_goal_distance_m": 0.0003900375349601342
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": -0.44539852393223717,
+    "pen_orientation_similarity": -0.4436433550249165,
+    "pen_goal_distance_m": 0.0017551689073206872
+  },
+  {
+    "step": 3,
+    "success": false,
+    "reward": -0.4477387491419981,
+    "pen_orientation_similarity": -0.4436433550249165,
+    "pen_goal_distance_m": 0.004095394117081631
+  },
+  {
+    "step": 4,
+    "success": false,
+    "reward": -0.45105406818915944,
+    "pen_orientation_similarity": -0.4436433550249165,
+    "pen_goal_distance_m": 0.007410713164242939
+  },
+  {
+    "step": 5,
+    "success": false,
+    "reward": -0.4484509814560812,
+    "pen_orientation_similarity": -0.43756402047156884,
+    "pen_goal_distance_m": 0.010886960984512348
+  },
+  {
+    "step": 6,
+    "success": false,
+    "reward": -0.4263225112638103,
+    "pen_orientation_similarity": -0.4133403153578819,
+    "pen_goal_distance_m": 0.012982195905928424
+  },
+  {
+    "step": 7,
+    "success": false,
+    "reward": -0.39430637902667937,
+    "pen_orientation_similarity": -0.37956361574978653,
+    "pen_goal_distance_m": 0.014742763276892841
+  },
+  {
+    "step": 8,
+    "success": false,
+    "reward": -0.3577472958672384,
+    "pen_orientation_similarity": -0.3410700498075374,
+    "pen_goal_distance_m": 0.01667724605970099
+  },
+  {
+    "step": 9,
+    "success": false,
+    "reward": -0.3183969952350832,
+    "pen_orientation_similarity": -0.29939630018883434,
+    "pen_goal_distance_m": 0.019000695046248826
+  },
+  {
+    "step": 10,
+    "success": false,
+    "reward": -0.28105134641325474,
+    "pen_orientation_similarity": -0.260955984165772,
+    "pen_goal_distance_m": 0.020095362247482786
+  },
+  {
+    "step": 11,
+    "success": false,
+    "reward": -0.248091127878837,
+    "pen_orientation_similarity": -0.22806473756115309,
+    "pen_goal_distance_m": 0.02002639031768392
+  },
+  {
+    "step": 12,
+    "success": false,
+    "reward": -0.21847417157749302,
+    "pen_orientation_similarity": -0.19881968829384739,
+    "pen_goal_distance_m": 0.01965448328364564
+  },
+  {
+    "step": 13,
+    "success": false,
+    "reward": -0.19161405910273208,
+    "pen_orientation_similarity": -0.17229848665195122,
+    "pen_goal_distance_m": 0.019315572450780867
+  },
+  {
+    "step": 14,
+    "success": false,
+    "reward": -0.16719286868669106,
+    "pen_orientation_similarity": -0.14808024632187608,
+    "pen_goal_distance_m": 0.019112622364814973
+  },
+  {
+    "step": 15,
+    "success": false,
+    "reward": -0.14503707459528206,
+    "pen_orientation_similarity": -0.12598483458040016,
+    "pen_goal_distance_m": 0.019052240014881903
+  },
+  {
+    "step": 16,
+    "success": false,
+    "reward": -0.12505060796630507,
+    "pen_orientation_similarity": -0.10594235742634757,
+    "pen_goal_distance_m": 0.019108250539957492
+  },
+  {
+    "step": 17,
+    "success": false,
+    "reward": -0.10718463349590224,
+    "pen_orientation_similarity": -0.08793273042960682,
+    "pen_goal_distance_m": 0.01925190306629541
+  },
+  {
+    "step": 18,
+    "success": false,
+    "reward": -0.09141876675778486,
+    "pen_orientation_similarity": -0.07195931431116494,
+    "pen_goal_distance_m": 0.019459452446619927
+  },
+  {
+    "step": 19,
+    "success": false,
+    "reward": -0.07774016177479487,
+    "pen_orientation_similarity": -0.05803185443996183,
+    "pen_goal_distance_m": 0.019708307334833045
+  },
+  {
+    "step": 20,
+    "success": false,
+    "reward": -0.06613319418956821,
+    "pen_orientation_similarity": -0.046155861125799495,
+    "pen_goal_distance_m": 0.019977333063768723
+  },
+  {
+    "step": 21,
+    "success": false,
+    "reward": -0.05655170671985768,
+    "pen_orientation_similarity": -0.03627067054394449,
+    "pen_goal_distance_m": 0.02028103617591319
+  },
+  {
+    "step": 22,
+    "success": false,
+    "reward": -0.04898365874848658,
+    "pen_orientation_similarity": -0.028362139337393757,
+    "pen_goal_distance_m": 0.02062151941109282
+  },
+  {
+    "step": 23,
+    "success": false,
+    "reward": -0.04345095387475927,
+    "pen_orientation_similarity": -0.022500612058129196,
+    "pen_goal_distance_m": 0.020950341816630077
+  },
+  {
+    "step": 24,
+    "success": false,
+    "reward": -0.039938140295704146,
+    "pen_orientation_similarity": -0.018699621290073624,
+    "pen_goal_distance_m": 0.02123851900563052
+  },
+  {
+    "step": 25,
+    "success": false,
+    "reward": -0.03840019324441075,
+    "pen_orientation_similarity": -0.016927933641848518,
+    "pen_goal_distance_m": 0.02147225960256223
+  },
+  {
+    "step": 26,
+    "success": false,
+    "reward": -0.038707755043313655,
+    "pen_orientation_similarity": -0.017056736386466716,
+    "pen_goal_distance_m": 0.021651018656846936
+  },
+  {
+    "step": 27,
+    "success": false,
+    "reward": -0.040823904548444874,
+    "pen_orientation_similarity": -0.019046044131584568,
+    "pen_goal_distance_m": 0.021777860416860306
+  },
+  {
+    "step": 28,
+    "success": false,
+    "reward": -0.04473372014912259,
+    "pen_orientation_similarity": -0.02287421750848711,
+    "pen_goal_distance_m": 0.021859502640635478
+  },
+  {
+    "step": 29,
+    "success": false,
+    "reward": -0.050432925916294016,
+    "pen_orientation_similarity": -0.02852903823908938,
+    "pen_goal_distance_m": 0.021903887677204633
+  },
+  {
+    "step": 30,
+    "success": false,
+    "reward": -0.05792622519966176,
+    "pen_orientation_similarity": -0.036007300137205746,
+    "pen_goal_distance_m": 0.02191892506245601
+  },
+  {
+    "step": 31,
+    "success": false,
+    "reward": -0.06722511218631198,
+    "pen_orientation_similarity": -0.04531258599586572,
+    "pen_goal_distance_m": 0.02191252619044626
+  },
+  {
+    "step": 32,
+    "success": false,
+    "reward": -0.07834678823065648,
+    "pen_orientation_similarity": -0.0564542133846063,
+    "pen_goal_distance_m": 0.02189257484605018
+  },
+  {
+    "step": 33,
+    "success": false,
+    "reward": -0.09131343206878179,
+    "pen_orientation_similarity": -0.06944638796824022,
+    "pen_goal_distance_m": 0.021867044100541556
+  },
+  {
+    "step": 34,
+    "success": false,
+    "reward": -0.10615286080521505,
+    "pen_orientation_similarity": -0.08430854109853864,
+    "pen_goal_distance_m": 0.021844319706676406
+  },
+  {
+    "step": 35,
+    "success": false,
+    "reward": -0.12289736111751662,
+    "pen_orientation_similarity": -0.10106395639697117,
+    "pen_goal_distance_m": 0.021833404720545437
+  },
+  {
+    "step": 36,
+    "success": false,
+    "reward": -0.14157666752984363,
+    "pen_orientation_similarity": -0.1197330572425526,
+    "pen_goal_distance_m": 0.021843610287291034
+  },
+  {
+    "step": 37,
+    "success": false,
+    "reward": -0.16222113782518094,
+    "pen_orientation_similarity": -0.14033639579818777,
+    "pen_goal_distance_m": 0.021884742026993174
+  },
+  {
+    "step": 38,
+    "success": false,
+    "reward": -0.18486105532357333,
+    "pen_orientation_similarity": -0.1628951282230078,
+    "pen_goal_distance_m": 0.02196592710056553
+  },
+  {
+    "step": 39,
+    "success": false,
+    "reward": -0.20952457045706885,
+    "pen_orientation_similarity": -0.18742667021847217,
+    "pen_goal_distance_m": 0.022097900238596663
+  },
+  {
+    "step": 40,
+    "success": false,
+    "reward": -0.22659239950853488,
+    "pen_orientation_similarity": -0.20442673091776545,
+    "pen_goal_distance_m": 0.02216566859076944
+  },
+  {
+    "step": 41,
+    "success": false,
+    "reward": -0.23482509297507048,
+    "pen_orientation_similarity": -0.21257595948584945,
+    "pen_goal_distance_m": 0.022249133489221022
+  },
+  {
+    "step": 42,
+    "success": false,
+    "reward": -0.23765672600786908,
+    "pen_orientation_similarity": -0.2151174271165363,
+    "pen_goal_distance_m": 0.022539298891332778
+  },
+  {
+    "step": 43,
+    "success": false,
+    "reward": -0.23923097545317493,
+    "pen_orientation_similarity": -0.2163964137658413,
+    "pen_goal_distance_m": 0.022834561687333645
+  },
+  {
+    "step": 44,
+    "success": false,
+    "reward": -0.23906415252022264,
+    "pen_orientation_similarity": -0.2158367819906411,
+    "pen_goal_distance_m": 0.02322737052958155
+  },
+  {
+    "step": 45,
+    "success": false,
+    "reward": -0.23880212856474126,
+    "pen_orientation_similarity": -0.2152057734035434,
+    "pen_goal_distance_m": 0.023596355161197843
+  },
+  {
+    "step": 46,
+    "success": false,
+    "reward": -0.23791152208864236,
+    "pen_orientation_similarity": -0.2139235104421897,
+    "pen_goal_distance_m": 0.023988011646452652
+  },
+  {
+    "step": 47,
+    "success": false,
+    "reward": -0.23680312668916081,
+    "pen_orientation_similarity": -0.2124529931729495,
+    "pen_goal_distance_m": 0.02435013351621133
+  },
+  {
+    "step": 48,
+    "success": false,
+    "reward": -0.2357882670933224,
+    "pen_orientation_similarity": -0.21112482938853086,
+    "pen_goal_distance_m": 0.02466343770479153
+  },
+  {
+    "step": 49,
+    "success": false,
+    "reward": -0.23468175611555417,
+    "pen_orientation_similarity": -0.20973067560273398,
+    "pen_goal_distance_m": 0.024951080512820197
+  },
+  {
+    "step": 50,
+    "success": false,
+    "reward": -0.2334675584585524,
+    "pen_orientation_similarity": -0.20824855964395478,
+    "pen_goal_distance_m": 0.02521899881459764
+  },
+  {
+    "step": 51,
+    "success": false,
+    "reward": -0.23225679806939845,
+    "pen_orientation_similarity": -0.20680096660946992,
+    "pen_goal_distance_m": 0.025455831459928514
+  },
+  {
+    "step": 52,
+    "success": false,
+    "reward": -0.23096937017980632,
+    "pen_orientation_similarity": -0.20530928074392718,
+    "pen_goal_distance_m": 0.025660089435879142
+  },
+  {
+    "step": 53,
+    "success": false,
+    "reward": -0.22953564680841856,
+    "pen_orientation_similarity": -0.20368860766759098,
+    "pen_goal_distance_m": 0.025847039140827595
+  },
+  {
+    "step": 54,
+    "success": false,
+    "reward": -0.22812204491645277,
+    "pen_orientation_similarity": -0.20211504843505965,
+    "pen_goal_distance_m": 0.026006996481393117
+  },
+  {
+    "step": 55,
+    "success": false,
+    "reward": -0.2268145779375,
+    "pen_orientation_similarity": -0.20067034623792138,
+    "pen_goal_distance_m": 0.026144231699578645
+  },
+  {
+    "step": 56,
+    "success": false,
+    "reward": -0.22566644990396206,
+    "pen_orientation_similarity": -0.19940352768203742,
+    "pen_goal_distance_m": 0.026262922221924632
+  },
+  {
+    "step": 57,
+    "success": false,
+    "reward": -0.22476020954405143,
+    "pen_orientation_similarity": -0.19838975739586645,
+    "pen_goal_distance_m": 0.026370452148184984
+  },
+  {
+    "step": 58,
+    "success": false,
+    "reward": -0.22410829406731972,
+    "pen_orientation_similarity": -0.19764272794401563,
+    "pen_goal_distance_m": 0.026465566123304078
+  },
+  {
+    "step": 59,
+    "success": false,
+    "reward": -0.22367728949470564,
+    "pen_orientation_similarity": -0.1971307211435329,
+    "pen_goal_distance_m": 0.02654656835117274
+  },
+  {
+    "step": 60,
+    "success": false,
+    "reward": -0.22340734626161035,
+    "pen_orientation_similarity": -0.19679108807214282,
+    "pen_goal_distance_m": 0.026616258189467536
+  },
+  {
+    "step": 61,
+    "success": false,
+    "reward": -0.22399532718673704,
+    "pen_orientation_similarity": -0.1971521778216515,
+    "pen_goal_distance_m": 0.02684314936508553
+  },
+  {
+    "step": 62,
+    "success": false,
+    "reward": -0.22596015093575772,
+    "pen_orientation_similarity": -0.19852264591179491,
+    "pen_goal_distance_m": 0.027437505023962805
+  },
+  {
+    "step": 63,
+    "success": false,
+    "reward": -0.228703791976805,
+    "pen_orientation_similarity": -0.2003870357864725,
+    "pen_goal_distance_m": 0.02831675619033249
+  },
+  {
+    "step": 64,
+    "success": false,
+    "reward": -0.23175340450156912,
+    "pen_orientation_similarity": -0.2023497437906169,
+    "pen_goal_distance_m": 0.02940366071095221
+  },
+  {
+    "step": 65,
+    "success": false,
+    "reward": -0.23514633888476974,
+    "pen_orientation_similarity": -0.20452273821050906,
+    "pen_goal_distance_m": 0.030623600674260672
+  },
+  {
+    "step": 66,
+    "success": false,
+    "reward": -0.2390531615501324,
+    "pen_orientation_similarity": -0.20711307166246132,
+    "pen_goal_distance_m": 0.03194008988767109
+  },
+  {
+    "step": 67,
+    "success": false,
+    "reward": -0.24278401414539721,
+    "pen_orientation_similarity": -0.20941955426313694,
+    "pen_goal_distance_m": 0.03336445988226027
+  },
+  {
+    "step": 68,
+    "success": false,
+    "reward": -0.24460930542724507,
+    "pen_orientation_similarity": -0.20982984450167474,
+    "pen_goal_distance_m": 0.034779460925570334
+  },
+  {
+    "step": 69,
+    "success": false,
+    "reward": -0.24641930534544676,
+    "pen_orientation_similarity": -0.21040542791113415,
+    "pen_goal_distance_m": 0.03601387743431262
+  },
+  {
+    "step": 70,
+    "success": false,
+    "reward": -0.2482125015976566,
+    "pen_orientation_similarity": -0.21110392247507087,
+    "pen_goal_distance_m": 0.037108579122585715
+  },
+  {
+    "step": 71,
+    "success": false,
+    "reward": -0.2485414264720609,
+    "pen_orientation_similarity": -0.21025210619630832,
+    "pen_goal_distance_m": 0.03828932027575259
+  },
+  {
+    "step": 72,
+    "success": false,
+    "reward": -0.24965041771570326,
+    "pen_orientation_similarity": -0.21048911009405794,
+    "pen_goal_distance_m": 0.039161307621645325
+  },
+  {
+    "step": 73,
+    "success": false,
+    "reward": -0.2507628003867893,
+    "pen_orientation_similarity": -0.21094183902804586,
+    "pen_goal_distance_m": 0.039820961358743426
+  },
+  {
+    "step": 74,
+    "success": false,
+    "reward": -0.25172317352703494,
+    "pen_orientation_similarity": -0.21139919103162386,
+    "pen_goal_distance_m": 0.040323982495411095
+  },
+  {
+    "step": 75,
+    "success": false,
+    "reward": -0.25237785153065456,
+    "pen_orientation_similarity": -0.21167157097235478,
+    "pen_goal_distance_m": 0.040706280558299786
+  },
+  {
+    "step": 76,
+    "success": false,
+    "reward": -0.25244517937531297,
+    "pen_orientation_similarity": -0.2114183556103931,
+    "pen_goal_distance_m": 0.041026823764919895
+  },
+  {
+    "step": 77,
+    "success": false,
+    "reward": -0.2527061585181021,
+    "pen_orientation_similarity": -0.21149218038003478,
+    "pen_goal_distance_m": 0.041213978138067306
+  },
+  {
+    "step": 78,
+    "success": false,
+    "reward": -0.25317964555599437,
+    "pen_orientation_similarity": -0.21187616377111693,
+    "pen_goal_distance_m": 0.04130348178487744
+  },
+  {
+    "step": 79,
+    "success": false,
+    "reward": -0.25377766098445437,
+    "pen_orientation_similarity": -0.21245305624476363,
+    "pen_goal_distance_m": 0.04132460473969073
+  },
+  {
+    "step": 80,
+    "success": false,
+    "reward": -0.25444205638809686,
+    "pen_orientation_similarity": -0.2131464579745082,
+    "pen_goal_distance_m": 0.04129559841358864
+  },
+  {
+    "step": 81,
+    "success": false,
+    "reward": -0.2615047271903155,
+    "pen_orientation_similarity": -0.2194202117216445,
+    "pen_goal_distance_m": 0.04208451546867096
+  },
+  {
+    "step": 82,
+    "success": false,
+    "reward": -0.27833075761682335,
+    "pen_orientation_similarity": -0.23360449309300263,
+    "pen_goal_distance_m": 0.04472626452382072
+  },
+  {
+    "step": 83,
+    "success": false,
+    "reward": -0.2984903950833933,
+    "pen_orientation_similarity": -0.24975011378225492,
+    "pen_goal_distance_m": 0.048740281301138375
+  },
+  {
+    "step": 84,
+    "success": false,
+    "reward": -0.3186863466991273,
+    "pen_orientation_similarity": -0.2651137032167617,
+    "pen_goal_distance_m": 0.05357264348236564
+  },
+  {
+    "step": 85,
+    "success": false,
+    "reward": -0.3368523033824256,
+    "pen_orientation_similarity": -0.2781028048300738,
+    "pen_goal_distance_m": 0.058749498552351766
+  },
+  {
+    "step": 86,
+    "success": false,
+    "reward": -0.3517437262068366,
+    "pen_orientation_similarity": -0.28782330271566714,
+    "pen_goal_distance_m": 0.06392042349116946
+  },
+  {
+    "step": 87,
+    "success": false,
+    "reward": -0.3633367736312272,
+    "pen_orientation_similarity": -0.29453561833314873,
+    "pen_goal_distance_m": 0.06880115529807845
+  },
+  {
+    "step": 88,
+    "success": false,
+    "reward": -0.3719348204309306,
+    "pen_orientation_similarity": -0.2987158419582474,
+    "pen_goal_distance_m": 0.07321897847268319
+  },
+  {
+    "step": 89,
+    "success": false,
+    "reward": -0.3771292903709891,
+    "pen_orientation_similarity": -0.3000124709360533,
+    "pen_goal_distance_m": 0.07711681943493574
+  },
+  {
+    "step": 90,
+    "success": false,
+    "reward": -0.37981768814962524,
+    "pen_orientation_similarity": -0.2994209274448711,
+    "pen_goal_distance_m": 0.08039676070475416
+  },
+  {
+    "step": 91,
+    "success": false,
+    "reward": -0.3804784784121873,
+    "pen_orientation_similarity": -0.2973968429795139,
+    "pen_goal_distance_m": 0.0830816354326734
+  },
+  {
+    "step": 92,
+    "success": false,
+    "reward": -0.37947953220277836,
+    "pen_orientation_similarity": -0.2942592019414962,
+    "pen_goal_distance_m": 0.08522033026128219
+  },
+  {
+    "step": 93,
+    "success": false,
+    "reward": -0.37763801633731736,
+    "pen_orientation_similarity": -0.29080784145507527,
+    "pen_goal_distance_m": 0.08683017488224211
+  },
+  {
+    "step": 94,
+    "success": false,
+    "reward": -0.37529673000570474,
+    "pen_orientation_similarity": -0.2872904145333897,
+    "pen_goal_distance_m": 0.08800631547231501
+  },
+  {
+    "step": 95,
+    "success": false,
+    "reward": -0.3731452195805615,
+    "pen_orientation_similarity": -0.2843313772875235,
+    "pen_goal_distance_m": 0.08881384229303801
+  },
+  {
+    "step": 96,
+    "success": false,
+    "reward": -0.3714643835867044,
+    "pen_orientation_similarity": -0.282159392287931,
+    "pen_goal_distance_m": 0.08930499129877337
+  },
+  {
+    "step": 97,
+    "success": false,
+    "reward": -0.3701784949347612,
+    "pen_orientation_similarity": -0.28065332166889845,
+    "pen_goal_distance_m": 0.0895251732658627
+  },
+  {
+    "step": 98,
+    "success": false,
+    "reward": -0.36924045955272977,
+    "pen_orientation_similarity": -0.2797226310628866,
+    "pen_goal_distance_m": 0.08951782848984317
+  },
+  {
+    "step": 99,
+    "success": false,
+    "reward": -0.3685099811130394,
+    "pen_orientation_similarity": -0.27916795837962716,
+    "pen_goal_distance_m": 0.08934202273341224
+  },
+  {
+    "step": 100,
+    "success": false,
+    "reward": -0.3679266103140817,
+    "pen_orientation_similarity": -0.27887387993910373,
+    "pen_goal_distance_m": 0.08905273037497799
+  },
+  {
+    "step": 101,
+    "success": false,
+    "reward": -0.35748938233212024,
+    "pen_orientation_similarity": -0.26970118535528304,
+    "pen_goal_distance_m": 0.0877881969768372
+  },
+  {
+    "step": 102,
+    "success": false,
+    "reward": -0.33130122308502663,
+    "pen_orientation_similarity": -0.2465108885934376,
+    "pen_goal_distance_m": 0.08479033449158906
+  },
+  {
+    "step": 103,
+    "success": false,
+    "reward": -0.3008259430929105,
+    "pen_orientation_similarity": -0.219940553379151,
+    "pen_goal_distance_m": 0.08088538971375948
+  },
+  {
+    "step": 104,
+    "success": false,
+    "reward": -0.2752932592278855,
+    "pen_orientation_similarity": -0.19833195968671136,
+    "pen_goal_distance_m": 0.07696129954117414
+  },
+  {
+    "step": 105,
+    "success": false,
+    "reward": -0.25476713500173936,
+    "pen_orientation_similarity": -0.18130121379822137,
+    "pen_goal_distance_m": 0.07346592120351801
+  },
+  {
+    "step": 106,
+    "success": false,
+    "reward": -0.2416101656704393,
+    "pen_orientation_similarity": -0.17087148567488494,
+    "pen_goal_distance_m": 0.07073867999555436
+  },
+  {
+    "step": 107,
+    "success": false,
+    "reward": -0.23549100037476534,
+    "pen_orientation_similarity": -0.16674816175939242,
+    "pen_goal_distance_m": 0.06874283861537293
+  },
+  {
+    "step": 108,
+    "success": false,
+    "reward": -0.2355226998597078,
+    "pen_orientation_similarity": -0.16816235681897698,
+    "pen_goal_distance_m": 0.06736034304073081
+  },
+  {
+    "step": 109,
+    "success": false,
+    "reward": -0.23852597329336278,
+    "pen_orientation_similarity": -0.17204413978081137,
+    "pen_goal_distance_m": 0.06648183351255142
+  },
+  {
+    "step": 110,
+    "success": false,
+    "reward": -0.24146656351344115,
+    "pen_orientation_similarity": -0.17543443320187738,
+    "pen_goal_distance_m": 0.06603213031156378
+  },
+  {
+    "step": 111,
+    "success": false,
+    "reward": -0.24493377760546808,
+    "pen_orientation_similarity": -0.1791048581540317,
+    "pen_goal_distance_m": 0.06582891945143639
+  },
+  {
+    "step": 112,
+    "success": false,
+    "reward": -0.24904280002094803,
+    "pen_orientation_similarity": -0.1833103504776029,
+    "pen_goal_distance_m": 0.0657324495433451
+  },
+  {
+    "step": 113,
+    "success": false,
+    "reward": -0.25352630174532376,
+    "pen_orientation_similarity": -0.18785985389623608,
+    "pen_goal_distance_m": 0.06566644784908769
+  },
+  {
+    "step": 114,
+    "success": false,
+    "reward": -0.2589549545695321,
+    "pen_orientation_similarity": -0.19339506707588786,
+    "pen_goal_distance_m": 0.06555988749364423
+  },
+  {
+    "step": 115,
+    "success": false,
+    "reward": -0.2635626763826411,
+    "pen_orientation_similarity": -0.1980825068610691,
+    "pen_goal_distance_m": 0.06548016952157197
+  },
+  {
+    "step": 116,
+    "success": false,
+    "reward": -0.2674048545693828,
+    "pen_orientation_similarity": -0.20201142766484825,
+    "pen_goal_distance_m": 0.06539342690453455
+  },
+  {
+    "step": 117,
+    "success": false,
+    "reward": -0.2705188578421513,
+    "pen_orientation_similarity": -0.2052208625369684,
+    "pen_goal_distance_m": 0.06529799530518289
+  },
+  {
+    "step": 118,
+    "success": false,
+    "reward": -0.27287870472956754,
+    "pen_orientation_similarity": -0.20766175492754674,
+    "pen_goal_distance_m": 0.06521694980202081
+  },
+  {
+    "step": 119,
+    "success": false,
+    "reward": -0.2744943424037079,
+    "pen_orientation_similarity": -0.20933582794718247,
+    "pen_goal_distance_m": 0.06515851445652542
+  },
+  {
+    "step": 120,
+    "success": false,
+    "reward": -0.2753594548675238,
+    "pen_orientation_similarity": -0.21023131468866654,
+    "pen_goal_distance_m": 0.06512814017885721
+  },
+  {
+    "step": 121,
+    "success": false,
+    "reward": -0.2734804205748428,
+    "pen_orientation_similarity": -0.20949974217821069,
+    "pen_goal_distance_m": 0.06398067839663212
+  },
+  {
+    "step": 122,
+    "success": false,
+    "reward": -0.26587147816750445,
+    "pen_orientation_similarity": -0.20537342993522414,
+    "pen_goal_distance_m": 0.060498048232280326
+  },
+  {
+    "step": 123,
+    "success": false,
+    "reward": -0.25332269053439976,
+    "pen_orientation_similarity": -0.19787143809000082,
+    "pen_goal_distance_m": 0.05545125244439892
+  },
+  {
+    "step": 124,
+    "success": false,
+    "reward": -0.23705421518062741,
+    "pen_orientation_similarity": -0.18756263591380232,
+    "pen_goal_distance_m": 0.049491579266825104
+  },
+  {
+    "step": 125,
+    "success": false,
+    "reward": -0.21829252473331384,
+    "pen_orientation_similarity": -0.17515540916376507,
+    "pen_goal_distance_m": 0.04313711556954878
+  },
+  {
+    "step": 126,
+    "success": false,
+    "reward": -0.19830136173243035,
+    "pen_orientation_similarity": -0.16148658458708212,
+    "pen_goal_distance_m": 0.03681477714534822
+  },
+  {
+    "step": 127,
+    "success": false,
+    "reward": -0.17831545760856657,
+    "pen_orientation_similarity": -0.14744768994318713,
+    "pen_goal_distance_m": 0.030867767665379443
+  },
+  {
+    "step": 128,
+    "success": false,
+    "reward": -0.15924968001290646,
+    "pen_orientation_similarity": -0.13369246794326756,
+    "pen_goal_distance_m": 0.025557212069638915
+  },
+  {
+    "step": 129,
+    "success": false,
+    "reward": -0.1424624983050049,
+    "pen_orientation_similarity": -0.12140605806440362,
+    "pen_goal_distance_m": 0.02105644024060127
+  },
+  {
+    "step": 130,
+    "success": false,
+    "reward": -0.12878301744164122,
+    "pen_orientation_similarity": -0.11131162986495464,
+    "pen_goal_distance_m": 0.017471387576686592
+  },
+  {
+    "step": 131,
+    "success": false,
+    "reward": -0.11725710165612804,
+    "pen_orientation_similarity": -0.10242128053172138,
+    "pen_goal_distance_m": 0.014835821124406658
+  },
+  {
+    "step": 132,
+    "success": false,
+    "reward": -0.11020439990956797,
+    "pen_orientation_similarity": -0.09683163697767054,
+    "pen_goal_distance_m": 0.013372762931897427
+  },
+  {
+    "step": 133,
+    "success": false,
+    "reward": -0.11089115686121409,
+    "pen_orientation_similarity": -0.09768518389570031,
+    "pen_goal_distance_m": 0.013205972965513776
+  },
+  {
+    "step": 134,
+    "success": false,
+    "reward": -0.1133966509630694,
+    "pen_orientation_similarity": -0.09989311151088774,
+    "pen_goal_distance_m": 0.013503539452181662
+  },
+  {
+    "step": 135,
+    "success": false,
+    "reward": -0.11556654930921373,
+    "pen_orientation_similarity": -0.10164274605582324,
+    "pen_goal_distance_m": 0.013923803253390493
+  },
+  {
+    "step": 136,
+    "success": false,
+    "reward": -0.11737047250321597,
+    "pen_orientation_similarity": -0.10302541670855454,
+    "pen_goal_distance_m": 0.014345055794661436
+  },
+  {
+    "step": 137,
+    "success": false,
+    "reward": -0.1185671138697028,
+    "pen_orientation_similarity": -0.10385083633834477,
+    "pen_goal_distance_m": 0.01471627753135803
+  },
+  {
+    "step": 138,
+    "success": false,
+    "reward": -0.11935025252112555,
+    "pen_orientation_similarity": -0.10432682870477505,
+    "pen_goal_distance_m": 0.015023423816350502
+  },
+  {
+    "step": 139,
+    "success": false,
+    "reward": -0.11966130039419368,
+    "pen_orientation_similarity": -0.10439612891860421,
+    "pen_goal_distance_m": 0.015265171475589472
+  },
+  {
+    "step": 140,
+    "success": false,
+    "reward": -0.11972203969011999,
+    "pen_orientation_similarity": -0.10427178272477089,
+    "pen_goal_distance_m": 0.015450256965349105
+  },
+  {
+    "step": 141,
+    "success": false,
+    "reward": -0.12550584051820002,
+    "pen_orientation_similarity": -0.11150682393275478,
+    "pen_goal_distance_m": 0.013999016585445232
+  },
+  {
+    "step": 142,
+    "success": false,
+    "reward": -0.14153446894411198,
+    "pen_orientation_similarity": -0.1299417779073952,
+    "pen_goal_distance_m": 0.011592691036716792
+  },
+  {
+    "step": 143,
+    "success": false,
+    "reward": -0.16960499876940738,
+    "pen_orientation_similarity": -0.15493424345964543,
+    "pen_goal_distance_m": 0.014670755309761948
+  },
+  {
+    "step": 144,
+    "success": false,
+    "reward": -0.20478273077188616,
+    "pen_orientation_similarity": -0.18180001301454662,
+    "pen_goal_distance_m": 0.02298271775733953
+  },
+  {
+    "step": 145,
+    "success": false,
+    "reward": -0.24221806934950632,
+    "pen_orientation_similarity": -0.20931055472682128,
+    "pen_goal_distance_m": 0.03290751462268505
+  },
+  {
+    "step": 146,
+    "success": false,
+    "reward": -0.27760101827851796,
+    "pen_orientation_similarity": -0.2347979497583122,
+    "pen_goal_distance_m": 0.04280306852020578
+  },
+  {
+    "step": 147,
+    "success": false,
+    "reward": -0.3095782931052614,
+    "pen_orientation_similarity": -0.2577898538573702,
+    "pen_goal_distance_m": 0.05178843924789122
+  },
+  {
+    "step": 148,
+    "success": false,
+    "reward": -0.3376977060902625,
+    "pen_orientation_similarity": -0.27823925213654527,
+    "pen_goal_distance_m": 0.059458453953717245
+  },
+  {
+    "step": 149,
+    "success": false,
+    "reward": -0.3617158546887318,
+    "pen_orientation_similarity": -0.2960227356285449,
+    "pen_goal_distance_m": 0.06569311906018688
+  },
+  {
+    "step": 150,
+    "success": false,
+    "reward": -0.38152843652503476,
+    "pen_orientation_similarity": -0.31100404940764537,
+    "pen_goal_distance_m": 0.07052438711738943
+  },
+  {
+    "step": 151,
+    "success": false,
+    "reward": -0.3958445721359792,
+    "pen_orientation_similarity": -0.3219897859730641,
+    "pen_goal_distance_m": 0.07385478616291506
+  },
+  {
+    "step": 152,
+    "success": false,
+    "reward": -0.39986026677341713,
+    "pen_orientation_similarity": -0.3247746989918014,
+    "pen_goal_distance_m": 0.07508556778161575
+  },
+  {
+    "step": 153,
+    "success": false,
+    "reward": -0.3984714264370725,
+    "pen_orientation_similarity": -0.32311924457577523,
+    "pen_goal_distance_m": 0.07535218186129726
+  },
+  {
+    "step": 154,
+    "success": false,
+    "reward": -0.39675495015423384,
+    "pen_orientation_similarity": -0.32137963869737063,
+    "pen_goal_distance_m": 0.0753753114568632
+  },
+  {
+    "step": 155,
+    "success": false,
+    "reward": -0.3981281707218741,
+    "pen_orientation_similarity": -0.32256288644712205,
+    "pen_goal_distance_m": 0.07556528427475208
+  },
+  {
+    "step": 156,
+    "success": false,
+    "reward": -0.398836184234877,
+    "pen_orientation_similarity": -0.32323626783995585,
+    "pen_goal_distance_m": 0.07559991639492117
+  },
+  {
+    "step": 157,
+    "success": false,
+    "reward": -0.3982109528237235,
+    "pen_orientation_similarity": -0.32274779581934676,
+    "pen_goal_distance_m": 0.07546315700437672
+  },
+  {
+    "step": 158,
+    "success": false,
+    "reward": -0.39748812256624716,
+    "pen_orientation_similarity": -0.3222301833701327,
+    "pen_goal_distance_m": 0.07525793919611445
+  },
+  {
+    "step": 159,
+    "success": false,
+    "reward": -0.39694640406503995,
+    "pen_orientation_similarity": -0.321914798469996,
+    "pen_goal_distance_m": 0.07503160559504395
+  },
+  {
+    "step": 160,
+    "success": false,
+    "reward": -0.39678272786900576,
+    "pen_orientation_similarity": -0.3219734560821832,
+    "pen_goal_distance_m": 0.07480927178682256
+  },
+  {
+    "step": 161,
+    "success": false,
+    "reward": -0.4015441553848263,
+    "pen_orientation_similarity": -0.32697658968946425,
+    "pen_goal_distance_m": 0.07456756569536205
+  },
+  {
+    "step": 162,
+    "success": false,
+    "reward": -0.41490182030478484,
+    "pen_orientation_similarity": -0.3403877159589457,
+    "pen_goal_distance_m": 0.07451410434583917
+  },
+  {
+    "step": 163,
+    "success": false,
+    "reward": -0.4317946839985807,
+    "pen_orientation_similarity": -0.35662921624595706,
+    "pen_goal_distance_m": 0.07516546775262362
+  },
+  {
+    "step": 164,
+    "success": false,
+    "reward": -0.44881121277675246,
+    "pen_orientation_similarity": -0.3718786190153947,
+    "pen_goal_distance_m": 0.07693259376135775
+  },
+  {
+    "step": 165,
+    "success": false,
+    "reward": -0.4628186578988024,
+    "pen_orientation_similarity": -0.3829604349662589,
+    "pen_goal_distance_m": 0.07985822293254345
+  },
+  {
+    "step": 166,
+    "success": false,
+    "reward": -0.47253991512661575,
+    "pen_orientation_similarity": -0.38885776494974045,
+    "pen_goal_distance_m": 0.0836821501768753
+  },
+  {
+    "step": 167,
+    "success": false,
+    "reward": -0.47752043584923476,
+    "pen_orientation_similarity": -0.3894964455746521,
+    "pen_goal_distance_m": 0.08802399027458269
+  },
+  {
+    "step": 168,
+    "success": false,
+    "reward": -0.477975976625007,
+    "pen_orientation_similarity": -0.3854947020329209,
+    "pen_goal_distance_m": 0.09248127459208608
+  },
+  {
+    "step": 169,
+    "success": false,
+    "reward": -0.474433488812883,
+    "pen_orientation_similarity": -0.37769641157147654,
+    "pen_goal_distance_m": 0.09673707724140647
+  },
+  {
+    "step": 170,
+    "success": false,
+    "reward": -0.4676960109581698,
+    "pen_orientation_similarity": -0.36712931493507034,
+    "pen_goal_distance_m": 0.10056669602309948
+  },
+  {
+    "step": 171,
+    "success": false,
+    "reward": -0.4587681687431051,
+    "pen_orientation_similarity": -0.35490620298985764,
+    "pen_goal_distance_m": 0.10386196575324746
+  },
+  {
+    "step": 172,
+    "success": false,
+    "reward": -0.44850448961337375,
+    "pen_orientation_similarity": -0.3420619857005718,
+    "pen_goal_distance_m": 0.10644250391280194
+  },
+  {
+    "step": 173,
+    "success": false,
+    "reward": -0.4366967070949958,
+    "pen_orientation_similarity": -0.3288575952817041,
+    "pen_goal_distance_m": 0.1078391118132917
+  },
+  {
+    "step": 174,
+    "success": false,
+    "reward": -0.4253958386456285,
+    "pen_orientation_similarity": -0.31673388368211913,
+    "pen_goal_distance_m": 0.10866195496350937
+  },
+  {
+    "step": 175,
+    "success": false,
+    "reward": -0.4181587903706666,
+    "pen_orientation_similarity": -0.30915708027827454,
+    "pen_goal_distance_m": 0.10900171009239207
+  },
+  {
+    "step": 176,
+    "success": false,
+    "reward": -0.41495027681748764,
+    "pen_orientation_similarity": -0.30592946012572264,
+    "pen_goal_distance_m": 0.10902081669176497
+  },
+  {
+    "step": 177,
+    "success": false,
+    "reward": -0.4142551382880326,
+    "pen_orientation_similarity": -0.3053695876195461,
+    "pen_goal_distance_m": 0.10888555066848653
+  },
+  {
+    "step": 178,
+    "success": false,
+    "reward": -0.41468248243459993,
+    "pen_orientation_similarity": -0.30597397750851874,
+    "pen_goal_distance_m": 0.10870850492608117
+  },
+  {
+    "step": 179,
+    "success": false,
+    "reward": -0.41581034869908917,
+    "pen_orientation_similarity": -0.30728929384681014,
+    "pen_goal_distance_m": 0.10852105485227906
+  },
+  {
+    "step": 180,
+    "success": false,
+    "reward": -0.41733352357705306,
+    "pen_orientation_similarity": -0.30899529380080204,
+    "pen_goal_distance_m": 0.108338229776251
+  },
+  {
+    "step": 181,
+    "success": false,
+    "reward": -0.41346096806209953,
+    "pen_orientation_similarity": -0.30577662213024026,
+    "pen_goal_distance_m": 0.1076843459318593
+  },
+  {
+    "step": 182,
+    "success": false,
+    "reward": -0.40053326071519796,
+    "pen_orientation_similarity": -0.29436919513219095,
+    "pen_goal_distance_m": 0.10616406558300699
+  },
+  {
+    "step": 183,
+    "success": false,
+    "reward": -0.38495719863840283,
+    "pen_orientation_similarity": -0.28075284578208765,
+    "pen_goal_distance_m": 0.10420435285631519
+  },
+  {
+    "step": 184,
+    "success": false,
+    "reward": -0.3684538973511609,
+    "pen_orientation_similarity": -0.2664542322830226,
+    "pen_goal_distance_m": 0.1019996650681383
+  },
+  {
+    "step": 185,
+    "success": false,
+    "reward": -0.3529422131012798,
+    "pen_orientation_similarity": -0.25317715277361796,
+    "pen_goal_distance_m": 0.09976506032766186
+  },
+  {
+    "step": 186,
+    "success": false,
+    "reward": -0.33891905433323044,
+    "pen_orientation_similarity": -0.24131218938718862,
+    "pen_goal_distance_m": 0.09760686494604179
+  },
+  {
+    "step": 187,
+    "success": false,
+    "reward": -0.32658224182192097,
+    "pen_orientation_similarity": -0.23099583247945907,
+    "pen_goal_distance_m": 0.09558640934246189
+  },
+  {
+    "step": 188,
+    "success": false,
+    "reward": -0.3188414514198583,
+    "pen_orientation_similarity": -0.22511684470283946,
+    "pen_goal_distance_m": 0.09372460671701882
+  },
+  {
+    "step": 189,
+    "success": false,
+    "reward": -0.31571983281872795,
+    "pen_orientation_similarity": -0.22369176940602653,
+    "pen_goal_distance_m": 0.0920280634127014
+  },
+  {
+    "step": 190,
+    "success": false,
+    "reward": -0.3155927013606137,
+    "pen_orientation_similarity": -0.22508308461086526,
+    "pen_goal_distance_m": 0.0905096167497484
+  },
+  {
+    "step": 191,
+    "success": false,
+    "reward": -0.3171789382755594,
+    "pen_orientation_similarity": -0.22795737310100847,
+    "pen_goal_distance_m": 0.0892215651745509
+  },
+  {
+    "step": 192,
+    "success": false,
+    "reward": -0.31917267314259534,
+    "pen_orientation_similarity": -0.23095536426670624,
+    "pen_goal_distance_m": 0.08821730887588909
+  },
+  {
+    "step": 193,
+    "success": false,
+    "reward": -0.3212749481670733,
+    "pen_orientation_similarity": -0.2338442969224364,
+    "pen_goal_distance_m": 0.08743065124463689
+  },
+  {
+    "step": 194,
+    "success": false,
+    "reward": -0.32325346241510194,
+    "pen_orientation_similarity": -0.23642555981509636,
+    "pen_goal_distance_m": 0.0868279026000056
+  },
+  {
+    "step": 195,
+    "success": false,
+    "reward": -0.32497495262346077,
+    "pen_orientation_similarity": -0.23858282372046904,
+    "pen_goal_distance_m": 0.0863921289029917
+  },
+  {
+    "step": 196,
+    "success": false,
+    "reward": -0.32607243398119645,
+    "pen_orientation_similarity": -0.23995635679972033,
+    "pen_goal_distance_m": 0.08611607718147615
+  },
+  {
+    "step": 197,
+    "success": false,
+    "reward": -0.32643933789897767,
+    "pen_orientation_similarity": -0.24045392620446593,
+    "pen_goal_distance_m": 0.08598541169451174
+  },
+  {
+    "step": 198,
+    "success": false,
+    "reward": -0.3264829115999628,
+    "pen_orientation_similarity": -0.24052605285792925,
+    "pen_goal_distance_m": 0.08595685874203357
+  },
+  {
+    "step": 199,
+    "success": false,
+    "reward": -0.32578571464617717,
+    "pen_orientation_similarity": -0.23972743171154975,
+    "pen_goal_distance_m": 0.0860582829346274
+  },
+  {
+    "step": 200,
+    "success": false,
+    "reward": -0.32466652985739275,
+    "pen_orientation_similarity": -0.23840865783120363,
+    "pen_goal_distance_m": 0.08625787202618912
+  },
+  {
+    "step": 201,
+    "success": false,
+    "reward": -0.3220389080319157,
+    "pen_orientation_similarity": -0.23525845908942636,
+    "pen_goal_distance_m": 0.08678044894248935
+  },
+  {
+    "step": 202,
+    "success": false,
+    "reward": -0.3180314557277512,
+    "pen_orientation_similarity": -0.23050758760764528,
+    "pen_goal_distance_m": 0.08752386812010593
+  },
+  {
+    "step": 203,
+    "success": false,
+    "reward": -0.315430243200853,
+    "pen_orientation_similarity": -0.2270781075022361,
+    "pen_goal_distance_m": 0.08835213569861693
+  },
+  {
+    "step": 204,
+    "success": false,
+    "reward": -0.31017035335070997,
+    "pen_orientation_similarity": -0.22238590604112127,
+    "pen_goal_distance_m": 0.08778444730958868
+  },
+  {
+    "step": 205,
+    "success": false,
+    "reward": -0.3028079271687596,
+    "pen_orientation_similarity": -0.21664081686793987,
+    "pen_goal_distance_m": 0.08616711030081975
+  },
+  {
+    "step": 206,
+    "success": false,
+    "reward": -0.297136636481127,
+    "pen_orientation_similarity": -0.21412526282285088,
+    "pen_goal_distance_m": 0.08301137365827607
+  },
+  {
+    "step": 207,
+    "success": false,
+    "reward": -0.2924535555671751,
+    "pen_orientation_similarity": -0.21331179659361618,
+    "pen_goal_distance_m": 0.07914175897355892
+  },
+  {
+    "step": 208,
+    "success": false,
+    "reward": -0.28790825572046935,
+    "pen_orientation_similarity": -0.21247138932897536,
+    "pen_goal_distance_m": 0.07543686639149398
+  },
+  {
+    "step": 209,
+    "success": false,
+    "reward": -0.28396711894582355,
+    "pen_orientation_similarity": -0.211904947043569,
+    "pen_goal_distance_m": 0.07206217190225456
+  },
+  {
+    "step": 210,
+    "success": false,
+    "reward": -0.28148970141417706,
+    "pen_orientation_similarity": -0.21231419728568005,
+    "pen_goal_distance_m": 0.069175504128497
+  },
+  {
+    "step": 211,
+    "success": false,
+    "reward": -0.27968379673118726,
+    "pen_orientation_similarity": -0.21302381272667142,
+    "pen_goal_distance_m": 0.06665998400451585
+  },
+  {
+    "step": 212,
+    "success": false,
+    "reward": -0.27594121374852293,
+    "pen_orientation_similarity": -0.2113415063872869,
+    "pen_goal_distance_m": 0.06459970736123602
+  },
+  {
+    "step": 213,
+    "success": false,
+    "reward": -0.2775696330018545,
+    "pen_orientation_similarity": -0.2144453658380221,
+    "pen_goal_distance_m": 0.0631242671638324
+  },
+  {
+    "step": 214,
+    "success": false,
+    "reward": -0.27910655107735544,
+    "pen_orientation_similarity": -0.21697743354731305,
+    "pen_goal_distance_m": 0.06212911753004236
+  },
+  {
+    "step": 215,
+    "success": false,
+    "reward": -0.2826326503810419,
+    "pen_orientation_similarity": -0.22116259316915057,
+    "pen_goal_distance_m": 0.06147005721189132
+  },
+  {
+    "step": 216,
+    "success": false,
+    "reward": -0.2867660348831792,
+    "pen_orientation_similarity": -0.2257016138337538,
+    "pen_goal_distance_m": 0.061064421049425395
+  },
+  {
+    "step": 217,
+    "success": false,
+    "reward": -0.2898158268304176,
+    "pen_orientation_similarity": -0.22897460604344233,
+    "pen_goal_distance_m": 0.060841220786975306
+  },
+  {
+    "step": 218,
+    "success": false,
+    "reward": -0.2914432233689154,
+    "pen_orientation_similarity": -0.23068325467247547,
+    "pen_goal_distance_m": 0.060759968696439945
+  },
+  {
+    "step": 219,
+    "success": false,
+    "reward": -0.29181223089948427,
+    "pen_orientation_similarity": -0.23101135515475446,
+    "pen_goal_distance_m": 0.0608008757447298
+  },
+  {
+    "step": 220,
+    "success": false,
+    "reward": -0.29113556502975474,
+    "pen_orientation_similarity": -0.23021158793700744,
+    "pen_goal_distance_m": 0.06092397709274729
+  },
+  {
+    "step": 221,
+    "success": false,
+    "reward": -0.2836558852169949,
+    "pen_orientation_similarity": -0.22297597043134845,
+    "pen_goal_distance_m": 0.06067991478564648
+  },
+  {
+    "step": 222,
+    "success": false,
+    "reward": -0.2628708263714902,
+    "pen_orientation_similarity": -0.20260348003183137,
+    "pen_goal_distance_m": 0.06026734633965879
+  },
+  {
+    "step": 223,
+    "success": false,
+    "reward": -0.23641639072646656,
+    "pen_orientation_similarity": -0.17535749026798983,
+    "pen_goal_distance_m": 0.06105890045847673
+  },
+  {
+    "step": 224,
+    "success": false,
+    "reward": -0.20974177563793214,
+    "pen_orientation_similarity": -0.14577587846340007,
+    "pen_goal_distance_m": 0.06396589717453208
+  },
+  {
+    "step": 225,
+    "success": false,
+    "reward": -0.1813768042514825,
+    "pen_orientation_similarity": -0.11209527088215618,
+    "pen_goal_distance_m": 0.06928153336932631
+  },
+  {
+    "step": 226,
+    "success": false,
+    "reward": -0.16000523401337355,
+    "pen_orientation_similarity": -0.08407029896189717,
+    "pen_goal_distance_m": 0.07593493505147637
+  },
+  {
+    "step": 227,
+    "success": false,
+    "reward": -0.1487203053668768,
+    "pen_orientation_similarity": -0.06580254040944825,
+    "pen_goal_distance_m": 0.08291776495742854
+  },
+  {
+    "step": 228,
+    "success": false,
+    "reward": -0.14496912410298773,
+    "pen_orientation_similarity": -0.05529509976544189,
+    "pen_goal_distance_m": 0.08967402433754584
+  },
+  {
+    "step": 229,
+    "success": false,
+    "reward": -0.14646145253684736,
+    "pen_orientation_similarity": -0.05064672323872891,
+    "pen_goal_distance_m": 0.09581472929811845
+  },
+  {
+    "step": 230,
+    "success": false,
+    "reward": -0.1514987309121648,
+    "pen_orientation_similarity": -0.0503273965841073,
+    "pen_goal_distance_m": 0.10117133432805749
+  },
+  {
+    "step": 231,
+    "success": false,
+    "reward": -0.15861202131402738,
+    "pen_orientation_similarity": -0.05289239829138554,
+    "pen_goal_distance_m": 0.10571962302264183
+  },
+  {
+    "step": 232,
+    "success": false,
+    "reward": -0.16757534349930345,
+    "pen_orientation_similarity": -0.05820077976688092,
+    "pen_goal_distance_m": 0.10937456373242252
+  },
+  {
+    "step": 233,
+    "success": false,
+    "reward": -0.17774970605017934,
+    "pen_orientation_similarity": -0.06528232719958564,
+    "pen_goal_distance_m": 0.1124673788505937
+  },
+  {
+    "step": 234,
+    "success": false,
+    "reward": -0.18761592577500213,
+    "pen_orientation_similarity": -0.07179027015447877,
+    "pen_goal_distance_m": 0.11582565562052338
+  },
+  {
+    "step": 235,
+    "success": false,
+    "reward": -0.19718555784638447,
+    "pen_orientation_similarity": -0.07772483599472332,
+    "pen_goal_distance_m": 0.11946072185166115
+  },
+  {
+    "step": 236,
+    "success": false,
+    "reward": -0.20649120623831102,
+    "pen_orientation_similarity": -0.08308726106089676,
+    "pen_goal_distance_m": 0.12340394517741425
+  },
+  {
+    "step": 237,
+    "success": false,
+    "reward": -0.2155829042455253,
+    "pen_orientation_similarity": -0.0878797724468949,
+    "pen_goal_distance_m": 0.12770313179863038
+  },
+  {
+    "step": 238,
+    "success": false,
+    "reward": -0.22452441212012608,
+    "pen_orientation_similarity": -0.0921055677033855,
+    "pen_goal_distance_m": 0.13241884441674057
+  },
+  {
+    "step": 239,
+    "success": false,
+    "reward": -0.22072887788708595,
+    "pen_orientation_similarity": -0.08392596000069524,
+    "pen_goal_distance_m": 0.1368029178863907
+  },
+  {
+    "step": 240,
+    "success": false,
+    "reward": -0.20589328440384952,
+    "pen_orientation_similarity": -0.0650618460396649,
+    "pen_goal_distance_m": 0.1408314383641846
+  },
+  {
+    "step": 241,
+    "success": false,
+    "reward": -0.19093446587822643,
+    "pen_orientation_similarity": -0.04584590922664546,
+    "pen_goal_distance_m": 0.145088556651581
+  },
+  {
+    "step": 242,
+    "success": false,
+    "reward": -0.17631954489294996,
+    "pen_orientation_similarity": -0.026691197037820746,
+    "pen_goal_distance_m": 0.1496283478551292
+  },
+  {
+    "step": 243,
+    "success": false,
+    "reward": -0.16210274716918735,
+    "pen_orientation_similarity": -0.007606586946709521,
+    "pen_goal_distance_m": 0.15449616022247784
+  },
+  {
+    "step": 244,
+    "success": false,
+    "reward": -0.14834864592989266,
+    "pen_orientation_similarity": 0.011399230110985604,
+    "pen_goal_distance_m": 0.15974787604087826
+  },
+  {
+    "step": 245,
+    "success": false,
+    "reward": -0.13512938978662817,
+    "pen_orientation_similarity": 0.03031775350598623,
+    "pen_goal_distance_m": 0.1654471432926144
+  },
+  {
+    "step": 246,
+    "success": false,
+    "reward": -0.12252195685605499,
+    "pen_orientation_similarity": 0.04914067642121286,
+    "pen_goal_distance_m": 0.17166263327726786
+  },
+  {
+    "step": 247,
+    "success": false,
+    "reward": -0.11060548670774505,
+    "pen_orientation_similarity": 0.06785988910255981,
+    "pen_goal_distance_m": 0.17846537581030486
+  },
+  {
+    "step": 248,
+    "success": false,
+    "reward": -0.09945877190474312,
+    "pen_orientation_similarity": 0.08646748186218392,
+    "pen_goal_distance_m": 0.18592625376692704
+  },
+  {
+    "step": 249,
+    "success": false,
+    "reward": -0.08915800839822427,
+    "pen_orientation_similarity": 0.10495574784154321,
+    "pen_goal_distance_m": 0.19411375623976748
+  },
+  {
+    "step": 250,
+    "success": false,
+    "reward": -0.07977490268113427,
+    "pen_orientation_similarity": 0.12331718554110163,
+    "pen_goal_distance_m": 0.2030920882222359
+  },
+  {
+    "step": 251,
+    "success": false,
+    "reward": -0.0713752125078338,
+    "pen_orientation_similarity": 0.14154450112329786,
+    "pen_goal_distance_m": 0.21291971363113166
+  },
+  {
+    "step": 252,
+    "success": false,
+    "reward": -0.06401776165300291,
+    "pen_orientation_similarity": 0.1596306104950693,
+    "pen_goal_distance_m": 0.2236483721480722
+  },
+  {
+    "step": 253,
+    "success": false,
+    "reward": -0.057753925941129464,
+    "pen_orientation_similarity": 0.17756864117590712,
+    "pen_goal_distance_m": 0.23532256711703659
+  },
+  {
+    "step": 254,
+    "success": false,
+    "reward": -0.05262754701713712,
+    "pen_orientation_similarity": 0.19535193395709916,
+    "pen_goal_distance_m": 0.24797948097423628
+  },
+  {
+    "step": 255,
+    "success": false,
+    "reward": -0.04867519965324091,
+    "pen_orientation_similarity": 0.21297404435751766,
+    "pen_goal_distance_m": 0.26164924401075856
+  },
+  {
+    "step": 256,
+    "success": false,
+    "reward": -5.045926721784579,
+    "pen_orientation_similarity": 0.23042874388100135,
+    "pen_goal_distance_m": 0.27635546566558084
+  },
+  {
+    "step": 257,
+    "success": false,
+    "reward": -5.047765860032419,
+    "pen_orientation_similarity": 0.24237085735895014,
+    "pen_goal_distance_m": 0.29013671739136926
+  },
+  {
+    "step": 258,
+    "success": false,
+    "reward": -5.070221157430726,
+    "pen_orientation_similarity": 0.22428395905630924,
+    "pen_goal_distance_m": 0.29450511648703565
+  },
+  {
+    "step": 259,
+    "success": false,
+    "reward": -5.106131334594917,
+    "pen_orientation_similarity": 0.1882509263756565,
+    "pen_goal_distance_m": 0.2943822609705727
+  },
+  {
+    "step": 260,
+    "success": false,
+    "reward": -5.1491371434904,
+    "pen_orientation_similarity": 0.14377735032753908,
+    "pen_goal_distance_m": 0.2929144938179383
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "seed": 0,
+  "episode_id": null,
+  "provider": "codex",
+  "task": "gripper_lift",
+  "instruction": "Grasp the small red cube with the gripper and lift it clearly above the table. Keep holding it above the table.",
+  "dataset_path": null,
+  "requested_model": "gpt-6-astra",
+  "reasoning": "medium",
+  "request_timeout_seconds": 240.0,
+  "request_retries": 1,
+  "max_calls": 40,
+  "max_steps": 800,
+  "max_repeat": 10
+}

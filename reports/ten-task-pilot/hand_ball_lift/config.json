@@ -1,0 +1,15 @@
+{
+  "seed": 0,
+  "episode_id": null,
+  "provider": "codex",
+  "task": "hand_ball_lift",
+  "instruction": "Grasp the blue ball and lift its center above 10 cm from the tabletop; keep it raised for at least five control steps.",
+  "dataset_path": null,
+  "requested_model": "gpt-6-astra",
+  "reasoning": "medium",
+  "request_timeout_seconds": 240.0,
+  "request_retries": 1,
+  "max_calls": 40,
+  "max_steps": 800,
+  "max_repeat": 20
+}

@@ -1,0 +1,15 @@
+{
+  "seed": 3,
+  "episode_id": null,
+  "provider": "codex",
+  "task": "bullet_pick_place",
+  "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+  "dataset_path": null,
+  "requested_model": "gpt-6-astra",
+  "reasoning": "medium",
+  "request_timeout_seconds": 240,
+  "request_retries": 1,
+  "max_calls": 40,
+  "max_steps": 800,
+  "max_repeat": 10
+}

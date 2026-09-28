@@ -1,0 +1,15 @@
+{
+  "seed": 0,
+  "episode_id": null,
+  "provider": "codex",
+  "task": "gripper_stack",
+  "instruction": "Pick up the small red cube, place it on top of the larger green cube, release it, and move the gripper away. Leave the red cube resting on the green cube.",
+  "dataset_path": null,
+  "requested_model": "gpt-6-astra",
+  "reasoning": "medium",
+  "request_timeout_seconds": 240.0,
+  "request_retries": 1,
+  "max_calls": 40,
+  "max_steps": 800,
+  "max_repeat": 10
+}

@@ -1,0 +1,39 @@
+{
+  "source_run": "runs/ten-task-pilot/hand_pen",
+  "title": "Hand \u00b7 pen reorientation",
+  "frames": 261,
+  "simulation_seconds": 2.6,
+  "video_seconds": 20.0,
+  "fps": 13.05,
+  "resolution": [
+    1920,
+    1536
+  ],
+  "camera_panel_height": 768,
+  "request_waits_in_video": false,
+  "action_alignment": "frame 0 reset; input step k action starts frame k+1",
+  "gif": {
+    "width": 640,
+    "fps": 6,
+    "colors": 128,
+    "bytes": 957904,
+    "timeline_seconds": 20.0
+  },
+  "result": {
+    "provider": "codex",
+    "task": "hand_pen",
+    "seed": 0,
+    "episode_id": null,
+    "status": "model_stopped",
+    "error": null,
+    "success_any_step": false,
+    "success_final_step": false,
+    "longest_success_hold_steps": 0,
+    "control_steps": 260,
+    "model_calls": 14,
+    "validated_decisions": 14,
+    "wall_seconds": 259.44897441899593,
+    "is_astra_trial": true,
+    "evaluation_scope": "task_completion_under_authored_instruction"
+  }
+}

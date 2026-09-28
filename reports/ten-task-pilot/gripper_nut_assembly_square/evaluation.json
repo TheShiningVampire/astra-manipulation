@@ -1,0 +1,1082 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 3,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 4,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 5,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 6,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 7,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 8,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 9,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 10,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 11,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 12,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 13,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 14,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 15,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 16,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 17,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 18,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 19,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 20,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 21,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 22,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 23,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 24,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 25,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 26,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 27,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 28,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 29,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 30,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 31,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 32,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 33,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 34,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 35,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 36,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 37,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 38,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 39,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 40,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 41,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 42,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 43,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 44,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 45,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 46,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 47,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 48,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 49,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 50,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 51,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 52,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 53,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 54,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 55,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 56,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 57,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 58,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 59,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 60,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 61,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 62,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 63,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 64,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 65,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 66,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 67,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 68,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 69,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 70,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 71,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 72,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 73,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 74,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 75,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 76,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 77,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 78,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 79,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 80,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 81,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 82,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 83,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 84,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 85,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 86,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 87,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 88,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 89,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 90,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 91,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 92,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 93,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 94,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 95,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 96,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 97,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 98,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 99,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 100,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 101,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 102,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 103,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 104,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 105,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 106,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 107,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 108,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 109,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 110,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 111,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 112,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 113,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 114,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 115,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 116,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 117,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 118,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 119,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 120,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 121,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 122,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 123,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 124,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 125,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 126,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 127,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 128,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 129,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 130,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 131,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 132,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 133,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 134,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 135,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 136,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 137,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 138,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 139,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 140,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 141,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 142,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 143,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 144,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 145,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 146,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 147,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 148,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 149,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 150,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 151,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 152,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 153,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 154,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 155,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 156,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 157,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 158,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 159,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 160,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 161,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 162,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 163,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 164,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 165,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 166,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 167,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 168,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 169,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 170,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 171,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 172,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 173,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 174,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 175,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 176,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 177,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 178,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 179,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  },
+  {
+    "step": 180,
+    "success": false,
+    "reward": 0.0,
+    "task": "nut_assembly_square"
+  }
+]

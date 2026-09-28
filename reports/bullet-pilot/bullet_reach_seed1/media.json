@@ -1,0 +1,39 @@
+{
+  "source_run": "runs/bullet-pilot/bullet_reach_seed1",
+  "title": "PyBullet \u00b7 reach seed1",
+  "frames": 4,
+  "simulation_seconds": 0.12,
+  "video_seconds": 20.0,
+  "fps": 0.2,
+  "resolution": [
+    1920,
+    1536
+  ],
+  "camera_panel_height": 768,
+  "request_waits_in_video": false,
+  "action_alignment": "frame 0 reset; input step k action starts frame k+1",
+  "gif": {
+    "width": 640,
+    "fps": 6,
+    "colors": 128,
+    "bytes": 121818,
+    "timeline_seconds": 20.0
+  },
+  "result": {
+    "provider": "codex",
+    "task": "bullet_reach",
+    "seed": 1,
+    "episode_id": null,
+    "status": "environment_terminal",
+    "error": null,
+    "success_any_step": true,
+    "success_final_step": true,
+    "longest_success_hold_steps": 1,
+    "control_steps": 3,
+    "model_calls": 1,
+    "validated_decisions": 1,
+    "wall_seconds": 17.50870002999727,
+    "is_astra_trial": true,
+    "evaluation_scope": "task_completion_under_authored_instruction"
+  }
+}

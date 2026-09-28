@@ -1,0 +1,98 @@
+[
+  {
+    "task": "bullet_reach",
+    "title": "PyBullet \u00b7 reach",
+    "source_run": "runs/bullet-pilot/bullet_reach",
+    "instruction": "Move the closed gripper's tip into the magenta target sphere.",
+    "outcome": "Success at end",
+    "result": {
+      "provider": "codex",
+      "task": "bullet_reach",
+      "seed": 0,
+      "episode_id": null,
+      "status": "environment_terminal",
+      "error": null,
+      "success_any_step": true,
+      "success_final_step": true,
+      "longest_success_hold_steps": 1,
+      "control_steps": 3,
+      "model_calls": 1,
+      "validated_decisions": 1,
+      "wall_seconds": 19.074274749000324,
+      "is_astra_trial": true,
+      "evaluation_scope": "task_completion_under_authored_instruction"
+    }
+  },
+  {
+    "task": "bullet_reach_seed1",
+    "title": "PyBullet \u00b7 reach seed1",
+    "source_run": "runs/bullet-pilot/bullet_reach_seed1",
+    "instruction": "Move the closed gripper's tip into the magenta target sphere.",
+    "outcome": "Success at end",
+    "result": {
+      "provider": "codex",
+      "task": "bullet_reach",
+      "seed": 1,
+      "episode_id": null,
+      "status": "environment_terminal",
+      "error": null,
+      "success_any_step": true,
+      "success_final_step": true,
+      "longest_success_hold_steps": 1,
+      "control_steps": 3,
+      "model_calls": 1,
+      "validated_decisions": 1,
+      "wall_seconds": 17.50870002999727,
+      "is_astra_trial": true,
+      "evaluation_scope": "task_completion_under_authored_instruction"
+    }
+  },
+  {
+    "task": "bullet_reach_seed2",
+    "title": "PyBullet \u00b7 reach seed2",
+    "source_run": "runs/bullet-pilot/bullet_reach_seed2",
+    "instruction": "Move the closed gripper's tip into the magenta target sphere.",
+    "outcome": "Success at end",
+    "result": {
+      "provider": "codex",
+      "task": "bullet_reach",
+      "seed": 2,
+      "episode_id": null,
+      "status": "environment_terminal",
+      "error": null,
+      "success_any_step": true,
+      "success_final_step": true,
+      "longest_success_hold_steps": 1,
+      "control_steps": 3,
+      "model_calls": 1,
+      "validated_decisions": 1,
+      "wall_seconds": 18.61238877299911,
+      "is_astra_trial": true,
+      "evaluation_scope": "task_completion_under_authored_instruction"
+    }
+  },
+  {
+    "task": "bullet_pick_place",
+    "title": "PyBullet \u00b7 pick place",
+    "source_run": "runs/bullet-pilot/bullet_pick_place",
+    "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+    "outcome": "Success at end",
+    "result": {
+      "provider": "codex",
+      "task": "bullet_pick_place",
+      "seed": 3,
+      "episode_id": null,
+      "status": "environment_terminal",
+      "error": null,
+      "success_any_step": true,
+      "success_final_step": true,
+      "longest_success_hold_steps": 1,
+      "control_steps": 25,
+      "model_calls": 10,
+      "validated_decisions": 10,
+      "wall_seconds": 170.4026060230026,
+      "is_astra_trial": true,
+      "evaluation_scope": "task_completion_under_authored_instruction"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    "gripper_lift",
+    "hand_ball_lift",
+    "gripper_stack",
+    "hand_relocate",
+    "gripper_door",
+    "hand_door",
+    "gripper_nut_assembly_square",
+    "hand_hammer",
+    "gripper_pick_place_can",
+    "hand_pen"
+  ],
+  "seed": 0,
+  "trials_per_task": 1,
+  "max_decisions": 40,
+  "max_steps": 800,
+  "hand_image_size": 768,
+  "gripper_image_size": 512,
+  "request_timeout_seconds": 240,
+  "timeout_retries": 1,
+  "reasoning": "medium",
+  "model": "gpt-6-astra"
+}

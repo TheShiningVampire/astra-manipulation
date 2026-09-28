@@ -1,0 +1,39 @@
+{
+  "source_run": "runs/ten-task-pilot/gripper_nut_assembly_square",
+  "title": "Gripper \u00b7 square nut assembly",
+  "frames": 181,
+  "simulation_seconds": 9.0,
+  "video_seconds": 20.0,
+  "fps": 9.05,
+  "resolution": [
+    1920,
+    1536
+  ],
+  "camera_panel_height": 768,
+  "request_waits_in_video": false,
+  "action_alignment": "frame 0 reset; input step k action starts frame k+1",
+  "gif": {
+    "width": 640,
+    "fps": 6,
+    "colors": 128,
+    "bytes": 4271405,
+    "timeline_seconds": 20.0
+  },
+  "result": {
+    "provider": "codex",
+    "task": "gripper_nut_assembly_square",
+    "seed": 0,
+    "episode_id": null,
+    "status": "model_stopped",
+    "error": null,
+    "success_any_step": false,
+    "success_final_step": false,
+    "longest_success_hold_steps": 0,
+    "control_steps": 180,
+    "model_calls": 40,
+    "validated_decisions": 40,
+    "wall_seconds": 481.5450197659993,
+    "is_astra_trial": true,
+    "evaluation_scope": "task_completion_under_authored_instruction"
+  }
+}

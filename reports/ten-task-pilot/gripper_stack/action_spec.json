@@ -1,0 +1,32 @@
+{
+  "names": [
+    "delta_x",
+    "delta_y",
+    "delta_z",
+    "delta_rx",
+    "delta_ry",
+    "delta_rz",
+    "gripper"
+  ],
+  "low": [
+    -1.0,
+    -1.0,
+    -1.0,
+    -1.0,
+    -1.0,
+    -1.0,
+    -1.0
+  ],
+  "high": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "dimension": 7,
+  "control_dt": 0.05,
+  "semantics": "Normalized robot BASE-frame end-effector pose DELTAS, not absolute positions. Translation scale 0.05 meters; rotation scale 0.5 radians. Gripper -1 opens, +1 closes. One command advances one control interval. Encoder/FK-derived eef_pos is the gripper site WORLD position; eef_quat is the end-effector BODY WORLD quaternion in xyzw order (body and site frames can differ). Camera images provide all object and target information."
+}

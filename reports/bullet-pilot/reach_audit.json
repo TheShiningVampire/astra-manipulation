@@ -1,0 +1,60 @@
+{
+  "evaluation_only": true,
+  "policy_feedback": false,
+  "method": "Independent fresh BulletTaskEnvironment reset at each seed, then exact recorded Astra command replay; no model call during audit. Camera resolution 64 for audit speed; physics unchanged.",
+  "all_initial_states_unsuccessful": true,
+  "all_three_goal_positions_distinct": true,
+  "all_replayed_evaluations_exactly_match_recorded_logs": true,
+  "policy_boundary": "Robot joints, end-effector pose/velocity, finger width, fixed calibrated RGB. Native achieved_goal and desired_goal accessed for evaluation only.",
+  "limitation": "Three easy three-coordinate reach trials with 5 cm tolerance; no grasping or dexterity claim and no controlled simulator comparison.",
+  "runs": [
+    {
+      "seed": 0,
+      "source_run": "runs/bullet-pilot/bullet_reach",
+      "initial_eef_position_world": [0.0384396701101811, -2.194472194883551e-12, 0.19740014349589585],
+      "initial_goal_world": [0.04108850619643628, -0.06906398587083891, 0.012292057180858407],
+      "initial_distance_m": 0.19759011639222118,
+      "success_threshold_m": 0.05,
+      "initial_success": false,
+      "decision": {"action": [0.015, -0.45, -1.0], "repeat": 3, "done": false},
+      "replayed_evaluation": [
+        {"step": 1, "success": false, "reward": -1.0, "goal_distance_m": 0.16871639187362286},
+        {"step": 2, "success": false, "reward": -1.0, "goal_distance_m": 0.10717059650414126},
+        {"step": 3, "success": true, "reward": -0.0, "goal_distance_m": 0.047494692881039996}
+      ],
+      "exact_evaluation_match": true
+    },
+    {
+      "seed": 1,
+      "source_run": "runs/bullet-pilot/bullet_reach_seed1",
+      "initial_eef_position_world": [0.0384396701101811, -2.194472194883551e-12, 0.19740014349589585],
+      "initial_goal_world": [0.003546487410077015, 0.1351391088977806, 0.04324788381589012],
+      "initial_distance_m": 0.20794959032821894,
+      "success_threshold_m": 0.05,
+      "initial_success": false,
+      "decision": {"action": [-0.23, 0.9, -1.0], "repeat": 3, "done": false},
+      "replayed_evaluation": [
+        {"step": 1, "success": false, "reward": -1.0, "goal_distance_m": 0.1711000948252353},
+        {"step": 2, "success": false, "reward": -1.0, "goal_distance_m": 0.09712242973144862},
+        {"step": 3, "success": true, "reward": -0.0, "goal_distance_m": 0.03327091316049535}
+      ],
+      "exact_evaluation_match": true
+    },
+    {
+      "seed": 2,
+      "source_run": "runs/bullet-pilot/bullet_reach_seed2",
+      "initial_eef_position_world": [0.0384396701101811, -2.194472194883551e-12, 0.19740014349589585],
+      "initial_goal_world": [-0.07151635972520508, -0.060452656975763006, 0.24426772217828407],
+      "initial_distance_m": 0.13394559404427656,
+      "success_threshold_m": 0.05,
+      "initial_success": false,
+      "decision": {"action": [-1, -0.55, 0.44], "repeat": 3, "done": false},
+      "replayed_evaluation": [
+        {"step": 1, "success": false, "reward": -1.0, "goal_distance_m": 0.09512210975024118},
+        {"step": 2, "success": false, "reward": -1.0, "goal_distance_m": 0.05321484435546738},
+        {"step": 3, "success": true, "reward": -0.0, "goal_distance_m": 0.02579560431323432}
+      ],
+      "exact_evaluation_match": true
+    }
+  ]
+}

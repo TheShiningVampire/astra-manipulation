@@ -1,0 +1,1040 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 3,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 4,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 5,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 6,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 7,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 8,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 9,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 10,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 11,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 12,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 13,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 14,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 15,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 16,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 17,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 18,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 19,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 20,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 21,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 22,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 23,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 24,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 25,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 26,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 27,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 28,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 29,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 30,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 31,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 32,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 33,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 34,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 35,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 36,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 37,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 38,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 39,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 40,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 41,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 42,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 43,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 44,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 45,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 46,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 47,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 48,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 49,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 50,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 51,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 52,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 53,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 54,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 55,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 56,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 57,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 58,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 59,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 60,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 61,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 62,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 63,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 64,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 65,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 66,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 67,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 68,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 69,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 70,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 71,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 72,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 73,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 74,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 75,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 76,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 77,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 78,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 79,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 80,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 81,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 82,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 83,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 84,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 85,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 86,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 87,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 88,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 89,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 90,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 91,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 92,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 93,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 94,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 95,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 96,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 97,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 98,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 99,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 100,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 101,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 102,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 103,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 104,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 105,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 106,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 107,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 108,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 109,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 110,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 111,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 112,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 113,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 114,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 115,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 116,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 117,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 118,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 119,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 120,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 121,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 122,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 123,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 124,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 125,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 126,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 127,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 128,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 129,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 130,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 131,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 132,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 133,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 134,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 135,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 136,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 137,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 138,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 139,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 140,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 141,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 142,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 143,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 144,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 145,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 146,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 147,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 148,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 149,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 150,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 151,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 152,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 153,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 154,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 155,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 156,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 157,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 158,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 159,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 160,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 161,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 162,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 163,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 164,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 165,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 166,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 167,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 168,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 169,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 170,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 171,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 172,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  },
+  {
+    "step": 173,
+    "success": false,
+    "reward": 0.0,
+    "task": "lift"
+  }
+]

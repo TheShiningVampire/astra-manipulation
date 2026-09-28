@@ -1,0 +1,1703 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.3936787857435293e-09
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.3415742108889625e-09
+  },
+  {
+    "step": 3,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 8.360036693535903e-09
+  },
+  {
+    "step": 4,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.1443815085865596e-08
+  },
+  {
+    "step": 5,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.4590348114164514e-08
+  },
+  {
+    "step": 6,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.7797150483123915e-08
+  },
+  {
+    "step": 7,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.1061797152779467e-08
+  },
+  {
+    "step": 8,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.438192194664737e-08
+  },
+  {
+    "step": 9,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.7755216266283368e-08
+  },
+  {
+    "step": 10,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.11794278335452e-08
+  },
+  {
+    "step": 11,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.4652359459555664e-08
+  },
+  {
+    "step": 12,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.817186783980169e-08
+  },
+  {
+    "step": 13,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.173586237481866e-08
+  },
+  {
+    "step": 14,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.5342304015921137e-08
+  },
+  {
+    "step": 15,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.8989204135452336e-08
+  },
+  {
+    "step": 16,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.2674623421035596e-08
+  },
+  {
+    "step": 17,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.6396670793322435e-08
+  },
+  {
+    "step": 18,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.015350234674181e-08
+  },
+  {
+    "step": 19,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.394332031276608e-08
+  },
+  {
+    "step": 20,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.776437204521937e-08
+  },
+  {
+    "step": 21,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 7.161494902716326e-08
+  },
+  {
+    "step": 22,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 7.54933858989058e-08
+  },
+  {
+    "step": 23,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 7.939805950668822e-08
+  },
+  {
+    "step": 24,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 8.332738797161359e-08
+  },
+  {
+    "step": 25,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 8.727982977839077e-08
+  },
+  {
+    "step": 26,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 9.125388288347616e-08
+  },
+  {
+    "step": 27,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 9.524808384220406e-08
+  },
+  {
+    "step": 28,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 9.926100695450564e-08
+  },
+  {
+    "step": 29,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.0329126342882444e-07
+  },
+  {
+    "step": 30,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.0733750056384481e-07
+  },
+  {
+    "step": 31,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.1139840094765761e-07
+  },
+  {
+    "step": 32,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.154726816739958e-07
+  },
+  {
+    "step": 33,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.195590935751796e-07
+  },
+  {
+    "step": 34,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.2365642047141933e-07
+  },
+  {
+    "step": 35,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.2776347843613021e-07
+  },
+  {
+    "step": 36,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.3187911507692206e-07
+  },
+  {
+    "step": 37,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.3600220883193325e-07
+  },
+  {
+    "step": 38,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.4013166828118483e-07
+  },
+  {
+    "step": 39,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.4426643147263835e-07
+  },
+  {
+    "step": 40,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.4840546526264697e-07
+  },
+  {
+    "step": 41,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.5254776467049663e-07
+  },
+  {
+    "step": 42,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.5669235224673891e-07
+  },
+  {
+    "step": 43,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.6083827745502628e-07
+  },
+  {
+    "step": 44,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.6498461606716323e-07
+  },
+  {
+    "step": 45,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.6913046957109493e-07
+  },
+  {
+    "step": 46,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.7327496459156116e-07
+  },
+  {
+    "step": 47,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.7741725232314632e-07
+  },
+  {
+    "step": 48,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.8155650797546625e-07
+  },
+  {
+    "step": 49,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.856919302302336e-07
+  },
+  {
+    "step": 50,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.898227407099522e-07
+  },
+  {
+    "step": 51,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.9394818345799435e-07
+  },
+  {
+    "step": 52,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 1.9806752442982085e-07
+  },
+  {
+    "step": 53,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.021800509951083e-07
+  },
+  {
+    "step": 54,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.0628507145055426e-07
+  },
+  {
+    "step": 55,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.1038191454313282e-07
+  },
+  {
+    "step": 56,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.144699290035819e-07
+  },
+  {
+    "step": 57,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.1854848308990507e-07
+  },
+  {
+    "step": 58,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.2261696414067639e-07
+  },
+  {
+    "step": 59,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.266747781379415e-07
+  },
+  {
+    "step": 60,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.3072134927951162e-07
+  },
+  {
+    "step": 61,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.3475611956045282e-07
+  },
+  {
+    "step": 62,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.387785483635756e-07
+  },
+  {
+    "step": 63,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.427881120587345e-07
+  },
+  {
+    "step": 64,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.467843036107521e-07
+  },
+  {
+    "step": 65,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.507666321957843e-07
+  },
+  {
+    "step": 66,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.547346228259497e-07
+  },
+  {
+    "step": 67,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.586878159820464e-07
+  },
+  {
+    "step": 68,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.62625767254187e-07
+  },
+  {
+    "step": 69,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.665480469901832e-07
+  },
+  {
+    "step": 70,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.704542399515173e-07
+  },
+  {
+    "step": 71,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.7434394497673875e-07
+  },
+  {
+    "step": 72,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.7821677465212956e-07
+  },
+  {
+    "step": 73,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.82072354989484e-07
+  },
+  {
+    "step": 74,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.85910325110853e-07
+  },
+  {
+    "step": 75,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.8973033694010603e-07
+  },
+  {
+    "step": 76,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.9353205490116343e-07
+  },
+  {
+    "step": 77,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 2.9731515562276326e-07
+  },
+  {
+    "step": 78,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.0107932764961814e-07
+  },
+  {
+    "step": 79,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.0482427115983166e-07
+  },
+  {
+    "step": 80,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.0854969768844e-07
+  },
+  {
+    "step": 81,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.1225532985694796e-07
+  },
+  {
+    "step": 82,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.159409011087342e-07
+  },
+  {
+    "step": 83,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.196061554502001e-07
+  },
+  {
+    "step": 84,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.2325084719754274e-07
+  },
+  {
+    "step": 85,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.268747407290287e-07
+  },
+  {
+    "step": 86,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.3047761024265714e-07
+  },
+  {
+    "step": 87,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.340592395190933e-07
+  },
+  {
+    "step": 88,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.3761942168976386e-07
+  },
+  {
+    "step": 89,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.4115795901000407e-07
+  },
+  {
+    "step": 90,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.4467466263714745e-07
+  },
+  {
+    "step": 91,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.4816935241345696e-07
+  },
+  {
+    "step": 92,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.516418566537916e-07
+  },
+  {
+    "step": 93,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.5509201193790934e-07
+  },
+  {
+    "step": 94,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.5851966290730855e-07
+  },
+  {
+    "step": 95,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.6192466206651006e-07
+  },
+  {
+    "step": 96,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.6530686958868785e-07
+  },
+  {
+    "step": 97,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.6866615312555326e-07
+  },
+  {
+    "step": 98,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.720023876214054e-07
+  },
+  {
+    "step": 99,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.7531545513125647e-07
+  },
+  {
+    "step": 100,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.7860524464294727e-07
+  },
+  {
+    "step": 101,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.8187165190316833e-07
+  },
+  {
+    "step": 102,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.8511457924730146e-07
+  },
+  {
+    "step": 103,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.8833393543300326e-07
+  },
+  {
+    "step": 104,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.9152963547745004e-07
+  },
+  {
+    "step": 105,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.947016004981644e-07
+  },
+  {
+    "step": 106,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 3.978497575573513e-07
+  },
+  {
+    "step": 107,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.009740395096648e-07
+  },
+  {
+    "step": 108,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.040743848533357e-07
+  },
+  {
+    "step": 109,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.0715073758458653e-07
+  },
+  {
+    "step": 110,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.102030470552646e-07
+  },
+  {
+    "step": 111,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.132312678336258e-07
+  },
+  {
+    "step": 112,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.162353595681996e-07
+  },
+  {
+    "step": 113,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.192152868546718e-07
+  },
+  {
+    "step": 114,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.221710191057199e-07
+  },
+  {
+    "step": 115,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.251025304237379e-07
+  },
+  {
+    "step": 116,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.280097994763895e-07
+  },
+  {
+    "step": 117,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.308928093749298e-07
+  },
+  {
+    "step": 118,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.337515475552348e-07
+  },
+  {
+    "step": 119,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.365860056614833e-07
+  },
+  {
+    "step": 120,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.3939617943243254e-07
+  },
+  {
+    "step": 121,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.421820685902332e-07
+  },
+  {
+    "step": 122,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.4494367673173033e-07
+  },
+  {
+    "step": 123,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.47681011222195e-07
+  },
+  {
+    "step": 124,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.503940830914371e-07
+  },
+  {
+    "step": 125,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.530829069322472e-07
+  },
+  {
+    "step": 126,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.5574750080111775e-07
+  },
+  {
+    "step": 127,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.5838788612119514e-07
+  },
+  {
+    "step": 128,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.610040875874153e-07
+  },
+  {
+    "step": 129,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.635961330737749e-07
+  },
+  {
+    "step": 130,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.6616405354269493e-07
+  },
+  {
+    "step": 131,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.6870788295642785e-07
+  },
+  {
+    "step": 132,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.7122765819047e-07
+  },
+  {
+    "step": 133,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.737234189489315e-07
+  },
+  {
+    "step": 134,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.7619520768182374e-07
+  },
+  {
+    "step": 135,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.786430695042238e-07
+  },
+  {
+    "step": 136,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.810670521172755e-07
+  },
+  {
+    "step": 137,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.834672057309856e-07
+  },
+  {
+    "step": 138,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.858435829887806e-07
+  },
+  {
+    "step": 139,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.881962388937824e-07
+  },
+  {
+    "step": 140,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.905252307367692e-07
+  },
+  {
+    "step": 141,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.928306180257817e-07
+  },
+  {
+    "step": 142,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.951124624173448e-07
+  },
+  {
+    "step": 143,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.973708276492636e-07
+  },
+  {
+    "step": 144,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 4.996057794749649e-07
+  },
+  {
+    "step": 145,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.018173855993497e-07
+  },
+  {
+    "step": 146,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.040057156161225e-07
+  },
+  {
+    "step": 147,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.06170840946567e-07
+  },
+  {
+    "step": 148,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.083128347797382e-07
+  },
+  {
+    "step": 149,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.10431772014038e-07
+  },
+  {
+    "step": 150,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.12527729200146e-07
+  },
+  {
+    "step": 151,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.146007844852761e-07
+  },
+  {
+    "step": 152,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.166510175587304e-07
+  },
+  {
+    "step": 153,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.186785095987218e-07
+  },
+  {
+    "step": 154,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.206833432204397e-07
+  },
+  {
+    "step": 155,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.226656024253277e-07
+  },
+  {
+    "step": 156,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.24625372551555e-07
+  },
+  {
+    "step": 157,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.265627402256455e-07
+  },
+  {
+    "step": 158,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.284777933152484e-07
+  },
+  {
+    "step": 159,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.303706208830225e-07
+  },
+  {
+    "step": 160,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.322413131416065e-07
+  },
+  {
+    "step": 161,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.340899614096583e-07
+  },
+  {
+    "step": 162,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.359166580689349e-07
+  },
+  {
+    "step": 163,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.377214965223954e-07
+  },
+  {
+    "step": 164,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.395045711532972e-07
+  },
+  {
+    "step": 165,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.412659772852728e-07
+  },
+  {
+    "step": 166,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.430058111433603e-07
+  },
+  {
+    "step": 167,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.447241698159683e-07
+  },
+  {
+    "step": 168,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.464211512177541e-07
+  },
+  {
+    "step": 169,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.480968540533978e-07
+  },
+  {
+    "step": 170,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.497513777822513e-07
+  },
+  {
+    "step": 171,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.513848225838409e-07
+  },
+  {
+    "step": 172,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.5299728932421e-07
+  },
+  {
+    "step": 173,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.545888795230785e-07
+  },
+  {
+    "step": 174,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.561596953218052e-07
+  },
+  {
+    "step": 175,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.577098394521322e-07
+  },
+  {
+    "step": 176,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.592394152056974e-07
+  },
+  {
+    "step": 177,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.607485264042957e-07
+  },
+  {
+    "step": 178,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.622372773708743e-07
+  },
+  {
+    "step": 179,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.637057729012455e-07
+  },
+  {
+    "step": 180,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.651541182365009e-07
+  },
+  {
+    "step": 181,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.665824190361123e-07
+  },
+  {
+    "step": 182,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.679907813517032e-07
+  },
+  {
+    "step": 183,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.693793116014801e-07
+  },
+  {
+    "step": 184,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.707481165453003e-07
+  },
+  {
+    "step": 185,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.720973032603733e-07
+  },
+  {
+    "step": 186,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.73426979117574e-07
+  },
+  {
+    "step": 187,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.747372517583578e-07
+  },
+  {
+    "step": 188,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.760282290722617e-07
+  },
+  {
+    "step": 189,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.773000191749831e-07
+  },
+  {
+    "step": 190,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.785527303870169e-07
+  },
+  {
+    "step": 191,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.797864712128457e-07
+  },
+  {
+    "step": 192,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.810013503206659e-07
+  },
+  {
+    "step": 193,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.821974765226391e-07
+  },
+  {
+    "step": 194,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.833749587556594e-07
+  },
+  {
+    "step": 195,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.845339060626215e-07
+  },
+  {
+    "step": 196,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.856744275741807e-07
+  },
+  {
+    "step": 197,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.867966324909957e-07
+  },
+  {
+    "step": 198,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.879006300664376e-07
+  },
+  {
+    "step": 199,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.889865295897629e-07
+  },
+  {
+    "step": 200,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.900544403697321e-07
+  },
+  {
+    "step": 201,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.911044717186695e-07
+  },
+  {
+    "step": 202,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.921367329369536e-07
+  },
+  {
+    "step": 203,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.931513332979253e-07
+  },
+  {
+    "step": 204,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.941483820332072e-07
+  },
+  {
+    "step": 205,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.951279883184277e-07
+  },
+  {
+    "step": 206,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.960902612593324e-07
+  },
+  {
+    "step": 207,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.970353098782839e-07
+  },
+  {
+    "step": 208,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.979632431011329e-07
+  },
+  {
+    "step": 209,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.988741697444598e-07
+  },
+  {
+    "step": 210,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 5.997681985031725e-07
+  },
+  {
+    "step": 211,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.006454379384542e-07
+  },
+  {
+    "step": 212,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.015059964660572e-07
+  },
+  {
+    "step": 213,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.023499823449271e-07
+  },
+  {
+    "step": 214,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.031775036661569e-07
+  },
+  {
+    "step": 215,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.039886683422618e-07
+  },
+  {
+    "step": 216,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.047835840967643e-07
+  },
+  {
+    "step": 217,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.055623584540875e-07
+  },
+  {
+    "step": 218,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.063250987297447e-07
+  },
+  {
+    "step": 219,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.070719120208232e-07
+  },
+  {
+    "step": 220,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.078029051967514e-07
+  },
+  {
+    "step": 221,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.085181848903468e-07
+  },
+  {
+    "step": 222,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.092178574891347e-07
+  },
+  {
+    "step": 223,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.099020291269349e-07
+  },
+  {
+    "step": 224,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.105708056757057e-07
+  },
+  {
+    "step": 225,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.112242927376459e-07
+  },
+  {
+    "step": 226,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.118625956375428e-07
+  },
+  {
+    "step": 227,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.124858194153634e-07
+  },
+  {
+    "step": 228,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.13094068819084e-07
+  },
+  {
+    "step": 229,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.136874482977483e-07
+  },
+  {
+    "step": 230,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.142660619947559e-07
+  },
+  {
+    "step": 231,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.148300137413691e-07
+  },
+  {
+    "step": 232,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.153794070504365e-07
+  },
+  {
+    "step": 233,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.15914345110329e-07
+  },
+  {
+    "step": 234,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.164349307790794e-07
+  },
+  {
+    "step": 235,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.169412665787255e-07
+  },
+  {
+    "step": 236,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.174334546898484e-07
+  },
+  {
+    "step": 237,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.179115969463053e-07
+  },
+  {
+    "step": 238,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.183757948301451e-07
+  },
+  {
+    "step": 239,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.188261494667131e-07
+  },
+  {
+    "step": 240,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.192627616199303e-07
+  },
+  {
+    "step": 241,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.196857316877496e-07
+  },
+  {
+    "step": 242,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.20095159697781e-07
+  },
+  {
+    "step": 243,
+    "success": false,
+    "reward": 0.0,
+    "task": "door",
+    "door_hinge_radians": 6.204911453030863e-07
+  }
+]

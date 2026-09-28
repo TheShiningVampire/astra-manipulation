@@ -1,0 +1,15 @@
+{
+  "seed": 1,
+  "episode_id": null,
+  "provider": "codex",
+  "task": "bullet_reach",
+  "instruction": "Move the closed gripper's tip into the magenta target sphere.",
+  "dataset_path": null,
+  "requested_model": "gpt-6-astra",
+  "reasoning": "medium",
+  "request_timeout_seconds": 240,
+  "request_retries": 1,
+  "max_calls": 40,
+  "max_steps": 800,
+  "max_repeat": 10
+}

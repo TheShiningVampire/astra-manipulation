@@ -1,0 +1,274 @@
+[
+  {
+    "call": "call_000",
+    "input": {
+      "observation": {
+        "instruction": "Move the closed gripper's tip into the magenta target sphere.",
+        "step_index": 0,
+        "proprioception": {
+          "joint_positions": [
+            0.0,
+            0.41,
+            0.0,
+            -1.85,
+            0.0,
+            2.26,
+            0.79,
+            0.0,
+            0.0
+          ],
+          "joint_velocities": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "eef_position_world": [
+            0.0384396701101811,
+            -2.194472194883551e-12,
+            0.19740014349589585
+          ],
+          "eef_velocity_world": [
+            0.0,
+            -0.0,
+            0.0
+          ],
+          "eef_orientation_xyzw": [
+            0.9999973528886573,
+            -0.002300916269285469,
+            1.0229004332220806e-14,
+            4.490803921970418e-12
+          ],
+          "finger_width_m": [
+            0.0
+          ]
+        },
+        "camera_names": [
+          "front",
+          "overhead_oblique"
+        ]
+      },
+      "action_specification": {
+        "spec_version": "pybullet-cartesian-v1",
+        "task": "bullet_reach",
+        "names": [
+          "world_delta_x",
+          "world_delta_y",
+          "world_delta_z"
+        ],
+        "dimension": 3,
+        "low": [
+          -1.0,
+          -1.0,
+          -1.0
+        ],
+        "high": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "control_dt": 0.04,
+        "position_delta_scale_m": 0.05,
+        "finger_width_delta_scale_m": 0.2,
+        "proprioception_joint_names": [
+          "panda_joint1",
+          "panda_joint2",
+          "panda_joint3",
+          "panda_joint4",
+          "panda_joint5",
+          "panda_joint6",
+          "panda_joint7",
+          "panda_finger_joint1",
+          "panda_finger_joint2"
+        ],
+        "proprioception_joint_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          9,
+          10
+        ],
+        "camera_calibration": {
+          "front": {
+            "width": 768,
+            "height": 768,
+            "position_world": [
+              0.5081893932869372,
+              -0.6081893595694607,
+              0.70225521882161
+            ],
+            "forward_world": [
+              -0.5792279366118783,
+              0.5792279366118783,
+              -0.5735763825929859
+            ],
+            "up_world": [
+              -0.4055797120533995,
+              0.4055797120533995,
+              0.8191519400389399
+            ],
+            "intrinsics_fx_fy_cx_cy": [
+              665.107510106449,
+              665.107510106449,
+              384.0,
+              384.0
+            ],
+            "view_matrix_opengl_columnmajor": [
+              0.7071068286895752,
+              -0.4055798351764679,
+              0.5792280435562134,
+              0.0,
+              0.7071068286895752,
+              0.4055798351764679,
+              -0.5792279839515686,
+              0.0,
+              0.0,
+              0.8191521763801575,
+              0.5735764503479004,
+              0.0,
+              0.07071065902709961,
+              -0.12247318029403687,
+              -1.0494349002838135,
+              1.0
+            ],
+            "projection_matrix_opengl_columnmajor": [
+              1.7320507764816284,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.7320507764816284,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              -1.0100502967834473,
+              -1.0,
+              0.0,
+              0.0,
+              -0.10050251334905624,
+              0.0
+            ],
+            "projection": "fixed world perspective, pixel x right y down, no distortion"
+          },
+          "overhead_oblique": {
+            "width": 768,
+            "height": 768,
+            "position_world": [
+              -0.5300548331519999,
+              -0.3011276202743462,
+              1.00932660615546
+            ],
+            "forward_world": [
+              0.4095760920836673,
+              0.2867882279002699,
+              -0.8660253635724346
+            ],
+            "up_world": [
+              0.7094064191861565,
+              0.4967316543903975,
+              0.4999999773622958
+            ],
+            "intrinsics_fx_fy_cx_cy": [
+              665.107510106449,
+              665.107510106449,
+              384.0,
+              384.0
+            ],
+            "view_matrix_opengl_columnmajor": [
+              0.5735764503479004,
+              0.7094065546989441,
+              -0.40957605838775635,
+              0.0,
+              -0.8191521763801575,
+              0.4967317581176758,
+              -0.2867882251739502,
+              0.0,
+              0.0,
+              0.5000001192092896,
+              0.8660253882408142,
+              0.0,
+              0.05735762417316437,
+              0.02094060182571411,
+              -1.1775600910186768,
+              1.0
+            ],
+            "projection_matrix_opengl_columnmajor": [
+              1.7320507764816284,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.7320507764816284,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              -1.0100502967834473,
+              -1.0,
+              0.0,
+              0.0,
+              -0.10050251334905624,
+              0.0
+            ],
+            "projection": "fixed world perspective, pixel x right y down, no distortion"
+          }
+        },
+        "versions": {
+          "panda_gym": "3.0.7",
+          "pybullet": "3.2.7"
+        },
+        "semantics": "Native Panda Cartesian displacement control. Each step commands current measured end-effector XYZ + 0.05*action[:3] meters in WORLD coordinates. +Z goes UP. Downward gripper orientation is held by inverse kinematics, quaternion xyzw=[1,0,0,0]; orientation is not controllable. Target Z is clipped to >=0. Last action (only if present) changes total finger width by 0.2*action meters: POSITIVE OPENS, NEGATIVE CLOSES, ZERO targets current width. Robot joint limits constrain actual opening. Zero XYZ requests current measured pose. Actions are positional increments, not velocities; repeating an action re-applies the increment at each 0.04s control step. Motor dynamics mean measured displacement can differ. Reach has only three actions and a blocked closed gripper; PickAndPlace has four. Magenta target is a visible noncolliding marker; green solid cube is manipulable. The robot measurements and calibrated RGB are the only task sensing.",
+        "command_protocol": "done=true stops IMMEDIATELY and discards the action in that same response: no movement or gripper command is executed. Keep done=false while issuing any motion, including the final approach. Native success terminates the environment automatically. repeat is the count of incremental control steps, so large repeats can overshoot.",
+        "control_budget": {
+          "decision_index": 0,
+          "max_decisions": 40,
+          "remaining_decisions": 40,
+          "remaining_control_steps": 800,
+          "maximum_repeat": 10
+        }
+      },
+      "previous_actions": []
+    },
+    "response": {
+      "decision": {
+        "action": [
+          0.015,
+          -0.45,
+          -1.0
+        ],
+        "repeat": 3,
+        "done": false
+      },
+      "metadata": {
+        "requested_model": "gpt-6-astra",
+        "resolved_model": null,
+        "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+        "provider": "codex-cli",
+        "usage": {
+          "input_tokens": 11972,
+          "cached_input_tokens": 6912,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 384,
+          "reasoning_output_tokens": 349
+        },
+        "latency_seconds": 15.713567573999171,
+        "tool_calls": 0,
+        "request_attempts_for_decision": 1
+      },
+      "image_sha256": {
+        "front": "e9b4e4aaf52dd63fb8676077c62e8237d54082f4f104cf3e36dfe40d28e9d58a",
+        "overhead_oblique": "0daf1767f4070eda8721b56259789f1a2224d05dfade448a95b8ab5cdbac4045"
+      }
+    }
+  }
+]

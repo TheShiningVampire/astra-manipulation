@@ -1,0 +1,4682 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": -0.21203651958630587,
+    "door_hinge_angle_rad": 0.0011224494233531795
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": -0.21171933638933557,
+    "door_hinge_angle_rad": 0.0029428497473490286
+  },
+  {
+    "step": 3,
+    "success": false,
+    "reward": -0.21149938076807645,
+    "door_hinge_angle_rad": 0.004707718547074515
+  },
+  {
+    "step": 4,
+    "success": false,
+    "reward": -0.21141686082740027,
+    "door_hinge_angle_rad": 0.006275290491653797
+  },
+  {
+    "step": 5,
+    "success": false,
+    "reward": -0.2114729761586829,
+    "door_hinge_angle_rad": 0.007646530801339134
+  },
+  {
+    "step": 6,
+    "success": false,
+    "reward": -0.21166090740809315,
+    "door_hinge_angle_rad": 0.008823226701458653
+  },
+  {
+    "step": 7,
+    "success": false,
+    "reward": -0.2119671458581619,
+    "door_hinge_angle_rad": 0.009807149148060775
+  },
+  {
+    "step": 8,
+    "success": false,
+    "reward": -0.2123751983592228,
+    "door_hinge_angle_rad": 0.01060005297601469
+  },
+  {
+    "step": 9,
+    "success": false,
+    "reward": -0.21286837350086676,
+    "door_hinge_angle_rad": 0.011203677045762845
+  },
+  {
+    "step": 10,
+    "success": false,
+    "reward": -0.21343344417883411,
+    "door_hinge_angle_rad": 0.011619744388737634
+  },
+  {
+    "step": 11,
+    "success": false,
+    "reward": -0.21406094541420678,
+    "door_hinge_angle_rad": 0.01184996235145435
+  },
+  {
+    "step": 12,
+    "success": false,
+    "reward": -0.21473443476179094,
+    "door_hinge_angle_rad": 0.011931329510003771
+  },
+  {
+    "step": 13,
+    "success": false,
+    "reward": -0.21542559069246298,
+    "door_hinge_angle_rad": 0.011956344209443606
+  },
+  {
+    "step": 14,
+    "success": false,
+    "reward": -0.2161230990271385,
+    "door_hinge_angle_rad": 0.011964034476613138
+  },
+  {
+    "step": 15,
+    "success": false,
+    "reward": -0.21682410680446906,
+    "door_hinge_angle_rad": 0.011966398694871394
+  },
+  {
+    "step": 16,
+    "success": false,
+    "reward": -0.21752835417277835,
+    "door_hinge_angle_rad": 0.011967125526313002
+  },
+  {
+    "step": 17,
+    "success": false,
+    "reward": -0.21823481141901255,
+    "door_hinge_angle_rad": 0.011967348976048585
+  },
+  {
+    "step": 18,
+    "success": false,
+    "reward": -0.21894548279796264,
+    "door_hinge_angle_rad": 0.011967417671184104
+  },
+  {
+    "step": 19,
+    "success": false,
+    "reward": -0.21965891946941707,
+    "door_hinge_angle_rad": 0.011967438790124555
+  },
+  {
+    "step": 20,
+    "success": false,
+    "reward": -0.22037249603399336,
+    "door_hinge_angle_rad": 0.011967445282718928
+  },
+  {
+    "step": 21,
+    "success": false,
+    "reward": -0.2212562895252208,
+    "door_hinge_angle_rad": 0.011967447278736826
+  },
+  {
+    "step": 22,
+    "success": false,
+    "reward": -0.2222558425871567,
+    "door_hinge_angle_rad": 0.011967447892372555
+  },
+  {
+    "step": 23,
+    "success": false,
+    "reward": -0.2232130052759782,
+    "door_hinge_angle_rad": 0.011967448081022639
+  },
+  {
+    "step": 24,
+    "success": false,
+    "reward": -0.22409882364578973,
+    "door_hinge_angle_rad": 0.011967448139019416
+  },
+  {
+    "step": 25,
+    "success": false,
+    "reward": -0.22493062582887322,
+    "door_hinge_angle_rad": 0.011967448156849457
+  },
+  {
+    "step": 26,
+    "success": false,
+    "reward": -0.2257334409039449,
+    "door_hinge_angle_rad": 0.011967448162331043
+  },
+  {
+    "step": 27,
+    "success": false,
+    "reward": -0.22652660965775184,
+    "door_hinge_angle_rad": 0.011967448164016344
+  },
+  {
+    "step": 28,
+    "success": false,
+    "reward": -0.22732026729352725,
+    "door_hinge_angle_rad": 0.011967448164534551
+  },
+  {
+    "step": 29,
+    "success": false,
+    "reward": -0.22811671380907647,
+    "door_hinge_angle_rad": 0.01196744816469396
+  },
+  {
+    "step": 30,
+    "success": false,
+    "reward": -0.228913021480937,
+    "door_hinge_angle_rad": 0.011967448164743067
+  },
+  {
+    "step": 31,
+    "success": false,
+    "reward": -0.22970336173836645,
+    "door_hinge_angle_rad": 0.011967448164758261
+  },
+  {
+    "step": 32,
+    "success": false,
+    "reward": -0.23048061970008452,
+    "door_hinge_angle_rad": 0.01196744816476303
+  },
+  {
+    "step": 33,
+    "success": false,
+    "reward": -0.2312373271766045,
+    "door_hinge_angle_rad": 0.011967448164764593
+  },
+  {
+    "step": 34,
+    "success": false,
+    "reward": -0.23196610255916747,
+    "door_hinge_angle_rad": 0.011967448164765172
+  },
+  {
+    "step": 35,
+    "success": false,
+    "reward": -0.2326598002613401,
+    "door_hinge_angle_rad": 0.011967448164765448
+  },
+  {
+    "step": 36,
+    "success": false,
+    "reward": -0.23331154448145394,
+    "door_hinge_angle_rad": 0.01196744816476563
+  },
+  {
+    "step": 37,
+    "success": false,
+    "reward": -0.2339146638982595,
+    "door_hinge_angle_rad": 0.011967448164765783
+  },
+  {
+    "step": 38,
+    "success": false,
+    "reward": -0.23446291084863677,
+    "door_hinge_angle_rad": 0.011967448164765929
+  },
+  {
+    "step": 39,
+    "success": false,
+    "reward": -0.2349505682560532,
+    "door_hinge_angle_rad": 0.011967448164766067
+  },
+  {
+    "step": 40,
+    "success": false,
+    "reward": -0.23537284172652925,
+    "door_hinge_angle_rad": 0.011967448164766206
+  },
+  {
+    "step": 41,
+    "success": false,
+    "reward": -0.24133413852575783,
+    "door_hinge_angle_rad": 0.010647731308575476
+  },
+  {
+    "step": 42,
+    "success": false,
+    "reward": -0.25031680045694293,
+    "door_hinge_angle_rad": 0.008028397313652366
+  },
+  {
+    "step": 43,
+    "success": false,
+    "reward": -0.25540197842720597,
+    "door_hinge_angle_rad": 0.007295137946036432
+  },
+  {
+    "step": 44,
+    "success": false,
+    "reward": -0.25605575710302864,
+    "door_hinge_angle_rad": 0.007421425309565804
+  },
+  {
+    "step": 45,
+    "success": false,
+    "reward": -0.25380279552954943,
+    "door_hinge_angle_rad": 0.007833306270351508
+  },
+  {
+    "step": 46,
+    "success": false,
+    "reward": -0.25025878747726965,
+    "door_hinge_angle_rad": 0.008287035895628644
+  },
+  {
+    "step": 47,
+    "success": false,
+    "reward": -0.2465888814976149,
+    "door_hinge_angle_rad": 0.008702894475660812
+  },
+  {
+    "step": 48,
+    "success": false,
+    "reward": -0.24303357404593737,
+    "door_hinge_angle_rad": 0.009029130044945917
+  },
+  {
+    "step": 49,
+    "success": false,
+    "reward": -0.23869438165282947,
+    "door_hinge_angle_rad": 0.009269427813723759
+  },
+  {
+    "step": 50,
+    "success": false,
+    "reward": -0.2375929832476388,
+    "door_hinge_angle_rad": 0.00944775964333182
+  },
+  {
+    "step": 51,
+    "success": false,
+    "reward": -0.2372967791024931,
+    "door_hinge_angle_rad": 0.009577105176396298
+  },
+  {
+    "step": 52,
+    "success": false,
+    "reward": -0.2371488967972935,
+    "door_hinge_angle_rad": 0.00964513315262493
+  },
+  {
+    "step": 53,
+    "success": false,
+    "reward": -0.23711567063379427,
+    "door_hinge_angle_rad": 0.009667679282275049
+  },
+  {
+    "step": 54,
+    "success": false,
+    "reward": -0.23708480206930896,
+    "door_hinge_angle_rad": 0.00967693782695812
+  },
+  {
+    "step": 55,
+    "success": false,
+    "reward": -0.23706527965068772,
+    "door_hinge_angle_rad": 0.00968161658966871
+  },
+  {
+    "step": 56,
+    "success": false,
+    "reward": -0.237046943737147,
+    "door_hinge_angle_rad": 0.009688648758930654
+  },
+  {
+    "step": 57,
+    "success": false,
+    "reward": -0.23702660733146355,
+    "door_hinge_angle_rad": 0.009697731454873224
+  },
+  {
+    "step": 58,
+    "success": false,
+    "reward": -0.23700702622332445,
+    "door_hinge_angle_rad": 0.009706851463985748
+  },
+  {
+    "step": 59,
+    "success": false,
+    "reward": -0.23699019956271003,
+    "door_hinge_angle_rad": 0.00971388614842964
+  },
+  {
+    "step": 60,
+    "success": false,
+    "reward": -0.2369765821138033,
+    "door_hinge_angle_rad": 0.009717722869487128
+  },
+  {
+    "step": 61,
+    "success": false,
+    "reward": -0.2380487177224532,
+    "door_hinge_angle_rad": 0.009685059655490904
+  },
+  {
+    "step": 62,
+    "success": false,
+    "reward": -0.23736266163037478,
+    "door_hinge_angle_rad": 0.009708605047167569
+  },
+  {
+    "step": 63,
+    "success": false,
+    "reward": -0.23717616825361137,
+    "door_hinge_angle_rad": 0.009736119052260942
+  },
+  {
+    "step": 64,
+    "success": false,
+    "reward": -0.23701669909545894,
+    "door_hinge_angle_rad": 0.009744686066021793
+  },
+  {
+    "step": 65,
+    "success": false,
+    "reward": -0.23693452496092876,
+    "door_hinge_angle_rad": 0.009747336834385409
+  },
+  {
+    "step": 66,
+    "success": false,
+    "reward": -0.2369086192316571,
+    "door_hinge_angle_rad": 0.009754363853697542
+  },
+  {
+    "step": 67,
+    "success": false,
+    "reward": -0.23692791484417783,
+    "door_hinge_angle_rad": 0.009799482287287732
+  },
+  {
+    "step": 68,
+    "success": false,
+    "reward": -0.23692838614336312,
+    "door_hinge_angle_rad": 0.00982748855135146
+  },
+  {
+    "step": 69,
+    "success": false,
+    "reward": -0.236909590071302,
+    "door_hinge_angle_rad": 0.00983609476049349
+  },
+  {
+    "step": 70,
+    "success": false,
+    "reward": -0.23681446334295161,
+    "door_hinge_angle_rad": 0.009839134731473447
+  },
+  {
+    "step": 71,
+    "success": false,
+    "reward": -0.23676396233526392,
+    "door_hinge_angle_rad": 0.009840285787441217
+  },
+  {
+    "step": 72,
+    "success": false,
+    "reward": -0.2367259412185609,
+    "door_hinge_angle_rad": 0.009840571107501202
+  },
+  {
+    "step": 73,
+    "success": false,
+    "reward": -0.23669691777372406,
+    "door_hinge_angle_rad": 0.009840527068013088
+  },
+  {
+    "step": 74,
+    "success": false,
+    "reward": -0.2366759341910857,
+    "door_hinge_angle_rad": 0.00984025002472034
+  },
+  {
+    "step": 75,
+    "success": false,
+    "reward": -0.23666132075141855,
+    "door_hinge_angle_rad": 0.00983961273361267
+  },
+  {
+    "step": 76,
+    "success": false,
+    "reward": -0.236650538586642,
+    "door_hinge_angle_rad": 0.009838458832700708
+  },
+  {
+    "step": 77,
+    "success": false,
+    "reward": -0.2366420052333084,
+    "door_hinge_angle_rad": 0.009837361443424971
+  },
+  {
+    "step": 78,
+    "success": false,
+    "reward": -0.23663574192008754,
+    "door_hinge_angle_rad": 0.009836423908808642
+  },
+  {
+    "step": 79,
+    "success": false,
+    "reward": -0.2366312192410121,
+    "door_hinge_angle_rad": 0.00983546723225606
+  },
+  {
+    "step": 80,
+    "success": false,
+    "reward": -0.23662607857660356,
+    "door_hinge_angle_rad": 0.009834492114179364
+  },
+  {
+    "step": 81,
+    "success": false,
+    "reward": -0.23873624609136676,
+    "door_hinge_angle_rad": 0.009980371126371002
+  },
+  {
+    "step": 82,
+    "success": false,
+    "reward": -0.23732589441692445,
+    "door_hinge_angle_rad": 0.010007566175956027
+  },
+  {
+    "step": 83,
+    "success": false,
+    "reward": -0.23721165171631506,
+    "door_hinge_angle_rad": 0.00998050958695726
+  },
+  {
+    "step": 84,
+    "success": false,
+    "reward": -0.2370811832481883,
+    "door_hinge_angle_rad": 0.009972025705519897
+  },
+  {
+    "step": 85,
+    "success": false,
+    "reward": -0.23699214158927234,
+    "door_hinge_angle_rad": 0.009959893192932511
+  },
+  {
+    "step": 86,
+    "success": false,
+    "reward": -0.23692156396630223,
+    "door_hinge_angle_rad": 0.00995087955884529
+  },
+  {
+    "step": 87,
+    "success": false,
+    "reward": -0.2368805198664349,
+    "door_hinge_angle_rad": 0.009948107834894351
+  },
+  {
+    "step": 88,
+    "success": false,
+    "reward": -0.23684677501916868,
+    "door_hinge_angle_rad": 0.00994745289356773
+  },
+  {
+    "step": 89,
+    "success": false,
+    "reward": -0.23682036085584954,
+    "door_hinge_angle_rad": 0.009947475454267425
+  },
+  {
+    "step": 90,
+    "success": false,
+    "reward": -0.23679554992635216,
+    "door_hinge_angle_rad": 0.009947664467936854
+  },
+  {
+    "step": 91,
+    "success": false,
+    "reward": -0.23677564619317606,
+    "door_hinge_angle_rad": 0.009947890726559229
+  },
+  {
+    "step": 92,
+    "success": false,
+    "reward": -0.23675863654837828,
+    "door_hinge_angle_rad": 0.009948146036169043
+  },
+  {
+    "step": 93,
+    "success": false,
+    "reward": -0.23674361991452642,
+    "door_hinge_angle_rad": 0.00994844091874669
+  },
+  {
+    "step": 94,
+    "success": false,
+    "reward": -0.23673022543563416,
+    "door_hinge_angle_rad": 0.009948757361728039
+  },
+  {
+    "step": 95,
+    "success": false,
+    "reward": -0.23671838450522945,
+    "door_hinge_angle_rad": 0.009949069169266198
+  },
+  {
+    "step": 96,
+    "success": false,
+    "reward": -0.23670785329788685,
+    "door_hinge_angle_rad": 0.009949426362755502
+  },
+  {
+    "step": 97,
+    "success": false,
+    "reward": -0.2366985970369719,
+    "door_hinge_angle_rad": 0.009949799805102758
+  },
+  {
+    "step": 98,
+    "success": false,
+    "reward": -0.23669039336646872,
+    "door_hinge_angle_rad": 0.0099501324306682
+  },
+  {
+    "step": 99,
+    "success": false,
+    "reward": -0.23668331696396755,
+    "door_hinge_angle_rad": 0.009950474692821551
+  },
+  {
+    "step": 100,
+    "success": false,
+    "reward": -0.23667707750373604,
+    "door_hinge_angle_rad": 0.009950781828671634
+  },
+  {
+    "step": 101,
+    "success": false,
+    "reward": -0.23810265802603053,
+    "door_hinge_angle_rad": 0.010589724042818134
+  },
+  {
+    "step": 102,
+    "success": false,
+    "reward": -0.23715456695072012,
+    "door_hinge_angle_rad": 0.01101751752861182
+  },
+  {
+    "step": 103,
+    "success": false,
+    "reward": -0.2367927334945632,
+    "door_hinge_angle_rad": 0.011139799330385797
+  },
+  {
+    "step": 104,
+    "success": false,
+    "reward": -0.23670256351368316,
+    "door_hinge_angle_rad": 0.011131705414707677
+  },
+  {
+    "step": 105,
+    "success": false,
+    "reward": -0.23664326917768133,
+    "door_hinge_angle_rad": 0.011126476140605116
+  },
+  {
+    "step": 106,
+    "success": false,
+    "reward": -0.23659020487462756,
+    "door_hinge_angle_rad": 0.01112550459139926
+  },
+  {
+    "step": 107,
+    "success": false,
+    "reward": -0.23655011768631076,
+    "door_hinge_angle_rad": 0.011125505430175526
+  },
+  {
+    "step": 108,
+    "success": false,
+    "reward": -0.23652305794822084,
+    "door_hinge_angle_rad": 0.01112582347922448
+  },
+  {
+    "step": 109,
+    "success": false,
+    "reward": -0.23649926250038045,
+    "door_hinge_angle_rad": 0.011126260388094663
+  },
+  {
+    "step": 110,
+    "success": false,
+    "reward": -0.23647746256229185,
+    "door_hinge_angle_rad": 0.011126737119931762
+  },
+  {
+    "step": 111,
+    "success": false,
+    "reward": -0.2364577895320385,
+    "door_hinge_angle_rad": 0.011127219183237213
+  },
+  {
+    "step": 112,
+    "success": false,
+    "reward": -0.23644014250411577,
+    "door_hinge_angle_rad": 0.011127694591480693
+  },
+  {
+    "step": 113,
+    "success": false,
+    "reward": -0.2364244358475691,
+    "door_hinge_angle_rad": 0.011128119864645875
+  },
+  {
+    "step": 114,
+    "success": false,
+    "reward": -0.23641071439011224,
+    "door_hinge_angle_rad": 0.01112849752240323
+  },
+  {
+    "step": 115,
+    "success": false,
+    "reward": -0.23639853100135405,
+    "door_hinge_angle_rad": 0.011128840677832928
+  },
+  {
+    "step": 116,
+    "success": false,
+    "reward": -0.23638804791405615,
+    "door_hinge_angle_rad": 0.011129147656621756
+  },
+  {
+    "step": 117,
+    "success": false,
+    "reward": -0.23637861938299304,
+    "door_hinge_angle_rad": 0.011129425683119124
+  },
+  {
+    "step": 118,
+    "success": false,
+    "reward": -0.23637041751073462,
+    "door_hinge_angle_rad": 0.011129672870528951
+  },
+  {
+    "step": 119,
+    "success": false,
+    "reward": -0.2363631909294192,
+    "door_hinge_angle_rad": 0.01112987473245966
+  },
+  {
+    "step": 120,
+    "success": false,
+    "reward": -0.23635687717887363,
+    "door_hinge_angle_rad": 0.011130044146555934
+  },
+  {
+    "step": 121,
+    "success": false,
+    "reward": -0.2365522927925123,
+    "door_hinge_angle_rad": 0.011865709517950955
+  },
+  {
+    "step": 122,
+    "success": false,
+    "reward": -0.23613799768529836,
+    "door_hinge_angle_rad": 0.012726736735624775
+  },
+  {
+    "step": 123,
+    "success": false,
+    "reward": -0.23586848923324238,
+    "door_hinge_angle_rad": 0.013447116727585369
+  },
+  {
+    "step": 124,
+    "success": false,
+    "reward": -0.23565059801040392,
+    "door_hinge_angle_rad": 0.014148191830957522
+  },
+  {
+    "step": 125,
+    "success": false,
+    "reward": -0.23536177252428883,
+    "door_hinge_angle_rad": 0.015011232883080008
+  },
+  {
+    "step": 126,
+    "success": false,
+    "reward": -0.23498868841626938,
+    "door_hinge_angle_rad": 0.016118048635860367
+  },
+  {
+    "step": 127,
+    "success": false,
+    "reward": -0.2345415456675569,
+    "door_hinge_angle_rad": 0.017472197758393808
+  },
+  {
+    "step": 128,
+    "success": false,
+    "reward": -0.2340304246849444,
+    "door_hinge_angle_rad": 0.019050738522970453
+  },
+  {
+    "step": 129,
+    "success": false,
+    "reward": -0.23346133564012708,
+    "door_hinge_angle_rad": 0.020828529454352627
+  },
+  {
+    "step": 130,
+    "success": false,
+    "reward": -0.23283981731246395,
+    "door_hinge_angle_rad": 0.022782040059368146
+  },
+  {
+    "step": 131,
+    "success": false,
+    "reward": -0.23226036625103283,
+    "door_hinge_angle_rad": 0.02462810213389343
+  },
+  {
+    "step": 132,
+    "success": false,
+    "reward": -0.23206679042994385,
+    "door_hinge_angle_rad": 0.025213138997436144
+  },
+  {
+    "step": 133,
+    "success": false,
+    "reward": -0.23210281885649428,
+    "door_hinge_angle_rad": 0.02503759026184623
+  },
+  {
+    "step": 134,
+    "success": false,
+    "reward": -0.23227164394542793,
+    "door_hinge_angle_rad": 0.024469394995407786
+  },
+  {
+    "step": 135,
+    "success": false,
+    "reward": -0.23242544417203465,
+    "door_hinge_angle_rad": 0.023990037255970768
+  },
+  {
+    "step": 136,
+    "success": false,
+    "reward": -0.23247009952263153,
+    "door_hinge_angle_rad": 0.023849706419020556
+  },
+  {
+    "step": 137,
+    "success": false,
+    "reward": -0.23244883754232198,
+    "door_hinge_angle_rad": 0.02390749994909064
+  },
+  {
+    "step": 138,
+    "success": false,
+    "reward": -0.2323617220114096,
+    "door_hinge_angle_rad": 0.024173101866375467
+  },
+  {
+    "step": 139,
+    "success": false,
+    "reward": -0.23220689330205016,
+    "door_hinge_angle_rad": 0.024656489053118406
+  },
+  {
+    "step": 140,
+    "success": false,
+    "reward": -0.23198587412522842,
+    "door_hinge_angle_rad": 0.025356595484897156
+  },
+  {
+    "step": 141,
+    "success": false,
+    "reward": -0.23167013536143688,
+    "door_hinge_angle_rad": 0.02681301829129029
+  },
+  {
+    "step": 142,
+    "success": false,
+    "reward": -0.23116996919876792,
+    "door_hinge_angle_rad": 0.028255901106746015
+  },
+  {
+    "step": 143,
+    "success": false,
+    "reward": -0.23103981522410208,
+    "door_hinge_angle_rad": 0.028627585741508945
+  },
+  {
+    "step": 144,
+    "success": false,
+    "reward": -0.23104666985396397,
+    "door_hinge_angle_rad": 0.02857347304077789
+  },
+  {
+    "step": 145,
+    "success": false,
+    "reward": -0.23096767361933654,
+    "door_hinge_angle_rad": 0.028830542393823776
+  },
+  {
+    "step": 146,
+    "success": false,
+    "reward": -0.23072112219203028,
+    "door_hinge_angle_rad": 0.029614573429957658
+  },
+  {
+    "step": 147,
+    "success": false,
+    "reward": -0.2305011635112351,
+    "door_hinge_angle_rad": 0.030301889144357212
+  },
+  {
+    "step": 148,
+    "success": false,
+    "reward": -0.2304517536006852,
+    "door_hinge_angle_rad": 0.03043893304349976
+  },
+  {
+    "step": 149,
+    "success": false,
+    "reward": -0.2304852668120842,
+    "door_hinge_angle_rad": 0.030310083548918842
+  },
+  {
+    "step": 150,
+    "success": false,
+    "reward": -0.23054488142779747,
+    "door_hinge_angle_rad": 0.030114268163200553
+  },
+  {
+    "step": 151,
+    "success": false,
+    "reward": -0.23045926181594653,
+    "door_hinge_angle_rad": 0.030407681913688277
+  },
+  {
+    "step": 152,
+    "success": false,
+    "reward": -0.23022378320423997,
+    "door_hinge_angle_rad": 0.031165416383138144
+  },
+  {
+    "step": 153,
+    "success": false,
+    "reward": -0.23011267608668065,
+    "door_hinge_angle_rad": 0.031517871445554374
+  },
+  {
+    "step": 154,
+    "success": false,
+    "reward": -0.2300876564686568,
+    "door_hinge_angle_rad": 0.03154418465930778
+  },
+  {
+    "step": 155,
+    "success": false,
+    "reward": -0.230107458354386,
+    "door_hinge_angle_rad": 0.03139255374354353
+  },
+  {
+    "step": 156,
+    "success": false,
+    "reward": -0.23016280570434625,
+    "door_hinge_angle_rad": 0.03119944381441166
+  },
+  {
+    "step": 157,
+    "success": false,
+    "reward": -0.23008152613771277,
+    "door_hinge_angle_rad": 0.03147753153527929
+  },
+  {
+    "step": 158,
+    "success": false,
+    "reward": -0.2299139537414147,
+    "door_hinge_angle_rad": 0.031994591589192156
+  },
+  {
+    "step": 159,
+    "success": false,
+    "reward": -0.22986366578137685,
+    "door_hinge_angle_rad": 0.032133199176582396
+  },
+  {
+    "step": 160,
+    "success": false,
+    "reward": -0.22987587915177418,
+    "door_hinge_angle_rad": 0.03207730498022768
+  },
+  {
+    "step": 161,
+    "success": false,
+    "reward": -0.231850717811309,
+    "door_hinge_angle_rad": 0.03181547974140214
+  },
+  {
+    "step": 162,
+    "success": false,
+    "reward": -0.23090680787325157,
+    "door_hinge_angle_rad": 0.032767453855054474
+  },
+  {
+    "step": 163,
+    "success": false,
+    "reward": -0.23015897147940828,
+    "door_hinge_angle_rad": 0.03388563805082712
+  },
+  {
+    "step": 164,
+    "success": false,
+    "reward": -0.22956001751020091,
+    "door_hinge_angle_rad": 0.03531192830975034
+  },
+  {
+    "step": 165,
+    "success": false,
+    "reward": -0.22878631969929822,
+    "door_hinge_angle_rad": 0.03737578185099347
+  },
+  {
+    "step": 166,
+    "success": false,
+    "reward": -0.2277604261860699,
+    "door_hinge_angle_rad": 0.04027934169268274
+  },
+  {
+    "step": 167,
+    "success": false,
+    "reward": -0.2264777645263697,
+    "door_hinge_angle_rad": 0.04412459269681745
+  },
+  {
+    "step": 168,
+    "success": false,
+    "reward": -0.2249857342903994,
+    "door_hinge_angle_rad": 0.048856089681838646
+  },
+  {
+    "step": 169,
+    "success": false,
+    "reward": -0.22331766160999364,
+    "door_hinge_angle_rad": 0.05435777437101512
+  },
+  {
+    "step": 170,
+    "success": false,
+    "reward": -0.22141277009494933,
+    "door_hinge_angle_rad": 0.060546639672521343
+  },
+  {
+    "step": 171,
+    "success": false,
+    "reward": -0.21955664536465702,
+    "door_hinge_angle_rad": 0.06650309378888271
+  },
+  {
+    "step": 172,
+    "success": false,
+    "reward": -0.21893104214638545,
+    "door_hinge_angle_rad": 0.06864628247356103
+  },
+  {
+    "step": 173,
+    "success": false,
+    "reward": -0.21886779695071717,
+    "door_hinge_angle_rad": 0.06895364654717553
+  },
+  {
+    "step": 174,
+    "success": false,
+    "reward": -0.21887973052491694,
+    "door_hinge_angle_rad": 0.06869280891274854
+  },
+  {
+    "step": 175,
+    "success": false,
+    "reward": -0.21886496802860492,
+    "door_hinge_angle_rad": 0.06862935106900944
+  },
+  {
+    "step": 176,
+    "success": false,
+    "reward": -0.21861968296573545,
+    "door_hinge_angle_rad": 0.06939146402933771
+  },
+  {
+    "step": 177,
+    "success": false,
+    "reward": -0.2181373742461845,
+    "door_hinge_angle_rad": 0.07096074094273128
+  },
+  {
+    "step": 178,
+    "success": false,
+    "reward": -0.21742949822269705,
+    "door_hinge_angle_rad": 0.07329027218091072
+  },
+  {
+    "step": 179,
+    "success": false,
+    "reward": -0.21661558672686193,
+    "door_hinge_angle_rad": 0.07594384056374906
+  },
+  {
+    "step": 180,
+    "success": false,
+    "reward": -0.2162508822069105,
+    "door_hinge_angle_rad": 0.0771259745718149
+  },
+  {
+    "step": 181,
+    "success": false,
+    "reward": -0.2176912561124545,
+    "door_hinge_angle_rad": 0.07969533324301854
+  },
+  {
+    "step": 182,
+    "success": false,
+    "reward": -0.21560579113843664,
+    "door_hinge_angle_rad": 0.08367528676043974
+  },
+  {
+    "step": 183,
+    "success": false,
+    "reward": -0.21378156083998953,
+    "door_hinge_angle_rad": 0.08798734396472879
+  },
+  {
+    "step": 184,
+    "success": false,
+    "reward": -0.21218562882666267,
+    "door_hinge_angle_rad": 0.09270864569161458
+  },
+  {
+    "step": 185,
+    "success": false,
+    "reward": -0.21044167472827552,
+    "door_hinge_angle_rad": 0.0980942345077133
+  },
+  {
+    "step": 186,
+    "success": false,
+    "reward": -0.20847385691259854,
+    "door_hinge_angle_rad": 0.10445310631143416
+  },
+  {
+    "step": 187,
+    "success": false,
+    "reward": -0.20620384160125804,
+    "door_hinge_angle_rad": 0.11186764049713657
+  },
+  {
+    "step": 188,
+    "success": false,
+    "reward": -0.20373344946726427,
+    "door_hinge_angle_rad": 0.12023180991830748
+  },
+  {
+    "step": 189,
+    "success": false,
+    "reward": -0.20106863880782808,
+    "door_hinge_angle_rad": 0.1293822144913474
+  },
+  {
+    "step": 190,
+    "success": false,
+    "reward": -0.19817411538578164,
+    "door_hinge_angle_rad": 0.13925901221971307
+  },
+  {
+    "step": 191,
+    "success": false,
+    "reward": -0.19513919035842747,
+    "door_hinge_angle_rad": 0.14978972621977737
+  },
+  {
+    "step": 192,
+    "success": false,
+    "reward": -0.19196160799647982,
+    "door_hinge_angle_rad": 0.1609203708904994
+  },
+  {
+    "step": 193,
+    "success": false,
+    "reward": -0.188641828155229,
+    "door_hinge_angle_rad": 0.1726459370054876
+  },
+  {
+    "step": 194,
+    "success": false,
+    "reward": -0.185199215226731,
+    "door_hinge_angle_rad": 0.18491756282786134
+  },
+  {
+    "step": 195,
+    "success": false,
+    "reward": -0.1816365444332564,
+    "door_hinge_angle_rad": 0.19775694173183436
+  },
+  {
+    "step": 196,
+    "success": false,
+    "reward": 1.8220051201971996,
+    "door_hinge_angle_rad": 0.2109971477749407
+  },
+  {
+    "step": 197,
+    "success": false,
+    "reward": 1.8256668897068953,
+    "door_hinge_angle_rad": 0.22454098597875202
+  },
+  {
+    "step": 198,
+    "success": false,
+    "reward": 1.8293695921864745,
+    "door_hinge_angle_rad": 0.2383649494814563
+  },
+  {
+    "step": 199,
+    "success": false,
+    "reward": 1.8331547587681523,
+    "door_hinge_angle_rad": 0.2524977748074744
+  },
+  {
+    "step": 200,
+    "success": false,
+    "reward": 1.8369067288248355,
+    "door_hinge_angle_rad": 0.2668651931981447
+  },
+  {
+    "step": 201,
+    "success": false,
+    "reward": 1.8408546826210328,
+    "door_hinge_angle_rad": 0.2821025941047629
+  },
+  {
+    "step": 202,
+    "success": false,
+    "reward": 1.8448286501631679,
+    "door_hinge_angle_rad": 0.2985060379582426
+  },
+  {
+    "step": 203,
+    "success": false,
+    "reward": 1.8491409209342353,
+    "door_hinge_angle_rad": 0.3159248799323196
+  },
+  {
+    "step": 204,
+    "success": false,
+    "reward": 1.8537412978924508,
+    "door_hinge_angle_rad": 0.3342253592862871
+  },
+  {
+    "step": 205,
+    "success": false,
+    "reward": 1.8585315876510504,
+    "door_hinge_angle_rad": 0.35324877566355833
+  },
+  {
+    "step": 206,
+    "success": false,
+    "reward": 1.8633844040890444,
+    "door_hinge_angle_rad": 0.3728031564867303
+  },
+  {
+    "step": 207,
+    "success": false,
+    "reward": 1.8681926130495228,
+    "door_hinge_angle_rad": 0.3927178205017719
+  },
+  {
+    "step": 208,
+    "success": false,
+    "reward": 1.8729112125951688,
+    "door_hinge_angle_rad": 0.41283420076946564
+  },
+  {
+    "step": 209,
+    "success": false,
+    "reward": 1.8775324328213099,
+    "door_hinge_angle_rad": 0.43299890671000735
+  },
+  {
+    "step": 210,
+    "success": false,
+    "reward": 1.882052403355916,
+    "door_hinge_angle_rad": 0.45306765050797193
+  },
+  {
+    "step": 211,
+    "success": false,
+    "reward": 1.8864000168177741,
+    "door_hinge_angle_rad": 0.4729557470865638
+  },
+  {
+    "step": 212,
+    "success": false,
+    "reward": 1.890627078595756,
+    "door_hinge_angle_rad": 0.49260603135091785
+  },
+  {
+    "step": 213,
+    "success": false,
+    "reward": 1.8947460568259944,
+    "door_hinge_angle_rad": 0.5119826677805146
+  },
+  {
+    "step": 214,
+    "success": false,
+    "reward": 1.898768432248852,
+    "door_hinge_angle_rad": 0.5310741553887052
+  },
+  {
+    "step": 215,
+    "success": false,
+    "reward": 1.9025714030534195,
+    "door_hinge_angle_rad": 0.5497440992081135
+  },
+  {
+    "step": 216,
+    "success": false,
+    "reward": 1.906248317653605,
+    "door_hinge_angle_rad": 0.5679746676574641
+  },
+  {
+    "step": 217,
+    "success": false,
+    "reward": 1.909787911646344,
+    "door_hinge_angle_rad": 0.5857203639861691
+  },
+  {
+    "step": 218,
+    "success": false,
+    "reward": 1.9128729243122529,
+    "door_hinge_angle_rad": 0.6026856558893834
+  },
+  {
+    "step": 219,
+    "success": false,
+    "reward": 1.9158022521175777,
+    "door_hinge_angle_rad": 0.6188049773395046
+  },
+  {
+    "step": 220,
+    "success": false,
+    "reward": 1.9186215015506545,
+    "door_hinge_angle_rad": 0.6340604779902277
+  },
+  {
+    "step": 221,
+    "success": false,
+    "reward": 1.9210778561188309,
+    "door_hinge_angle_rad": 0.6480281698666662
+  },
+  {
+    "step": 222,
+    "success": false,
+    "reward": 1.9229736192763605,
+    "door_hinge_angle_rad": 0.6612249558827225
+  },
+  {
+    "step": 223,
+    "success": false,
+    "reward": 1.9246268634288712,
+    "door_hinge_angle_rad": 0.674467461802782
+  },
+  {
+    "step": 224,
+    "success": false,
+    "reward": 1.9266813158490508,
+    "door_hinge_angle_rad": 0.6878065508680724
+  },
+  {
+    "step": 225,
+    "success": false,
+    "reward": 1.9285955803639765,
+    "door_hinge_angle_rad": 0.700833484726896
+  },
+  {
+    "step": 226,
+    "success": false,
+    "reward": 1.9307469994942688,
+    "door_hinge_angle_rad": 0.7136616207626294
+  },
+  {
+    "step": 227,
+    "success": false,
+    "reward": 1.9331059493178995,
+    "door_hinge_angle_rad": 0.7259709707137426
+  },
+  {
+    "step": 228,
+    "success": false,
+    "reward": 1.9359455869501008,
+    "door_hinge_angle_rad": 0.7373350529169864
+  },
+  {
+    "step": 229,
+    "success": false,
+    "reward": 1.9381188732358199,
+    "door_hinge_angle_rad": 0.7475257230778007
+  },
+  {
+    "step": 230,
+    "success": false,
+    "reward": 1.9398259695491116,
+    "door_hinge_angle_rad": 0.7564843574019458
+  },
+  {
+    "step": 231,
+    "success": false,
+    "reward": 1.9411709846565608,
+    "door_hinge_angle_rad": 0.7641477701156513
+  },
+  {
+    "step": 232,
+    "success": false,
+    "reward": 1.9422474641619472,
+    "door_hinge_angle_rad": 0.7705004111563435
+  },
+  {
+    "step": 233,
+    "success": false,
+    "reward": 1.9430741982718527,
+    "door_hinge_angle_rad": 0.775533579775554
+  },
+  {
+    "step": 234,
+    "success": false,
+    "reward": 1.9436558814994618,
+    "door_hinge_angle_rad": 0.7792875036834463
+  },
+  {
+    "step": 235,
+    "success": false,
+    "reward": 1.944082526258096,
+    "door_hinge_angle_rad": 0.7818224577379532
+  },
+  {
+    "step": 236,
+    "success": false,
+    "reward": 1.944332638557152,
+    "door_hinge_angle_rad": 0.7832292801903009
+  },
+  {
+    "step": 237,
+    "success": false,
+    "reward": 1.9444094969434165,
+    "door_hinge_angle_rad": 0.783717011621333
+  },
+  {
+    "step": 238,
+    "success": false,
+    "reward": 1.9443812341233242,
+    "door_hinge_angle_rad": 0.7835477548184877
+  },
+  {
+    "step": 239,
+    "success": false,
+    "reward": 1.9442666666260655,
+    "door_hinge_angle_rad": 0.7828092681985945
+  },
+  {
+    "step": 240,
+    "success": false,
+    "reward": 1.944077935557494,
+    "door_hinge_angle_rad": 0.781580967017413
+  },
+  {
+    "step": 241,
+    "success": false,
+    "reward": 1.9438275468972608,
+    "door_hinge_angle_rad": 0.7802609680725981
+  },
+  {
+    "step": 242,
+    "success": false,
+    "reward": 1.9436421051512307,
+    "door_hinge_angle_rad": 0.7791549136892021
+  },
+  {
+    "step": 243,
+    "success": false,
+    "reward": 1.9435045815622274,
+    "door_hinge_angle_rad": 0.7783263089463575
+  },
+  {
+    "step": 244,
+    "success": false,
+    "reward": 1.943459299166033,
+    "door_hinge_angle_rad": 0.7778048582747829
+  },
+  {
+    "step": 245,
+    "success": false,
+    "reward": 1.9434372601606713,
+    "door_hinge_angle_rad": 0.7775825415374238
+  },
+  {
+    "step": 246,
+    "success": false,
+    "reward": 1.943441654997566,
+    "door_hinge_angle_rad": 0.7775135512520466
+  },
+  {
+    "step": 247,
+    "success": false,
+    "reward": 1.943441942423038,
+    "door_hinge_angle_rad": 0.7774947128928626
+  },
+  {
+    "step": 248,
+    "success": false,
+    "reward": 1.9434458191825446,
+    "door_hinge_angle_rad": 0.7775028967960177
+  },
+  {
+    "step": 249,
+    "success": false,
+    "reward": 1.9434566327821698,
+    "door_hinge_angle_rad": 0.7775326608031221
+  },
+  {
+    "step": 250,
+    "success": false,
+    "reward": 1.9434666722560696,
+    "door_hinge_angle_rad": 0.7775794667252185
+  },
+  {
+    "step": 251,
+    "success": false,
+    "reward": 1.9434792689650795,
+    "door_hinge_angle_rad": 0.7776427911305561
+  },
+  {
+    "step": 252,
+    "success": false,
+    "reward": 1.9434926689798604,
+    "door_hinge_angle_rad": 0.7777193120144138
+  },
+  {
+    "step": 253,
+    "success": false,
+    "reward": 1.9435076218956855,
+    "door_hinge_angle_rad": 0.7778030697239435
+  },
+  {
+    "step": 254,
+    "success": false,
+    "reward": 1.9435219126385073,
+    "door_hinge_angle_rad": 0.7778878776122087
+  },
+  {
+    "step": 255,
+    "success": false,
+    "reward": 1.9435362469683366,
+    "door_hinge_angle_rad": 0.7779760981082166
+  },
+  {
+    "step": 256,
+    "success": false,
+    "reward": 1.9435500512027997,
+    "door_hinge_angle_rad": 0.7780587696068436
+  },
+  {
+    "step": 257,
+    "success": false,
+    "reward": 1.9435625268561971,
+    "door_hinge_angle_rad": 0.7781358624048219
+  },
+  {
+    "step": 258,
+    "success": false,
+    "reward": 1.9435740887014514,
+    "door_hinge_angle_rad": 0.7782107254204172
+  },
+  {
+    "step": 259,
+    "success": false,
+    "reward": 1.9435864284408846,
+    "door_hinge_angle_rad": 0.7782825273081458
+  },
+  {
+    "step": 260,
+    "success": false,
+    "reward": 1.9435969958460881,
+    "door_hinge_angle_rad": 0.7783494482955788
+  },
+  {
+    "step": 261,
+    "success": false,
+    "reward": 1.943593964822857,
+    "door_hinge_angle_rad": 0.7788283633223966
+  },
+  {
+    "step": 262,
+    "success": false,
+    "reward": 1.9437411389527461,
+    "door_hinge_angle_rad": 0.7800416159972796
+  },
+  {
+    "step": 263,
+    "success": false,
+    "reward": 1.944038400373131,
+    "door_hinge_angle_rad": 0.781947526727568
+  },
+  {
+    "step": 264,
+    "success": false,
+    "reward": 1.9444458461562864,
+    "door_hinge_angle_rad": 0.7845209752628503
+  },
+  {
+    "step": 265,
+    "success": false,
+    "reward": 1.9449500023772255,
+    "door_hinge_angle_rad": 0.787817360274816
+  },
+  {
+    "step": 266,
+    "success": false,
+    "reward": 1.9455087235883928,
+    "door_hinge_angle_rad": 0.7916303694955951
+  },
+  {
+    "step": 267,
+    "success": false,
+    "reward": 1.9461277321268715,
+    "door_hinge_angle_rad": 0.7958566834573314
+  },
+  {
+    "step": 268,
+    "success": false,
+    "reward": 1.9468063822651538,
+    "door_hinge_angle_rad": 0.8004462138111043
+  },
+  {
+    "step": 269,
+    "success": false,
+    "reward": 1.947528878220048,
+    "door_hinge_angle_rad": 0.8053228562136057
+  },
+  {
+    "step": 270,
+    "success": false,
+    "reward": 1.9482708597892178,
+    "door_hinge_angle_rad": 0.8103697493873049
+  },
+  {
+    "step": 271,
+    "success": false,
+    "reward": 1.9490269569501357,
+    "door_hinge_angle_rad": 0.8154676054901633
+  },
+  {
+    "step": 272,
+    "success": false,
+    "reward": 1.9497810788690948,
+    "door_hinge_angle_rad": 0.8205107104035895
+  },
+  {
+    "step": 273,
+    "success": false,
+    "reward": 1.9505072220775608,
+    "door_hinge_angle_rad": 0.8254226991971725
+  },
+  {
+    "step": 274,
+    "success": false,
+    "reward": 1.9512059240291963,
+    "door_hinge_angle_rad": 0.830163995277321
+  },
+  {
+    "step": 275,
+    "success": false,
+    "reward": 1.9518715427841604,
+    "door_hinge_angle_rad": 0.8346976730695459
+  },
+  {
+    "step": 276,
+    "success": false,
+    "reward": 1.9524989623472782,
+    "door_hinge_angle_rad": 0.8389803823834588
+  },
+  {
+    "step": 277,
+    "success": false,
+    "reward": 1.953083247767717,
+    "door_hinge_angle_rad": 0.8429853609812297
+  },
+  {
+    "step": 278,
+    "success": false,
+    "reward": 1.9536195979372843,
+    "door_hinge_angle_rad": 0.8466770542928012
+  },
+  {
+    "step": 279,
+    "success": false,
+    "reward": 1.9541051523956328,
+    "door_hinge_angle_rad": 0.8500263340621923
+  },
+  {
+    "step": 280,
+    "success": false,
+    "reward": 1.9545344000534768,
+    "door_hinge_angle_rad": 0.8529998867603411
+  },
+  {
+    "step": 281,
+    "success": false,
+    "reward": 1.9549179510747992,
+    "door_hinge_angle_rad": 0.8561419182066402
+  },
+  {
+    "step": 282,
+    "success": false,
+    "reward": 1.9553244492645343,
+    "door_hinge_angle_rad": 0.8597792197028487
+  },
+  {
+    "step": 283,
+    "success": false,
+    "reward": 1.955807184612731,
+    "door_hinge_angle_rad": 0.8638881672097405
+  },
+  {
+    "step": 284,
+    "success": false,
+    "reward": 1.95630394826878,
+    "door_hinge_angle_rad": 0.8686796499881206
+  },
+  {
+    "step": 285,
+    "success": false,
+    "reward": 1.956914433882177,
+    "door_hinge_angle_rad": 0.874017008659324
+  },
+  {
+    "step": 286,
+    "success": false,
+    "reward": 1.9575335258521662,
+    "door_hinge_angle_rad": 0.8795772982855404
+  },
+  {
+    "step": 287,
+    "success": false,
+    "reward": 1.9582036038093151,
+    "door_hinge_angle_rad": 0.8856286899606718
+  },
+  {
+    "step": 288,
+    "success": false,
+    "reward": 1.9588753308128661,
+    "door_hinge_angle_rad": 0.8917534412632827
+  },
+  {
+    "step": 289,
+    "success": false,
+    "reward": 1.9595359512134414,
+    "door_hinge_angle_rad": 0.8979531546221141
+  },
+  {
+    "step": 290,
+    "success": false,
+    "reward": 1.960187933400884,
+    "door_hinge_angle_rad": 0.9043837502877486
+  },
+  {
+    "step": 291,
+    "success": false,
+    "reward": 1.9608673874324822,
+    "door_hinge_angle_rad": 0.9108359921000911
+  },
+  {
+    "step": 292,
+    "success": false,
+    "reward": 1.9615484787315032,
+    "door_hinge_angle_rad": 0.9172660626696368
+  },
+  {
+    "step": 293,
+    "success": false,
+    "reward": 1.9622528945811308,
+    "door_hinge_angle_rad": 0.9232987270508023
+  },
+  {
+    "step": 294,
+    "success": false,
+    "reward": 1.9627954497610192,
+    "door_hinge_angle_rad": 0.929125853873584
+  },
+  {
+    "step": 295,
+    "success": false,
+    "reward": 1.963502484333378,
+    "door_hinge_angle_rad": 0.9348715401167356
+  },
+  {
+    "step": 296,
+    "success": false,
+    "reward": 1.9640862642406518,
+    "door_hinge_angle_rad": 0.9400851652097331
+  },
+  {
+    "step": 297,
+    "success": false,
+    "reward": 1.9645832877804226,
+    "door_hinge_angle_rad": 0.9447754634224442
+  },
+  {
+    "step": 298,
+    "success": false,
+    "reward": 1.9650426748440224,
+    "door_hinge_angle_rad": 0.948990503668334
+  },
+  {
+    "step": 299,
+    "success": false,
+    "reward": 1.9654691557221513,
+    "door_hinge_angle_rad": 0.9527806037618254
+  },
+  {
+    "step": 300,
+    "success": false,
+    "reward": 1.9658107970934717,
+    "door_hinge_angle_rad": 0.9560452552122347
+  },
+  {
+    "step": 301,
+    "success": false,
+    "reward": 1.9659760203869172,
+    "door_hinge_angle_rad": 0.9591509044231797
+  },
+  {
+    "step": 302,
+    "success": false,
+    "reward": 1.9661359859091294,
+    "door_hinge_angle_rad": 0.9625266275152037
+  },
+  {
+    "step": 303,
+    "success": false,
+    "reward": 1.9662871998375988,
+    "door_hinge_angle_rad": 0.9660718126461167
+  },
+  {
+    "step": 304,
+    "success": false,
+    "reward": 1.9666255503420087,
+    "door_hinge_angle_rad": 0.969823477493822
+  },
+  {
+    "step": 305,
+    "success": false,
+    "reward": 1.9669330249127317,
+    "door_hinge_angle_rad": 0.9738438259196561
+  },
+  {
+    "step": 306,
+    "success": false,
+    "reward": 1.9673026885289862,
+    "door_hinge_angle_rad": 0.9779104886238507
+  },
+  {
+    "step": 307,
+    "success": false,
+    "reward": 1.9677366077619314,
+    "door_hinge_angle_rad": 0.9823382123039409
+  },
+  {
+    "step": 308,
+    "success": false,
+    "reward": 1.9682425424597898,
+    "door_hinge_angle_rad": 0.9866232366672048
+  },
+  {
+    "step": 309,
+    "success": false,
+    "reward": 1.9687895611398136,
+    "door_hinge_angle_rad": 0.990958177080205
+  },
+  {
+    "step": 310,
+    "success": false,
+    "reward": 1.9693387801546713,
+    "door_hinge_angle_rad": 0.9952036154708647
+  },
+  {
+    "step": 311,
+    "success": false,
+    "reward": 1.9700174284914578,
+    "door_hinge_angle_rad": 0.9995689391345822
+  },
+  {
+    "step": 312,
+    "success": false,
+    "reward": 9.970593407695915,
+    "door_hinge_angle_rad": 1.003532757987157
+  },
+  {
+    "step": 313,
+    "success": false,
+    "reward": 9.971136495120216,
+    "door_hinge_angle_rad": 1.0072823165711793
+  },
+  {
+    "step": 314,
+    "success": false,
+    "reward": 9.971693663174069,
+    "door_hinge_angle_rad": 1.0107511949640204
+  },
+  {
+    "step": 315,
+    "success": false,
+    "reward": 9.97219993880572,
+    "door_hinge_angle_rad": 1.014038248442408
+  },
+  {
+    "step": 316,
+    "success": false,
+    "reward": 9.972692205876001,
+    "door_hinge_angle_rad": 1.0170392376304984
+  },
+  {
+    "step": 317,
+    "success": false,
+    "reward": 9.973125215054027,
+    "door_hinge_angle_rad": 1.0197435905467922
+  },
+  {
+    "step": 318,
+    "success": false,
+    "reward": 9.973514194422659,
+    "door_hinge_angle_rad": 1.0222089893611503
+  },
+  {
+    "step": 319,
+    "success": false,
+    "reward": 9.973862235998322,
+    "door_hinge_angle_rad": 1.0243614144825526
+  },
+  {
+    "step": 320,
+    "success": false,
+    "reward": 9.974136167859484,
+    "door_hinge_angle_rad": 1.0262230608162985
+  },
+  {
+    "step": 321,
+    "success": false,
+    "reward": 9.974290149296031,
+    "door_hinge_angle_rad": 1.028083060230821
+  },
+  {
+    "step": 322,
+    "success": false,
+    "reward": 9.974487410808226,
+    "door_hinge_angle_rad": 1.0302118431568594
+  },
+  {
+    "step": 323,
+    "success": false,
+    "reward": 9.975008218238688,
+    "door_hinge_angle_rad": 1.0326194961563402
+  },
+  {
+    "step": 324,
+    "success": false,
+    "reward": 9.975771764312022,
+    "door_hinge_angle_rad": 1.0354100484459898
+  },
+  {
+    "step": 325,
+    "success": false,
+    "reward": 9.976422084329073,
+    "door_hinge_angle_rad": 1.0376984814615131
+  },
+  {
+    "step": 326,
+    "success": false,
+    "reward": 9.976572953791456,
+    "door_hinge_angle_rad": 1.039359387989196
+  },
+  {
+    "step": 327,
+    "success": false,
+    "reward": 9.976725330668529,
+    "door_hinge_angle_rad": 1.0407102142158429
+  },
+  {
+    "step": 328,
+    "success": false,
+    "reward": 9.976935937364757,
+    "door_hinge_angle_rad": 1.0418926441587877
+  },
+  {
+    "step": 329,
+    "success": false,
+    "reward": 9.977156154046991,
+    "door_hinge_angle_rad": 1.0429717766495386
+  },
+  {
+    "step": 330,
+    "success": false,
+    "reward": 9.97735241422264,
+    "door_hinge_angle_rad": 1.0439773132481713
+  },
+  {
+    "step": 331,
+    "success": false,
+    "reward": 9.977524334847331,
+    "door_hinge_angle_rad": 1.044930007739573
+  },
+  {
+    "step": 332,
+    "success": false,
+    "reward": 9.97753551631245,
+    "door_hinge_angle_rad": 1.045759477745916
+  },
+  {
+    "step": 333,
+    "success": false,
+    "reward": 9.977818401568804,
+    "door_hinge_angle_rad": 1.0465187465417063
+  },
+  {
+    "step": 334,
+    "success": false,
+    "reward": 9.97796390048599,
+    "door_hinge_angle_rad": 1.0471934928308977
+  },
+  {
+    "step": 335,
+    "success": false,
+    "reward": 9.97803018194355,
+    "door_hinge_angle_rad": 1.0476799657378402
+  },
+  {
+    "step": 336,
+    "success": false,
+    "reward": 9.978073161797191,
+    "door_hinge_angle_rad": 1.0479943873874185
+  },
+  {
+    "step": 337,
+    "success": false,
+    "reward": 9.978101402036401,
+    "door_hinge_angle_rad": 1.0481781374987154
+  },
+  {
+    "step": 338,
+    "success": false,
+    "reward": 9.978120174043035,
+    "door_hinge_angle_rad": 1.0482844493583687
+  },
+  {
+    "step": 339,
+    "success": false,
+    "reward": 9.97813388602785,
+    "door_hinge_angle_rad": 1.0483568191219297
+  },
+  {
+    "step": 340,
+    "success": false,
+    "reward": 9.978144491876968,
+    "door_hinge_angle_rad": 1.0484149720590628
+  },
+  {
+    "step": 341,
+    "success": false,
+    "reward": 9.978005950666592,
+    "door_hinge_angle_rad": 1.0484436710580578
+  },
+  {
+    "step": 342,
+    "success": false,
+    "reward": 9.9777874835346,
+    "door_hinge_angle_rad": 1.0484525375444216
+  },
+  {
+    "step": 343,
+    "success": false,
+    "reward": 9.977617387107141,
+    "door_hinge_angle_rad": 1.0484552501730706
+  },
+  {
+    "step": 344,
+    "success": false,
+    "reward": 9.977508424988383,
+    "door_hinge_angle_rad": 1.0484560504066476
+  },
+  {
+    "step": 345,
+    "success": false,
+    "reward": 9.977422603061196,
+    "door_hinge_angle_rad": 1.0484562840868967
+  },
+  {
+    "step": 346,
+    "success": false,
+    "reward": 9.977332942509939,
+    "door_hinge_angle_rad": 1.0484563885806255
+  },
+  {
+    "step": 347,
+    "success": false,
+    "reward": 9.977219216362084,
+    "door_hinge_angle_rad": 1.048456456048121
+  },
+  {
+    "step": 348,
+    "success": false,
+    "reward": 9.977113105010423,
+    "door_hinge_angle_rad": 1.0484565059059339
+  },
+  {
+    "step": 349,
+    "success": false,
+    "reward": 9.976995298719082,
+    "door_hinge_angle_rad": 1.048456546084823
+  },
+  {
+    "step": 350,
+    "success": false,
+    "reward": 9.976778409472246,
+    "door_hinge_angle_rad": 1.048421458650775
+  },
+  {
+    "step": 351,
+    "success": false,
+    "reward": 9.97669286595639,
+    "door_hinge_angle_rad": 1.0483096517799084
+  },
+  {
+    "step": 352,
+    "success": false,
+    "reward": 9.976477661309186,
+    "door_hinge_angle_rad": 1.0483152590074896
+  },
+  {
+    "step": 353,
+    "success": false,
+    "reward": 9.976203221376553,
+    "door_hinge_angle_rad": 1.0484025545416609
+  },
+  {
+    "step": 354,
+    "success": false,
+    "reward": 9.97648855665706,
+    "door_hinge_angle_rad": 1.0489254185001784
+  },
+  {
+    "step": 355,
+    "success": false,
+    "reward": 9.976534414873948,
+    "door_hinge_angle_rad": 1.0499040041109373
+  },
+  {
+    "step": 356,
+    "success": false,
+    "reward": 9.976538291417523,
+    "door_hinge_angle_rad": 1.05118814333058
+  },
+  {
+    "step": 357,
+    "success": false,
+    "reward": 9.976560260724426,
+    "door_hinge_angle_rad": 1.0526880069784674
+  },
+  {
+    "step": 358,
+    "success": false,
+    "reward": 9.976603860080195,
+    "door_hinge_angle_rad": 1.0545314673958142
+  },
+  {
+    "step": 359,
+    "success": false,
+    "reward": 9.976741826517461,
+    "door_hinge_angle_rad": 1.056390081450546
+  },
+  {
+    "step": 360,
+    "success": false,
+    "reward": 9.976947615939013,
+    "door_hinge_angle_rad": 1.058353487458814
+  },
+  {
+    "step": 361,
+    "success": false,
+    "reward": 9.97730178492676,
+    "door_hinge_angle_rad": 1.0599993830320047
+  },
+  {
+    "step": 362,
+    "success": false,
+    "reward": 9.977491496026014,
+    "door_hinge_angle_rad": 1.0611090822144984
+  },
+  {
+    "step": 363,
+    "success": false,
+    "reward": 9.977603607654558,
+    "door_hinge_angle_rad": 1.061820175413422
+  },
+  {
+    "step": 364,
+    "success": false,
+    "reward": 9.977672502526335,
+    "door_hinge_angle_rad": 1.0622946930172823
+  },
+  {
+    "step": 365,
+    "success": false,
+    "reward": 9.977722225420399,
+    "door_hinge_angle_rad": 1.062611733588297
+  },
+  {
+    "step": 366,
+    "success": false,
+    "reward": 9.977762809305919,
+    "door_hinge_angle_rad": 1.06281643356912
+  },
+  {
+    "step": 367,
+    "success": false,
+    "reward": 9.977806597689172,
+    "door_hinge_angle_rad": 1.0629339689215576
+  },
+  {
+    "step": 368,
+    "success": false,
+    "reward": 9.977849795043301,
+    "door_hinge_angle_rad": 1.0629765638162179
+  },
+  {
+    "step": 369,
+    "success": false,
+    "reward": 9.97787038609514,
+    "door_hinge_angle_rad": 1.062989702057954
+  },
+  {
+    "step": 370,
+    "success": false,
+    "reward": 9.977881274023751,
+    "door_hinge_angle_rad": 1.0629943165533773
+  },
+  {
+    "step": 371,
+    "success": false,
+    "reward": 9.977889935477691,
+    "door_hinge_angle_rad": 1.0629963579268928
+  },
+  {
+    "step": 372,
+    "success": false,
+    "reward": 9.977895823498734,
+    "door_hinge_angle_rad": 1.0629970617638096
+  },
+  {
+    "step": 373,
+    "success": false,
+    "reward": 9.977900136338727,
+    "door_hinge_angle_rad": 1.0629971740971063
+  },
+  {
+    "step": 374,
+    "success": false,
+    "reward": 9.977903207293972,
+    "door_hinge_angle_rad": 1.0629970770865118
+  },
+  {
+    "step": 375,
+    "success": false,
+    "reward": 9.977905291439878,
+    "door_hinge_angle_rad": 1.0629967522398294
+  },
+  {
+    "step": 376,
+    "success": false,
+    "reward": 9.977906687792883,
+    "door_hinge_angle_rad": 1.0629962437473035
+  },
+  {
+    "step": 377,
+    "success": false,
+    "reward": 9.97790762477575,
+    "door_hinge_angle_rad": 1.062995774728516
+  },
+  {
+    "step": 378,
+    "success": false,
+    "reward": 9.977908278975157,
+    "door_hinge_angle_rad": 1.062995332864872
+  },
+  {
+    "step": 379,
+    "success": false,
+    "reward": 9.977908775640508,
+    "door_hinge_angle_rad": 1.0629949243788503
+  },
+  {
+    "step": 380,
+    "success": false,
+    "reward": 9.97790920389786,
+    "door_hinge_angle_rad": 1.0629945737295754
+  },
+  {
+    "step": 381,
+    "success": false,
+    "reward": 9.97787236482062,
+    "door_hinge_angle_rad": 1.0629943772087265
+  },
+  {
+    "step": 382,
+    "success": false,
+    "reward": 9.97780128913199,
+    "door_hinge_angle_rad": 1.0630182358639053
+  },
+  {
+    "step": 383,
+    "success": false,
+    "reward": 9.977741008408955,
+    "door_hinge_angle_rad": 1.0631523557221885
+  },
+  {
+    "step": 384,
+    "success": false,
+    "reward": 9.977709640203887,
+    "door_hinge_angle_rad": 1.0634899422725752
+  },
+  {
+    "step": 385,
+    "success": false,
+    "reward": 9.977747458556333,
+    "door_hinge_angle_rad": 1.0645359261729332
+  },
+  {
+    "step": 386,
+    "success": false,
+    "reward": 9.977888462660832,
+    "door_hinge_angle_rad": 1.065395406708341
+  },
+  {
+    "step": 387,
+    "success": false,
+    "reward": 9.977938293696125,
+    "door_hinge_angle_rad": 1.0658402779495721
+  },
+  {
+    "step": 388,
+    "success": false,
+    "reward": 9.977946680959178,
+    "door_hinge_angle_rad": 1.066014501442613
+  },
+  {
+    "step": 389,
+    "success": false,
+    "reward": 9.977940110314595,
+    "door_hinge_angle_rad": 1.0660683974055514
+  },
+  {
+    "step": 390,
+    "success": false,
+    "reward": 9.97792579116584,
+    "door_hinge_angle_rad": 1.0661248099467078
+  },
+  {
+    "step": 391,
+    "success": false,
+    "reward": 9.977924856601696,
+    "door_hinge_angle_rad": 1.0662744493764689
+  },
+  {
+    "step": 392,
+    "success": false,
+    "reward": 9.977929128303954,
+    "door_hinge_angle_rad": 1.0664408157636944
+  },
+  {
+    "step": 393,
+    "success": false,
+    "reward": 9.97794780242804,
+    "door_hinge_angle_rad": 1.0666805074033552
+  },
+  {
+    "step": 394,
+    "success": false,
+    "reward": 9.977965325650617,
+    "door_hinge_angle_rad": 1.0668829018167543
+  },
+  {
+    "step": 395,
+    "success": false,
+    "reward": 9.977977654438678,
+    "door_hinge_angle_rad": 1.067078310787554
+  },
+  {
+    "step": 396,
+    "success": false,
+    "reward": 9.977996616213293,
+    "door_hinge_angle_rad": 1.0673154790416821
+  },
+  {
+    "step": 397,
+    "success": false,
+    "reward": 9.978015567540178,
+    "door_hinge_angle_rad": 1.0675411761071465
+  },
+  {
+    "step": 398,
+    "success": false,
+    "reward": 9.978036632186333,
+    "door_hinge_angle_rad": 1.0677952317891366
+  },
+  {
+    "step": 399,
+    "success": false,
+    "reward": 9.978058000954631,
+    "door_hinge_angle_rad": 1.0680363957200065
+  },
+  {
+    "step": 400,
+    "success": false,
+    "reward": 9.978080489937595,
+    "door_hinge_angle_rad": 1.0682950850515776
+  },
+  {
+    "step": 401,
+    "success": false,
+    "reward": 9.978121633547488,
+    "door_hinge_angle_rad": 1.0689965317600236
+  },
+  {
+    "step": 402,
+    "success": false,
+    "reward": 9.978239982194008,
+    "door_hinge_angle_rad": 1.0701536701078718
+  },
+  {
+    "step": 403,
+    "success": false,
+    "reward": 9.978348802827052,
+    "door_hinge_angle_rad": 1.0714556091223115
+  },
+  {
+    "step": 404,
+    "success": false,
+    "reward": 9.978500370261637,
+    "door_hinge_angle_rad": 1.0725403013703936
+  },
+  {
+    "step": 405,
+    "success": false,
+    "reward": 9.978581862792858,
+    "door_hinge_angle_rad": 1.073409820292666
+  },
+  {
+    "step": 406,
+    "success": false,
+    "reward": 9.978635210592929,
+    "door_hinge_angle_rad": 1.0740399248539425
+  },
+  {
+    "step": 407,
+    "success": false,
+    "reward": 9.978670768654052,
+    "door_hinge_angle_rad": 1.0744470579594465
+  },
+  {
+    "step": 408,
+    "success": false,
+    "reward": 9.978680069529293,
+    "door_hinge_angle_rad": 1.0746307994440056
+  },
+  {
+    "step": 409,
+    "success": false,
+    "reward": 9.978675609182018,
+    "door_hinge_angle_rad": 1.0747048096688863
+  },
+  {
+    "step": 410,
+    "success": false,
+    "reward": 9.978666672141888,
+    "door_hinge_angle_rad": 1.074731632698539
+  },
+  {
+    "step": 411,
+    "success": false,
+    "reward": 9.9786569915476,
+    "door_hinge_angle_rad": 1.0747399610675825
+  },
+  {
+    "step": 412,
+    "success": false,
+    "reward": 9.978650280380075,
+    "door_hinge_angle_rad": 1.0747523308654316
+  },
+  {
+    "step": 413,
+    "success": false,
+    "reward": 9.97864355996298,
+    "door_hinge_angle_rad": 1.0747588413544575
+  },
+  {
+    "step": 414,
+    "success": false,
+    "reward": 9.978637300031938,
+    "door_hinge_angle_rad": 1.0747595358346693
+  },
+  {
+    "step": 415,
+    "success": false,
+    "reward": 9.978633561999459,
+    "door_hinge_angle_rad": 1.0747653962148884
+  },
+  {
+    "step": 416,
+    "success": false,
+    "reward": 9.978630895251836,
+    "door_hinge_angle_rad": 1.0747718867019582
+  },
+  {
+    "step": 417,
+    "success": false,
+    "reward": 9.978628257593328,
+    "door_hinge_angle_rad": 1.0747730684772578
+  },
+  {
+    "step": 418,
+    "success": false,
+    "reward": 9.978626317080057,
+    "door_hinge_angle_rad": 1.0747739063315849
+  },
+  {
+    "step": 419,
+    "success": false,
+    "reward": 9.9786251247586,
+    "door_hinge_angle_rad": 1.0747759892988662
+  },
+  {
+    "step": 420,
+    "success": false,
+    "reward": 9.978624569300546,
+    "door_hinge_angle_rad": 1.0747796104647005
+  },
+  {
+    "step": 421,
+    "success": false,
+    "reward": 9.976603300325822,
+    "door_hinge_angle_rad": 1.0720563505972607
+  },
+  {
+    "step": 422,
+    "success": false,
+    "reward": 9.976550626782375,
+    "door_hinge_angle_rad": 1.0671322295473966
+  },
+  {
+    "step": 423,
+    "success": false,
+    "reward": 9.976114463806084,
+    "door_hinge_angle_rad": 1.0600320606752627
+  },
+  {
+    "step": 424,
+    "success": false,
+    "reward": 9.975368472117145,
+    "door_hinge_angle_rad": 1.051500750557166
+  },
+  {
+    "step": 425,
+    "success": false,
+    "reward": 9.974668399817903,
+    "door_hinge_angle_rad": 1.0419413820544343
+  },
+  {
+    "step": 426,
+    "success": false,
+    "reward": 9.973599342849695,
+    "door_hinge_angle_rad": 1.0316026827186606
+  },
+  {
+    "step": 427,
+    "success": false,
+    "reward": 9.972365996739748,
+    "door_hinge_angle_rad": 1.0207266914678608
+  },
+  {
+    "step": 428,
+    "success": false,
+    "reward": 9.971208911802963,
+    "door_hinge_angle_rad": 1.0095467272076444
+  },
+  {
+    "step": 429,
+    "success": false,
+    "reward": 1.9701692903728885,
+    "door_hinge_angle_rad": 0.9981971161612463
+  },
+  {
+    "step": 430,
+    "success": false,
+    "reward": 1.9690581356164738,
+    "door_hinge_angle_rad": 0.9868372599845495
+  },
+  {
+    "step": 431,
+    "success": false,
+    "reward": 1.9679110631193595,
+    "door_hinge_angle_rad": 0.9755923439054379
+  },
+  {
+    "step": 432,
+    "success": false,
+    "reward": 1.9667159300355765,
+    "door_hinge_angle_rad": 0.9645828471096167
+  },
+  {
+    "step": 433,
+    "success": false,
+    "reward": 1.9655095419943494,
+    "door_hinge_angle_rad": 0.9539727018309803
+  },
+  {
+    "step": 434,
+    "success": false,
+    "reward": 1.96435324858265,
+    "door_hinge_angle_rad": 0.9439110520238861
+  },
+  {
+    "step": 435,
+    "success": false,
+    "reward": 1.9632373447909224,
+    "door_hinge_angle_rad": 0.9345012993450861
+  },
+  {
+    "step": 436,
+    "success": false,
+    "reward": 1.9621807185552043,
+    "door_hinge_angle_rad": 0.9258063000063159
+  },
+  {
+    "step": 437,
+    "success": false,
+    "reward": 1.9612112123356282,
+    "door_hinge_angle_rad": 0.9179038665062134
+  },
+  {
+    "step": 438,
+    "success": false,
+    "reward": 1.9603226604792716,
+    "door_hinge_angle_rad": 0.9108226500752773
+  },
+  {
+    "step": 439,
+    "success": false,
+    "reward": 1.959594781783704,
+    "door_hinge_angle_rad": 0.904883993159321
+  },
+  {
+    "step": 440,
+    "success": false,
+    "reward": 1.959011694391653,
+    "door_hinge_angle_rad": 0.9004450139692483
+  },
+  {
+    "step": 441,
+    "success": false,
+    "reward": 1.9560466465606485,
+    "door_hinge_angle_rad": 0.8956202258349005
+  },
+  {
+    "step": 442,
+    "success": false,
+    "reward": 1.9557113495187224,
+    "door_hinge_angle_rad": 0.8898159164131972
+  },
+  {
+    "step": 443,
+    "success": false,
+    "reward": 1.9555822261258082,
+    "door_hinge_angle_rad": 0.88317451153398
+  },
+  {
+    "step": 444,
+    "success": false,
+    "reward": 1.9553111529454958,
+    "door_hinge_angle_rad": 0.875503099611602
+  },
+  {
+    "step": 445,
+    "success": false,
+    "reward": 1.9545594402134467,
+    "door_hinge_angle_rad": 0.8670246226718035
+  },
+  {
+    "step": 446,
+    "success": false,
+    "reward": 1.9532220028275187,
+    "door_hinge_angle_rad": 0.858445877773299
+  },
+  {
+    "step": 447,
+    "success": false,
+    "reward": 1.9515171219000056,
+    "door_hinge_angle_rad": 0.8502040102310542
+  },
+  {
+    "step": 448,
+    "success": false,
+    "reward": 1.9504970952505938,
+    "door_hinge_angle_rad": 0.8426990786973343
+  },
+  {
+    "step": 449,
+    "success": false,
+    "reward": 1.9500045134553812,
+    "door_hinge_angle_rad": 0.836254986929839
+  },
+  {
+    "step": 450,
+    "success": false,
+    "reward": 1.9499108612432299,
+    "door_hinge_angle_rad": 0.8309338558489965
+  },
+  {
+    "step": 451,
+    "success": false,
+    "reward": 1.9498836465951428,
+    "door_hinge_angle_rad": 0.8269806416589792
+  },
+  {
+    "step": 452,
+    "success": false,
+    "reward": 1.9496727704761936,
+    "door_hinge_angle_rad": 0.8243602399664268
+  },
+  {
+    "step": 453,
+    "success": false,
+    "reward": 1.9495516445055294,
+    "door_hinge_angle_rad": 0.8228457292429535
+  },
+  {
+    "step": 454,
+    "success": false,
+    "reward": 1.9495699456841677,
+    "door_hinge_angle_rad": 0.8222050895330045
+  },
+  {
+    "step": 455,
+    "success": false,
+    "reward": 1.9496264911695116,
+    "door_hinge_angle_rad": 0.8220250281835942
+  },
+  {
+    "step": 456,
+    "success": false,
+    "reward": 1.949676836122997,
+    "door_hinge_angle_rad": 0.8220290930075799
+  },
+  {
+    "step": 457,
+    "success": false,
+    "reward": 1.9497007995868219,
+    "door_hinge_angle_rad": 0.822064895199158
+  },
+  {
+    "step": 458,
+    "success": false,
+    "reward": 1.9497097652944837,
+    "door_hinge_angle_rad": 0.8220788840099078
+  },
+  {
+    "step": 459,
+    "success": false,
+    "reward": 1.9497166094688572,
+    "door_hinge_angle_rad": 0.822083545553323
+  },
+  {
+    "step": 460,
+    "success": false,
+    "reward": 1.9497275175652087,
+    "door_hinge_angle_rad": 0.8220859770358245
+  },
+  {
+    "step": 461,
+    "success": false,
+    "reward": 1.949631771116436,
+    "door_hinge_angle_rad": 0.8220911131264422
+  },
+  {
+    "step": 462,
+    "success": false,
+    "reward": 1.9495134671333234,
+    "door_hinge_angle_rad": 0.8220821239276438
+  },
+  {
+    "step": 463,
+    "success": false,
+    "reward": 1.949437817639564,
+    "door_hinge_angle_rad": 0.8220794764640951
+  },
+  {
+    "step": 464,
+    "success": false,
+    "reward": 1.949485735837636,
+    "door_hinge_angle_rad": 0.8220862520666986
+  },
+  {
+    "step": 465,
+    "success": false,
+    "reward": 1.9496245687374918,
+    "door_hinge_angle_rad": 0.8221753462538515
+  },
+  {
+    "step": 466,
+    "success": false,
+    "reward": 1.9497982388112776,
+    "door_hinge_angle_rad": 0.8224002847749509
+  },
+  {
+    "step": 467,
+    "success": false,
+    "reward": 1.9499567040422354,
+    "door_hinge_angle_rad": 0.822718511225551
+  },
+  {
+    "step": 468,
+    "success": false,
+    "reward": 1.9500823718706164,
+    "door_hinge_angle_rad": 0.8230805777356763
+  },
+  {
+    "step": 469,
+    "success": false,
+    "reward": 1.950177840431875,
+    "door_hinge_angle_rad": 0.8234514959359587
+  },
+  {
+    "step": 470,
+    "success": false,
+    "reward": 1.950250532799902,
+    "door_hinge_angle_rad": 0.823807344088087
+  },
+  {
+    "step": 471,
+    "success": false,
+    "reward": 1.9502977093006415,
+    "door_hinge_angle_rad": 0.8241384209765334
+  },
+  {
+    "step": 472,
+    "success": false,
+    "reward": 1.9503316828578154,
+    "door_hinge_angle_rad": 0.8244460060513688
+  },
+  {
+    "step": 473,
+    "success": false,
+    "reward": 1.950365268791421,
+    "door_hinge_angle_rad": 0.8247315786957298
+  },
+  {
+    "step": 474,
+    "success": false,
+    "reward": 1.950400630001963,
+    "door_hinge_angle_rad": 0.824998010401388
+  },
+  {
+    "step": 475,
+    "success": false,
+    "reward": 1.95043699365309,
+    "door_hinge_angle_rad": 0.8252493538821152
+  },
+  {
+    "step": 476,
+    "success": false,
+    "reward": 1.9504721193675574,
+    "door_hinge_angle_rad": 0.8254779821028662
+  },
+  {
+    "step": 477,
+    "success": false,
+    "reward": 1.9505062222796274,
+    "door_hinge_angle_rad": 0.8256937369140401
+  },
+  {
+    "step": 478,
+    "success": false,
+    "reward": 1.950540162969812,
+    "door_hinge_angle_rad": 0.8259097935420847
+  },
+  {
+    "step": 479,
+    "success": false,
+    "reward": 1.9505726425912597,
+    "door_hinge_angle_rad": 0.8261215281784156
+  },
+  {
+    "step": 480,
+    "success": false,
+    "reward": 1.950604490424063,
+    "door_hinge_angle_rad": 0.8263313132514037
+  },
+  {
+    "step": 481,
+    "success": false,
+    "reward": 1.950089437364896,
+    "door_hinge_angle_rad": 0.8260041958535641
+  },
+  {
+    "step": 482,
+    "success": false,
+    "reward": 1.9491081317172159,
+    "door_hinge_angle_rad": 0.824950120913852
+  },
+  {
+    "step": 483,
+    "success": false,
+    "reward": 1.9479348997267458,
+    "door_hinge_angle_rad": 0.8233519877821311
+  },
+  {
+    "step": 484,
+    "success": false,
+    "reward": 1.9465153808122555,
+    "door_hinge_angle_rad": 0.8217934730902899
+  },
+  {
+    "step": 485,
+    "success": false,
+    "reward": 1.945673950691089,
+    "door_hinge_angle_rad": 0.8207932303127867
+  },
+  {
+    "step": 486,
+    "success": false,
+    "reward": 1.9456837605006063,
+    "door_hinge_angle_rad": 0.8199398283470319
+  },
+  {
+    "step": 487,
+    "success": false,
+    "reward": 1.9467350920421034,
+    "door_hinge_angle_rad": 0.8185180569748535
+  },
+  {
+    "step": 488,
+    "success": false,
+    "reward": 1.946608436576591,
+    "door_hinge_angle_rad": 0.8162426747306539
+  },
+  {
+    "step": 489,
+    "success": false,
+    "reward": 1.946283633489054,
+    "door_hinge_angle_rad": 0.8137330217352718
+  },
+  {
+    "step": 490,
+    "success": false,
+    "reward": 1.945979117090429,
+    "door_hinge_angle_rad": 0.8112056155044065
+  },
+  {
+    "step": 491,
+    "success": false,
+    "reward": 1.9457303147327714,
+    "door_hinge_angle_rad": 0.8086639596503042
+  },
+  {
+    "step": 492,
+    "success": false,
+    "reward": 1.9453283110348303,
+    "door_hinge_angle_rad": 0.8060724529509349
+  },
+  {
+    "step": 493,
+    "success": false,
+    "reward": 1.944708667016073,
+    "door_hinge_angle_rad": 0.8034060305049026
+  },
+  {
+    "step": 494,
+    "success": false,
+    "reward": 1.9439962364928147,
+    "door_hinge_angle_rad": 0.8006288916345976
+  },
+  {
+    "step": 495,
+    "success": false,
+    "reward": 1.9433226749377974,
+    "door_hinge_angle_rad": 0.7977427662795794
+  },
+  {
+    "step": 496,
+    "success": false,
+    "reward": 1.9426114030172759,
+    "door_hinge_angle_rad": 0.7948167623092321
+  },
+  {
+    "step": 497,
+    "success": false,
+    "reward": 1.9419468317823871,
+    "door_hinge_angle_rad": 0.7919126081778576
+  },
+  {
+    "step": 498,
+    "success": false,
+    "reward": 1.9420115191318195,
+    "door_hinge_angle_rad": 0.7889446000060876
+  },
+  {
+    "step": 499,
+    "success": false,
+    "reward": 1.9419011148220726,
+    "door_hinge_angle_rad": 0.7863393593983867
+  },
+  {
+    "step": 500,
+    "success": false,
+    "reward": 1.9416690382819175,
+    "door_hinge_angle_rad": 0.7842982642490449
+  },
+  {
+    "step": 501,
+    "success": false,
+    "reward": 1.9401130365116939,
+    "door_hinge_angle_rad": 0.7827799513528063
+  },
+  {
+    "step": 502,
+    "success": false,
+    "reward": 1.9403335055274062,
+    "door_hinge_angle_rad": 0.7819887677092822
+  },
+  {
+    "step": 503,
+    "success": false,
+    "reward": 1.9398343302890733,
+    "door_hinge_angle_rad": 0.7823711188687453
+  },
+  {
+    "step": 504,
+    "success": false,
+    "reward": 1.9399969856215094,
+    "door_hinge_angle_rad": 0.783935484696427
+  },
+  {
+    "step": 505,
+    "success": false,
+    "reward": 1.940164971743723,
+    "door_hinge_angle_rad": 0.7864665508750545
+  },
+  {
+    "step": 506,
+    "success": false,
+    "reward": 1.9406170425388718,
+    "door_hinge_angle_rad": 0.7901134387016012
+  },
+  {
+    "step": 507,
+    "success": false,
+    "reward": 1.9415551025574427,
+    "door_hinge_angle_rad": 0.7946523759218382
+  },
+  {
+    "step": 508,
+    "success": false,
+    "reward": 1.9424589249530246,
+    "door_hinge_angle_rad": 0.7994921522497497
+  },
+  {
+    "step": 509,
+    "success": false,
+    "reward": 1.9431827511933846,
+    "door_hinge_angle_rad": 0.8043118882800699
+  },
+  {
+    "step": 510,
+    "success": false,
+    "reward": 1.9438759571302386,
+    "door_hinge_angle_rad": 0.8087943944582346
+  },
+  {
+    "step": 511,
+    "success": false,
+    "reward": 1.944762745027721,
+    "door_hinge_angle_rad": 0.812890736758729
+  },
+  {
+    "step": 512,
+    "success": false,
+    "reward": 1.946135780367705,
+    "door_hinge_angle_rad": 0.8166774652293914
+  },
+  {
+    "step": 513,
+    "success": false,
+    "reward": 1.9476452257803951,
+    "door_hinge_angle_rad": 0.8202365751805686
+  },
+  {
+    "step": 514,
+    "success": false,
+    "reward": 1.9485352838231387,
+    "door_hinge_angle_rad": 0.8242165044414786
+  },
+  {
+    "step": 515,
+    "success": false,
+    "reward": 1.9494779276631213,
+    "door_hinge_angle_rad": 0.8283164881979534
+  },
+  {
+    "step": 516,
+    "success": false,
+    "reward": 1.950277144416381,
+    "door_hinge_angle_rad": 0.8320148299803708
+  },
+  {
+    "step": 517,
+    "success": false,
+    "reward": 1.9508923621035221,
+    "door_hinge_angle_rad": 0.8350752340663351
+  },
+  {
+    "step": 518,
+    "success": false,
+    "reward": 1.9513383579853356,
+    "door_hinge_angle_rad": 0.8375191966707999
+  },
+  {
+    "step": 519,
+    "success": false,
+    "reward": 1.951654115950198,
+    "door_hinge_angle_rad": 0.8394447398897814
+  },
+  {
+    "step": 520,
+    "success": false,
+    "reward": 1.9518752908289614,
+    "door_hinge_angle_rad": 0.8409489105771727
+  },
+  {
+    "step": 521,
+    "success": false,
+    "reward": 1.9519860389186743,
+    "door_hinge_angle_rad": 0.8421614269302715
+  },
+  {
+    "step": 522,
+    "success": false,
+    "reward": 1.9521406481735173,
+    "door_hinge_angle_rad": 0.8432433811390325
+  },
+  {
+    "step": 523,
+    "success": false,
+    "reward": 1.9523289085559188,
+    "door_hinge_angle_rad": 0.8443037983951373
+  },
+  {
+    "step": 524,
+    "success": false,
+    "reward": 1.9525309999864584,
+    "door_hinge_angle_rad": 0.8454124885301112
+  },
+  {
+    "step": 525,
+    "success": false,
+    "reward": 1.9527410770489884,
+    "door_hinge_angle_rad": 0.8466118094597942
+  },
+  {
+    "step": 526,
+    "success": false,
+    "reward": 1.952990227786387,
+    "door_hinge_angle_rad": 0.8479692622362326
+  },
+  {
+    "step": 527,
+    "success": false,
+    "reward": 1.953304484425788,
+    "door_hinge_angle_rad": 0.8495070706200678
+  },
+  {
+    "step": 528,
+    "success": false,
+    "reward": 1.9536560358635666,
+    "door_hinge_angle_rad": 0.8512525808351835
+  },
+  {
+    "step": 529,
+    "success": false,
+    "reward": 1.9540230187072885,
+    "door_hinge_angle_rad": 0.8530841534074957
+  },
+  {
+    "step": 530,
+    "success": false,
+    "reward": 1.954399411033715,
+    "door_hinge_angle_rad": 0.8549683078083635
+  },
+  {
+    "step": 531,
+    "success": false,
+    "reward": 1.9548092670690818,
+    "door_hinge_angle_rad": 0.8569143298789615
+  },
+  {
+    "step": 532,
+    "success": false,
+    "reward": 1.9551685214024712,
+    "door_hinge_angle_rad": 0.8589087482381146
+  },
+  {
+    "step": 533,
+    "success": false,
+    "reward": 1.955482465096969,
+    "door_hinge_angle_rad": 0.8608285871761939
+  },
+  {
+    "step": 534,
+    "success": false,
+    "reward": 1.9557645514264208,
+    "door_hinge_angle_rad": 0.8626314433477443
+  },
+  {
+    "step": 535,
+    "success": false,
+    "reward": 1.9560131062069783,
+    "door_hinge_angle_rad": 0.8642925398811818
+  },
+  {
+    "step": 536,
+    "success": false,
+    "reward": 1.9562463789607796,
+    "door_hinge_angle_rad": 0.8658844999166604
+  },
+  {
+    "step": 537,
+    "success": false,
+    "reward": 1.95645017053308,
+    "door_hinge_angle_rad": 0.8672979848470059
+  },
+  {
+    "step": 538,
+    "success": false,
+    "reward": 1.9566217055909723,
+    "door_hinge_angle_rad": 0.8685146691865295
+  },
+  {
+    "step": 539,
+    "success": false,
+    "reward": 1.956763376537725,
+    "door_hinge_angle_rad": 0.869547009333193
+  },
+  {
+    "step": 540,
+    "success": false,
+    "reward": 1.9569011938361516,
+    "door_hinge_angle_rad": 0.8704453958431967
+  },
+  {
+    "step": 541,
+    "success": false,
+    "reward": 1.9568926926280596,
+    "door_hinge_angle_rad": 0.8715927161545143
+  },
+  {
+    "step": 542,
+    "success": false,
+    "reward": 1.9570563521880189,
+    "door_hinge_angle_rad": 0.8728061030835274
+  },
+  {
+    "step": 543,
+    "success": false,
+    "reward": 1.95726373869404,
+    "door_hinge_angle_rad": 0.8740110825104116
+  },
+  {
+    "step": 544,
+    "success": false,
+    "reward": 1.957439817014007,
+    "door_hinge_angle_rad": 0.8752562429704888
+  },
+  {
+    "step": 545,
+    "success": false,
+    "reward": 1.9577274545516137,
+    "door_hinge_angle_rad": 0.8763354297555865
+  },
+  {
+    "step": 546,
+    "success": false,
+    "reward": 1.9579499417483752,
+    "door_hinge_angle_rad": 0.8771771716465713
+  },
+  {
+    "step": 547,
+    "success": false,
+    "reward": 1.958103835424573,
+    "door_hinge_angle_rad": 0.8778346184205785
+  },
+  {
+    "step": 548,
+    "success": false,
+    "reward": 1.9582180473813,
+    "door_hinge_angle_rad": 0.8784728772503956
+  },
+  {
+    "step": 549,
+    "success": false,
+    "reward": 1.9583025377813357,
+    "door_hinge_angle_rad": 0.8790237898695316
+  },
+  {
+    "step": 550,
+    "success": false,
+    "reward": 1.9584031591997444,
+    "door_hinge_angle_rad": 0.8795389046875923
+  },
+  {
+    "step": 551,
+    "success": false,
+    "reward": 1.9584790708893418,
+    "door_hinge_angle_rad": 0.8800661250227231
+  },
+  {
+    "step": 552,
+    "success": false,
+    "reward": 1.9585407317048638,
+    "door_hinge_angle_rad": 0.8804762304194862
+  },
+  {
+    "step": 553,
+    "success": false,
+    "reward": 1.9586016384324099,
+    "door_hinge_angle_rad": 0.880898648729585
+  },
+  {
+    "step": 554,
+    "success": false,
+    "reward": 1.9586482197844097,
+    "door_hinge_angle_rad": 0.8812350941882454
+  },
+  {
+    "step": 555,
+    "success": false,
+    "reward": 1.9586894902695793,
+    "door_hinge_angle_rad": 0.8815151755407261
+  },
+  {
+    "step": 556,
+    "success": false,
+    "reward": 1.958729474188498,
+    "door_hinge_angle_rad": 0.8818048198127293
+  },
+  {
+    "step": 557,
+    "success": false,
+    "reward": 1.9587619879175444,
+    "door_hinge_angle_rad": 0.882032575571066
+  },
+  {
+    "step": 558,
+    "success": false,
+    "reward": 1.958789466013359,
+    "door_hinge_angle_rad": 0.8822235655344522
+  },
+  {
+    "step": 559,
+    "success": false,
+    "reward": 1.9588134754080144,
+    "door_hinge_angle_rad": 0.8823917790433659
+  },
+  {
+    "step": 560,
+    "success": false,
+    "reward": 1.9588382519716785,
+    "door_hinge_angle_rad": 0.8825554268380461
+  },
+  {
+    "step": 561,
+    "success": false,
+    "reward": 1.954326511431933,
+    "door_hinge_angle_rad": 0.8830288401097037
+  },
+  {
+    "step": 562,
+    "success": false,
+    "reward": 1.9563828367046137,
+    "door_hinge_angle_rad": 0.88355463065393
+  },
+  {
+    "step": 563,
+    "success": false,
+    "reward": 1.9578236007692045,
+    "door_hinge_angle_rad": 0.8843038263695632
+  },
+  {
+    "step": 564,
+    "success": false,
+    "reward": 1.9582006138066168,
+    "door_hinge_angle_rad": 0.8851610086578626
+  },
+  {
+    "step": 565,
+    "success": false,
+    "reward": 1.958790197791415,
+    "door_hinge_angle_rad": 0.8859776948541191
+  },
+  {
+    "step": 566,
+    "success": false,
+    "reward": 1.9589404012631402,
+    "door_hinge_angle_rad": 0.8866884935033211
+  },
+  {
+    "step": 567,
+    "success": false,
+    "reward": 1.9594644608279852,
+    "door_hinge_angle_rad": 0.8872575504811074
+  },
+  {
+    "step": 568,
+    "success": false,
+    "reward": 1.9598050131483313,
+    "door_hinge_angle_rad": 0.8877128104366734
+  },
+  {
+    "step": 569,
+    "success": false,
+    "reward": 1.9599809224919889,
+    "door_hinge_angle_rad": 0.8881329800778256
+  },
+  {
+    "step": 570,
+    "success": false,
+    "reward": 1.9600976763286722,
+    "door_hinge_angle_rad": 0.8885129683097526
+  },
+  {
+    "step": 571,
+    "success": false,
+    "reward": 1.9601931570817057,
+    "door_hinge_angle_rad": 0.8888572033424874
+  },
+  {
+    "step": 572,
+    "success": false,
+    "reward": 1.9602796822473174,
+    "door_hinge_angle_rad": 0.8891764399803718
+  },
+  {
+    "step": 573,
+    "success": false,
+    "reward": 1.9603612427114783,
+    "door_hinge_angle_rad": 0.889478807546505
+  },
+  {
+    "step": 574,
+    "success": false,
+    "reward": 1.9604575248105132,
+    "door_hinge_angle_rad": 0.8897645371950805
+  },
+  {
+    "step": 575,
+    "success": false,
+    "reward": 1.9605246937961232,
+    "door_hinge_angle_rad": 0.8900353271284088
+  },
+  {
+    "step": 576,
+    "success": false,
+    "reward": 1.9605801187745087,
+    "door_hinge_angle_rad": 0.8903097130794242
+  },
+  {
+    "step": 577,
+    "success": false,
+    "reward": 1.9606347104464021,
+    "door_hinge_angle_rad": 0.8905973332735485
+  },
+  {
+    "step": 578,
+    "success": false,
+    "reward": 1.9606916926777884,
+    "door_hinge_angle_rad": 0.8909044716535872
+  },
+  {
+    "step": 579,
+    "success": false,
+    "reward": 1.9607517392276181,
+    "door_hinge_angle_rad": 0.891234638779715
+  },
+  {
+    "step": 580,
+    "success": false,
+    "reward": 1.9608160761366842,
+    "door_hinge_angle_rad": 0.8915925666511022
+  },
+  {
+    "step": 581,
+    "success": false,
+    "reward": 1.947951214681921,
+    "door_hinge_angle_rad": 0.8931979109382795
+  },
+  {
+    "step": 582,
+    "success": false,
+    "reward": 1.9567639179541705,
+    "door_hinge_angle_rad": 0.8952792484049706
+  },
+  {
+    "step": 583,
+    "success": false,
+    "reward": 1.9578061714316222,
+    "door_hinge_angle_rad": 0.8987875048422096
+  },
+  {
+    "step": 584,
+    "success": false,
+    "reward": 1.9585385422229513,
+    "door_hinge_angle_rad": 0.9035104193935792
+  },
+  {
+    "step": 585,
+    "success": false,
+    "reward": 1.9596121361724168,
+    "door_hinge_angle_rad": 0.9076793275084469
+  },
+  {
+    "step": 586,
+    "success": false,
+    "reward": 1.960269479407017,
+    "door_hinge_angle_rad": 0.9112843979175639
+  },
+  {
+    "step": 587,
+    "success": false,
+    "reward": 1.9612077493364435,
+    "door_hinge_angle_rad": 0.914462473394122
+  },
+  {
+    "step": 588,
+    "success": false,
+    "reward": 1.9621577377519253,
+    "door_hinge_angle_rad": 0.9172584099808412
+  },
+  {
+    "step": 589,
+    "success": false,
+    "reward": 1.962896679870057,
+    "door_hinge_angle_rad": 0.9196755954619982
+  },
+  {
+    "step": 590,
+    "success": false,
+    "reward": 1.9633846323534154,
+    "door_hinge_angle_rad": 0.9218415940321749
+  },
+  {
+    "step": 591,
+    "success": false,
+    "reward": 1.9637008308150898,
+    "door_hinge_angle_rad": 0.9238450472242465
+  },
+  {
+    "step": 592,
+    "success": false,
+    "reward": 1.9639667706838033,
+    "door_hinge_angle_rad": 0.9257583258505682
+  },
+  {
+    "step": 593,
+    "success": false,
+    "reward": 1.964187057278395,
+    "door_hinge_angle_rad": 0.9276656873857622
+  },
+  {
+    "step": 594,
+    "success": false,
+    "reward": 1.9644727621574574,
+    "door_hinge_angle_rad": 0.9295989703063828
+  },
+  {
+    "step": 595,
+    "success": false,
+    "reward": 1.9647373373213641,
+    "door_hinge_angle_rad": 0.9315337787113582
+  },
+  {
+    "step": 596,
+    "success": false,
+    "reward": 1.9649977287238742,
+    "door_hinge_angle_rad": 0.9335747081335858
+  },
+  {
+    "step": 597,
+    "success": false,
+    "reward": 1.9652681649401726,
+    "door_hinge_angle_rad": 0.9357786278817071
+  },
+  {
+    "step": 598,
+    "success": false,
+    "reward": 1.9655605133000011,
+    "door_hinge_angle_rad": 0.9381871147022949
+  },
+  {
+    "step": 599,
+    "success": false,
+    "reward": 1.965884169806293,
+    "door_hinge_angle_rad": 0.9408673738225146
+  },
+  {
+    "step": 600,
+    "success": false,
+    "reward": 1.9662496460556114,
+    "door_hinge_angle_rad": 0.9437816813789419
+  },
+  {
+    "step": 601,
+    "success": false,
+    "reward": 1.9664827414550128,
+    "door_hinge_angle_rad": 0.9462814971767497
+  },
+  {
+    "step": 602,
+    "success": false,
+    "reward": 1.966688393825712,
+    "door_hinge_angle_rad": 0.9481601512521047
+  },
+  {
+    "step": 603,
+    "success": false,
+    "reward": 1.966885915703128,
+    "door_hinge_angle_rad": 0.9498311532189474
+  },
+  {
+    "step": 604,
+    "success": false,
+    "reward": 1.9671267680893034,
+    "door_hinge_angle_rad": 0.9514633826654014
+  },
+  {
+    "step": 605,
+    "success": false,
+    "reward": 1.9673775840352532,
+    "door_hinge_angle_rad": 0.9530177594412356
+  },
+  {
+    "step": 606,
+    "success": false,
+    "reward": 1.9676078877207948,
+    "door_hinge_angle_rad": 0.9544476044671474
+  },
+  {
+    "step": 607,
+    "success": false,
+    "reward": 1.9678106849583337,
+    "door_hinge_angle_rad": 0.9557242216672159
+  },
+  {
+    "step": 608,
+    "success": false,
+    "reward": 1.9679836336860603,
+    "door_hinge_angle_rad": 0.9568252413520317
+  },
+  {
+    "step": 609,
+    "success": false,
+    "reward": 1.9681264755853585,
+    "door_hinge_angle_rad": 0.9577488971375692
+  },
+  {
+    "step": 610,
+    "success": false,
+    "reward": 1.9682447206360634,
+    "door_hinge_angle_rad": 0.9585385576560533
+  },
+  {
+    "step": 611,
+    "success": false,
+    "reward": 1.9683496375390992,
+    "door_hinge_angle_rad": 0.959234101670724
+  },
+  {
+    "step": 612,
+    "success": false,
+    "reward": 1.9684336351255352,
+    "door_hinge_angle_rad": 0.9598151969430171
+  },
+  {
+    "step": 613,
+    "success": false,
+    "reward": 1.9685078701514784,
+    "door_hinge_angle_rad": 0.9603478392111958
+  },
+  {
+    "step": 614,
+    "success": false,
+    "reward": 1.9685671406491512,
+    "door_hinge_angle_rad": 0.9607861387893892
+  },
+  {
+    "step": 615,
+    "success": false,
+    "reward": 1.9686269652462023,
+    "door_hinge_angle_rad": 0.9611921571874162
+  },
+  {
+    "step": 616,
+    "success": false,
+    "reward": 1.9686792210472124,
+    "door_hinge_angle_rad": 0.9615488367607359
+  },
+  {
+    "step": 617,
+    "success": false,
+    "reward": 1.9687440775171692,
+    "door_hinge_angle_rad": 0.9618844198168024
+  },
+  {
+    "step": 618,
+    "success": false,
+    "reward": 1.9687867411843145,
+    "door_hinge_angle_rad": 0.962156018776703
+  },
+  {
+    "step": 619,
+    "success": false,
+    "reward": 1.968816158827252,
+    "door_hinge_angle_rad": 0.9623798639973169
+  },
+  {
+    "step": 620,
+    "success": false,
+    "reward": 1.9688391276220825,
+    "door_hinge_angle_rad": 0.9625681127808613
+  },
+  {
+    "step": 621,
+    "success": false,
+    "reward": 1.9688104886882623,
+    "door_hinge_angle_rad": 0.9626054116200147
+  },
+  {
+    "step": 622,
+    "success": false,
+    "reward": 1.9687942070840299,
+    "door_hinge_angle_rad": 0.9626128957175266
+  },
+  {
+    "step": 623,
+    "success": false,
+    "reward": 1.9687643527761083,
+    "door_hinge_angle_rad": 0.9626244009514323
+  },
+  {
+    "step": 624,
+    "success": false,
+    "reward": 1.968752702432952,
+    "door_hinge_angle_rad": 0.9626711855332124
+  },
+  {
+    "step": 625,
+    "success": false,
+    "reward": 1.968747037805134,
+    "door_hinge_angle_rad": 0.9627312078656001
+  },
+  {
+    "step": 626,
+    "success": false,
+    "reward": 1.9687499828573618,
+    "door_hinge_angle_rad": 0.9628117186695894
+  },
+  {
+    "step": 627,
+    "success": false,
+    "reward": 1.9687493282919972,
+    "door_hinge_angle_rad": 0.9628858001378638
+  },
+  {
+    "step": 628,
+    "success": false,
+    "reward": 1.9687620018871306,
+    "door_hinge_angle_rad": 0.962952587044333
+  },
+  {
+    "step": 629,
+    "success": false,
+    "reward": 1.968763945044688,
+    "door_hinge_angle_rad": 0.9630070830114378
+  },
+  {
+    "step": 630,
+    "success": false,
+    "reward": 1.968767524024599,
+    "door_hinge_angle_rad": 0.9630518189492129
+  },
+  {
+    "step": 631,
+    "success": false,
+    "reward": 1.9687693529516423,
+    "door_hinge_angle_rad": 0.9630742755788895
+  },
+  {
+    "step": 632,
+    "success": false,
+    "reward": 1.9687718267720582,
+    "door_hinge_angle_rad": 0.9630856323930076
+  },
+  {
+    "step": 633,
+    "success": false,
+    "reward": 1.9687728480997135,
+    "door_hinge_angle_rad": 0.9630886549792582
+  },
+  {
+    "step": 634,
+    "success": false,
+    "reward": 1.9687736725978602,
+    "door_hinge_angle_rad": 0.9630881250352389
+  },
+  {
+    "step": 635,
+    "success": false,
+    "reward": 1.9687741415246358,
+    "door_hinge_angle_rad": 0.9630856403048925
+  },
+  {
+    "step": 636,
+    "success": false,
+    "reward": 1.96877447761083,
+    "door_hinge_angle_rad": 0.9630834486276084
+  },
+  {
+    "step": 637,
+    "success": false,
+    "reward": 1.9687752795337103,
+    "door_hinge_angle_rad": 0.9630808865217871
+  },
+  {
+    "step": 638,
+    "success": false,
+    "reward": 1.968776044525183,
+    "door_hinge_angle_rad": 0.9630789849906912
+  },
+  {
+    "step": 639,
+    "success": false,
+    "reward": 1.9687754631598398,
+    "door_hinge_angle_rad": 0.9630783318497647
+  },
+  {
+    "step": 640,
+    "success": false,
+    "reward": 1.9687771945363701,
+    "door_hinge_angle_rad": 0.9630777383430318
+  },
+  {
+    "step": 641,
+    "success": false,
+    "reward": 1.9666845799355344,
+    "door_hinge_angle_rad": 0.9601156776720988
+  },
+  {
+    "step": 642,
+    "success": false,
+    "reward": 1.966437719654266,
+    "door_hinge_angle_rad": 0.9570148002365547
+  },
+  {
+    "step": 643,
+    "success": false,
+    "reward": 1.965714459253973,
+    "door_hinge_angle_rad": 0.9539813722721622
+  },
+  {
+    "step": 644,
+    "success": false,
+    "reward": 1.9655774083640103,
+    "door_hinge_angle_rad": 0.9508900037085762
+  },
+  {
+    "step": 645,
+    "success": false,
+    "reward": 1.9658797373714987,
+    "door_hinge_angle_rad": 0.9480480056101077
+  },
+  {
+    "step": 646,
+    "success": false,
+    "reward": 1.965766366131473,
+    "door_hinge_angle_rad": 0.9456075625637581
+  },
+  {
+    "step": 647,
+    "success": false,
+    "reward": 1.9657170991463417,
+    "door_hinge_angle_rad": 0.9437230609878964
+  },
+  {
+    "step": 648,
+    "success": false,
+    "reward": 1.9657332141198733,
+    "door_hinge_angle_rad": 0.9428971868737686
+  },
+  {
+    "step": 649,
+    "success": false,
+    "reward": 1.9656899369173648,
+    "door_hinge_angle_rad": 0.9426374167463836
+  },
+  {
+    "step": 650,
+    "success": false,
+    "reward": 1.9657453994408352,
+    "door_hinge_angle_rad": 0.9425348016031319
+  },
+  {
+    "step": 651,
+    "success": false,
+    "reward": 1.9658478065586817,
+    "door_hinge_angle_rad": 0.9424324821926692
+  },
+  {
+    "step": 652,
+    "success": false,
+    "reward": 1.9658959140883094,
+    "door_hinge_angle_rad": 0.9423308613824615
+  },
+  {
+    "step": 653,
+    "success": false,
+    "reward": 1.9659306932377951,
+    "door_hinge_angle_rad": 0.9422810585010918
+  },
+  {
+    "step": 654,
+    "success": false,
+    "reward": 1.9659543322575008,
+    "door_hinge_angle_rad": 0.9422749983576546
+  },
+  {
+    "step": 655,
+    "success": false,
+    "reward": 1.9659658954406698,
+    "door_hinge_angle_rad": 0.9422842808157651
+  },
+  {
+    "step": 656,
+    "success": false,
+    "reward": 1.965971418744393,
+    "door_hinge_angle_rad": 0.9422978521721644
+  },
+  {
+    "step": 657,
+    "success": false,
+    "reward": 1.965975922980474,
+    "door_hinge_angle_rad": 0.9423120229571795
+  },
+  {
+    "step": 658,
+    "success": false,
+    "reward": 1.9659766759263062,
+    "door_hinge_angle_rad": 0.9423255861029585
+  },
+  {
+    "step": 659,
+    "success": false,
+    "reward": 1.965979272599863,
+    "door_hinge_angle_rad": 0.9423323058310104
+  },
+  {
+    "step": 660,
+    "success": false,
+    "reward": 1.9659755339591498,
+    "door_hinge_angle_rad": 0.942312646627577
+  },
+  {
+    "step": 661,
+    "success": false,
+    "reward": 1.9623089711928727,
+    "door_hinge_angle_rad": 0.9468213478252949
+  },
+  {
+    "step": 662,
+    "success": false,
+    "reward": 1.9655435068232647,
+    "door_hinge_angle_rad": 0.9518714769987626
+  },
+  {
+    "step": 663,
+    "success": false,
+    "reward": 1.966733684757601,
+    "door_hinge_angle_rad": 0.9559897283132192
+  },
+  {
+    "step": 664,
+    "success": false,
+    "reward": 1.9661027116323204,
+    "door_hinge_angle_rad": 0.9601670850036186
+  },
+  {
+    "step": 665,
+    "success": false,
+    "reward": 1.9675404625522055,
+    "door_hinge_angle_rad": 0.9647783790244937
+  },
+  {
+    "step": 666,
+    "success": false,
+    "reward": 1.9681315808157673,
+    "door_hinge_angle_rad": 0.9693193607373854
+  },
+  {
+    "step": 667,
+    "success": false,
+    "reward": 1.968939101036605,
+    "door_hinge_angle_rad": 0.9741358680974525
+  },
+  {
+    "step": 668,
+    "success": false,
+    "reward": 1.969741611887262,
+    "door_hinge_angle_rad": 0.9792883435341488
+  },
+  {
+    "step": 669,
+    "success": false,
+    "reward": 1.9700958894549965,
+    "door_hinge_angle_rad": 0.9834014954005917
+  },
+  {
+    "step": 670,
+    "success": false,
+    "reward": 1.9701564535171345,
+    "door_hinge_angle_rad": 0.9863049084772885
+  },
+  {
+    "step": 671,
+    "success": false,
+    "reward": 1.9703811166939078,
+    "door_hinge_angle_rad": 0.9885047809432775
+  },
+  {
+    "step": 672,
+    "success": false,
+    "reward": 1.9707090349558976,
+    "door_hinge_angle_rad": 0.990249651484365
+  },
+  {
+    "step": 673,
+    "success": false,
+    "reward": 1.9710670187136248,
+    "door_hinge_angle_rad": 0.9916753023993997
+  },
+  {
+    "step": 674,
+    "success": false,
+    "reward": 1.971341822939089,
+    "door_hinge_angle_rad": 0.9928509649268555
+  },
+  {
+    "step": 675,
+    "success": false,
+    "reward": 1.9715146068476754,
+    "door_hinge_angle_rad": 0.9937957135598877
+  },
+  {
+    "step": 676,
+    "success": false,
+    "reward": 1.9716115084767243,
+    "door_hinge_angle_rad": 0.9945459581952814
+  },
+  {
+    "step": 677,
+    "success": false,
+    "reward": 1.971691364213166,
+    "door_hinge_angle_rad": 0.9952109844577075
+  },
+  {
+    "step": 678,
+    "success": false,
+    "reward": 1.9717625350181935,
+    "door_hinge_angle_rad": 0.9958057872726571
+  },
+  {
+    "step": 679,
+    "success": false,
+    "reward": 1.9718357010860847,
+    "door_hinge_angle_rad": 0.9963727741637377
+  },
+  {
+    "step": 680,
+    "success": false,
+    "reward": 1.9719154664899905,
+    "door_hinge_angle_rad": 0.9969217647688915
+  },
+  {
+    "step": 681,
+    "success": false,
+    "reward": 1.9650053206739273,
+    "door_hinge_angle_rad": 0.9942531733684811
+  },
+  {
+    "step": 682,
+    "success": false,
+    "reward": 1.9687904074646887,
+    "door_hinge_angle_rad": 0.9923508356167735
+  },
+  {
+    "step": 683,
+    "success": false,
+    "reward": 1.9702075928890286,
+    "door_hinge_angle_rad": 0.9916129319601951
+  },
+  {
+    "step": 684,
+    "success": false,
+    "reward": 1.9701957265795293,
+    "door_hinge_angle_rad": 0.992012955551708
+  },
+  {
+    "step": 685,
+    "success": false,
+    "reward": 1.970333327197541,
+    "door_hinge_angle_rad": 0.9931427209272787
+  },
+  {
+    "step": 686,
+    "success": false,
+    "reward": 1.9713712314644911,
+    "door_hinge_angle_rad": 0.9947655021200886
+  },
+  {
+    "step": 687,
+    "success": false,
+    "reward": 1.9716207736317974,
+    "door_hinge_angle_rad": 0.996669410651195
+  },
+  {
+    "step": 688,
+    "success": false,
+    "reward": 1.9724784794816852,
+    "door_hinge_angle_rad": 0.9986071824746504
+  },
+  {
+    "step": 689,
+    "success": false,
+    "reward": 9.97336951373141,
+    "door_hinge_angle_rad": 1.0001360355078541
+  },
+  {
+    "step": 690,
+    "success": false,
+    "reward": 9.974983382912608,
+    "door_hinge_angle_rad": 1.001167326091973
+  },
+  {
+    "step": 691,
+    "success": false,
+    "reward": 9.975453886829037,
+    "door_hinge_angle_rad": 1.0016193384994783
+  },
+  {
+    "step": 692,
+    "success": false,
+    "reward": 9.975562814150969,
+    "door_hinge_angle_rad": 1.00169208736459
+  },
+  {
+    "step": 693,
+    "success": false,
+    "reward": 9.97566916241177,
+    "door_hinge_angle_rad": 1.001499478896326
+  },
+  {
+    "step": 694,
+    "success": false,
+    "reward": 9.975750198475064,
+    "door_hinge_angle_rad": 1.0012098271598202
+  },
+  {
+    "step": 695,
+    "success": false,
+    "reward": 9.975638767036752,
+    "door_hinge_angle_rad": 1.0010376909842187
+  },
+  {
+    "step": 696,
+    "success": false,
+    "reward": 9.975301197646477,
+    "door_hinge_angle_rad": 1.0009186731660793
+  },
+  {
+    "step": 697,
+    "success": false,
+    "reward": 9.974669945759096,
+    "door_hinge_angle_rad": 1.0008673351549406
+  },
+  {
+    "step": 698,
+    "success": false,
+    "reward": 9.975681163960562,
+    "door_hinge_angle_rad": 1.0008515456681146
+  },
+  {
+    "step": 699,
+    "success": false,
+    "reward": 9.976060086994565,
+    "door_hinge_angle_rad": 1.0008454213351157
+  },
+  {
+    "step": 700,
+    "success": false,
+    "reward": 9.976424607079267,
+    "door_hinge_angle_rad": 1.0008435277944996
+  },
+  {
+    "step": 701,
+    "success": false,
+    "reward": 9.973197655379206,
+    "door_hinge_angle_rad": 1.000114627580884
+  },
+  {
+    "step": 702,
+    "success": false,
+    "reward": 1.9754365541659327,
+    "door_hinge_angle_rad": 0.9988663760598108
+  },
+  {
+    "step": 703,
+    "success": false,
+    "reward": 1.9758956820941016,
+    "door_hinge_angle_rad": 0.9972323395616398
+  },
+  {
+    "step": 704,
+    "success": false,
+    "reward": 1.9759520972327016,
+    "door_hinge_angle_rad": 0.9952940573863012
+  },
+  {
+    "step": 705,
+    "success": false,
+    "reward": 1.9763063242933598,
+    "door_hinge_angle_rad": 0.9928095194954187
+  },
+  {
+    "step": 706,
+    "success": false,
+    "reward": 1.974531074082633,
+    "door_hinge_angle_rad": 0.9899893443176769
+  },
+  {
+    "step": 707,
+    "success": false,
+    "reward": 1.9727294954604928,
+    "door_hinge_angle_rad": 0.9868378528274344
+  },
+  {
+    "step": 708,
+    "success": false,
+    "reward": 1.9759206067755755,
+    "door_hinge_angle_rad": 0.9834783735656192
+  },
+  {
+    "step": 709,
+    "success": false,
+    "reward": 1.9752072801566412,
+    "door_hinge_angle_rad": 0.9801313608065428
+  },
+  {
+    "step": 710,
+    "success": false,
+    "reward": 1.9721038649494942,
+    "door_hinge_angle_rad": 0.9769832508473264
+  },
+  {
+    "step": 711,
+    "success": false,
+    "reward": 1.9694522031453576,
+    "door_hinge_angle_rad": 0.9740636090993233
+  },
+  {
+    "step": 712,
+    "success": false,
+    "reward": 1.969971562582833,
+    "door_hinge_angle_rad": 0.9713701813669491
+  },
+  {
+    "step": 713,
+    "success": false,
+    "reward": 1.9715646182655406,
+    "door_hinge_angle_rad": 0.9689007351730814
+  },
+  {
+    "step": 714,
+    "success": false,
+    "reward": 1.9750700763012847,
+    "door_hinge_angle_rad": 0.9666530599114517
+  },
+  {
+    "step": 715,
+    "success": false,
+    "reward": 1.9774376062649335,
+    "door_hinge_angle_rad": 0.9646249667439274
+  },
+  {
+    "step": 716,
+    "success": false,
+    "reward": 1.9806953439734918,
+    "door_hinge_angle_rad": 0.9628142884205672
+  },
+  {
+    "step": 717,
+    "success": false,
+    "reward": 1.983273923173625,
+    "door_hinge_angle_rad": 0.9612188790773138
+  },
+  {
+    "step": 718,
+    "success": false,
+    "reward": 1.9853250361241013,
+    "door_hinge_angle_rad": 0.9598366140282374
+  },
+  {
+    "step": 719,
+    "success": false,
+    "reward": 1.986821101410951,
+    "door_hinge_angle_rad": 0.95866538955753
+  },
+  {
+    "step": 720,
+    "success": false,
+    "reward": 1.988102418129993,
+    "door_hinge_angle_rad": 0.957703122712846
+  },
+  {
+    "step": 721,
+    "success": false,
+    "reward": 1.9832820975006502,
+    "door_hinge_angle_rad": 0.9569477511004623
+  },
+  {
+    "step": 722,
+    "success": false,
+    "reward": 1.9747118593146162,
+    "door_hinge_angle_rad": 0.9563972326823941
+  },
+  {
+    "step": 723,
+    "success": false,
+    "reward": 1.9698657060150904,
+    "door_hinge_angle_rad": 0.9560495455754915
+  },
+  {
+    "step": 724,
+    "success": false,
+    "reward": 1.9699313756859687,
+    "door_hinge_angle_rad": 0.9558955872486784
+  },
+  {
+    "step": 725,
+    "success": false,
+    "reward": 1.9730318300014842,
+    "door_hinge_angle_rad": 0.9558476560972501
+  },
+  {
+    "step": 726,
+    "success": false,
+    "reward": 1.9770023403088366,
+    "door_hinge_angle_rad": 0.9558329186426991
+  },
+  {
+    "step": 727,
+    "success": false,
+    "reward": 1.9809497872673592,
+    "door_hinge_angle_rad": 0.9558283882536329
+  },
+  {
+    "step": 728,
+    "success": false,
+    "reward": 1.984171468663485,
+    "door_hinge_angle_rad": 0.9558269965388106
+  },
+  {
+    "step": 729,
+    "success": false,
+    "reward": 1.986415788143872,
+    "door_hinge_angle_rad": 0.955826569966958
+  },
+  {
+    "step": 730,
+    "success": false,
+    "reward": 1.9877152989055744,
+    "door_hinge_angle_rad": 0.9558264401768102
+  },
+  {
+    "step": 731,
+    "success": false,
+    "reward": 1.9882376005933657,
+    "door_hinge_angle_rad": 0.9558264016471247
+  },
+  {
+    "step": 732,
+    "success": false,
+    "reward": 1.9881842183333607,
+    "door_hinge_angle_rad": 0.955826391180063
+  },
+  {
+    "step": 733,
+    "success": false,
+    "reward": 1.9877363752186188,
+    "door_hinge_angle_rad": 0.9558263893422689
+  },
+  {
+    "step": 734,
+    "success": false,
+    "reward": 1.9870346686464568,
+    "door_hinge_angle_rad": 0.9558263901579783
+  },
+  {
+    "step": 735,
+    "success": false,
+    "reward": 1.9861779202805157,
+    "door_hinge_angle_rad": 0.9558263917896416
+  },
+  {
+    "step": 736,
+    "success": false,
+    "reward": 1.9852316860098185,
+    "door_hinge_angle_rad": 0.955826393672211
+  },
+  {
+    "step": 737,
+    "success": false,
+    "reward": 1.9842383676461828,
+    "door_hinge_angle_rad": 0.9558263956319341
+  },
+  {
+    "step": 738,
+    "success": false,
+    "reward": 1.9832256433223072,
+    "door_hinge_angle_rad": 0.955826397615382
+  },
+  {
+    "step": 739,
+    "success": false,
+    "reward": 1.9822140405396076,
+    "door_hinge_angle_rad": 0.9558263996061254
+  },
+  {
+    "step": 740,
+    "success": false,
+    "reward": 1.9812217987866783,
+    "door_hinge_angle_rad": 0.9558264015991121
+  },
+  {
+    "step": 741,
+    "success": false,
+    "reward": 1.974675305672396,
+    "door_hinge_angle_rad": 0.9558264035927887
+  },
+  {
+    "step": 742,
+    "success": false,
+    "reward": 1.9658139178737697,
+    "door_hinge_angle_rad": 0.9558264055866774
+  },
+  {
+    "step": 743,
+    "success": false,
+    "reward": 1.9601801732716857,
+    "door_hinge_angle_rad": 0.9558264075806313
+  },
+  {
+    "step": 744,
+    "success": false,
+    "reward": 1.958482556420093,
+    "door_hinge_angle_rad": 0.9558264095746053
+  },
+  {
+    "step": 745,
+    "success": false,
+    "reward": 1.959655218037405,
+    "door_hinge_angle_rad": 0.9558264115685855
+  },
+  {
+    "step": 746,
+    "success": false,
+    "reward": 1.9623156191818654,
+    "door_hinge_angle_rad": 0.9558264135625675
+  },
+  {
+    "step": 747,
+    "success": false,
+    "reward": 1.96535602193004,
+    "door_hinge_angle_rad": 0.9558264155565502
+  },
+  {
+    "step": 748,
+    "success": false,
+    "reward": 1.9686646023488108,
+    "door_hinge_angle_rad": 0.9555279582835242
+  },
+  {
+    "step": 749,
+    "success": false,
+    "reward": 1.9708680406104464,
+    "door_hinge_angle_rad": 0.9532393467399705
+  },
+  {
+    "step": 750,
+    "success": false,
+    "reward": 1.9718551968573663,
+    "door_hinge_angle_rad": 0.9499845403308247
+  },
+  {
+    "step": 751,
+    "success": false,
+    "reward": 1.9723075297445847,
+    "door_hinge_angle_rad": 0.9466384782989262
+  },
+  {
+    "step": 752,
+    "success": false,
+    "reward": 1.9723828005710948,
+    "door_hinge_angle_rad": 0.94356877434252
+  },
+  {
+    "step": 753,
+    "success": false,
+    "reward": 1.9722362676497407,
+    "door_hinge_angle_rad": 0.9408562703544665
+  },
+  {
+    "step": 754,
+    "success": false,
+    "reward": 1.9719776803199627,
+    "door_hinge_angle_rad": 0.9384670210942379
+  },
+  {
+    "step": 755,
+    "success": false,
+    "reward": 1.9716700854622926,
+    "door_hinge_angle_rad": 0.9363782882922322
+  },
+  {
+    "step": 756,
+    "success": false,
+    "reward": 1.9713461092847326,
+    "door_hinge_angle_rad": 0.9345567105249475
+  },
+  {
+    "step": 757,
+    "success": false,
+    "reward": 1.9710224931974236,
+    "door_hinge_angle_rad": 0.9329526602798225
+  },
+  {
+    "step": 758,
+    "success": false,
+    "reward": 1.9707163975904047,
+    "door_hinge_angle_rad": 0.9315617686345223
+  },
+  {
+    "step": 759,
+    "success": false,
+    "reward": 1.9704385476834547,
+    "door_hinge_angle_rad": 0.9303819298036146
+  },
+  {
+    "step": 760,
+    "success": false,
+    "reward": 1.9701958828378545,
+    "door_hinge_angle_rad": 0.9294110606222452
+  },
+  {
+    "step": 761,
+    "success": false,
+    "reward": 1.9697140763885268,
+    "door_hinge_angle_rad": 0.9286470990479923
+  },
+  {
+    "step": 762,
+    "success": false,
+    "reward": 1.969276011567673,
+    "door_hinge_angle_rad": 0.9280880035590955
+  },
+  {
+    "step": 763,
+    "success": false,
+    "reward": 1.96905105047451,
+    "door_hinge_angle_rad": 0.9277317528306219
+  },
+  {
+    "step": 764,
+    "success": false,
+    "reward": 1.9691494414804636,
+    "door_hinge_angle_rad": 0.9275706131889755
+  },
+  {
+    "step": 765,
+    "success": false,
+    "reward": 1.9695615020655977,
+    "door_hinge_angle_rad": 0.9275201513289555
+  },
+  {
+    "step": 766,
+    "success": false,
+    "reward": 1.970239185578556,
+    "door_hinge_angle_rad": 0.927504634985588
+  },
+  {
+    "step": 767,
+    "success": false,
+    "reward": 1.9711332164755764,
+    "door_hinge_angle_rad": 0.9274998643830538
+  },
+  {
+    "step": 768,
+    "success": false,
+    "reward": 1.9722002657930058,
+    "door_hinge_angle_rad": 0.9274983980946201
+  },
+  {
+    "step": 769,
+    "success": false,
+    "reward": 1.973461554072455,
+    "door_hinge_angle_rad": 0.927497947882555
+  },
+  {
+    "step": 770,
+    "success": false,
+    "reward": 1.974775614237918,
+    "door_hinge_angle_rad": 0.9274978101139539
+  },
+  {
+    "step": 771,
+    "success": false,
+    "reward": 1.976163988101598,
+    "door_hinge_angle_rad": 0.9274977684217268
+  },
+  {
+    "step": 772,
+    "success": false,
+    "reward": 1.9776407209757587,
+    "door_hinge_angle_rad": 0.9274977562729919
+  },
+  {
+    "step": 773,
+    "success": false,
+    "reward": 1.979195594614775,
+    "door_hinge_angle_rad": 0.9274977532088844
+  },
+  {
+    "step": 774,
+    "success": false,
+    "reward": 1.9808161370584239,
+    "door_hinge_angle_rad": 0.9274977529383015
+  },
+  {
+    "step": 775,
+    "success": false,
+    "reward": 1.9824912840831657,
+    "door_hinge_angle_rad": 0.9274977535267279
+  },
+  {
+    "step": 776,
+    "success": false,
+    "reward": 1.9842112892192811,
+    "door_hinge_angle_rad": 0.9274977543792999
+  },
+  {
+    "step": 777,
+    "success": false,
+    "reward": 1.9859672311086678,
+    "door_hinge_angle_rad": 0.9274977553130968
+  },
+  {
+    "step": 778,
+    "success": false,
+    "reward": 1.9877506727604557,
+    "door_hinge_angle_rad": 0.9274977562718701
+  },
+  {
+    "step": 779,
+    "success": false,
+    "reward": 1.9895535271908733,
+    "door_hinge_angle_rad": 0.927497757238324
+  },
+  {
+    "step": 780,
+    "success": false,
+    "reward": 1.9913680032561176,
+    "door_hinge_angle_rad": 0.9274977582071394
+  }
+]

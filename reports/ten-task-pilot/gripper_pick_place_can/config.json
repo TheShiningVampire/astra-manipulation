@@ -1,0 +1,15 @@
+{
+  "seed": 0,
+  "episode_id": null,
+  "provider": "codex",
+  "task": "gripper_pick_place_can",
+  "instruction": "Pick up the red can from the source bin and place it inside the compartment outlined by the bright green rectangular frame in the other bin. Release the can and move the gripper away. The green frame is a visible destination marker.",
+  "dataset_path": null,
+  "requested_model": "gpt-6-astra",
+  "reasoning": "medium",
+  "request_timeout_seconds": 240.0,
+  "request_retries": 1,
+  "max_calls": 40,
+  "max_steps": 800,
+  "max_repeat": 10
+}

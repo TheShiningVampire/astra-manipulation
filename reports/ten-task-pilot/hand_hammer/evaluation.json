@@ -1,0 +1,4682 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": -1.3300458004598812,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": -1.433462102109583,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 3,
+    "success": false,
+    "reward": -1.4832797806861993,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 4,
+    "success": false,
+    "reward": -1.495429055421691,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 5,
+    "success": false,
+    "reward": -1.482573191351078,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 6,
+    "success": false,
+    "reward": -1.453767510996086,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 7,
+    "success": false,
+    "reward": -1.4155486729182853,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 8,
+    "success": false,
+    "reward": -1.3737482630727946,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 9,
+    "success": false,
+    "reward": -1.3323756729963214,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 10,
+    "success": false,
+    "reward": -1.2940358927472722,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 11,
+    "success": false,
+    "reward": -1.2601709924299747,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 12,
+    "success": false,
+    "reward": -1.2315142134644503,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 13,
+    "success": false,
+    "reward": -1.208153166577913,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 14,
+    "success": false,
+    "reward": -1.1943610238896614,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 15,
+    "success": false,
+    "reward": -1.1851311240920346,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 16,
+    "success": false,
+    "reward": -1.1799340023212277,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 17,
+    "success": false,
+    "reward": -1.1788925387907074,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 18,
+    "success": false,
+    "reward": -1.1787524327005385,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 19,
+    "success": false,
+    "reward": -1.1783539515381216,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 20,
+    "success": false,
+    "reward": -1.1775552173059862,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 21,
+    "success": false,
+    "reward": -1.2700895854502998,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 22,
+    "success": false,
+    "reward": -1.3372668056460328,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 23,
+    "success": false,
+    "reward": -1.3699840441950493,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 24,
+    "success": false,
+    "reward": -1.3772103086511613,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 25,
+    "success": false,
+    "reward": -1.3682569964658013,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 26,
+    "success": false,
+    "reward": -1.348765662271101,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 27,
+    "success": false,
+    "reward": -1.3194697592292566,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 28,
+    "success": false,
+    "reward": -1.287011935423619,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 29,
+    "success": false,
+    "reward": -1.2602018817391845,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 30,
+    "success": false,
+    "reward": -1.2394439144870273,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 31,
+    "success": false,
+    "reward": -1.2227552108413884,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 32,
+    "success": false,
+    "reward": -1.2089564740017056,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 33,
+    "success": false,
+    "reward": -1.198113782092674,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 34,
+    "success": false,
+    "reward": -1.1899334512221111,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 35,
+    "success": false,
+    "reward": -1.183659734840355,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 36,
+    "success": false,
+    "reward": -1.1778048303247008,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 37,
+    "success": false,
+    "reward": -1.173684154936521,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 38,
+    "success": false,
+    "reward": -1.1712037608809462,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 39,
+    "success": false,
+    "reward": -1.1697147716939031,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 40,
+    "success": false,
+    "reward": -1.1687494569372034,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 41,
+    "success": false,
+    "reward": -1.1866840643616308,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 42,
+    "success": false,
+    "reward": -1.196710000639482,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 43,
+    "success": false,
+    "reward": -1.1992258163691731,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 44,
+    "success": false,
+    "reward": -1.1977445254713386,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 45,
+    "success": false,
+    "reward": -1.1943628334580916,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 46,
+    "success": false,
+    "reward": -1.190268717041071,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 47,
+    "success": false,
+    "reward": -1.1861061379889601,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 48,
+    "success": false,
+    "reward": -1.1822069146804153,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 49,
+    "success": false,
+    "reward": -1.1787264264065622,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 50,
+    "success": false,
+    "reward": -1.175715220321857,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 51,
+    "success": false,
+    "reward": -1.1731710424816033,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 52,
+    "success": false,
+    "reward": -1.1710568294527435,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 53,
+    "success": false,
+    "reward": -1.1693168681459487,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 54,
+    "success": false,
+    "reward": -1.16789258852679,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 55,
+    "success": false,
+    "reward": -1.1667190890731067,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 56,
+    "success": false,
+    "reward": -1.1657504357416746,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 57,
+    "success": false,
+    "reward": -1.164957417253427,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 58,
+    "success": false,
+    "reward": -1.164314531706191,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 59,
+    "success": false,
+    "reward": -1.163801708364459,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 60,
+    "success": false,
+    "reward": -1.1634071867424027,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 61,
+    "success": false,
+    "reward": -1.3240257237706277,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 62,
+    "success": false,
+    "reward": -1.4202171041555187,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 63,
+    "success": false,
+    "reward": -1.46538194620025,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 64,
+    "success": false,
+    "reward": -1.4744184208992772,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 65,
+    "success": false,
+    "reward": -1.4594673198780725,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 66,
+    "success": false,
+    "reward": -1.429806498820467,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 67,
+    "success": false,
+    "reward": -1.3351786730881063,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 68,
+    "success": false,
+    "reward": -1.2641744922370008,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 69,
+    "success": false,
+    "reward": -1.2821316532617815,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 70,
+    "success": false,
+    "reward": -1.290441146386352,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 71,
+    "success": false,
+    "reward": -1.2888549028783036,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 72,
+    "success": false,
+    "reward": -1.2868896676021615,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 73,
+    "success": false,
+    "reward": -1.2857370850962113,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 74,
+    "success": false,
+    "reward": -1.2817004032268435,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 75,
+    "success": false,
+    "reward": -1.274657510733123,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 76,
+    "success": false,
+    "reward": -1.2628422300030624,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 77,
+    "success": false,
+    "reward": -1.2437829557154816,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 78,
+    "success": false,
+    "reward": -1.2348748937873075,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 79,
+    "success": false,
+    "reward": -1.2278922505829275,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 80,
+    "success": false,
+    "reward": -1.220710588908742,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 81,
+    "success": false,
+    "reward": -1.3096740636854087,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 82,
+    "success": false,
+    "reward": -1.3824823522739307,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 83,
+    "success": false,
+    "reward": -1.3513002965898537,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 84,
+    "success": false,
+    "reward": -1.3554647599070477,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 85,
+    "success": false,
+    "reward": -1.3614465635058624,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 86,
+    "success": false,
+    "reward": -1.3602365803708851,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 87,
+    "success": false,
+    "reward": -1.3544785385553886,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 88,
+    "success": false,
+    "reward": -1.364381792058736,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 89,
+    "success": false,
+    "reward": -1.3617760799674894,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 90,
+    "success": false,
+    "reward": -1.346050786471294,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 91,
+    "success": false,
+    "reward": -1.3166895564265257,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 92,
+    "success": false,
+    "reward": -1.2874239690596714,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 93,
+    "success": false,
+    "reward": -1.258045499769976,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 94,
+    "success": false,
+    "reward": -1.2408026995962484,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 95,
+    "success": false,
+    "reward": -1.229644966090884,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 96,
+    "success": false,
+    "reward": -1.2200476779056477,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 97,
+    "success": false,
+    "reward": -1.2131756981413415,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 98,
+    "success": false,
+    "reward": -1.2081112599884374,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 99,
+    "success": false,
+    "reward": -1.2045006004177177,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 100,
+    "success": false,
+    "reward": -1.2019568354984718,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 101,
+    "success": false,
+    "reward": -1.2518693128040255,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 102,
+    "success": false,
+    "reward": -1.2753449251924807,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 103,
+    "success": false,
+    "reward": -1.281878301851707,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 104,
+    "success": false,
+    "reward": -1.279899789258759,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 105,
+    "success": false,
+    "reward": -1.2732892230732833,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 106,
+    "success": false,
+    "reward": -1.2641969226916516,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 107,
+    "success": false,
+    "reward": -1.2536795438685167,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 108,
+    "success": false,
+    "reward": -1.2432155213926486,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 109,
+    "success": false,
+    "reward": -1.2337119452050742,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 110,
+    "success": false,
+    "reward": -1.225522381749047,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 111,
+    "success": false,
+    "reward": -1.218709455874641,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 112,
+    "success": false,
+    "reward": -1.2132073425054712,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 113,
+    "success": false,
+    "reward": -1.2088270956508955,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 114,
+    "success": false,
+    "reward": -1.2052422824827556,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 115,
+    "success": false,
+    "reward": -1.2023600339951652,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 116,
+    "success": false,
+    "reward": -1.2001388687517074,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 117,
+    "success": false,
+    "reward": -1.1983055695598253,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 118,
+    "success": false,
+    "reward": -1.1967399024341674,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 119,
+    "success": false,
+    "reward": -1.1954069232047346,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 120,
+    "success": false,
+    "reward": -1.1942851025738916,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 121,
+    "success": false,
+    "reward": -1.2034678342610619,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 122,
+    "success": false,
+    "reward": -1.2086418815900606,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 123,
+    "success": false,
+    "reward": -1.2099582433765423,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 124,
+    "success": false,
+    "reward": -1.2102177816969775,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 125,
+    "success": false,
+    "reward": -1.2091486126683981,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 126,
+    "success": false,
+    "reward": -1.2073156449159483,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 127,
+    "success": false,
+    "reward": -1.2050828997541736,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 128,
+    "success": false,
+    "reward": -1.202612729342366,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 129,
+    "success": false,
+    "reward": -1.200036310875347,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 130,
+    "success": false,
+    "reward": -1.1975023347923417,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 131,
+    "success": false,
+    "reward": -1.195055380554545,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 132,
+    "success": false,
+    "reward": -1.1927959828574928,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 133,
+    "success": false,
+    "reward": -1.1907570262458365,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 134,
+    "success": false,
+    "reward": -1.188964680594715,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 135,
+    "success": false,
+    "reward": -1.1874200739444887,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 136,
+    "success": false,
+    "reward": -1.1861726234937882,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 137,
+    "success": false,
+    "reward": -1.1851094204654997,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 138,
+    "success": false,
+    "reward": -1.184258455282715,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 139,
+    "success": false,
+    "reward": -1.1836107783485768,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 140,
+    "success": false,
+    "reward": -1.1829940144879814,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 141,
+    "success": false,
+    "reward": -1.4087883839951554,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 142,
+    "success": false,
+    "reward": -1.5424874408717146,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 143,
+    "success": false,
+    "reward": -1.605359968830148,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 144,
+    "success": false,
+    "reward": -1.6186939968276715,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 145,
+    "success": false,
+    "reward": -1.5990407012397396,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 146,
+    "success": false,
+    "reward": -1.5588519970192505,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 147,
+    "success": false,
+    "reward": -1.5074920053954761,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 148,
+    "success": false,
+    "reward": -1.4519857744984361,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 149,
+    "success": false,
+    "reward": -1.3975109023780679,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 150,
+    "success": false,
+    "reward": -1.347651517168483,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 151,
+    "success": false,
+    "reward": -1.304639454976071,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 152,
+    "success": false,
+    "reward": -1.269709706316922,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 153,
+    "success": false,
+    "reward": -1.2435084349668395,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 154,
+    "success": false,
+    "reward": -1.2615473772380792,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 155,
+    "success": false,
+    "reward": -1.3027695462222855,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 156,
+    "success": false,
+    "reward": -1.3085479215173426,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 157,
+    "success": false,
+    "reward": -1.2944284963165766,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 158,
+    "success": false,
+    "reward": -1.2744435900330862,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 159,
+    "success": false,
+    "reward": -1.255695629552764,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 160,
+    "success": false,
+    "reward": -1.240772002329091,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 161,
+    "success": false,
+    "reward": -1.3655362786286125,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 162,
+    "success": false,
+    "reward": -1.4892849426010664,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 163,
+    "success": false,
+    "reward": -1.518644006122972,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 164,
+    "success": false,
+    "reward": -1.565195780906099,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 165,
+    "success": false,
+    "reward": -1.577189337057865,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 166,
+    "success": false,
+    "reward": -1.5561366295712966,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 167,
+    "success": false,
+    "reward": -1.517793522729853,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 168,
+    "success": false,
+    "reward": -1.462742431170105,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 169,
+    "success": false,
+    "reward": -1.4076911001483756,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 170,
+    "success": false,
+    "reward": -1.3693835795860403,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 171,
+    "success": false,
+    "reward": -1.3344882533204143,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 172,
+    "success": false,
+    "reward": -1.3040931775956377,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 173,
+    "success": false,
+    "reward": -1.2782595607439908,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 174,
+    "success": false,
+    "reward": -1.255523965672162,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 175,
+    "success": false,
+    "reward": -1.2391859356075046,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 176,
+    "success": false,
+    "reward": -1.227823791203921,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 177,
+    "success": false,
+    "reward": -1.2198730806602103,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 178,
+    "success": false,
+    "reward": -1.2145135617951193,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 179,
+    "success": false,
+    "reward": -1.211187706316403,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 180,
+    "success": false,
+    "reward": -1.2091495026745815,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 181,
+    "success": false,
+    "reward": -1.2336197408461438,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 182,
+    "success": false,
+    "reward": -1.245102076333392,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 183,
+    "success": false,
+    "reward": -1.2441777425775327,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 184,
+    "success": false,
+    "reward": -1.2394831203404173,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 185,
+    "success": false,
+    "reward": -1.234592647733802,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 186,
+    "success": false,
+    "reward": -1.2307234537044671,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 187,
+    "success": false,
+    "reward": -1.227653006094842,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 188,
+    "success": false,
+    "reward": -1.2247840546591295,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 189,
+    "success": false,
+    "reward": -1.2216831197523166,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 190,
+    "success": false,
+    "reward": -1.2182302413226753,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 191,
+    "success": false,
+    "reward": -1.2144741123129554,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 192,
+    "success": false,
+    "reward": -1.2105783540485626,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 193,
+    "success": false,
+    "reward": -1.2067280655940145,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 194,
+    "success": false,
+    "reward": -1.2031007880516238,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 195,
+    "success": false,
+    "reward": -1.1998166751398232,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 196,
+    "success": false,
+    "reward": -1.1970198363859847,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 197,
+    "success": false,
+    "reward": -1.1947493400967841,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 198,
+    "success": false,
+    "reward": -1.1928947382608972,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 199,
+    "success": false,
+    "reward": -1.191317855491609,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 200,
+    "success": false,
+    "reward": -1.1900165416299626,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 201,
+    "success": false,
+    "reward": -1.4442331498301475,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 202,
+    "success": false,
+    "reward": -1.5982332975479658,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 203,
+    "success": false,
+    "reward": -1.669836527588962,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 204,
+    "success": false,
+    "reward": -1.6837512858428774,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 205,
+    "success": false,
+    "reward": -1.6594725747824293,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 206,
+    "success": false,
+    "reward": -1.6117362157580395,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 207,
+    "success": false,
+    "reward": -1.5515687164678575,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 208,
+    "success": false,
+    "reward": -1.4871980399548062,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 209,
+    "success": false,
+    "reward": -1.4245572446344041,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 210,
+    "success": false,
+    "reward": -1.3676367836734387,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 211,
+    "success": false,
+    "reward": -1.318790053775339,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 212,
+    "success": false,
+    "reward": -1.279153426309501,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 213,
+    "success": false,
+    "reward": -1.249138119817347,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 214,
+    "success": false,
+    "reward": -1.2352398939891458,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 215,
+    "success": false,
+    "reward": -1.2681196607204464,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 216,
+    "success": false,
+    "reward": -1.2829784399636888,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 217,
+    "success": false,
+    "reward": -1.2782993820842683,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 218,
+    "success": false,
+    "reward": -1.264634051819814,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 219,
+    "success": false,
+    "reward": -1.2495986384842632,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 220,
+    "success": false,
+    "reward": -1.2371483780211567,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 221,
+    "success": false,
+    "reward": -1.4091589793422414,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 222,
+    "success": false,
+    "reward": -1.5738951746500056,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 223,
+    "success": false,
+    "reward": -1.62513654287261,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 224,
+    "success": false,
+    "reward": -1.6712357590182427,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 225,
+    "success": false,
+    "reward": -1.6735345317097188,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 226,
+    "success": false,
+    "reward": -1.637734316754245,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 227,
+    "success": false,
+    "reward": -1.580345172116324,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 228,
+    "success": false,
+    "reward": -1.5211898234226284,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 229,
+    "success": false,
+    "reward": -1.4630461055073138,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 230,
+    "success": false,
+    "reward": -1.4080254596648336,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 231,
+    "success": false,
+    "reward": -1.3588927985864352,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 232,
+    "success": false,
+    "reward": -1.316659990221929,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 233,
+    "success": false,
+    "reward": -1.2812600603036037,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 234,
+    "success": false,
+    "reward": -1.2543991416168505,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 235,
+    "success": false,
+    "reward": -1.2358930095771157,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 236,
+    "success": false,
+    "reward": -1.2258343486276373,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 237,
+    "success": false,
+    "reward": -1.2222012149476014,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 238,
+    "success": false,
+    "reward": -1.2221662724952393,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 239,
+    "success": false,
+    "reward": -1.2220426618216609,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 240,
+    "success": false,
+    "reward": -1.2213018748204072,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 241,
+    "success": false,
+    "reward": -1.2299100096376372,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 242,
+    "success": false,
+    "reward": -1.2352128573787116,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 243,
+    "success": false,
+    "reward": -1.2352901797775466,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 244,
+    "success": false,
+    "reward": -1.2332589569151968,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 245,
+    "success": false,
+    "reward": -1.2309376655690685,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 246,
+    "success": false,
+    "reward": -1.228738592346359,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 247,
+    "success": false,
+    "reward": -1.2263960729250016,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 248,
+    "success": false,
+    "reward": -1.2236266451402227,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 249,
+    "success": false,
+    "reward": -1.2201006849271532,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 250,
+    "success": false,
+    "reward": -1.2163307679316202,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 251,
+    "success": false,
+    "reward": -1.2124727231783425,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 252,
+    "success": false,
+    "reward": -1.2086148614195427,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 253,
+    "success": false,
+    "reward": -1.2049024965405548,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 254,
+    "success": false,
+    "reward": -1.2014599935768127,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 255,
+    "success": false,
+    "reward": -1.1983142632660662,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 256,
+    "success": false,
+    "reward": -1.1956243472063943,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 257,
+    "success": false,
+    "reward": -1.1933881601493597,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 258,
+    "success": false,
+    "reward": -1.1915178297441056,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 259,
+    "success": false,
+    "reward": -1.1900392703115545,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 260,
+    "success": false,
+    "reward": -1.188846188267141,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 261,
+    "success": false,
+    "reward": -1.4910270525368055,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 262,
+    "success": false,
+    "reward": -1.6696619561643373,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 263,
+    "success": false,
+    "reward": -1.7557290956102474,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 264,
+    "success": false,
+    "reward": -1.775026305509288,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 265,
+    "success": false,
+    "reward": -1.7488720715245636,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 266,
+    "success": false,
+    "reward": -1.6941957042486486,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 267,
+    "success": false,
+    "reward": -1.624056325674464,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 268,
+    "success": false,
+    "reward": -1.5483068435097787,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 269,
+    "success": false,
+    "reward": -1.47411041203969,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 270,
+    "success": false,
+    "reward": -1.4062667824899249,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 271,
+    "success": false,
+    "reward": -1.3475706707781905,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 272,
+    "success": false,
+    "reward": -1.2992617681724665,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 273,
+    "success": false,
+    "reward": -1.2615956015810381,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 274,
+    "success": false,
+    "reward": -1.2344974763193635,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 275,
+    "success": false,
+    "reward": -1.2187452333471795,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 276,
+    "success": false,
+    "reward": -1.2322643477011206,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 277,
+    "success": false,
+    "reward": -1.2445897282407667,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 278,
+    "success": false,
+    "reward": -1.225611329049394,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 279,
+    "success": false,
+    "reward": -1.2130597093385944,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 280,
+    "success": false,
+    "reward": -1.209126568774642,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 281,
+    "success": false,
+    "reward": -1.4406162383115895,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 282,
+    "success": false,
+    "reward": -1.6215631627898521,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 283,
+    "success": false,
+    "reward": -1.6824530713666026,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 284,
+    "success": false,
+    "reward": -1.72429901670656,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 285,
+    "success": false,
+    "reward": -1.7369472978597171,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 286,
+    "success": false,
+    "reward": -1.7129614432224076,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 287,
+    "success": false,
+    "reward": -1.649547179786158,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 288,
+    "success": false,
+    "reward": -1.5832556835275655,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 289,
+    "success": false,
+    "reward": -1.5202316917015954,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 290,
+    "success": false,
+    "reward": -1.4568369518350415,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 291,
+    "success": false,
+    "reward": -1.3986831858699054,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 292,
+    "success": false,
+    "reward": -1.3479665201217614,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 293,
+    "success": false,
+    "reward": -1.3022874440534693,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 294,
+    "success": false,
+    "reward": -1.2690377163217048,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 295,
+    "success": false,
+    "reward": -1.245503863790128,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 296,
+    "success": false,
+    "reward": -1.2309547891700934,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 297,
+    "success": false,
+    "reward": -1.2245508044243871,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 298,
+    "success": false,
+    "reward": -1.2226863779828945,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 299,
+    "success": false,
+    "reward": -1.2227941030783733,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 300,
+    "success": false,
+    "reward": -1.2233654977909079,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 301,
+    "success": false,
+    "reward": -1.2467085416822814,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 302,
+    "success": false,
+    "reward": -1.2595223037263528,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 303,
+    "success": false,
+    "reward": -1.2602113868380584,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 304,
+    "success": false,
+    "reward": -1.2573368909082454,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 305,
+    "success": false,
+    "reward": -1.2538456441289614,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 306,
+    "success": false,
+    "reward": -1.250170068247441,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 307,
+    "success": false,
+    "reward": -1.2462955635394755,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 308,
+    "success": false,
+    "reward": -1.2426563261819539,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 309,
+    "success": false,
+    "reward": -1.2315042262533413,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 310,
+    "success": false,
+    "reward": -1.222751984352766,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 311,
+    "success": false,
+    "reward": -1.2151330010612378,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 312,
+    "success": false,
+    "reward": -1.210294962823298,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 313,
+    "success": false,
+    "reward": -1.2059548367196067,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 314,
+    "success": false,
+    "reward": -1.2018274329037102,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 315,
+    "success": false,
+    "reward": -1.1980606321302425,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 316,
+    "success": false,
+    "reward": -1.1947568425448425,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 317,
+    "success": false,
+    "reward": -1.19201056217703,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 318,
+    "success": false,
+    "reward": -1.1897752033280538,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 319,
+    "success": false,
+    "reward": -1.1880258671216692,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 320,
+    "success": false,
+    "reward": -1.1866457902127356,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 321,
+    "success": false,
+    "reward": -1.5077763998840683,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 322,
+    "success": false,
+    "reward": -1.7065688332400708,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 323,
+    "success": false,
+    "reward": -1.80494621635187,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 324,
+    "success": false,
+    "reward": -1.8197313387334688,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 325,
+    "success": false,
+    "reward": -1.7944510098267834,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 326,
+    "success": false,
+    "reward": -1.7393468425899754,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 327,
+    "success": false,
+    "reward": -1.6662692278184945,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 328,
+    "success": false,
+    "reward": -1.5858136394716917,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 329,
+    "success": false,
+    "reward": -1.5060806407401641,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 330,
+    "success": false,
+    "reward": -1.4326721145794161,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 331,
+    "success": false,
+    "reward": -1.3689399518810874,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 332,
+    "success": false,
+    "reward": -1.3164603139608264,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 333,
+    "success": false,
+    "reward": -1.275631170970292,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 334,
+    "success": false,
+    "reward": -1.2523935177653274,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 335,
+    "success": false,
+    "reward": -1.2552876337226058,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 336,
+    "success": false,
+    "reward": -1.2565399161410327,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 337,
+    "success": false,
+    "reward": -1.258624140175291,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 338,
+    "success": false,
+    "reward": -1.2290531561732005,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 339,
+    "success": false,
+    "reward": -1.2126353260148375,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 340,
+    "success": false,
+    "reward": -1.2066821387304358,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 341,
+    "success": false,
+    "reward": -1.4753617643302561,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 342,
+    "success": false,
+    "reward": -1.6444545408497628,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 343,
+    "success": false,
+    "reward": -1.7056450547466318,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 344,
+    "success": false,
+    "reward": -1.7506796953439216,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 345,
+    "success": false,
+    "reward": -1.7734456249473203,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 346,
+    "success": false,
+    "reward": -1.7765674349420268,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 347,
+    "success": false,
+    "reward": -1.7318861118492088,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 348,
+    "success": false,
+    "reward": -1.6566104585532784,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 349,
+    "success": false,
+    "reward": -1.5665349969473406,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 350,
+    "success": false,
+    "reward": -1.4739215163105643,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 351,
+    "success": false,
+    "reward": -1.4122650683322113,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 352,
+    "success": false,
+    "reward": -1.356180494844364,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 353,
+    "success": false,
+    "reward": -1.294702211843637,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 354,
+    "success": false,
+    "reward": -1.2529655295648807,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 355,
+    "success": false,
+    "reward": -1.2353642087517118,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 356,
+    "success": false,
+    "reward": -1.233163619173564,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 357,
+    "success": false,
+    "reward": -1.230932644769153,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 358,
+    "success": false,
+    "reward": -1.227813939626048,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 359,
+    "success": false,
+    "reward": -1.2244189254716469,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 360,
+    "success": false,
+    "reward": -1.2212025199180994,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 361,
+    "success": false,
+    "reward": -1.2283338503770858,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 362,
+    "success": false,
+    "reward": -1.235539811956614,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 363,
+    "success": false,
+    "reward": -1.2366586746036243,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 364,
+    "success": false,
+    "reward": -1.233715659612137,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 365,
+    "success": false,
+    "reward": -1.228811407881943,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 366,
+    "success": false,
+    "reward": -1.2234602291530292,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 367,
+    "success": false,
+    "reward": -1.2183973486599682,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 368,
+    "success": false,
+    "reward": -1.2145489452131812,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 369,
+    "success": false,
+    "reward": -1.2134712494535942,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 370,
+    "success": false,
+    "reward": -1.2135330323046276,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 371,
+    "success": false,
+    "reward": -1.214116050867859,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 372,
+    "success": false,
+    "reward": -1.2150091451108742,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 373,
+    "success": false,
+    "reward": -1.2164912713589544,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 374,
+    "success": false,
+    "reward": -1.2192763472342136,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 375,
+    "success": false,
+    "reward": -1.2237904752150308,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 376,
+    "success": false,
+    "reward": -1.230054272202261,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 377,
+    "success": false,
+    "reward": -1.237601527206479,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 378,
+    "success": false,
+    "reward": -1.245441006532494,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 379,
+    "success": false,
+    "reward": -1.25238441778074,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 380,
+    "success": false,
+    "reward": -1.257441244644296,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 381,
+    "success": false,
+    "reward": -1.2752593007733022,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 382,
+    "success": false,
+    "reward": -1.2914902993522521,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 383,
+    "success": false,
+    "reward": -1.2986502988309112,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 384,
+    "success": false,
+    "reward": -1.2984122159057718,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 385,
+    "success": false,
+    "reward": -1.293518085542408,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 386,
+    "success": false,
+    "reward": -1.2840908265918243,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 387,
+    "success": false,
+    "reward": -1.276006185524243,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 388,
+    "success": false,
+    "reward": -1.2684685810653535,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 389,
+    "success": false,
+    "reward": -1.255079804892359,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 390,
+    "success": false,
+    "reward": -1.2477066447548397,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 391,
+    "success": false,
+    "reward": -1.242526107073867,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 392,
+    "success": false,
+    "reward": -1.2458814657605046,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 393,
+    "success": false,
+    "reward": -1.2542069553214334,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 394,
+    "success": false,
+    "reward": -1.259418821140632,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 395,
+    "success": false,
+    "reward": -1.2586462026619034,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 396,
+    "success": false,
+    "reward": -1.2560786138819,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 397,
+    "success": false,
+    "reward": -1.2490073611667651,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 398,
+    "success": false,
+    "reward": -1.2400724777136196,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 399,
+    "success": false,
+    "reward": -1.2258190584687836,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 400,
+    "success": false,
+    "reward": -1.2151591637888242,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 401,
+    "success": false,
+    "reward": -1.5373086958706152,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 402,
+    "success": false,
+    "reward": -1.7377814667531464,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 403,
+    "success": false,
+    "reward": -1.8468060337567729,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 404,
+    "success": false,
+    "reward": -1.865362763086222,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 405,
+    "success": false,
+    "reward": -1.8392706152068712,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 406,
+    "success": false,
+    "reward": -1.7808494281720033,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 407,
+    "success": false,
+    "reward": -1.7025283790664143,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 408,
+    "success": false,
+    "reward": -1.616132585841501,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 409,
+    "success": false,
+    "reward": -1.5309025703899253,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 410,
+    "success": false,
+    "reward": -1.4530848943043333,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 411,
+    "success": false,
+    "reward": -1.3862211587168425,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 412,
+    "success": false,
+    "reward": -1.3125249763648337,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 413,
+    "success": false,
+    "reward": -1.2731883343056618,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 414,
+    "success": false,
+    "reward": -1.2456147852751949,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 415,
+    "success": false,
+    "reward": -1.2348366424128834,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 416,
+    "success": false,
+    "reward": -1.2331739428944015,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 417,
+    "success": false,
+    "reward": -1.2310321513895202,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 418,
+    "success": false,
+    "reward": -1.2281440208368486,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 419,
+    "success": false,
+    "reward": -1.2255929141523612,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 420,
+    "success": false,
+    "reward": -1.223114096547054,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 421,
+    "success": false,
+    "reward": -1.483488823397932,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 422,
+    "success": false,
+    "reward": -1.660284877538209,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 423,
+    "success": false,
+    "reward": -1.744927003595388,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 424,
+    "success": false,
+    "reward": -1.7971285243671844,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 425,
+    "success": false,
+    "reward": -1.8136315801996865,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 426,
+    "success": false,
+    "reward": -1.798486010051786,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 427,
+    "success": false,
+    "reward": -1.7374038217243175,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 428,
+    "success": false,
+    "reward": -1.647537767791154,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 429,
+    "success": false,
+    "reward": -1.5634236414634017,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 430,
+    "success": false,
+    "reward": -1.4896020847790172,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 431,
+    "success": false,
+    "reward": -1.4208827968156545,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 432,
+    "success": false,
+    "reward": -1.3664536980150523,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 433,
+    "success": false,
+    "reward": -1.313184668553623,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 434,
+    "success": false,
+    "reward": -1.2863889407766356,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 435,
+    "success": false,
+    "reward": -1.2756702119526622,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 436,
+    "success": false,
+    "reward": -1.2662351601731165,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 437,
+    "success": false,
+    "reward": -1.262554894832073,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 438,
+    "success": false,
+    "reward": -1.2600778556893655,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 439,
+    "success": false,
+    "reward": -1.2592285245342953,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 440,
+    "success": false,
+    "reward": -1.2591152941190218,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 441,
+    "success": false,
+    "reward": -1.2682649218881483,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 442,
+    "success": false,
+    "reward": -1.2787146426792293,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 443,
+    "success": false,
+    "reward": -1.2845550391421938,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 444,
+    "success": false,
+    "reward": -1.2869456917692226,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 445,
+    "success": false,
+    "reward": -1.2859560867850643,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 446,
+    "success": false,
+    "reward": -1.2829175114514226,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 447,
+    "success": false,
+    "reward": -1.2769026068593725,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 448,
+    "success": false,
+    "reward": -1.2678548412914459,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 449,
+    "success": false,
+    "reward": -1.25827101837427,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 450,
+    "success": false,
+    "reward": -1.2494257842257865,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 451,
+    "success": false,
+    "reward": -1.2420417240377435,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 452,
+    "success": false,
+    "reward": -1.2359463645091116,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 453,
+    "success": false,
+    "reward": -1.2312882539855814,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 454,
+    "success": false,
+    "reward": -1.2281033828289274,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 455,
+    "success": false,
+    "reward": -1.2265770659046507,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 456,
+    "success": false,
+    "reward": -1.226881058689941,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 457,
+    "success": false,
+    "reward": -1.22902062958863,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 458,
+    "success": false,
+    "reward": -1.2325665039529448,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 459,
+    "success": false,
+    "reward": -1.236809420037336,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 460,
+    "success": false,
+    "reward": -1.2405742162611233,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 461,
+    "success": false,
+    "reward": -1.537717237831301,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 462,
+    "success": false,
+    "reward": -1.7293300115055001,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 463,
+    "success": false,
+    "reward": -1.8249899161712202,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 464,
+    "success": false,
+    "reward": -1.8452806692522046,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 465,
+    "success": false,
+    "reward": -1.8155301990654453,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 466,
+    "success": false,
+    "reward": -1.7547816271709467,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 467,
+    "success": false,
+    "reward": -1.6772993587004186,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 468,
+    "success": false,
+    "reward": -1.5937318975587695,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 469,
+    "success": false,
+    "reward": -1.5118326552168495,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 470,
+    "success": false,
+    "reward": -1.4368146805853586,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 471,
+    "success": false,
+    "reward": -1.371702830808068,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 472,
+    "success": false,
+    "reward": -1.3178477936902258,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 473,
+    "success": false,
+    "reward": -1.275449740469768,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 474,
+    "success": false,
+    "reward": -1.2442711150137764,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 475,
+    "success": false,
+    "reward": -1.2263180729504213,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 476,
+    "success": false,
+    "reward": -1.2378087287555175,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 477,
+    "success": false,
+    "reward": -1.2366304496918157,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 478,
+    "success": false,
+    "reward": -1.238998857148683,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 479,
+    "success": false,
+    "reward": -1.2377544628024237,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 480,
+    "success": false,
+    "reward": -1.2336746466815838,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 481,
+    "success": false,
+    "reward": -1.493309734493583,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 482,
+    "success": false,
+    "reward": -1.6790831299938234,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 483,
+    "success": false,
+    "reward": -1.76002616848604,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 484,
+    "success": false,
+    "reward": -1.8099136893204306,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 485,
+    "success": false,
+    "reward": -1.8246193195117222,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 486,
+    "success": false,
+    "reward": -1.7987759302431203,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 487,
+    "success": false,
+    "reward": -1.7219438030246237,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 488,
+    "success": false,
+    "reward": -1.62759527695449,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 489,
+    "success": false,
+    "reward": -1.5545060065621563,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 490,
+    "success": false,
+    "reward": -1.488057341918803,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 491,
+    "success": false,
+    "reward": -1.4275256574486386,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 492,
+    "success": false,
+    "reward": -1.3600660396488877,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 493,
+    "success": false,
+    "reward": -1.305615530715054,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 494,
+    "success": false,
+    "reward": -1.2789092065126046,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 495,
+    "success": false,
+    "reward": -1.2631593244979424,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 496,
+    "success": false,
+    "reward": -1.255299650920982,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 497,
+    "success": false,
+    "reward": -1.2504922886973233,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 498,
+    "success": false,
+    "reward": -1.2495054570473991,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 499,
+    "success": false,
+    "reward": -1.2525190167525215,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 500,
+    "success": false,
+    "reward": -1.2565708433782579,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 501,
+    "success": false,
+    "reward": -1.2912275493726921,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 502,
+    "success": false,
+    "reward": -1.3253914635068218,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 503,
+    "success": false,
+    "reward": -1.3449750852655098,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 504,
+    "success": false,
+    "reward": -1.3526925836195736,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 505,
+    "success": false,
+    "reward": -1.3473585142132007,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 506,
+    "success": false,
+    "reward": -1.3349764287739354,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 507,
+    "success": false,
+    "reward": -1.3189235918595341,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 508,
+    "success": false,
+    "reward": -1.2966149297890106,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 509,
+    "success": false,
+    "reward": -1.2788536142531812,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 510,
+    "success": false,
+    "reward": -1.264539354571699,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 511,
+    "success": false,
+    "reward": -1.2524350966732913,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 512,
+    "success": false,
+    "reward": -1.2345803513991904,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 513,
+    "success": false,
+    "reward": -1.2282667142167862,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 514,
+    "success": false,
+    "reward": -1.224912627134312,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 515,
+    "success": false,
+    "reward": -1.222300742108497,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 516,
+    "success": false,
+    "reward": -1.2200216569043172,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 517,
+    "success": false,
+    "reward": -1.217930783037994,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 518,
+    "success": false,
+    "reward": -1.2159205737377807,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 519,
+    "success": false,
+    "reward": -1.2138521549347063,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 520,
+    "success": false,
+    "reward": -1.2116431357078765,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 521,
+    "success": false,
+    "reward": -1.511503229530789,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 522,
+    "success": false,
+    "reward": -1.7045540900820808,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 523,
+    "success": false,
+    "reward": -1.8005170984957284,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 524,
+    "success": false,
+    "reward": -1.812254843679117,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 525,
+    "success": false,
+    "reward": -1.7868404243289435,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 526,
+    "success": false,
+    "reward": -1.7346438111815976,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 527,
+    "success": false,
+    "reward": -1.6658931958153067,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 528,
+    "success": false,
+    "reward": -1.5899284657167396,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 529,
+    "success": false,
+    "reward": -1.514054920235651,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 530,
+    "success": false,
+    "reward": -1.4434824563792477,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 531,
+    "success": false,
+    "reward": -1.38146277813642,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 532,
+    "success": false,
+    "reward": -1.3296685371523547,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 533,
+    "success": false,
+    "reward": -1.2665900785718875,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 534,
+    "success": false,
+    "reward": -1.2612401739754047,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 535,
+    "success": false,
+    "reward": -1.2681997394031095,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 536,
+    "success": false,
+    "reward": -1.2656587042371865,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 537,
+    "success": false,
+    "reward": -1.257025109343011,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 538,
+    "success": false,
+    "reward": -1.2465257857752146,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 539,
+    "success": false,
+    "reward": -1.2368411226421983,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 540,
+    "success": false,
+    "reward": -1.2293283049892996,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 541,
+    "success": false,
+    "reward": -1.4557275485542762,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 542,
+    "success": false,
+    "reward": -1.6132920504786534,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 543,
+    "success": false,
+    "reward": -1.7210587504496926,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 544,
+    "success": false,
+    "reward": -1.7567154049760871,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 545,
+    "success": false,
+    "reward": -1.7761127919942694,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 546,
+    "success": false,
+    "reward": -1.7513051778073807,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 547,
+    "success": false,
+    "reward": -1.6810881043964647,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 548,
+    "success": false,
+    "reward": -1.6019642383431099,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 549,
+    "success": false,
+    "reward": -1.538037398379989,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 550,
+    "success": false,
+    "reward": -1.4772557237152213,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 551,
+    "success": false,
+    "reward": -1.4162339679257052,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 552,
+    "success": false,
+    "reward": -1.3555038044435523,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 553,
+    "success": false,
+    "reward": -1.3071284532652971,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 554,
+    "success": false,
+    "reward": -1.271024851876776,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 555,
+    "success": false,
+    "reward": -1.2555479847034035,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 556,
+    "success": false,
+    "reward": -1.2517901503275557,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 557,
+    "success": false,
+    "reward": -1.250778314364231,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 558,
+    "success": false,
+    "reward": -1.2510661340279594,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 559,
+    "success": false,
+    "reward": -1.2508288299847508,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 560,
+    "success": false,
+    "reward": -1.2475403170563755,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 561,
+    "success": false,
+    "reward": -1.2656222749753152,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 562,
+    "success": false,
+    "reward": -1.2795837660475546,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 563,
+    "success": false,
+    "reward": -1.2835677688519764,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 564,
+    "success": false,
+    "reward": -1.2812772010671694,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 565,
+    "success": false,
+    "reward": -1.2753658160036696,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 566,
+    "success": false,
+    "reward": -1.267265523507669,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 567,
+    "success": false,
+    "reward": -1.2586038649963769,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 568,
+    "success": false,
+    "reward": -1.2511946312820745,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 569,
+    "success": false,
+    "reward": -1.244910654084989,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 570,
+    "success": false,
+    "reward": -1.239709796762118,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 571,
+    "success": false,
+    "reward": -1.2356491676507853,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 572,
+    "success": false,
+    "reward": -1.232951401200324,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 573,
+    "success": false,
+    "reward": -1.2319212976114373,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 574,
+    "success": false,
+    "reward": -1.2327184276502412,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 575,
+    "success": false,
+    "reward": -1.2351050857726114,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 576,
+    "success": false,
+    "reward": -1.2387665184720156,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 577,
+    "success": false,
+    "reward": -1.241624890454504,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 578,
+    "success": false,
+    "reward": -1.2432090013506676,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 579,
+    "success": false,
+    "reward": -1.2424625321365854,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 580,
+    "success": false,
+    "reward": -1.2380790607365677,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 581,
+    "success": false,
+    "reward": -1.5213764457896355,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 582,
+    "success": false,
+    "reward": -1.715718727230246,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 583,
+    "success": false,
+    "reward": -1.8149016298833671,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 584,
+    "success": false,
+    "reward": -1.8422456558123201,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 585,
+    "success": false,
+    "reward": -1.8078783873838213,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 586,
+    "success": false,
+    "reward": -1.7557328527549076,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 587,
+    "success": false,
+    "reward": -1.685764114524516,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 588,
+    "success": false,
+    "reward": -1.6076842150375628,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 589,
+    "success": false,
+    "reward": -1.5292151954383937,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 590,
+    "success": false,
+    "reward": -1.4559263835692224,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 591,
+    "success": false,
+    "reward": -1.391326297917865,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 592,
+    "success": false,
+    "reward": -1.337219525560006,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 593,
+    "success": false,
+    "reward": -1.2942147430243134,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 594,
+    "success": false,
+    "reward": -1.26349245953436,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 595,
+    "success": false,
+    "reward": -1.248966414631608,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 596,
+    "success": false,
+    "reward": -1.2490235358257067,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 597,
+    "success": false,
+    "reward": -1.2489440770656066,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 598,
+    "success": false,
+    "reward": -1.2448987933531326,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 599,
+    "success": false,
+    "reward": -1.2376864132282064,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 600,
+    "success": false,
+    "reward": -1.2305661154588508,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 601,
+    "success": false,
+    "reward": -1.4881372775818882,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 602,
+    "success": false,
+    "reward": -1.644440853689115,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 603,
+    "success": false,
+    "reward": -1.737627338116504,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 604,
+    "success": false,
+    "reward": -1.7709137214765867,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 605,
+    "success": false,
+    "reward": -1.8026820767367355,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 606,
+    "success": false,
+    "reward": -1.7903349708788645,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 607,
+    "success": false,
+    "reward": -1.7290313349196014,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 608,
+    "success": false,
+    "reward": -1.6432229866172616,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 609,
+    "success": false,
+    "reward": -1.5557731687983658,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 610,
+    "success": false,
+    "reward": -1.482969887100991,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 611,
+    "success": false,
+    "reward": -1.4257209564141653,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 612,
+    "success": false,
+    "reward": -1.3699992906789589,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 613,
+    "success": false,
+    "reward": -1.3195359103120787,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 614,
+    "success": false,
+    "reward": -1.2905722385274845,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 615,
+    "success": false,
+    "reward": -1.2848990843562227,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 616,
+    "success": false,
+    "reward": -1.2818883930201745,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 617,
+    "success": false,
+    "reward": -1.2762020767773683,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 618,
+    "success": false,
+    "reward": -1.2727029133244132,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 619,
+    "success": false,
+    "reward": -1.2699377161800365,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 620,
+    "success": false,
+    "reward": -1.2689677326394238,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 621,
+    "success": false,
+    "reward": -1.276430460394656,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 622,
+    "success": false,
+    "reward": -1.2868860839962033,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 623,
+    "success": false,
+    "reward": -1.2902977902527106,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 624,
+    "success": false,
+    "reward": -1.288907694968305,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 625,
+    "success": false,
+    "reward": -1.2842041266698432,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 626,
+    "success": false,
+    "reward": -1.2775694332962453,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 627,
+    "success": false,
+    "reward": -1.2690203208480468,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 628,
+    "success": false,
+    "reward": -1.2596109171143304,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 629,
+    "success": false,
+    "reward": -1.2512649492300136,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 630,
+    "success": false,
+    "reward": -1.2442221806846914,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 631,
+    "success": false,
+    "reward": -1.2384464640722737,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 632,
+    "success": false,
+    "reward": -1.233995322678719,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 633,
+    "success": false,
+    "reward": -1.2310811508948776,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 634,
+    "success": false,
+    "reward": -1.2299615331705165,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 635,
+    "success": false,
+    "reward": -1.2307974588236759,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 636,
+    "success": false,
+    "reward": -1.2332972137753,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 637,
+    "success": false,
+    "reward": -1.23718253447064,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 638,
+    "success": false,
+    "reward": -1.2401641164061925,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 639,
+    "success": false,
+    "reward": -1.2420841811544951,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 640,
+    "success": false,
+    "reward": -1.241309887709016,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 641,
+    "success": false,
+    "reward": -1.5229265586370997,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 642,
+    "success": false,
+    "reward": -1.7155000252163362,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 643,
+    "success": false,
+    "reward": -1.8131278485647764,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 644,
+    "success": false,
+    "reward": -1.838858088760626,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 645,
+    "success": false,
+    "reward": -1.8142344012287506,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 646,
+    "success": false,
+    "reward": -1.7594925209613388,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 647,
+    "success": false,
+    "reward": -1.686352387629348,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 648,
+    "success": false,
+    "reward": -1.6053498399266297,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 649,
+    "success": false,
+    "reward": -1.5245176648730117,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 650,
+    "success": false,
+    "reward": -1.4495073578396902,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 651,
+    "success": false,
+    "reward": -1.3837790476564025,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 652,
+    "success": false,
+    "reward": -1.32902999325975,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 653,
+    "success": false,
+    "reward": -1.285770730636459,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 654,
+    "success": false,
+    "reward": -1.253957609811664,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 655,
+    "success": false,
+    "reward": -1.2518285617413232,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 656,
+    "success": false,
+    "reward": -1.2436609607471354,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 657,
+    "success": false,
+    "reward": -1.2483084075405788,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 658,
+    "success": false,
+    "reward": -1.2482535669332768,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 659,
+    "success": false,
+    "reward": -1.2415257247397915,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 660,
+    "success": false,
+    "reward": -1.233501117753817,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 661,
+    "success": false,
+    "reward": -1.4857108583504424,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 662,
+    "success": false,
+    "reward": -1.6323499506534538,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 663,
+    "success": false,
+    "reward": -1.7155546548536416,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 664,
+    "success": false,
+    "reward": -1.7401662918314464,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 665,
+    "success": false,
+    "reward": -1.776661566833026,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 666,
+    "success": false,
+    "reward": -1.7800064820679073,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 667,
+    "success": false,
+    "reward": -1.7097809009930591,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 668,
+    "success": false,
+    "reward": -1.6489636897323225,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 669,
+    "success": false,
+    "reward": -1.5634731463768308,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 670,
+    "success": false,
+    "reward": -1.5031596722810507,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 671,
+    "success": false,
+    "reward": -1.454853587751645,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 672,
+    "success": false,
+    "reward": -1.4150672745547248,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 673,
+    "success": false,
+    "reward": -1.3730604958137933,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 674,
+    "success": false,
+    "reward": -1.3386340171160103,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 675,
+    "success": false,
+    "reward": -1.3134942269884697,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 676,
+    "success": false,
+    "reward": -1.291259411076806,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 677,
+    "success": false,
+    "reward": -1.2516064449200401,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 678,
+    "success": false,
+    "reward": -1.2347080445845866,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 679,
+    "success": false,
+    "reward": -1.2271506440194793,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 680,
+    "success": false,
+    "reward": -1.2270894324341668,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 681,
+    "success": false,
+    "reward": -1.2419210658597677,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 682,
+    "success": false,
+    "reward": -1.2542978016189903,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 683,
+    "success": false,
+    "reward": -1.2583900392922132,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 684,
+    "success": false,
+    "reward": -1.2579168107362841,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 685,
+    "success": false,
+    "reward": -1.2556517745645823,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 686,
+    "success": false,
+    "reward": -1.2531155798211828,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 687,
+    "success": false,
+    "reward": -1.2510408842649365,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 688,
+    "success": false,
+    "reward": -1.2445581187289636,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 689,
+    "success": false,
+    "reward": -1.240680210768646,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 690,
+    "success": false,
+    "reward": -1.2374923084703422,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 691,
+    "success": false,
+    "reward": -1.2345066801882936,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 692,
+    "success": false,
+    "reward": -1.2317110652337673,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 693,
+    "success": false,
+    "reward": -1.2291864705231366,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 694,
+    "success": false,
+    "reward": -1.2269950220931192,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 695,
+    "success": false,
+    "reward": -1.2251805226731491,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 696,
+    "success": false,
+    "reward": -1.2236643461908503,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 697,
+    "success": false,
+    "reward": -1.2223791357749467,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 698,
+    "success": false,
+    "reward": -1.2211369670039438,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 699,
+    "success": false,
+    "reward": -1.2197139060832103,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 700,
+    "success": false,
+    "reward": -1.2179732308761417,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 701,
+    "success": false,
+    "reward": -1.2826600657861689,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 702,
+    "success": false,
+    "reward": -1.320817967011057,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 703,
+    "success": false,
+    "reward": -1.3304521114704393,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 704,
+    "success": false,
+    "reward": -1.3236216847124473,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 705,
+    "success": false,
+    "reward": -1.3084988846048005,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 706,
+    "success": false,
+    "reward": -1.2902033349943913,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 707,
+    "success": false,
+    "reward": -1.2713734442684095,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 708,
+    "success": false,
+    "reward": -1.2537383552768318,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 709,
+    "success": false,
+    "reward": -1.2384293200264174,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 710,
+    "success": false,
+    "reward": -1.225513544045954,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 711,
+    "success": false,
+    "reward": -1.2148993311762957,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 712,
+    "success": false,
+    "reward": -1.2063051766019335,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 713,
+    "success": false,
+    "reward": -1.1996176354162622,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 714,
+    "success": false,
+    "reward": -1.1948530617564543,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 715,
+    "success": false,
+    "reward": -1.1916320801067433,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 716,
+    "success": false,
+    "reward": -1.190045621578803,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 717,
+    "success": false,
+    "reward": -1.1896394316696115,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 718,
+    "success": false,
+    "reward": -1.1895955391021282,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 719,
+    "success": false,
+    "reward": -1.1898863738069163,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 720,
+    "success": false,
+    "reward": -1.1899844631962484,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 721,
+    "success": false,
+    "reward": -1.532719238087842,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 722,
+    "success": false,
+    "reward": -1.736985892663378,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 723,
+    "success": false,
+    "reward": -1.8405829493237056,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 724,
+    "success": false,
+    "reward": -1.8554357002395057,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 725,
+    "success": false,
+    "reward": -1.827891048469549,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 726,
+    "success": false,
+    "reward": -1.7675313688241203,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 727,
+    "success": false,
+    "reward": -1.6888237817377418,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 728,
+    "success": false,
+    "reward": -1.6034878010613405,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 729,
+    "success": false,
+    "reward": -1.5202431968728676,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 730,
+    "success": false,
+    "reward": -1.4447522991441195,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 731,
+    "success": false,
+    "reward": -1.3791483937726776,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 732,
+    "success": false,
+    "reward": -1.313452092625175,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 733,
+    "success": false,
+    "reward": -1.2718124489031748,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 734,
+    "success": false,
+    "reward": -1.2554163510300793,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 735,
+    "success": false,
+    "reward": -1.2503835008961737,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 736,
+    "success": false,
+    "reward": -1.2456167510715839,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 737,
+    "success": false,
+    "reward": -1.239487915379696,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 738,
+    "success": false,
+    "reward": -1.231967981622318,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 739,
+    "success": false,
+    "reward": -1.2276678062011521,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 740,
+    "success": false,
+    "reward": -1.2266523803197737,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 741,
+    "success": false,
+    "reward": -1.4666602165768952,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 742,
+    "success": false,
+    "reward": -1.6050883209552316,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 743,
+    "success": false,
+    "reward": -1.6794950375308222,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 744,
+    "success": false,
+    "reward": -1.7196735204580391,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 745,
+    "success": false,
+    "reward": -1.7618216456382492,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 746,
+    "success": false,
+    "reward": -1.7636827049646855,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 747,
+    "success": false,
+    "reward": -1.7005258934497902,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 748,
+    "success": false,
+    "reward": -1.665773826301405,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 749,
+    "success": false,
+    "reward": -1.5782524415198027,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 750,
+    "success": false,
+    "reward": -1.513703848573437,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 751,
+    "success": false,
+    "reward": -1.4620793106448469,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 752,
+    "success": false,
+    "reward": -1.4216981488518154,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 753,
+    "success": false,
+    "reward": -1.3773229832709952,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 754,
+    "success": false,
+    "reward": -1.3449394692740766,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 755,
+    "success": false,
+    "reward": -1.313385016917417,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 756,
+    "success": false,
+    "reward": -1.2873152423965202,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 757,
+    "success": false,
+    "reward": -1.2491962081839958,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 758,
+    "success": false,
+    "reward": -1.2338457163914591,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 759,
+    "success": false,
+    "reward": -1.2266534179756927,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 760,
+    "success": false,
+    "reward": -1.2232241394311592,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 761,
+    "success": false,
+    "reward": -1.27462470550988,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 762,
+    "success": false,
+    "reward": -1.3098849558931327,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 763,
+    "success": false,
+    "reward": -1.3243377927502449,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 764,
+    "success": false,
+    "reward": -1.3252104989296345,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 765,
+    "success": false,
+    "reward": -1.3176481494562957,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 766,
+    "success": false,
+    "reward": -1.3050360391854496,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 767,
+    "success": false,
+    "reward": -1.2911577714904097,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 768,
+    "success": false,
+    "reward": -1.2764631983861792,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 769,
+    "success": false,
+    "reward": -1.2626531261409641,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 770,
+    "success": false,
+    "reward": -1.2505816648471368,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 771,
+    "success": false,
+    "reward": -1.2400156174935046,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 772,
+    "success": false,
+    "reward": -1.2310228367994451,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 773,
+    "success": false,
+    "reward": -1.2236565735567202,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 774,
+    "success": false,
+    "reward": -1.217939507545499,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 775,
+    "success": false,
+    "reward": -1.2137386095633218,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 776,
+    "success": false,
+    "reward": -1.2107242569011634,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 777,
+    "success": false,
+    "reward": -1.2084238448740587,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 778,
+    "success": false,
+    "reward": -1.2063084987481514,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 779,
+    "success": false,
+    "reward": -1.2040365053173683,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  },
+  {
+    "step": 780,
+    "success": false,
+    "reward": -1.2014448533796847,
+    "nail_to_goal_distance_m": 0.09100000000000005
+  }
+]

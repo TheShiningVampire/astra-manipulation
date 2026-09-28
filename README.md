@@ -1,10 +1,110 @@
 # Astra Manipulation
 
+Latest exploratory results: **MuJoCo ten-task pilot: 0/10 completed goals. PyBullet comparison: 3/3 reaches and 1/1 elevated pick-and-place succeeded.** These are different tasks and control interfaces, not a controlled simulator comparison or a reliable success-rate estimate. [Failure analysis](reports/ten-task-pilot/diagnostics.md) · [PyBullet videos](#separate-pybullet-simulator-pilot) · [Comparison setup](docs/bullet_tasks.md).
+
+<!-- TEN_TASK_GALLERY_START -->
+## Ten-task Astra pilot
+
+One recorded trial per task. This is exploratory evidence, not a reliable success-rate estimate. See each task's config.json for its exact initialization, model request, and budgets.
+
+Recorded suite settings: requested model: gpt-6-astra; reasoning: medium; seed: 0; decision limit per task: 40; control-step limit: 800; hand view pixels per side: 768; gripper view pixels per side: 512.
+
+The hand receives two calibrated RGB views; the gripper receives external and wrist RGB views. Inputs also include robot proprioception and static actuator documentation. Object states and evaluator feedback are excluded. The hand ball-lift task is a custom lift-and-hold subtask; the other tasks use native benchmark success checks. The can destination has a visible green outline.
+
+Videos include exact executed Astra action values, repeat count, request latency, simulation time, and final episode outcome. Playback is slowed for readability; model waiting time is omitted. GIFs are compressed overviews of the full trajectory. MP4s retain the larger, readable overlay.
+
+| Task | Outcome at end | Decisions | Requests | Control steps | Wall time |
+|---|---|---:|---:|---:|---:|
+| Gripper · cube lift | Not achieved | 40 | 40 | 173 | 7.0 min |
+| Hand · ball lift | Not achieved | 40 | 40 | 780 | 12.6 min |
+| Gripper · cube stacking | Not achieved | 40 | 40 | 138 | 7.4 min |
+| Hand · ball relocation | Not achieved | 40 | 40 | 780 | 13.8 min |
+| Gripper · door opening | Not achieved | 40 | 40 | 243 | 9.5 min |
+| Hand · door opening | Not achieved | 40 | 40 | 780 | 12.6 min |
+| Gripper · square nut assembly | Not achieved | 40 | 40 | 180 | 8.0 min |
+| Hand · hammering | Not achieved | 40 | 40 | 780 | 10.7 min |
+| Gripper · can pick-and-place | Not achieved | 40 | 40 | 236 | 7.4 min |
+| Hand · pen reorientation | Not achieved | 14 | 14 | 260 | 4.3 min |
+
+### Gripper videos
+
+**Gripper · cube lift — Not achieved**
+
+![Gripper · cube lift](reports/ten-task-pilot/gripper_lift/preview.gif)
+
+[MP4 with Astra commands](reports/ten-task-pilot/gripper_lift/annotated.mp4) · [Result](reports/ten-task-pilot/gripper_lift/result.json) · [Exact policy trace](reports/ten-task-pilot/gripper_lift/policy_trace.json)
+
+**Gripper · cube stacking — Not achieved**
+
+![Gripper · cube stacking](reports/ten-task-pilot/gripper_stack/preview.gif)
+
+[MP4 with Astra commands](reports/ten-task-pilot/gripper_stack/annotated.mp4) · [Result](reports/ten-task-pilot/gripper_stack/result.json) · [Exact policy trace](reports/ten-task-pilot/gripper_stack/policy_trace.json)
+
+**Gripper · door opening — Not achieved**
+
+![Gripper · door opening](reports/ten-task-pilot/gripper_door/preview.gif)
+
+[MP4 with Astra commands](reports/ten-task-pilot/gripper_door/annotated.mp4) · [Result](reports/ten-task-pilot/gripper_door/result.json) · [Exact policy trace](reports/ten-task-pilot/gripper_door/policy_trace.json)
+
+**Gripper · square nut assembly — Not achieved**
+
+![Gripper · square nut assembly](reports/ten-task-pilot/gripper_nut_assembly_square/preview.gif)
+
+[MP4 with Astra commands](reports/ten-task-pilot/gripper_nut_assembly_square/annotated.mp4) · [Result](reports/ten-task-pilot/gripper_nut_assembly_square/result.json) · [Exact policy trace](reports/ten-task-pilot/gripper_nut_assembly_square/policy_trace.json)
+
+**Gripper · can pick-and-place — Not achieved**
+
+![Gripper · can pick-and-place](reports/ten-task-pilot/gripper_pick_place_can/preview.gif)
+
+[MP4 with Astra commands](reports/ten-task-pilot/gripper_pick_place_can/annotated.mp4) · [Result](reports/ten-task-pilot/gripper_pick_place_can/result.json) · [Exact policy trace](reports/ten-task-pilot/gripper_pick_place_can/policy_trace.json)
+
+### Hand videos
+
+**Hand · ball lift — Not achieved**
+
+![Hand · ball lift](reports/ten-task-pilot/hand_ball_lift/preview.gif)
+
+[MP4 with Astra commands](reports/ten-task-pilot/hand_ball_lift/annotated.mp4) · [Result](reports/ten-task-pilot/hand_ball_lift/result.json) · [Exact policy trace](reports/ten-task-pilot/hand_ball_lift/policy_trace.json)
+
+**Hand · ball relocation — Not achieved**
+
+![Hand · ball relocation](reports/ten-task-pilot/hand_relocate/preview.gif)
+
+[MP4 with Astra commands](reports/ten-task-pilot/hand_relocate/annotated.mp4) · [Result](reports/ten-task-pilot/hand_relocate/result.json) · [Exact policy trace](reports/ten-task-pilot/hand_relocate/policy_trace.json)
+
+**Hand · door opening — Not achieved**
+
+![Hand · door opening](reports/ten-task-pilot/hand_door/preview.gif)
+
+[MP4 with Astra commands](reports/ten-task-pilot/hand_door/annotated.mp4) · [Result](reports/ten-task-pilot/hand_door/result.json) · [Exact policy trace](reports/ten-task-pilot/hand_door/policy_trace.json)
+
+**Hand · hammering — Not achieved**
+
+![Hand · hammering](reports/ten-task-pilot/hand_hammer/preview.gif)
+
+[MP4 with Astra commands](reports/ten-task-pilot/hand_hammer/annotated.mp4) · [Result](reports/ten-task-pilot/hand_hammer/result.json) · [Exact policy trace](reports/ten-task-pilot/hand_hammer/policy_trace.json)
+
+**Hand · pen reorientation — Not achieved**
+
+![Hand · pen reorientation](reports/ten-task-pilot/hand_pen/preview.gif)
+
+[MP4 with Astra commands](reports/ten-task-pilot/hand_pen/annotated.mp4) · [Result](reports/ten-task-pilot/hand_pen/result.json) · [Exact policy trace](reports/ten-task-pilot/hand_pen/policy_trace.json)
+
+<!-- TEN_TASK_GALLERY_END -->
+
 Direct GPT-6 Astra control of a robot arm with a parallel gripper, then a dexterous hand. At every decision, Astra receives camera images, measured robot proprioception, a language instruction, static actuator documentation, and its recent actions. It returns a bounded numeric actuator vector and the number of control ticks to execute before observing again.
 
 There is no learned manipulation policy, object-state oracle, grasp planner, or high-level skill executing the task for Astra. Standard low-level operational-space control (Panda) or the native joint actuators (Adroit) convert its commands into physics actions. This is simulation research, not a hardware deployment interface.
 
 ## Tasks and observation boundary
+
+### Why the ten-task pilot failed
+
+All ten trials completed without request errors, but none reached its success criterion. The [trace-based diagnosis](reports/ten-task-pilot/diagnostics.md) separates observed grasp-alignment and recovery failures from hypotheses about temporal context and control budgets. Zero task completions does not mean zero progress: the hand opened its door approximately 62° against a 77° threshold. These are one-off trials, not a general capability estimate.
+
+An additional [PyBullet comparison](docs/bullet_tasks.md) tests simpler Cartesian reaching and grasping with the same image/proprioception-only boundary. It changes both simulator and control interface, so it is not a controlled physics-engine comparison.
+
+The ten-task suite adds five tasks per embodiment: gripper lift, stacking, door opening, square-nut assembly, and can placement; hand ball lifting, relocation, door opening, hammering, and pen reorientation. See the exact [gripper criteria](docs/gripper_tasks.md) and [hand criteria](docs/hand_tasks.md). The table below describes the original dataset-backed pilots; the ten-task suite uses fresh seeded simulator resets.
 
 | | Arm + gripper | Dexterous hand |
 |---|---|---|
@@ -63,6 +163,22 @@ Override `--instruction` for a paraphrase of the same task. The built-in success
 
 Open **http://127.0.0.1:8765** on the machine running the experiment. The viewer follows the newest run, displays camera frames and commands, and offers a video when the run finishes. For a remote machine, forward port 8765 over SSH. Every camera frame is recorded in `rollout.mp4`; the live page samples current frames as commands execute.
 
+## Reproduce the ten-task suite
+
+```bash
+.venv/bin/python -m astra_manipulation.suite \
+  --output runs/ten-task-pilot --workers 3 --max-calls 40
+
+.venv/bin/python -m astra_manipulation.publish_suite \
+  runs/ten-task-pilot --output reports/ten-task-pilot --readme README.md
+```
+
+Use a new output directory for a new experiment. The suite gives each task 40 decision opportunities, an 800-control-tick ceiling, and one retry of a timed-out request on the same frozen observation. Gripper commands can repeat for up to 10 ticks, hand commands for up to 20. Calls execute concurrently across three independent simulators; there is no shared policy state.
+
+For an individual task, use `--task hand_pen` or `--task gripper_stack` with the CLI above instead of `--backend`. Suite cameras are 512×512 per gripper view and 768×768 per hand view; the hand has two fixed calibrated views. These are higher-resolution benchmark renders, not new photorealistic assets.
+
+Publication produces annotated 1920×1536 MP4s, compact README GIFs, exact action traces, and a local sharing bundle at `exports/astra-ten-task-videos.zip`. Overlays show Astra's actual numeric output, repeat count, and stop flag—not an invented explanation. Videos omit inference waiting time and label the simulation-time playback rate. Full original sensor inputs remain in the local run directories.
+
 ## Inspect results
 
 Each run directory contains:
@@ -102,3 +218,51 @@ An optional [GitHub Actions template](docs/github-actions-tests.yml) is included
 - [robomimic datasets](https://robomimic.github.io/docs/datasets/robomimic_v0.1.html)
 - [Adroit Relocate simulator](https://robotics.farama.org/envs/adroit_hand/adroit_relocate/)
 - [Minari human relocation dataset](https://minari.farama.org/datasets/D4RL/relocate/human-v2/)
+
+<!-- BULLET_COMPARISON_START -->
+## Separate PyBullet simulator pilot
+
+These additional trials explore a different simulator and controller interface. They are separate from the ten-task MuJoCo pilot: different tasks, initial states, controllers, and control horizons prevent a controlled simulator comparison. These few selected trials do not establish a reliable success rate or identify the cause of earlier failures.
+
+The table reports recorded evaluator outcomes; exact instructions, request settings, action specifications, and policy inputs/outputs accompany each recording. Videos show executed commands and request latency. Simulation playback is slowed for readability and omits model waiting time; GIFs are compressed overviews.
+
+| Task | Recorded outcome | Decisions | Requests | Control steps | Wall time |
+|---|---|---:|---:|---:|---:|
+| PyBullet · reach | Success at end | 1 | 1 | 3 | 0.3 min |
+| PyBullet · reach seed1 | Success at end | 1 | 1 | 3 | 0.3 min |
+| PyBullet · reach seed2 | Success at end | 1 | 1 | 3 | 0.3 min |
+| PyBullet · pick place | Success at end | 10 | 10 | 25 | 2.8 min |
+
+**PyBullet · reach — Success at end**
+
+Move the closed gripper's tip into the magenta target sphere.
+
+![PyBullet · reach](reports/bullet-pilot/bullet_reach/preview.gif)
+
+[MP4 with Astra commands](reports/bullet-pilot/bullet_reach/annotated.mp4) · [Result](reports/bullet-pilot/bullet_reach/result.json) · [Configuration](reports/bullet-pilot/bullet_reach/config.json) · [Action specification](reports/bullet-pilot/bullet_reach/action_spec.json) · [Exact policy trace](reports/bullet-pilot/bullet_reach/policy_trace.txt)
+
+**PyBullet · reach seed1 — Success at end**
+
+Move the closed gripper's tip into the magenta target sphere.
+
+![PyBullet · reach seed1](reports/bullet-pilot/bullet_reach_seed1/preview.gif)
+
+[MP4 with Astra commands](reports/bullet-pilot/bullet_reach_seed1/annotated.mp4) · [Result](reports/bullet-pilot/bullet_reach_seed1/result.json) · [Configuration](reports/bullet-pilot/bullet_reach_seed1/config.json) · [Action specification](reports/bullet-pilot/bullet_reach_seed1/action_spec.json) · [Exact policy trace](reports/bullet-pilot/bullet_reach_seed1/policy_trace.txt)
+
+**PyBullet · reach seed2 — Success at end**
+
+Move the closed gripper's tip into the magenta target sphere.
+
+![PyBullet · reach seed2](reports/bullet-pilot/bullet_reach_seed2/preview.gif)
+
+[MP4 with Astra commands](reports/bullet-pilot/bullet_reach_seed2/annotated.mp4) · [Result](reports/bullet-pilot/bullet_reach_seed2/result.json) · [Configuration](reports/bullet-pilot/bullet_reach_seed2/config.json) · [Action specification](reports/bullet-pilot/bullet_reach_seed2/action_spec.json) · [Exact policy trace](reports/bullet-pilot/bullet_reach_seed2/policy_trace.txt)
+
+**PyBullet · pick place — Success at end**
+
+Grasp the solid green cube and carry its center to the magenta target cube.
+
+![PyBullet · pick place](reports/bullet-pilot/bullet_pick_place/preview.gif)
+
+[MP4 with Astra commands](reports/bullet-pilot/bullet_pick_place/annotated.mp4) · [Result](reports/bullet-pilot/bullet_pick_place/result.json) · [Configuration](reports/bullet-pilot/bullet_pick_place/config.json) · [Action specification](reports/bullet-pilot/bullet_pick_place/action_spec.json) · [Exact policy trace](reports/bullet-pilot/bullet_pick_place/policy_trace.txt)
+
+<!-- BULLET_COMPARISON_END -->

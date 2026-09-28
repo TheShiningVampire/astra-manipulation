@@ -1,0 +1,17 @@
+{
+  "provider": "codex",
+  "task": "bullet_pick_place",
+  "seed": 3,
+  "episode_id": null,
+  "status": "environment_terminal",
+  "error": null,
+  "success_any_step": true,
+  "success_final_step": true,
+  "longest_success_hold_steps": 1,
+  "control_steps": 25,
+  "model_calls": 10,
+  "validated_decisions": 10,
+  "wall_seconds": 170.4026060230026,
+  "is_astra_trial": true,
+  "evaluation_scope": "task_completion_under_authored_instruction"
+}

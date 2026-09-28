@@ -1,0 +1,20 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": -1.0,
+    "goal_distance_m": 0.16871639187362286
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": -1.0,
+    "goal_distance_m": 0.10717059650414126
+  },
+  {
+    "step": 3,
+    "success": true,
+    "reward": -0.0,
+    "goal_distance_m": 0.047494692881039996
+  }
+]

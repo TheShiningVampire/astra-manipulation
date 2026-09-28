@@ -1,0 +1,830 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 3,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 4,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 5,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 6,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 7,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 8,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 9,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 10,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 11,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 12,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 13,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 14,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 15,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 16,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 17,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 18,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 19,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 20,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 21,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 22,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 23,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 24,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 25,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 26,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 27,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 28,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 29,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 30,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 31,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 32,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 33,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 34,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 35,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 36,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 37,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 38,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 39,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 40,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 41,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 42,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 43,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 44,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 45,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 46,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 47,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 48,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 49,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 50,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 51,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 52,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 53,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 54,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 55,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 56,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 57,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 58,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 59,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 60,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 61,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 62,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 63,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 64,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 65,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 66,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 67,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 68,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 69,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 70,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 71,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 72,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 73,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 74,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 75,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 76,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 77,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 78,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 79,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 80,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 81,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 82,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 83,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 84,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 85,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 86,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 87,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 88,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 89,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 90,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 91,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 92,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 93,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 94,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 95,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 96,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 97,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 98,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 99,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 100,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 101,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 102,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 103,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 104,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 105,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 106,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 107,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 108,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 109,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 110,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 111,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 112,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 113,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 114,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 115,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 116,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 117,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 118,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 119,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 120,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 121,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 122,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 123,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 124,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 125,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 126,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 127,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 128,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 129,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 130,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 131,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 132,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 133,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 134,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 135,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 136,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 137,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  },
+  {
+    "step": 138,
+    "success": false,
+    "reward": 0.0,
+    "task": "stack"
+  }
+]

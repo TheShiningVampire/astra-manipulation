@@ -1,0 +1,5462 @@
+[
+  {
+    "step": 1,
+    "success": false,
+    "reward": 0.02117369526173308,
+    "ball_height_m": 0.03502295407241342,
+    "palm_to_ball_distance_m": 0.21173695261733078
+  },
+  {
+    "step": 2,
+    "success": false,
+    "reward": 0.02106665940784819,
+    "ball_height_m": 0.035072340943884645,
+    "palm_to_ball_distance_m": 0.2106665940784819
+  },
+  {
+    "step": 3,
+    "success": false,
+    "reward": 0.02091276544204695,
+    "ball_height_m": 0.035120183200270556,
+    "palm_to_ball_distance_m": 0.2091276544204695
+  },
+  {
+    "step": 4,
+    "success": false,
+    "reward": 0.020725432358012504,
+    "ball_height_m": 0.03515790277055193,
+    "palm_to_ball_distance_m": 0.20725432358012502
+  },
+  {
+    "step": 5,
+    "success": false,
+    "reward": 0.020511263459039364,
+    "ball_height_m": 0.03518489649935359,
+    "palm_to_ball_distance_m": 0.20511263459039364
+  },
+  {
+    "step": 6,
+    "success": false,
+    "reward": 0.020273035184190064,
+    "ball_height_m": 0.03520316158293891,
+    "palm_to_ball_distance_m": 0.20273035184190064
+  },
+  {
+    "step": 7,
+    "success": false,
+    "reward": 0.020011645811625733,
+    "ball_height_m": 0.03521507823894931,
+    "palm_to_ball_distance_m": 0.2001164581162573
+  },
+  {
+    "step": 8,
+    "success": false,
+    "reward": 0.01972737157648035,
+    "ball_height_m": 0.03522265537378743,
+    "palm_to_ball_distance_m": 0.1972737157648035
+  },
+  {
+    "step": 9,
+    "success": false,
+    "reward": 0.019420645357089573,
+    "ball_height_m": 0.03522738041672053,
+    "palm_to_ball_distance_m": 0.19420645357089572
+  },
+  {
+    "step": 10,
+    "success": false,
+    "reward": 0.019092468430557615,
+    "ball_height_m": 0.03523028140147287,
+    "palm_to_ball_distance_m": 0.19092468430557613
+  },
+  {
+    "step": 11,
+    "success": false,
+    "reward": 0.018744541368720724,
+    "ball_height_m": 0.03523203934024454,
+    "palm_to_ball_distance_m": 0.18744541368720724
+  },
+  {
+    "step": 12,
+    "success": false,
+    "reward": 0.01837920450696627,
+    "ball_height_m": 0.03523309247844567,
+    "palm_to_ball_distance_m": 0.1837920450696627
+  },
+  {
+    "step": 13,
+    "success": false,
+    "reward": 0.017999253044484683,
+    "ball_height_m": 0.03523371686334008,
+    "palm_to_ball_distance_m": 0.1799925304448468
+  },
+  {
+    "step": 14,
+    "success": false,
+    "reward": 0.017607710400061677,
+    "ball_height_m": 0.035234083470532716,
+    "palm_to_ball_distance_m": 0.17607710400061677
+  },
+  {
+    "step": 15,
+    "success": false,
+    "reward": 0.017207667874428113,
+    "ball_height_m": 0.035234296728929464,
+    "palm_to_ball_distance_m": 0.17207667874428112
+  },
+  {
+    "step": 16,
+    "success": false,
+    "reward": 0.016802123802022978,
+    "ball_height_m": 0.03523441867749153,
+    "palm_to_ball_distance_m": 0.16802123802022978
+  },
+  {
+    "step": 17,
+    "success": false,
+    "reward": 0.016393943825335603,
+    "ball_height_m": 0.03523446666574969,
+    "palm_to_ball_distance_m": 0.16393943825335602
+  },
+  {
+    "step": 18,
+    "success": false,
+    "reward": 0.01598575955406415,
+    "ball_height_m": 0.0352344813828848,
+    "palm_to_ball_distance_m": 0.1598575955406415
+  },
+  {
+    "step": 19,
+    "success": false,
+    "reward": 0.01557995534840519,
+    "ball_height_m": 0.03523448589636527,
+    "palm_to_ball_distance_m": 0.1557995534840519
+  },
+  {
+    "step": 20,
+    "success": false,
+    "reward": 0.015178680732990833,
+    "ball_height_m": 0.0352344872805685,
+    "palm_to_ball_distance_m": 0.15178680732990832
+  },
+  {
+    "step": 21,
+    "success": false,
+    "reward": 0.01475685259382057,
+    "ball_height_m": 0.03523448770507872,
+    "palm_to_ball_distance_m": 0.14756852593820569
+  },
+  {
+    "step": 22,
+    "success": false,
+    "reward": 0.014285516060748238,
+    "ball_height_m": 0.03523448783526836,
+    "palm_to_ball_distance_m": 0.14285516060748238
+  },
+  {
+    "step": 23,
+    "success": false,
+    "reward": 0.013781782676174699,
+    "ball_height_m": 0.03523448787519518,
+    "palm_to_ball_distance_m": 0.13781782676174698
+  },
+  {
+    "step": 24,
+    "success": false,
+    "reward": 0.013259912108976112,
+    "ball_height_m": 0.03523448788744002,
+    "palm_to_ball_distance_m": 0.1325991210897611
+  },
+  {
+    "step": 25,
+    "success": false,
+    "reward": 0.012731119015246303,
+    "ball_height_m": 0.03523448789119529,
+    "palm_to_ball_distance_m": 0.12731119015246303
+  },
+  {
+    "step": 26,
+    "success": false,
+    "reward": 0.01220379287324298,
+    "ball_height_m": 0.03523448789234697,
+    "palm_to_ball_distance_m": 0.12203792873242979
+  },
+  {
+    "step": 27,
+    "success": false,
+    "reward": 0.011683907868820257,
+    "ball_height_m": 0.035234487892700166,
+    "palm_to_ball_distance_m": 0.11683907868820256
+  },
+  {
+    "step": 28,
+    "success": false,
+    "reward": 0.011175589642076086,
+    "ball_height_m": 0.03523448789280848,
+    "palm_to_ball_distance_m": 0.11175589642076086
+  },
+  {
+    "step": 29,
+    "success": false,
+    "reward": 0.010681624693559872,
+    "ball_height_m": 0.035234487892841705,
+    "palm_to_ball_distance_m": 0.10681624693559871
+  },
+  {
+    "step": 30,
+    "success": false,
+    "reward": 0.010203930383179316,
+    "ball_height_m": 0.03523448789285189,
+    "palm_to_ball_distance_m": 0.10203930383179316
+  },
+  {
+    "step": 31,
+    "success": false,
+    "reward": 0.009743938831881793,
+    "ball_height_m": 0.035234487892855014,
+    "palm_to_ball_distance_m": 0.09743938831881792
+  },
+  {
+    "step": 32,
+    "success": false,
+    "reward": 0.00930286162947485,
+    "ball_height_m": 0.03523448789285597,
+    "palm_to_ball_distance_m": 0.0930286162947485
+  },
+  {
+    "step": 33,
+    "success": false,
+    "reward": 0.008881847573115898,
+    "ball_height_m": 0.03523448789285627,
+    "palm_to_ball_distance_m": 0.08881847573115899
+  },
+  {
+    "step": 34,
+    "success": false,
+    "reward": 0.008482054098747594,
+    "ball_height_m": 0.03523448789285636,
+    "palm_to_ball_distance_m": 0.08482054098747593
+  },
+  {
+    "step": 35,
+    "success": false,
+    "reward": 0.008104654300731115,
+    "ball_height_m": 0.03523448789285639,
+    "palm_to_ball_distance_m": 0.08104654300731114
+  },
+  {
+    "step": 36,
+    "success": false,
+    "reward": 0.007750789659131741,
+    "ball_height_m": 0.035234487892856395,
+    "palm_to_ball_distance_m": 0.0775078965913174
+  },
+  {
+    "step": 37,
+    "success": false,
+    "reward": 0.007421525981353278,
+    "ball_height_m": 0.0352344878928564,
+    "palm_to_ball_distance_m": 0.07421525981353277
+  },
+  {
+    "step": 38,
+    "success": false,
+    "reward": 0.007117784711828117,
+    "ball_height_m": 0.0352344878928564,
+    "palm_to_ball_distance_m": 0.07117784711828117
+  },
+  {
+    "step": 39,
+    "success": false,
+    "reward": 0.006840266637626501,
+    "ball_height_m": 0.0352344878928564,
+    "palm_to_ball_distance_m": 0.068402666376265
+  },
+  {
+    "step": 40,
+    "success": false,
+    "reward": 0.006589380473922796,
+    "ball_height_m": 0.0352344878928564,
+    "palm_to_ball_distance_m": 0.06589380473922796
+  },
+  {
+    "step": 41,
+    "success": false,
+    "reward": 0.0063376061571763405,
+    "ball_height_m": 0.0352344878928564,
+    "palm_to_ball_distance_m": 0.0633760615717634
+  },
+  {
+    "step": 42,
+    "success": false,
+    "reward": 0.006053109511103945,
+    "ball_height_m": 0.0352344878928564,
+    "palm_to_ball_distance_m": 0.06053109511103944
+  },
+  {
+    "step": 43,
+    "success": false,
+    "reward": 0.00574818329510422,
+    "ball_height_m": 0.0352344878928564,
+    "palm_to_ball_distance_m": 0.0574818329510422
+  },
+  {
+    "step": 44,
+    "success": false,
+    "reward": 0.005433220171154638,
+    "ball_height_m": 0.0352344878928564,
+    "palm_to_ball_distance_m": 0.05433220171154638
+  },
+  {
+    "step": 45,
+    "success": false,
+    "reward": 0.005104991502921208,
+    "ball_height_m": 0.0353019989096876,
+    "palm_to_ball_distance_m": 0.05104991502921207
+  },
+  {
+    "step": 46,
+    "success": false,
+    "reward": 0.004712921377012895,
+    "ball_height_m": 0.03563435848037032,
+    "palm_to_ball_distance_m": 0.04712921377012894
+  },
+  {
+    "step": 47,
+    "success": false,
+    "reward": 0.004283882490265548,
+    "ball_height_m": 0.03550282117598931,
+    "palm_to_ball_distance_m": 0.042838824902655476
+  },
+  {
+    "step": 48,
+    "success": false,
+    "reward": 0.0039022724499646697,
+    "ball_height_m": 0.035484380772402395,
+    "palm_to_ball_distance_m": 0.039022724499646694
+  },
+  {
+    "step": 49,
+    "success": false,
+    "reward": 0.0035884979831519396,
+    "ball_height_m": 0.0355367854308159,
+    "palm_to_ball_distance_m": 0.03588497983151939
+  },
+  {
+    "step": 50,
+    "success": false,
+    "reward": 0.003322258560454724,
+    "ball_height_m": 0.0355801457641157,
+    "palm_to_ball_distance_m": 0.03322258560454724
+  },
+  {
+    "step": 51,
+    "success": false,
+    "reward": 0.003118560512714625,
+    "ball_height_m": 0.03545751771548585,
+    "palm_to_ball_distance_m": 0.031185605127146247
+  },
+  {
+    "step": 52,
+    "success": false,
+    "reward": 0.0029687107136205015,
+    "ball_height_m": 0.03531551464700146,
+    "palm_to_ball_distance_m": 0.029687107136205013
+  },
+  {
+    "step": 53,
+    "success": false,
+    "reward": 0.002863983093855554,
+    "ball_height_m": 0.03517903998765903,
+    "palm_to_ball_distance_m": 0.02863983093855554
+  },
+  {
+    "step": 54,
+    "success": false,
+    "reward": 0.0027876731382522175,
+    "ball_height_m": 0.03507474233839688,
+    "palm_to_ball_distance_m": 0.027876731382522172
+  },
+  {
+    "step": 55,
+    "success": false,
+    "reward": 0.0027273979184234336,
+    "ball_height_m": 0.035012817944700125,
+    "palm_to_ball_distance_m": 0.027273979184234333
+  },
+  {
+    "step": 56,
+    "success": false,
+    "reward": 0.0026776140590776803,
+    "ball_height_m": 0.034978820317167314,
+    "palm_to_ball_distance_m": 0.0267761405907768
+  },
+  {
+    "step": 57,
+    "success": false,
+    "reward": 0.002634851436304408,
+    "ball_height_m": 0.0349638640307248,
+    "palm_to_ball_distance_m": 0.026348514363044077
+  },
+  {
+    "step": 58,
+    "success": false,
+    "reward": 0.002600743142259833,
+    "ball_height_m": 0.03493510256012684,
+    "palm_to_ball_distance_m": 0.026007431422598325
+  },
+  {
+    "step": 59,
+    "success": false,
+    "reward": 0.002572804994980246,
+    "ball_height_m": 0.03490164295830158,
+    "palm_to_ball_distance_m": 0.02572804994980246
+  },
+  {
+    "step": 60,
+    "success": false,
+    "reward": 0.00254703961903589,
+    "ball_height_m": 0.03488950267256848,
+    "palm_to_ball_distance_m": 0.025470396190358898
+  },
+  {
+    "step": 61,
+    "success": false,
+    "reward": 0.002509305267285649,
+    "ball_height_m": 0.03485840587231943,
+    "palm_to_ball_distance_m": 0.02509305267285649
+  },
+  {
+    "step": 62,
+    "success": false,
+    "reward": 0.0024454871238027533,
+    "ball_height_m": 0.03479132699993325,
+    "palm_to_ball_distance_m": 0.02445487123802753
+  },
+  {
+    "step": 63,
+    "success": false,
+    "reward": 0.0023621477050633772,
+    "ball_height_m": 0.034731115413012256,
+    "palm_to_ball_distance_m": 0.02362147705063377
+  },
+  {
+    "step": 64,
+    "success": false,
+    "reward": 0.0022699367916264946,
+    "ball_height_m": 0.034680835747886336,
+    "palm_to_ball_distance_m": 0.022699367916264944
+  },
+  {
+    "step": 65,
+    "success": false,
+    "reward": 0.0021864177646186917,
+    "ball_height_m": 0.03459158566093216,
+    "palm_to_ball_distance_m": 0.021864177646186915
+  },
+  {
+    "step": 66,
+    "success": false,
+    "reward": 0.002113418332326139,
+    "ball_height_m": 0.03449715860925988,
+    "palm_to_ball_distance_m": 0.02113418332326139
+  },
+  {
+    "step": 67,
+    "success": false,
+    "reward": 0.002050977387834845,
+    "ball_height_m": 0.03440452387043689,
+    "palm_to_ball_distance_m": 0.020509773878348448
+  },
+  {
+    "step": 68,
+    "success": false,
+    "reward": 0.001991706891145444,
+    "ball_height_m": 0.03435640229875803,
+    "palm_to_ball_distance_m": 0.01991706891145444
+  },
+  {
+    "step": 69,
+    "success": false,
+    "reward": 0.001935904777340803,
+    "ball_height_m": 0.034334700862299485,
+    "palm_to_ball_distance_m": 0.01935904777340803
+  },
+  {
+    "step": 70,
+    "success": false,
+    "reward": 0.0018836185794070426,
+    "ball_height_m": 0.03432661709126643,
+    "palm_to_ball_distance_m": 0.018836185794070426
+  },
+  {
+    "step": 71,
+    "success": false,
+    "reward": 0.0018346416849872424,
+    "ball_height_m": 0.03432446029533112,
+    "palm_to_ball_distance_m": 0.018346416849872423
+  },
+  {
+    "step": 72,
+    "success": false,
+    "reward": 0.0017878082409721625,
+    "ball_height_m": 0.03432594480340455,
+    "palm_to_ball_distance_m": 0.017878082409721625
+  },
+  {
+    "step": 73,
+    "success": false,
+    "reward": 0.0017429646795079348,
+    "ball_height_m": 0.034328667880090605,
+    "palm_to_ball_distance_m": 0.017429646795079346
+  },
+  {
+    "step": 74,
+    "success": false,
+    "reward": 0.0016992039292531285,
+    "ball_height_m": 0.03433283629150069,
+    "palm_to_ball_distance_m": 0.016992039292531284
+  },
+  {
+    "step": 75,
+    "success": false,
+    "reward": 0.0016560518371838652,
+    "ball_height_m": 0.03433856993002789,
+    "palm_to_ball_distance_m": 0.01656051837183865
+  },
+  {
+    "step": 76,
+    "success": false,
+    "reward": 0.001613453646252869,
+    "ball_height_m": 0.03434595231794839,
+    "palm_to_ball_distance_m": 0.01613453646252869
+  },
+  {
+    "step": 77,
+    "success": false,
+    "reward": 0.0015709291845528166,
+    "ball_height_m": 0.03435549597193896,
+    "palm_to_ball_distance_m": 0.015709291845528165
+  },
+  {
+    "step": 78,
+    "success": false,
+    "reward": 0.0015282877983372575,
+    "ball_height_m": 0.034366990141058096,
+    "palm_to_ball_distance_m": 0.015282877983372575
+  },
+  {
+    "step": 79,
+    "success": false,
+    "reward": 0.0014855659332017627,
+    "ball_height_m": 0.03437992673204576,
+    "palm_to_ball_distance_m": 0.014855659332017627
+  },
+  {
+    "step": 80,
+    "success": false,
+    "reward": 0.0014427239217467335,
+    "ball_height_m": 0.034394280865848344,
+    "palm_to_ball_distance_m": 0.014427239217467335
+  },
+  {
+    "step": 81,
+    "success": false,
+    "reward": 0.0013987958521774592,
+    "ball_height_m": 0.034349444934066754,
+    "palm_to_ball_distance_m": 0.01398795852177459
+  },
+  {
+    "step": 82,
+    "success": false,
+    "reward": 0.00134697943284903,
+    "ball_height_m": 0.0343155830951981,
+    "palm_to_ball_distance_m": 0.013469794328490298
+  },
+  {
+    "step": 83,
+    "success": false,
+    "reward": 0.0012893279615356493,
+    "ball_height_m": 0.03431179332383131,
+    "palm_to_ball_distance_m": 0.012893279615356492
+  },
+  {
+    "step": 84,
+    "success": false,
+    "reward": 0.001228561352345752,
+    "ball_height_m": 0.03431779188419801,
+    "palm_to_ball_distance_m": 0.012285613523457518
+  },
+  {
+    "step": 85,
+    "success": false,
+    "reward": 0.0011698625447256175,
+    "ball_height_m": 0.03432137837426337,
+    "palm_to_ball_distance_m": 0.011698625447256174
+  },
+  {
+    "step": 86,
+    "success": false,
+    "reward": 0.001113859266116281,
+    "ball_height_m": 0.034325454778715445,
+    "palm_to_ball_distance_m": 0.01113859266116281
+  },
+  {
+    "step": 87,
+    "success": false,
+    "reward": 0.0010633537596726444,
+    "ball_height_m": 0.03433451228438374,
+    "palm_to_ball_distance_m": 0.010633537596726444
+  },
+  {
+    "step": 88,
+    "success": false,
+    "reward": 0.0010201943430691264,
+    "ball_height_m": 0.034353772256929364,
+    "palm_to_ball_distance_m": 0.010201943430691264
+  },
+  {
+    "step": 89,
+    "success": false,
+    "reward": 0.000989731162587143,
+    "ball_height_m": 0.03438306392846466,
+    "palm_to_ball_distance_m": 0.009897311625871428
+  },
+  {
+    "step": 90,
+    "success": false,
+    "reward": 0.000973326900307736,
+    "ball_height_m": 0.03441933208469612,
+    "palm_to_ball_distance_m": 0.009733269003077359
+  },
+  {
+    "step": 91,
+    "success": false,
+    "reward": 0.0009801493720146982,
+    "ball_height_m": 0.03445254436837378,
+    "palm_to_ball_distance_m": 0.009801493720146982
+  },
+  {
+    "step": 92,
+    "success": false,
+    "reward": 0.0010124653554041533,
+    "ball_height_m": 0.03448453727897383,
+    "palm_to_ball_distance_m": 0.010124653554041532
+  },
+  {
+    "step": 93,
+    "success": false,
+    "reward": 0.001073083814222374,
+    "ball_height_m": 0.03451487009574222,
+    "palm_to_ball_distance_m": 0.010730838142223741
+  },
+  {
+    "step": 94,
+    "success": false,
+    "reward": 0.0011642275868804775,
+    "ball_height_m": 0.03454142002897565,
+    "palm_to_ball_distance_m": 0.011642275868804773
+  },
+  {
+    "step": 95,
+    "success": false,
+    "reward": 0.0012664925562446382,
+    "ball_height_m": 0.03461140473657375,
+    "palm_to_ball_distance_m": 0.01266492556244638
+  },
+  {
+    "step": 96,
+    "success": false,
+    "reward": 0.0013440613580125971,
+    "ball_height_m": 0.03472684391145099,
+    "palm_to_ball_distance_m": 0.01344061358012597
+  },
+  {
+    "step": 97,
+    "success": false,
+    "reward": 0.0013957826145934342,
+    "ball_height_m": 0.034840264298303315,
+    "palm_to_ball_distance_m": 0.013957826145934342
+  },
+  {
+    "step": 98,
+    "success": false,
+    "reward": 0.0014322598710976946,
+    "ball_height_m": 0.034903466163640644,
+    "palm_to_ball_distance_m": 0.014322598710976945
+  },
+  {
+    "step": 99,
+    "success": false,
+    "reward": 0.0014558685128092507,
+    "ball_height_m": 0.034916185739283304,
+    "palm_to_ball_distance_m": 0.014558685128092507
+  },
+  {
+    "step": 100,
+    "success": false,
+    "reward": 0.0014708267981270269,
+    "ball_height_m": 0.034893175977649495,
+    "palm_to_ball_distance_m": 0.014708267981270269
+  },
+  {
+    "step": 101,
+    "success": false,
+    "reward": 0.0014821899337480481,
+    "ball_height_m": 0.034706642969209056,
+    "palm_to_ball_distance_m": 0.01482189933748048
+  },
+  {
+    "step": 102,
+    "success": false,
+    "reward": 0.0014981052839717034,
+    "ball_height_m": 0.034710076464535444,
+    "palm_to_ball_distance_m": 0.014981052839717032
+  },
+  {
+    "step": 103,
+    "success": false,
+    "reward": 0.0015163637609184166,
+    "ball_height_m": 0.03490320121245588,
+    "palm_to_ball_distance_m": 0.015163637609184164
+  },
+  {
+    "step": 104,
+    "success": false,
+    "reward": 0.0015341172480156653,
+    "ball_height_m": 0.03517260456662973,
+    "palm_to_ball_distance_m": 0.015341172480156652
+  },
+  {
+    "step": 105,
+    "success": false,
+    "reward": 0.0015509472411202362,
+    "ball_height_m": 0.035491691129766426,
+    "palm_to_ball_distance_m": 0.015509472411202362
+  },
+  {
+    "step": 106,
+    "success": false,
+    "reward": 0.0015656129433388078,
+    "ball_height_m": 0.035877554606822626,
+    "palm_to_ball_distance_m": 0.015656129433388077
+  },
+  {
+    "step": 107,
+    "success": false,
+    "reward": 0.001578659827317485,
+    "ball_height_m": 0.036366547743893946,
+    "palm_to_ball_distance_m": 0.01578659827317485
+  },
+  {
+    "step": 108,
+    "success": false,
+    "reward": 0.0015931214492022313,
+    "ball_height_m": 0.03697418063075539,
+    "palm_to_ball_distance_m": 0.01593121449202231
+  },
+  {
+    "step": 109,
+    "success": false,
+    "reward": 0.0016116771623209498,
+    "ball_height_m": 0.037691086495077554,
+    "palm_to_ball_distance_m": 0.016116771623209496
+  },
+  {
+    "step": 110,
+    "success": false,
+    "reward": 0.0016350321608585119,
+    "ball_height_m": 0.03850659563786967,
+    "palm_to_ball_distance_m": 0.016350321608585117
+  },
+  {
+    "step": 111,
+    "success": false,
+    "reward": 0.0016620461852162695,
+    "ball_height_m": 0.039392727115505226,
+    "palm_to_ball_distance_m": 0.016620461852162694
+  },
+  {
+    "step": 112,
+    "success": false,
+    "reward": 0.6136105703048991,
+    "ball_height_m": 0.04032872167296969,
+    "palm_to_ball_distance_m": 0.016927346486265378
+  },
+  {
+    "step": 113,
+    "success": false,
+    "reward": 0.614654851768999,
+    "ball_height_m": 0.041305148277329326,
+    "palm_to_ball_distance_m": 0.017260778678795306
+  },
+  {
+    "step": 114,
+    "success": false,
+    "reward": 0.6157423536193425,
+    "ball_height_m": 0.04230924183207766,
+    "palm_to_ball_distance_m": 0.017608992660062363
+  },
+  {
+    "step": 115,
+    "success": false,
+    "reward": 0.616846758406848,
+    "ball_height_m": 0.04332358651459765,
+    "palm_to_ball_distance_m": 0.017964137870496295
+  },
+  {
+    "step": 116,
+    "success": false,
+    "reward": 0.6179453180425178,
+    "ball_height_m": 0.04432953938267236,
+    "palm_to_ball_distance_m": 0.01831898946173092
+  },
+  {
+    "step": 117,
+    "success": false,
+    "reward": 0.6190196869063768,
+    "ball_height_m": 0.04531164858771873,
+    "palm_to_ball_distance_m": 0.018668463537215452
+  },
+  {
+    "step": 118,
+    "success": false,
+    "reward": 0.6200578949549015,
+    "ball_height_m": 0.046261138060070754,
+    "palm_to_ball_distance_m": 0.019009748363635476
+  },
+  {
+    "step": 119,
+    "success": false,
+    "reward": 0.6210516443056642,
+    "ball_height_m": 0.047175800159562395,
+    "palm_to_ball_distance_m": 0.019338059530388862
+  },
+  {
+    "step": 120,
+    "success": false,
+    "reward": 0.6219853407479305,
+    "ball_height_m": 0.048043314340950355,
+    "palm_to_ball_distance_m": 0.01966709944271605
+  },
+  {
+    "step": 121,
+    "success": false,
+    "reward": 0.6227322074590074,
+    "ball_height_m": 0.048742376088949615,
+    "palm_to_ball_distance_m": 0.020011223614678872
+  },
+  {
+    "step": 122,
+    "success": false,
+    "reward": 0.6234264088137678,
+    "ball_height_m": 0.04938286836245452,
+    "palm_to_ball_distance_m": 0.02037543633744615
+  },
+  {
+    "step": 123,
+    "success": false,
+    "reward": 0.6241392184722364,
+    "ball_height_m": 0.04999292914615897,
+    "palm_to_ball_distance_m": 0.02077595687941699
+  },
+  {
+    "step": 124,
+    "success": false,
+    "reward": 0.6249074353595616,
+    "ball_height_m": 0.05054262010376131,
+    "palm_to_ball_distance_m": 0.021293066742873623
+  },
+  {
+    "step": 125,
+    "success": false,
+    "reward": 0.6257037643578289,
+    "ball_height_m": 0.05097378398423082,
+    "palm_to_ball_distance_m": 0.021910108140582328
+  },
+  {
+    "step": 126,
+    "success": false,
+    "reward": 0.6263987064260231,
+    "ball_height_m": 0.05100175253959196,
+    "palm_to_ball_distance_m": 0.022609905633121326
+  },
+  {
+    "step": 127,
+    "success": false,
+    "reward": 0.6270838465485763,
+    "ball_height_m": 0.050775342825573444,
+    "palm_to_ball_distance_m": 0.023386661598833985
+  },
+  {
+    "step": 128,
+    "success": false,
+    "reward": 0.6276746507140037,
+    "ball_height_m": 0.050131951623055025,
+    "palm_to_ball_distance_m": 0.024251768571645863
+  },
+  {
+    "step": 129,
+    "success": false,
+    "reward": 0.6281661273942636,
+    "ball_height_m": 0.04905496025170122,
+    "palm_to_ball_distance_m": 0.025233210741066898
+  },
+  {
+    "step": 130,
+    "success": false,
+    "reward": 0.628515232672217,
+    "ball_height_m": 0.04745592493607281,
+    "palm_to_ball_distance_m": 0.026386772307452892
+  },
+  {
+    "step": 131,
+    "success": false,
+    "reward": 0.6286643029397853,
+    "ball_height_m": 0.04520032623130337,
+    "palm_to_ball_distance_m": 0.027751120995671848
+  },
+  {
+    "step": 132,
+    "success": false,
+    "reward": 0.6285541692538901,
+    "ball_height_m": 0.04215881794860026,
+    "palm_to_ball_distance_m": 0.029408591360466276
+  },
+  {
+    "step": 133,
+    "success": false,
+    "reward": 0.003152581667126553,
+    "ball_height_m": 0.03814229546830476,
+    "palm_to_ball_distance_m": 0.03152581667126553
+  },
+  {
+    "step": 134,
+    "success": false,
+    "reward": 0.003435687436009951,
+    "ball_height_m": 0.03383773325953818,
+    "palm_to_ball_distance_m": 0.03435687436009951
+  },
+  {
+    "step": 135,
+    "success": false,
+    "reward": 0.003778281236970363,
+    "ball_height_m": 0.032423594267639015,
+    "palm_to_ball_distance_m": 0.03778281236970363
+  },
+  {
+    "step": 136,
+    "success": false,
+    "reward": 0.0041422038138982445,
+    "ball_height_m": 0.03245982220609327,
+    "palm_to_ball_distance_m": 0.041422038138982445
+  },
+  {
+    "step": 137,
+    "success": false,
+    "reward": 0.004524528621898159,
+    "ball_height_m": 0.03295466418199678,
+    "palm_to_ball_distance_m": 0.045245286218981585
+  },
+  {
+    "step": 138,
+    "success": false,
+    "reward": 0.004921271716216569,
+    "ball_height_m": 0.03351445759311516,
+    "palm_to_ball_distance_m": 0.04921271716216569
+  },
+  {
+    "step": 139,
+    "success": false,
+    "reward": 0.005327065161334743,
+    "ball_height_m": 0.03400213155879447,
+    "palm_to_ball_distance_m": 0.05327065161334743
+  },
+  {
+    "step": 140,
+    "success": false,
+    "reward": 0.005736882087719626,
+    "ball_height_m": 0.03438568994151891,
+    "palm_to_ball_distance_m": 0.05736882087719626
+  },
+  {
+    "step": 141,
+    "success": false,
+    "reward": 0.006143489848082693,
+    "ball_height_m": 0.034672075121757184,
+    "palm_to_ball_distance_m": 0.06143489848082693
+  },
+  {
+    "step": 142,
+    "success": false,
+    "reward": 0.006558899673033198,
+    "ball_height_m": 0.03487737459433648,
+    "palm_to_ball_distance_m": 0.06558899673033197
+  },
+  {
+    "step": 143,
+    "success": false,
+    "reward": 0.006987523899925816,
+    "ball_height_m": 0.035016718627278245,
+    "palm_to_ball_distance_m": 0.06987523899925815
+  },
+  {
+    "step": 144,
+    "success": false,
+    "reward": 0.00742142475988606,
+    "ball_height_m": 0.03510573515728005,
+    "palm_to_ball_distance_m": 0.0742142475988606
+  },
+  {
+    "step": 145,
+    "success": false,
+    "reward": 0.007852831479045556,
+    "ball_height_m": 0.03515997988121952,
+    "palm_to_ball_distance_m": 0.07852831479045556
+  },
+  {
+    "step": 146,
+    "success": false,
+    "reward": 0.008278618852425125,
+    "ball_height_m": 0.03519207098577218,
+    "palm_to_ball_distance_m": 0.08278618852425125
+  },
+  {
+    "step": 147,
+    "success": false,
+    "reward": 0.008701625738953197,
+    "ball_height_m": 0.03521067860433281,
+    "palm_to_ball_distance_m": 0.08701625738953196
+  },
+  {
+    "step": 148,
+    "success": false,
+    "reward": 0.009124917553894486,
+    "ball_height_m": 0.03522130556833937,
+    "palm_to_ball_distance_m": 0.09124917553894485
+  },
+  {
+    "step": 149,
+    "success": false,
+    "reward": 0.00955104398177453,
+    "ball_height_m": 0.03522729771591261,
+    "palm_to_ball_distance_m": 0.09551043981774529
+  },
+  {
+    "step": 150,
+    "success": false,
+    "reward": 0.009980978407867214,
+    "ball_height_m": 0.035230636725342254,
+    "palm_to_ball_distance_m": 0.09980978407867212
+  },
+  {
+    "step": 151,
+    "success": false,
+    "reward": 0.010414647741362125,
+    "ball_height_m": 0.03523247544191523,
+    "palm_to_ball_distance_m": 0.10414647741362125
+  },
+  {
+    "step": 152,
+    "success": false,
+    "reward": 0.010851206582977642,
+    "ball_height_m": 0.03523347537390655,
+    "palm_to_ball_distance_m": 0.10851206582977642
+  },
+  {
+    "step": 153,
+    "success": false,
+    "reward": 0.011289244884100283,
+    "ball_height_m": 0.03523401166481001,
+    "palm_to_ball_distance_m": 0.11289244884100283
+  },
+  {
+    "step": 154,
+    "success": false,
+    "reward": 0.011726921818280523,
+    "ball_height_m": 0.03523429473682843,
+    "palm_to_ball_distance_m": 0.11726921818280522
+  },
+  {
+    "step": 155,
+    "success": false,
+    "reward": 0.012162221429659255,
+    "ball_height_m": 0.03523443927384766,
+    "palm_to_ball_distance_m": 0.12162221429659255
+  },
+  {
+    "step": 156,
+    "success": false,
+    "reward": 0.012593067506496755,
+    "ball_height_m": 0.03523449141855199,
+    "palm_to_ball_distance_m": 0.12593067506496755
+  },
+  {
+    "step": 157,
+    "success": false,
+    "reward": 0.013017433338752266,
+    "ball_height_m": 0.03523450741039434,
+    "palm_to_ball_distance_m": 0.13017433338752266
+  },
+  {
+    "step": 158,
+    "success": false,
+    "reward": 0.013433348158480466,
+    "ball_height_m": 0.03523451231480458,
+    "palm_to_ball_distance_m": 0.13433348158480465
+  },
+  {
+    "step": 159,
+    "success": false,
+    "reward": 0.013838960833385167,
+    "ball_height_m": 0.03523451381889894,
+    "palm_to_ball_distance_m": 0.13838960833385167
+  },
+  {
+    "step": 160,
+    "success": false,
+    "reward": 0.014232579711170965,
+    "ball_height_m": 0.035234514280177605,
+    "palm_to_ball_distance_m": 0.14232579711170965
+  },
+  {
+    "step": 161,
+    "success": false,
+    "reward": 0.014630101270158095,
+    "ball_height_m": 0.03523451442164347,
+    "palm_to_ball_distance_m": 0.14630101270158094
+  },
+  {
+    "step": 162,
+    "success": false,
+    "reward": 0.014977778788104874,
+    "ball_height_m": 0.0352345144650285,
+    "palm_to_ball_distance_m": 0.14977778788104873
+  },
+  {
+    "step": 163,
+    "success": false,
+    "reward": 0.015248810818377201,
+    "ball_height_m": 0.035234514478333916,
+    "palm_to_ball_distance_m": 0.152488108183772
+  },
+  {
+    "step": 164,
+    "success": false,
+    "reward": 0.015438201768952307,
+    "ball_height_m": 0.03523451448241444,
+    "palm_to_ball_distance_m": 0.15438201768952306
+  },
+  {
+    "step": 165,
+    "success": false,
+    "reward": 0.015546520157959504,
+    "ball_height_m": 0.03523451448366587,
+    "palm_to_ball_distance_m": 0.15546520157959504
+  },
+  {
+    "step": 166,
+    "success": false,
+    "reward": 0.015578081326779299,
+    "ball_height_m": 0.03523451448404966,
+    "palm_to_ball_distance_m": 0.15578081326779297
+  },
+  {
+    "step": 167,
+    "success": false,
+    "reward": 0.015538775152760049,
+    "ball_height_m": 0.03523451448416736,
+    "palm_to_ball_distance_m": 0.15538775152760048
+  },
+  {
+    "step": 168,
+    "success": false,
+    "reward": 0.015434687500263687,
+    "ball_height_m": 0.035234514484203464,
+    "palm_to_ball_distance_m": 0.15434687500263686
+  },
+  {
+    "step": 169,
+    "success": false,
+    "reward": 0.015271837729829886,
+    "ball_height_m": 0.03523451448421453,
+    "palm_to_ball_distance_m": 0.15271837729829885
+  },
+  {
+    "step": 170,
+    "success": false,
+    "reward": 0.015056631236063886,
+    "ball_height_m": 0.035234514484217924,
+    "palm_to_ball_distance_m": 0.15056631236063886
+  },
+  {
+    "step": 171,
+    "success": false,
+    "reward": 0.014837215264198149,
+    "ball_height_m": 0.035234514484218965,
+    "palm_to_ball_distance_m": 0.14837215264198148
+  },
+  {
+    "step": 172,
+    "success": false,
+    "reward": 0.014658313940337559,
+    "ball_height_m": 0.035234514484219284,
+    "palm_to_ball_distance_m": 0.14658313940337558
+  },
+  {
+    "step": 173,
+    "success": false,
+    "reward": 0.01446890579553192,
+    "ball_height_m": 0.03523451448421939,
+    "palm_to_ball_distance_m": 0.1446890579553192
+  },
+  {
+    "step": 174,
+    "success": false,
+    "reward": 0.014245583466984141,
+    "ball_height_m": 0.035234514484219416,
+    "palm_to_ball_distance_m": 0.1424558346698414
+  },
+  {
+    "step": 175,
+    "success": false,
+    "reward": 0.013982134370716728,
+    "ball_height_m": 0.03523451448421942,
+    "palm_to_ball_distance_m": 0.13982134370716728
+  },
+  {
+    "step": 176,
+    "success": false,
+    "reward": 0.013701083331098575,
+    "ball_height_m": 0.03523451448421943,
+    "palm_to_ball_distance_m": 0.13701083331098574
+  },
+  {
+    "step": 177,
+    "success": false,
+    "reward": 0.013397865749053132,
+    "ball_height_m": 0.03523451448421943,
+    "palm_to_ball_distance_m": 0.1339786574905313
+  },
+  {
+    "step": 178,
+    "success": false,
+    "reward": 0.01304657303959955,
+    "ball_height_m": 0.03523451448421943,
+    "palm_to_ball_distance_m": 0.1304657303959955
+  },
+  {
+    "step": 179,
+    "success": false,
+    "reward": 0.012643386975000179,
+    "ball_height_m": 0.03523451448421943,
+    "palm_to_ball_distance_m": 0.1264338697500018
+  },
+  {
+    "step": 180,
+    "success": false,
+    "reward": 0.012184493513430096,
+    "ball_height_m": 0.03523451448421943,
+    "palm_to_ball_distance_m": 0.12184493513430096
+  },
+  {
+    "step": 181,
+    "success": false,
+    "reward": 0.011726306704754046,
+    "ball_height_m": 0.03521892390036785,
+    "palm_to_ball_distance_m": 0.11726306704754046
+  },
+  {
+    "step": 182,
+    "success": false,
+    "reward": 0.011521480470013907,
+    "ball_height_m": 0.03522482910275588,
+    "palm_to_ball_distance_m": 0.11521480470013906
+  },
+  {
+    "step": 183,
+    "success": false,
+    "reward": 0.011474015932056322,
+    "ball_height_m": 0.03539513178088266,
+    "palm_to_ball_distance_m": 0.11474015932056321
+  },
+  {
+    "step": 184,
+    "success": false,
+    "reward": 0.011479995708714812,
+    "ball_height_m": 0.035469500689259054,
+    "palm_to_ball_distance_m": 0.11479995708714812
+  },
+  {
+    "step": 185,
+    "success": false,
+    "reward": 0.011497332770495075,
+    "ball_height_m": 0.03540131963994514,
+    "palm_to_ball_distance_m": 0.11497332770495074
+  },
+  {
+    "step": 186,
+    "success": false,
+    "reward": 0.011511620426194845,
+    "ball_height_m": 0.03544447110748983,
+    "palm_to_ball_distance_m": 0.11511620426194845
+  },
+  {
+    "step": 187,
+    "success": false,
+    "reward": 0.01151994087635774,
+    "ball_height_m": 0.03542490725797553,
+    "palm_to_ball_distance_m": 0.11519940876357739
+  },
+  {
+    "step": 188,
+    "success": false,
+    "reward": 0.011523909427508985,
+    "ball_height_m": 0.03532022976795771,
+    "palm_to_ball_distance_m": 0.11523909427508984
+  },
+  {
+    "step": 189,
+    "success": false,
+    "reward": 0.011526163805963816,
+    "ball_height_m": 0.03515708838893994,
+    "palm_to_ball_distance_m": 0.11526163805963814
+  },
+  {
+    "step": 190,
+    "success": false,
+    "reward": 0.011525577458653215,
+    "ball_height_m": 0.034996687182653884,
+    "palm_to_ball_distance_m": 0.11525577458653215
+  },
+  {
+    "step": 191,
+    "success": false,
+    "reward": 0.01152601989616996,
+    "ball_height_m": 0.03486941914351235,
+    "palm_to_ball_distance_m": 0.11526019896169959
+  },
+  {
+    "step": 192,
+    "success": false,
+    "reward": 0.011524878262860593,
+    "ball_height_m": 0.03478970195433334,
+    "palm_to_ball_distance_m": 0.11524878262860593
+  },
+  {
+    "step": 193,
+    "success": false,
+    "reward": 0.011524022110886397,
+    "ball_height_m": 0.034732218643140286,
+    "palm_to_ball_distance_m": 0.11524022110886396
+  },
+  {
+    "step": 194,
+    "success": false,
+    "reward": 0.01152551435320865,
+    "ball_height_m": 0.03469756096322508,
+    "palm_to_ball_distance_m": 0.11525514353208649
+  },
+  {
+    "step": 195,
+    "success": false,
+    "reward": 0.011531505586136538,
+    "ball_height_m": 0.03468286652861657,
+    "palm_to_ball_distance_m": 0.11531505586136537
+  },
+  {
+    "step": 196,
+    "success": false,
+    "reward": 0.011544921118674448,
+    "ball_height_m": 0.034682734189790836,
+    "palm_to_ball_distance_m": 0.11544921118674448
+  },
+  {
+    "step": 197,
+    "success": false,
+    "reward": 0.011565042039802262,
+    "ball_height_m": 0.03468996656936751,
+    "palm_to_ball_distance_m": 0.1156504203980226
+  },
+  {
+    "step": 198,
+    "success": false,
+    "reward": 0.011590450210593939,
+    "ball_height_m": 0.0347023891386886,
+    "palm_to_ball_distance_m": 0.11590450210593937
+  },
+  {
+    "step": 199,
+    "success": false,
+    "reward": 0.011620645756701058,
+    "ball_height_m": 0.034722872871183225,
+    "palm_to_ball_distance_m": 0.11620645756701058
+  },
+  {
+    "step": 200,
+    "success": false,
+    "reward": 0.011651616477290232,
+    "ball_height_m": 0.034751566490207386,
+    "palm_to_ball_distance_m": 0.1165161647729023
+  },
+  {
+    "step": 201,
+    "success": false,
+    "reward": 0.0116861235779509,
+    "ball_height_m": 0.0347495844752716,
+    "palm_to_ball_distance_m": 0.11686123577950899
+  },
+  {
+    "step": 202,
+    "success": false,
+    "reward": 0.01172668575591585,
+    "ball_height_m": 0.03475413498473959,
+    "palm_to_ball_distance_m": 0.11726685755915849
+  },
+  {
+    "step": 203,
+    "success": false,
+    "reward": 0.011770078917266648,
+    "ball_height_m": 0.034779725091349634,
+    "palm_to_ball_distance_m": 0.11770078917266648
+  },
+  {
+    "step": 204,
+    "success": false,
+    "reward": 0.011809711551228341,
+    "ball_height_m": 0.034817329118258016,
+    "palm_to_ball_distance_m": 0.11809711551228341
+  },
+  {
+    "step": 205,
+    "success": false,
+    "reward": 0.01184646915574165,
+    "ball_height_m": 0.03485421240471688,
+    "palm_to_ball_distance_m": 0.1184646915574165
+  },
+  {
+    "step": 206,
+    "success": false,
+    "reward": 0.011879716910929433,
+    "ball_height_m": 0.03488567735663327,
+    "palm_to_ball_distance_m": 0.11879716910929432
+  },
+  {
+    "step": 207,
+    "success": false,
+    "reward": 0.011908553620245106,
+    "ball_height_m": 0.034911611034962445,
+    "palm_to_ball_distance_m": 0.11908553620245105
+  },
+  {
+    "step": 208,
+    "success": false,
+    "reward": 0.011928459300210012,
+    "ball_height_m": 0.03493395938515343,
+    "palm_to_ball_distance_m": 0.11928459300210012
+  },
+  {
+    "step": 209,
+    "success": false,
+    "reward": 0.01193712688629512,
+    "ball_height_m": 0.034954669424326276,
+    "palm_to_ball_distance_m": 0.11937126886295119
+  },
+  {
+    "step": 210,
+    "success": false,
+    "reward": 0.011939618291466477,
+    "ball_height_m": 0.034972699740400674,
+    "palm_to_ball_distance_m": 0.11939618291466476
+  },
+  {
+    "step": 211,
+    "success": false,
+    "reward": 0.011939496888621455,
+    "ball_height_m": 0.03498618314850742,
+    "palm_to_ball_distance_m": 0.11939496888621455
+  },
+  {
+    "step": 212,
+    "success": false,
+    "reward": 0.011937793606117193,
+    "ball_height_m": 0.034995817924001055,
+    "palm_to_ball_distance_m": 0.11937793606117192
+  },
+  {
+    "step": 213,
+    "success": false,
+    "reward": 0.011935354346950472,
+    "ball_height_m": 0.035003367008898945,
+    "palm_to_ball_distance_m": 0.11935354346950472
+  },
+  {
+    "step": 214,
+    "success": false,
+    "reward": 0.011933483782972508,
+    "ball_height_m": 0.03500872379920304,
+    "palm_to_ball_distance_m": 0.11933483782972508
+  },
+  {
+    "step": 215,
+    "success": false,
+    "reward": 0.011932305975212009,
+    "ball_height_m": 0.035013547945289054,
+    "palm_to_ball_distance_m": 0.11932305975212008
+  },
+  {
+    "step": 216,
+    "success": false,
+    "reward": 0.011930272298484207,
+    "ball_height_m": 0.035021027545839425,
+    "palm_to_ball_distance_m": 0.11930272298484206
+  },
+  {
+    "step": 217,
+    "success": false,
+    "reward": 0.011923515448815468,
+    "ball_height_m": 0.03503335935148896,
+    "palm_to_ball_distance_m": 0.11923515448815468
+  },
+  {
+    "step": 218,
+    "success": false,
+    "reward": 0.01191901435540748,
+    "ball_height_m": 0.03504358716754274,
+    "palm_to_ball_distance_m": 0.1191901435540748
+  },
+  {
+    "step": 219,
+    "success": false,
+    "reward": 0.011914281432702865,
+    "ball_height_m": 0.035054369864003364,
+    "palm_to_ball_distance_m": 0.11914281432702864
+  },
+  {
+    "step": 220,
+    "success": false,
+    "reward": 0.011904391086409886,
+    "ball_height_m": 0.03506771105559822,
+    "palm_to_ball_distance_m": 0.11904391086409886
+  },
+  {
+    "step": 221,
+    "success": false,
+    "reward": 0.011920881698696907,
+    "ball_height_m": 0.035055167107153194,
+    "palm_to_ball_distance_m": 0.11920881698696907
+  },
+  {
+    "step": 222,
+    "success": false,
+    "reward": 0.011958150220886093,
+    "ball_height_m": 0.035039741118700486,
+    "palm_to_ball_distance_m": 0.11958150220886092
+  },
+  {
+    "step": 223,
+    "success": false,
+    "reward": 0.012012053045939858,
+    "ball_height_m": 0.035022704617338536,
+    "palm_to_ball_distance_m": 0.12012053045939856
+  },
+  {
+    "step": 224,
+    "success": false,
+    "reward": 0.012069473746235633,
+    "ball_height_m": 0.035019609433017615,
+    "palm_to_ball_distance_m": 0.12069473746235632
+  },
+  {
+    "step": 225,
+    "success": false,
+    "reward": 0.012146620937519633,
+    "ball_height_m": 0.03501504904369979,
+    "palm_to_ball_distance_m": 0.12146620937519632
+  },
+  {
+    "step": 226,
+    "success": false,
+    "reward": 0.012227407561338251,
+    "ball_height_m": 0.035018727256409234,
+    "palm_to_ball_distance_m": 0.12227407561338251
+  },
+  {
+    "step": 227,
+    "success": false,
+    "reward": 0.012331799521301005,
+    "ball_height_m": 0.035013038321217424,
+    "palm_to_ball_distance_m": 0.12331799521301004
+  },
+  {
+    "step": 228,
+    "success": false,
+    "reward": 0.01240806698083403,
+    "ball_height_m": 0.035040812594402185,
+    "palm_to_ball_distance_m": 0.12408066980834029
+  },
+  {
+    "step": 229,
+    "success": false,
+    "reward": 0.012464992785105,
+    "ball_height_m": 0.035074314395557075,
+    "palm_to_ball_distance_m": 0.12464992785104999
+  },
+  {
+    "step": 230,
+    "success": false,
+    "reward": 0.012495309533480537,
+    "ball_height_m": 0.03511386841621189,
+    "palm_to_ball_distance_m": 0.12495309533480536
+  },
+  {
+    "step": 231,
+    "success": false,
+    "reward": 0.012496838273878265,
+    "ball_height_m": 0.03515437394850568,
+    "palm_to_ball_distance_m": 0.12496838273878265
+  },
+  {
+    "step": 232,
+    "success": false,
+    "reward": 0.012473500750134692,
+    "ball_height_m": 0.035187999218138526,
+    "palm_to_ball_distance_m": 0.12473500750134692
+  },
+  {
+    "step": 233,
+    "success": false,
+    "reward": 0.012432352925226684,
+    "ball_height_m": 0.03521975199753794,
+    "palm_to_ball_distance_m": 0.12432352925226683
+  },
+  {
+    "step": 234,
+    "success": false,
+    "reward": 0.012382851837674605,
+    "ball_height_m": 0.03526835319580083,
+    "palm_to_ball_distance_m": 0.12382851837674605
+  },
+  {
+    "step": 235,
+    "success": false,
+    "reward": 0.012318853281410476,
+    "ball_height_m": 0.03529294850220428,
+    "palm_to_ball_distance_m": 0.12318853281410476
+  },
+  {
+    "step": 236,
+    "success": false,
+    "reward": 0.01225818559369285,
+    "ball_height_m": 0.03531904813473895,
+    "palm_to_ball_distance_m": 0.1225818559369285
+  },
+  {
+    "step": 237,
+    "success": false,
+    "reward": 0.012188809818819969,
+    "ball_height_m": 0.03533290413918605,
+    "palm_to_ball_distance_m": 0.12188809818819968
+  },
+  {
+    "step": 238,
+    "success": false,
+    "reward": 0.012134252030906047,
+    "ball_height_m": 0.0353295764068514,
+    "palm_to_ball_distance_m": 0.12134252030906045
+  },
+  {
+    "step": 239,
+    "success": false,
+    "reward": 0.012075824365064181,
+    "ball_height_m": 0.03531749431684779,
+    "palm_to_ball_distance_m": 0.1207582436506418
+  },
+  {
+    "step": 240,
+    "success": false,
+    "reward": 0.012017112623864325,
+    "ball_height_m": 0.03530107551647599,
+    "palm_to_ball_distance_m": 0.12017112623864325
+  },
+  {
+    "step": 241,
+    "success": false,
+    "reward": 0.012000115454881178,
+    "ball_height_m": 0.035286759027567026,
+    "palm_to_ball_distance_m": 0.12000115454881177
+  },
+  {
+    "step": 242,
+    "success": false,
+    "reward": 0.01201388462148845,
+    "ball_height_m": 0.03527260946228026,
+    "palm_to_ball_distance_m": 0.12013884621488449
+  },
+  {
+    "step": 243,
+    "success": false,
+    "reward": 0.012036001221176448,
+    "ball_height_m": 0.03526103684192462,
+    "palm_to_ball_distance_m": 0.12036001221176447
+  },
+  {
+    "step": 244,
+    "success": false,
+    "reward": 0.012070074126492605,
+    "ball_height_m": 0.03524614414500267,
+    "palm_to_ball_distance_m": 0.12070074126492604
+  },
+  {
+    "step": 245,
+    "success": false,
+    "reward": 0.012114523080948597,
+    "ball_height_m": 0.035231042070151736,
+    "palm_to_ball_distance_m": 0.12114523080948596
+  },
+  {
+    "step": 246,
+    "success": false,
+    "reward": 0.012147421787220352,
+    "ball_height_m": 0.03522560034894849,
+    "palm_to_ball_distance_m": 0.12147421787220351
+  },
+  {
+    "step": 247,
+    "success": false,
+    "reward": 0.012200627573075391,
+    "ball_height_m": 0.035222304285054004,
+    "palm_to_ball_distance_m": 0.12200627573075391
+  },
+  {
+    "step": 248,
+    "success": false,
+    "reward": 0.012238411837552832,
+    "ball_height_m": 0.03522391295000477,
+    "palm_to_ball_distance_m": 0.12238411837552832
+  },
+  {
+    "step": 249,
+    "success": false,
+    "reward": 0.012280883018883013,
+    "ball_height_m": 0.03523241229524551,
+    "palm_to_ball_distance_m": 0.12280883018883011
+  },
+  {
+    "step": 250,
+    "success": false,
+    "reward": 0.012325609175368919,
+    "ball_height_m": 0.035253803202204496,
+    "palm_to_ball_distance_m": 0.12325609175368918
+  },
+  {
+    "step": 251,
+    "success": false,
+    "reward": 0.01236265245641728,
+    "ball_height_m": 0.03529431745188001,
+    "palm_to_ball_distance_m": 0.1236265245641728
+  },
+  {
+    "step": 252,
+    "success": false,
+    "reward": 0.012397837436610508,
+    "ball_height_m": 0.0353387981195655,
+    "palm_to_ball_distance_m": 0.12397837436610508
+  },
+  {
+    "step": 253,
+    "success": false,
+    "reward": 0.012436454401222076,
+    "ball_height_m": 0.03539442320777141,
+    "palm_to_ball_distance_m": 0.12436454401222075
+  },
+  {
+    "step": 254,
+    "success": false,
+    "reward": 0.012464440814870626,
+    "ball_height_m": 0.03542844466535467,
+    "palm_to_ball_distance_m": 0.12464440814870625
+  },
+  {
+    "step": 255,
+    "success": false,
+    "reward": 0.0124917491594505,
+    "ball_height_m": 0.03546006393809432,
+    "palm_to_ball_distance_m": 0.12491749159450499
+  },
+  {
+    "step": 256,
+    "success": false,
+    "reward": 0.012523242538428328,
+    "ball_height_m": 0.03549266140117205,
+    "palm_to_ball_distance_m": 0.12523242538428328
+  },
+  {
+    "step": 257,
+    "success": false,
+    "reward": 0.012549529039239272,
+    "ball_height_m": 0.035437982541745225,
+    "palm_to_ball_distance_m": 0.1254952903923927
+  },
+  {
+    "step": 258,
+    "success": false,
+    "reward": 0.012567873210837969,
+    "ball_height_m": 0.03540727046044271,
+    "palm_to_ball_distance_m": 0.12567873210837968
+  },
+  {
+    "step": 259,
+    "success": false,
+    "reward": 0.012591807517977317,
+    "ball_height_m": 0.035416954172499945,
+    "palm_to_ball_distance_m": 0.12591807517977316
+  },
+  {
+    "step": 260,
+    "success": false,
+    "reward": 0.012616347905574175,
+    "ball_height_m": 0.03544132097578445,
+    "palm_to_ball_distance_m": 0.12616347905574174
+  },
+  {
+    "step": 261,
+    "success": false,
+    "reward": 0.012644666866116297,
+    "ball_height_m": 0.03543124420781903,
+    "palm_to_ball_distance_m": 0.12644666866116297
+  },
+  {
+    "step": 262,
+    "success": false,
+    "reward": 0.012684929416896357,
+    "ball_height_m": 0.035407399096165595,
+    "palm_to_ball_distance_m": 0.12684929416896357
+  },
+  {
+    "step": 263,
+    "success": false,
+    "reward": 0.012718549489194762,
+    "ball_height_m": 0.0354053302836849,
+    "palm_to_ball_distance_m": 0.1271854948919476
+  },
+  {
+    "step": 264,
+    "success": false,
+    "reward": 0.012745847071395741,
+    "ball_height_m": 0.03541684583340063,
+    "palm_to_ball_distance_m": 0.1274584707139574
+  },
+  {
+    "step": 265,
+    "success": false,
+    "reward": 0.012772519071042593,
+    "ball_height_m": 0.03546129905888221,
+    "palm_to_ball_distance_m": 0.12772519071042593
+  },
+  {
+    "step": 266,
+    "success": false,
+    "reward": 0.012792467540253413,
+    "ball_height_m": 0.03549914916018571,
+    "palm_to_ball_distance_m": 0.12792467540253413
+  },
+  {
+    "step": 267,
+    "success": false,
+    "reward": 0.012802429925605895,
+    "ball_height_m": 0.035424609942919225,
+    "palm_to_ball_distance_m": 0.12802429925605893
+  },
+  {
+    "step": 268,
+    "success": false,
+    "reward": 0.012817758448252834,
+    "ball_height_m": 0.03539987322620738,
+    "palm_to_ball_distance_m": 0.12817758448252833
+  },
+  {
+    "step": 269,
+    "success": false,
+    "reward": 0.012829613283479625,
+    "ball_height_m": 0.03541961404055752,
+    "palm_to_ball_distance_m": 0.12829613283479624
+  },
+  {
+    "step": 270,
+    "success": false,
+    "reward": 0.012839790445806644,
+    "ball_height_m": 0.03544002147290122,
+    "palm_to_ball_distance_m": 0.12839790445806643
+  },
+  {
+    "step": 271,
+    "success": false,
+    "reward": 0.012849049435915,
+    "ball_height_m": 0.03544482495103325,
+    "palm_to_ball_distance_m": 0.12849049435915
+  },
+  {
+    "step": 272,
+    "success": false,
+    "reward": 0.012856569244983072,
+    "ball_height_m": 0.03544492480301921,
+    "palm_to_ball_distance_m": 0.1285656924498307
+  },
+  {
+    "step": 273,
+    "success": false,
+    "reward": 0.01286673503445725,
+    "ball_height_m": 0.035440438066038096,
+    "palm_to_ball_distance_m": 0.1286673503445725
+  },
+  {
+    "step": 274,
+    "success": false,
+    "reward": 0.012876306474222013,
+    "ball_height_m": 0.035425079750338505,
+    "palm_to_ball_distance_m": 0.12876306474222013
+  },
+  {
+    "step": 275,
+    "success": false,
+    "reward": 0.01288438062349556,
+    "ball_height_m": 0.03541039793785158,
+    "palm_to_ball_distance_m": 0.1288438062349556
+  },
+  {
+    "step": 276,
+    "success": false,
+    "reward": 0.01289348373288369,
+    "ball_height_m": 0.03538476786469095,
+    "palm_to_ball_distance_m": 0.1289348373288369
+  },
+  {
+    "step": 277,
+    "success": false,
+    "reward": 0.012901812426948198,
+    "ball_height_m": 0.03535517155319988,
+    "palm_to_ball_distance_m": 0.12901812426948198
+  },
+  {
+    "step": 278,
+    "success": false,
+    "reward": 0.012908866937062644,
+    "ball_height_m": 0.035325547608578554,
+    "palm_to_ball_distance_m": 0.12908866937062644
+  },
+  {
+    "step": 279,
+    "success": false,
+    "reward": 0.012917131695024961,
+    "ball_height_m": 0.03529996121885901,
+    "palm_to_ball_distance_m": 0.1291713169502496
+  },
+  {
+    "step": 280,
+    "success": false,
+    "reward": 0.012926867035791177,
+    "ball_height_m": 0.035279317600339546,
+    "palm_to_ball_distance_m": 0.12926867035791176
+  },
+  {
+    "step": 281,
+    "success": false,
+    "reward": 0.012945730770515852,
+    "ball_height_m": 0.03526437604424906,
+    "palm_to_ball_distance_m": 0.1294573077051585
+  },
+  {
+    "step": 282,
+    "success": false,
+    "reward": 0.012981784905103913,
+    "ball_height_m": 0.03525401699523608,
+    "palm_to_ball_distance_m": 0.12981784905103913
+  },
+  {
+    "step": 283,
+    "success": false,
+    "reward": 0.013019941155422916,
+    "ball_height_m": 0.03524705998025317,
+    "palm_to_ball_distance_m": 0.13019941155422915
+  },
+  {
+    "step": 284,
+    "success": false,
+    "reward": 0.013058897542716079,
+    "ball_height_m": 0.03524250282773452,
+    "palm_to_ball_distance_m": 0.13058897542716078
+  },
+  {
+    "step": 285,
+    "success": false,
+    "reward": 0.013102818037671058,
+    "ball_height_m": 0.03523957782619062,
+    "palm_to_ball_distance_m": 0.13102818037671057
+  },
+  {
+    "step": 286,
+    "success": false,
+    "reward": 0.01315139706423047,
+    "ball_height_m": 0.03523773227294707,
+    "palm_to_ball_distance_m": 0.1315139706423047
+  },
+  {
+    "step": 287,
+    "success": false,
+    "reward": 0.013205307650575364,
+    "ball_height_m": 0.03523658485571,
+    "palm_to_ball_distance_m": 0.13205307650575362
+  },
+  {
+    "step": 288,
+    "success": false,
+    "reward": 0.013262366566910946,
+    "ball_height_m": 0.035235880690178606,
+    "palm_to_ball_distance_m": 0.13262366566910946
+  },
+  {
+    "step": 289,
+    "success": false,
+    "reward": 0.01332243493771653,
+    "ball_height_m": 0.03523545355983726,
+    "palm_to_ball_distance_m": 0.1332243493771653
+  },
+  {
+    "step": 290,
+    "success": false,
+    "reward": 0.013388739928769613,
+    "ball_height_m": 0.035235197225178684,
+    "palm_to_ball_distance_m": 0.13388739928769613
+  },
+  {
+    "step": 291,
+    "success": false,
+    "reward": 0.013459295833839317,
+    "ball_height_m": 0.035235044914489484,
+    "palm_to_ball_distance_m": 0.13459295833839316
+  },
+  {
+    "step": 292,
+    "success": false,
+    "reward": 0.013533761297440123,
+    "ball_height_m": 0.03523496528761682,
+    "palm_to_ball_distance_m": 0.13533761297440122
+  },
+  {
+    "step": 293,
+    "success": false,
+    "reward": 0.01361098324172943,
+    "ball_height_m": 0.035234939598142584,
+    "palm_to_ball_distance_m": 0.1361098324172943
+  },
+  {
+    "step": 294,
+    "success": false,
+    "reward": 0.013690930917450798,
+    "ball_height_m": 0.035234931719643175,
+    "palm_to_ball_distance_m": 0.13690930917450797
+  },
+  {
+    "step": 295,
+    "success": false,
+    "reward": 0.013773408372289742,
+    "ball_height_m": 0.0352349293034492,
+    "palm_to_ball_distance_m": 0.13773408372289742
+  },
+  {
+    "step": 296,
+    "success": false,
+    "reward": 0.013856135802540635,
+    "ball_height_m": 0.035234928562446,
+    "palm_to_ball_distance_m": 0.13856135802540634
+  },
+  {
+    "step": 297,
+    "success": false,
+    "reward": 0.013940256796341172,
+    "ball_height_m": 0.03523492833519365,
+    "palm_to_ball_distance_m": 0.13940256796341172
+  },
+  {
+    "step": 298,
+    "success": false,
+    "reward": 0.014027133320638452,
+    "ball_height_m": 0.03523492826549944,
+    "palm_to_ball_distance_m": 0.14027133320638452
+  },
+  {
+    "step": 299,
+    "success": false,
+    "reward": 0.014115895300076989,
+    "ball_height_m": 0.03523492824412549,
+    "palm_to_ball_distance_m": 0.1411589530007699
+  },
+  {
+    "step": 300,
+    "success": false,
+    "reward": 0.014206242717057435,
+    "ball_height_m": 0.035234928237570476,
+    "palm_to_ball_distance_m": 0.14206242717057435
+  },
+  {
+    "step": 301,
+    "success": false,
+    "reward": 0.01429535136360943,
+    "ball_height_m": 0.035234928235560174,
+    "palm_to_ball_distance_m": 0.1429535136360943
+  },
+  {
+    "step": 302,
+    "success": false,
+    "reward": 0.014373695941984352,
+    "ball_height_m": 0.035234928234943654,
+    "palm_to_ball_distance_m": 0.14373695941984352
+  },
+  {
+    "step": 303,
+    "success": false,
+    "reward": 0.014432378752095519,
+    "ball_height_m": 0.035234928234754576,
+    "palm_to_ball_distance_m": 0.14432378752095518
+  },
+  {
+    "step": 304,
+    "success": false,
+    "reward": 0.014469030039426454,
+    "ball_height_m": 0.03523492823469659,
+    "palm_to_ball_distance_m": 0.14469030039426453
+  },
+  {
+    "step": 305,
+    "success": false,
+    "reward": 0.014485259956006772,
+    "ball_height_m": 0.0352349282346788,
+    "palm_to_ball_distance_m": 0.1448525995600677
+  },
+  {
+    "step": 306,
+    "success": false,
+    "reward": 0.014478839040844722,
+    "ball_height_m": 0.03523492823467335,
+    "palm_to_ball_distance_m": 0.1447883904084472
+  },
+  {
+    "step": 307,
+    "success": false,
+    "reward": 0.014454617136173856,
+    "ball_height_m": 0.03523492823467168,
+    "palm_to_ball_distance_m": 0.14454617136173856
+  },
+  {
+    "step": 308,
+    "success": false,
+    "reward": 0.014411119114211616,
+    "ball_height_m": 0.03523492823467117,
+    "palm_to_ball_distance_m": 0.14411119114211615
+  },
+  {
+    "step": 309,
+    "success": false,
+    "reward": 0.014347612243334827,
+    "ball_height_m": 0.03523492823467101,
+    "palm_to_ball_distance_m": 0.14347612243334826
+  },
+  {
+    "step": 310,
+    "success": false,
+    "reward": 0.01427044061187778,
+    "ball_height_m": 0.03523492823467096,
+    "palm_to_ball_distance_m": 0.1427044061187778
+  },
+  {
+    "step": 311,
+    "success": false,
+    "reward": 0.014177032483465718,
+    "ball_height_m": 0.03523492823467095,
+    "palm_to_ball_distance_m": 0.14177032483465718
+  },
+  {
+    "step": 312,
+    "success": false,
+    "reward": 0.014069432812546115,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.14069432812546115
+  },
+  {
+    "step": 313,
+    "success": false,
+    "reward": 0.013950164569313077,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.13950164569313075
+  },
+  {
+    "step": 314,
+    "success": false,
+    "reward": 0.013819133007861915,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.13819133007861914
+  },
+  {
+    "step": 315,
+    "success": false,
+    "reward": 0.013677552516978565,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.13677552516978564
+  },
+  {
+    "step": 316,
+    "success": false,
+    "reward": 0.013527397285825807,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.13527397285825807
+  },
+  {
+    "step": 317,
+    "success": false,
+    "reward": 0.01337165896648642,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.1337165896648642
+  },
+  {
+    "step": 318,
+    "success": false,
+    "reward": 0.013207373360033713,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.1320737336003371
+  },
+  {
+    "step": 319,
+    "success": false,
+    "reward": 0.013043204225384004,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.13043204225384003
+  },
+  {
+    "step": 320,
+    "success": false,
+    "reward": 0.012871657734355064,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.12871657734355063
+  },
+  {
+    "step": 321,
+    "success": false,
+    "reward": 0.012732068877166805,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.12732068877166805
+  },
+  {
+    "step": 322,
+    "success": false,
+    "reward": 0.012613901020478532,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.12613901020478532
+  },
+  {
+    "step": 323,
+    "success": false,
+    "reward": 0.012494348111999794,
+    "ball_height_m": 0.03523492823467094,
+    "palm_to_ball_distance_m": 0.12494348111999794
+  },
+  {
+    "step": 324,
+    "success": false,
+    "reward": 0.012380072107928814,
+    "ball_height_m": 0.03523492823467095,
+    "palm_to_ball_distance_m": 0.12380072107928813
+  },
+  {
+    "step": 325,
+    "success": false,
+    "reward": 0.012275037270268695,
+    "ball_height_m": 0.03523492823467095,
+    "palm_to_ball_distance_m": 0.12275037270268695
+  },
+  {
+    "step": 326,
+    "success": false,
+    "reward": 0.01221235329589041,
+    "ball_height_m": 0.03522183807509072,
+    "palm_to_ball_distance_m": 0.12212353295890409
+  },
+  {
+    "step": 327,
+    "success": false,
+    "reward": 0.012254718637429624,
+    "ball_height_m": 0.03517480395492984,
+    "palm_to_ball_distance_m": 0.12254718637429624
+  },
+  {
+    "step": 328,
+    "success": false,
+    "reward": 0.012345068779273084,
+    "ball_height_m": 0.03518466979077577,
+    "palm_to_ball_distance_m": 0.12345068779273083
+  },
+  {
+    "step": 329,
+    "success": false,
+    "reward": 0.01243650583095949,
+    "ball_height_m": 0.03531809482701338,
+    "palm_to_ball_distance_m": 0.12436505830959489
+  },
+  {
+    "step": 330,
+    "success": false,
+    "reward": 0.012488818683351824,
+    "ball_height_m": 0.03544099956678523,
+    "palm_to_ball_distance_m": 0.12488818683351822
+  },
+  {
+    "step": 331,
+    "success": false,
+    "reward": 0.01252323679037489,
+    "ball_height_m": 0.03545496364205767,
+    "palm_to_ball_distance_m": 0.1252323679037489
+  },
+  {
+    "step": 332,
+    "success": false,
+    "reward": 0.012556579394489321,
+    "ball_height_m": 0.03542210881184636,
+    "palm_to_ball_distance_m": 0.1255657939448932
+  },
+  {
+    "step": 333,
+    "success": false,
+    "reward": 0.012607104460509956,
+    "ball_height_m": 0.03537878568581767,
+    "palm_to_ball_distance_m": 0.12607104460509955
+  },
+  {
+    "step": 334,
+    "success": false,
+    "reward": 0.01267528445725253,
+    "ball_height_m": 0.03533908695079979,
+    "palm_to_ball_distance_m": 0.12675284457252528
+  },
+  {
+    "step": 335,
+    "success": false,
+    "reward": 0.012758288962880003,
+    "ball_height_m": 0.03530732017221765,
+    "palm_to_ball_distance_m": 0.12758288962880002
+  },
+  {
+    "step": 336,
+    "success": false,
+    "reward": 0.012852882520466428,
+    "ball_height_m": 0.0352837116759993,
+    "palm_to_ball_distance_m": 0.12852882520466427
+  },
+  {
+    "step": 337,
+    "success": false,
+    "reward": 0.012953653049195874,
+    "ball_height_m": 0.03526699670122315,
+    "palm_to_ball_distance_m": 0.12953653049195873
+  },
+  {
+    "step": 338,
+    "success": false,
+    "reward": 0.013056430697470157,
+    "ball_height_m": 0.03525557371550402,
+    "palm_to_ball_distance_m": 0.13056430697470156
+  },
+  {
+    "step": 339,
+    "success": false,
+    "reward": 0.01315846379026555,
+    "ball_height_m": 0.03524797934490886,
+    "palm_to_ball_distance_m": 0.13158463790265548
+  },
+  {
+    "step": 340,
+    "success": false,
+    "reward": 0.013257026876297186,
+    "ball_height_m": 0.03524304204419603,
+    "palm_to_ball_distance_m": 0.13257026876297184
+  },
+  {
+    "step": 341,
+    "success": false,
+    "reward": 0.013346173482605675,
+    "ball_height_m": 0.03523989168986281,
+    "palm_to_ball_distance_m": 0.13346173482605675
+  },
+  {
+    "step": 342,
+    "success": false,
+    "reward": 0.013422619217146457,
+    "ball_height_m": 0.035237913500138204,
+    "palm_to_ball_distance_m": 0.13422619217146456
+  },
+  {
+    "step": 343,
+    "success": false,
+    "reward": 0.013483362100228009,
+    "ball_height_m": 0.03523668862045601,
+    "palm_to_ball_distance_m": 0.13483362100228008
+  },
+  {
+    "step": 344,
+    "success": false,
+    "reward": 0.013526628047840973,
+    "ball_height_m": 0.035235939582219156,
+    "palm_to_ball_distance_m": 0.13526628047840972
+  },
+  {
+    "step": 345,
+    "success": false,
+    "reward": 0.013554676443844497,
+    "ball_height_m": 0.03523548667638242,
+    "palm_to_ball_distance_m": 0.13554676443844496
+  },
+  {
+    "step": 346,
+    "success": false,
+    "reward": 0.0135679575073255,
+    "ball_height_m": 0.0352352156649076,
+    "palm_to_ball_distance_m": 0.13567957507325498
+  },
+  {
+    "step": 347,
+    "success": false,
+    "reward": 0.013568965167134038,
+    "ball_height_m": 0.035235055073095926,
+    "palm_to_ball_distance_m": 0.13568965167134037
+  },
+  {
+    "step": 348,
+    "success": false,
+    "reward": 0.013558405854551573,
+    "ball_height_m": 0.03523496884744899,
+    "palm_to_ball_distance_m": 0.13558405854551572
+  },
+  {
+    "step": 349,
+    "success": false,
+    "reward": 0.0135394227371039,
+    "ball_height_m": 0.035234940394541205,
+    "palm_to_ball_distance_m": 0.13539422737103898
+  },
+  {
+    "step": 350,
+    "success": false,
+    "reward": 0.013512902353094795,
+    "ball_height_m": 0.035234931668546465,
+    "palm_to_ball_distance_m": 0.13512902353094794
+  },
+  {
+    "step": 351,
+    "success": false,
+    "reward": 0.013480060979375272,
+    "ball_height_m": 0.03523492899244093,
+    "palm_to_ball_distance_m": 0.13480060979375272
+  },
+  {
+    "step": 352,
+    "success": false,
+    "reward": 0.013441719947461742,
+    "ball_height_m": 0.03523492817172752,
+    "palm_to_ball_distance_m": 0.13441719947461742
+  },
+  {
+    "step": 353,
+    "success": false,
+    "reward": 0.013398881852505859,
+    "ball_height_m": 0.03523492792002949,
+    "palm_to_ball_distance_m": 0.1339888185250586
+  },
+  {
+    "step": 354,
+    "success": false,
+    "reward": 0.013352456309514808,
+    "ball_height_m": 0.03523492784283823,
+    "palm_to_ball_distance_m": 0.13352456309514807
+  },
+  {
+    "step": 355,
+    "success": false,
+    "reward": 0.013303154548833974,
+    "ball_height_m": 0.03523492781916506,
+    "palm_to_ball_distance_m": 0.13303154548833973
+  },
+  {
+    "step": 356,
+    "success": false,
+    "reward": 0.01325173973642627,
+    "ball_height_m": 0.03523492781190493,
+    "palm_to_ball_distance_m": 0.13251739736426268
+  },
+  {
+    "step": 357,
+    "success": false,
+    "reward": 0.013199201112483613,
+    "ball_height_m": 0.03523492780967838,
+    "palm_to_ball_distance_m": 0.13199201112483613
+  },
+  {
+    "step": 358,
+    "success": false,
+    "reward": 0.013144839566363937,
+    "ball_height_m": 0.03523492780899553,
+    "palm_to_ball_distance_m": 0.13144839566363936
+  },
+  {
+    "step": 359,
+    "success": false,
+    "reward": 0.01309103412709682,
+    "ball_height_m": 0.035234927808786114,
+    "palm_to_ball_distance_m": 0.1309103412709682
+  },
+  {
+    "step": 360,
+    "success": false,
+    "reward": 0.013038948628880151,
+    "ball_height_m": 0.035234927808721894,
+    "palm_to_ball_distance_m": 0.1303894862888015
+  },
+  {
+    "step": 361,
+    "success": false,
+    "reward": 0.012952615731990523,
+    "ball_height_m": 0.035234927808702195,
+    "palm_to_ball_distance_m": 0.12952615731990522
+  },
+  {
+    "step": 362,
+    "success": false,
+    "reward": 0.012867585682561451,
+    "ball_height_m": 0.03523492780869616,
+    "palm_to_ball_distance_m": 0.1286758568256145
+  },
+  {
+    "step": 363,
+    "success": false,
+    "reward": 0.012812204326422195,
+    "ball_height_m": 0.035234927808694305,
+    "palm_to_ball_distance_m": 0.12812204326422194
+  },
+  {
+    "step": 364,
+    "success": false,
+    "reward": 0.01276644252328371,
+    "ball_height_m": 0.035234927808693736,
+    "palm_to_ball_distance_m": 0.12766442523283708
+  },
+  {
+    "step": 365,
+    "success": false,
+    "reward": 0.012727724347368888,
+    "ball_height_m": 0.03523492780869356,
+    "palm_to_ball_distance_m": 0.12727724347368888
+  },
+  {
+    "step": 366,
+    "success": false,
+    "reward": 0.012693157567829223,
+    "ball_height_m": 0.03523492780869351,
+    "palm_to_ball_distance_m": 0.12693157567829222
+  },
+  {
+    "step": 367,
+    "success": false,
+    "reward": 0.012666973052774018,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.12666973052774017
+  },
+  {
+    "step": 368,
+    "success": false,
+    "reward": 0.012651802676901996,
+    "ball_height_m": 0.035234927808693486,
+    "palm_to_ball_distance_m": 0.12651802676901996
+  },
+  {
+    "step": 369,
+    "success": false,
+    "reward": 0.01265093231527375,
+    "ball_height_m": 0.035234927808693486,
+    "palm_to_ball_distance_m": 0.1265093231527375
+  },
+  {
+    "step": 370,
+    "success": false,
+    "reward": 0.012668309893659066,
+    "ball_height_m": 0.035234927808693486,
+    "palm_to_ball_distance_m": 0.12668309893659066
+  },
+  {
+    "step": 371,
+    "success": false,
+    "reward": 0.012707505496235907,
+    "ball_height_m": 0.035234927808693486,
+    "palm_to_ball_distance_m": 0.12707505496235907
+  },
+  {
+    "step": 372,
+    "success": false,
+    "reward": 0.012771273747124869,
+    "ball_height_m": 0.035234927808693486,
+    "palm_to_ball_distance_m": 0.12771273747124867
+  },
+  {
+    "step": 373,
+    "success": false,
+    "reward": 0.012862571382550975,
+    "ball_height_m": 0.035234927808693486,
+    "palm_to_ball_distance_m": 0.12862571382550975
+  },
+  {
+    "step": 374,
+    "success": false,
+    "reward": 0.012977006875261161,
+    "ball_height_m": 0.035234927808693486,
+    "palm_to_ball_distance_m": 0.1297700687526116
+  },
+  {
+    "step": 375,
+    "success": false,
+    "reward": 0.013119472713733458,
+    "ball_height_m": 0.035234927808693486,
+    "palm_to_ball_distance_m": 0.13119472713733457
+  },
+  {
+    "step": 376,
+    "success": false,
+    "reward": 0.01328521835611862,
+    "ball_height_m": 0.035234927808693486,
+    "palm_to_ball_distance_m": 0.1328521835611862
+  },
+  {
+    "step": 377,
+    "success": false,
+    "reward": 0.013469828405220891,
+    "ball_height_m": 0.035234927808693486,
+    "palm_to_ball_distance_m": 0.1346982840522089
+  },
+  {
+    "step": 378,
+    "success": false,
+    "reward": 0.013632776897932675,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.13632776897932675
+  },
+  {
+    "step": 379,
+    "success": false,
+    "reward": 0.013821660559361196,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.13821660559361196
+  },
+  {
+    "step": 380,
+    "success": false,
+    "reward": 0.014027595718132958,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.14027595718132957
+  },
+  {
+    "step": 381,
+    "success": false,
+    "reward": 0.01410462309728216,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.1410462309728216
+  },
+  {
+    "step": 382,
+    "success": false,
+    "reward": 0.013948525792437012,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.1394852579243701
+  },
+  {
+    "step": 383,
+    "success": false,
+    "reward": 0.013599996031154955,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.13599996031154954
+  },
+  {
+    "step": 384,
+    "success": false,
+    "reward": 0.013239508522593433,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.13239508522593432
+  },
+  {
+    "step": 385,
+    "success": false,
+    "reward": 0.012812982924188055,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.12812982924188054
+  },
+  {
+    "step": 386,
+    "success": false,
+    "reward": 0.012399336914080534,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.12399336914080533
+  },
+  {
+    "step": 387,
+    "success": false,
+    "reward": 0.011966736543518978,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.11966736543518978
+  },
+  {
+    "step": 388,
+    "success": false,
+    "reward": 0.011520638199785582,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.11520638199785581
+  },
+  {
+    "step": 389,
+    "success": false,
+    "reward": 0.011057001623661354,
+    "ball_height_m": 0.03523492780869349,
+    "palm_to_ball_distance_m": 0.11057001623661353
+  },
+  {
+    "step": 390,
+    "success": false,
+    "reward": 0.010742222986644642,
+    "ball_height_m": 0.03580345060479106,
+    "palm_to_ball_distance_m": 0.10742222986644641
+  },
+  {
+    "step": 391,
+    "success": false,
+    "reward": 0.01064858830294454,
+    "ball_height_m": 0.03661696656517864,
+    "palm_to_ball_distance_m": 0.1064858830294454
+  },
+  {
+    "step": 392,
+    "success": false,
+    "reward": 0.010656966065515451,
+    "ball_height_m": 0.03760335446431643,
+    "palm_to_ball_distance_m": 0.10656966065515451
+  },
+  {
+    "step": 393,
+    "success": false,
+    "reward": 0.010697915015664848,
+    "ball_height_m": 0.03831905283620708,
+    "palm_to_ball_distance_m": 0.10697915015664848
+  },
+  {
+    "step": 394,
+    "success": false,
+    "reward": 0.010742989543444971,
+    "ball_height_m": 0.03875867335227948,
+    "palm_to_ball_distance_m": 0.10742989543444971
+  },
+  {
+    "step": 395,
+    "success": false,
+    "reward": 0.010794702742949911,
+    "ball_height_m": 0.03873205787198842,
+    "palm_to_ball_distance_m": 0.1079470274294991
+  },
+  {
+    "step": 396,
+    "success": false,
+    "reward": 0.010817129683831575,
+    "ball_height_m": 0.038253047833664,
+    "palm_to_ball_distance_m": 0.10817129683831574
+  },
+  {
+    "step": 397,
+    "success": false,
+    "reward": 0.010784120006295465,
+    "ball_height_m": 0.036823946888011,
+    "palm_to_ball_distance_m": 0.10784120006295464
+  },
+  {
+    "step": 398,
+    "success": false,
+    "reward": 0.010677812832283178,
+    "ball_height_m": 0.03494046633569581,
+    "palm_to_ball_distance_m": 0.10677812832283178
+  },
+  {
+    "step": 399,
+    "success": false,
+    "reward": 0.010415004808119452,
+    "ball_height_m": 0.03502107390847592,
+    "palm_to_ball_distance_m": 0.1041500480811945
+  },
+  {
+    "step": 400,
+    "success": false,
+    "reward": 0.010288044221148556,
+    "ball_height_m": 0.03597542432841129,
+    "palm_to_ball_distance_m": 0.10288044221148555
+  },
+  {
+    "step": 401,
+    "success": false,
+    "reward": 0.010243391484818745,
+    "ball_height_m": 0.03592249788062492,
+    "palm_to_ball_distance_m": 0.10243391484818745
+  },
+  {
+    "step": 402,
+    "success": false,
+    "reward": 0.01022235040429853,
+    "ball_height_m": 0.0354397549446755,
+    "palm_to_ball_distance_m": 0.1022235040429853
+  },
+  {
+    "step": 403,
+    "success": false,
+    "reward": 0.010185571934513001,
+    "ball_height_m": 0.035657582520100144,
+    "palm_to_ball_distance_m": 0.10185571934513
+  },
+  {
+    "step": 404,
+    "success": false,
+    "reward": 0.010138707624631312,
+    "ball_height_m": 0.03553241780812978,
+    "palm_to_ball_distance_m": 0.10138707624631312
+  },
+  {
+    "step": 405,
+    "success": false,
+    "reward": 0.010084116347942765,
+    "ball_height_m": 0.035394028167828454,
+    "palm_to_ball_distance_m": 0.10084116347942765
+  },
+  {
+    "step": 406,
+    "success": false,
+    "reward": 0.010009261098802333,
+    "ball_height_m": 0.035604356049328025,
+    "palm_to_ball_distance_m": 0.10009261098802333
+  },
+  {
+    "step": 407,
+    "success": false,
+    "reward": 0.009951157963823905,
+    "ball_height_m": 0.03537623138518556,
+    "palm_to_ball_distance_m": 0.09951157963823903
+  },
+  {
+    "step": 408,
+    "success": false,
+    "reward": 0.009885299214425783,
+    "ball_height_m": 0.035303031986086905,
+    "palm_to_ball_distance_m": 0.09885299214425781
+  },
+  {
+    "step": 409,
+    "success": false,
+    "reward": 0.009840168622900564,
+    "ball_height_m": 0.03527528667284598,
+    "palm_to_ball_distance_m": 0.09840168622900564
+  },
+  {
+    "step": 410,
+    "success": false,
+    "reward": 0.009835059559279977,
+    "ball_height_m": 0.03525874407542865,
+    "palm_to_ball_distance_m": 0.09835059559279975
+  },
+  {
+    "step": 411,
+    "success": false,
+    "reward": 0.009876149101239408,
+    "ball_height_m": 0.03524886621581061,
+    "palm_to_ball_distance_m": 0.09876149101239408
+  },
+  {
+    "step": 412,
+    "success": false,
+    "reward": 0.00997151673425983,
+    "ball_height_m": 0.035243005117327864,
+    "palm_to_ball_distance_m": 0.09971516734259829
+  },
+  {
+    "step": 413,
+    "success": false,
+    "reward": 0.01011436726551025,
+    "ball_height_m": 0.035239553105223295,
+    "palm_to_ball_distance_m": 0.10114367265510249
+  },
+  {
+    "step": 414,
+    "success": false,
+    "reward": 0.010302961877984403,
+    "ball_height_m": 0.03523753615931676,
+    "palm_to_ball_distance_m": 0.10302961877984403
+  },
+  {
+    "step": 415,
+    "success": false,
+    "reward": 0.010531477075693664,
+    "ball_height_m": 0.035236367457543084,
+    "palm_to_ball_distance_m": 0.10531477075693664
+  },
+  {
+    "step": 416,
+    "success": false,
+    "reward": 0.01079589069462721,
+    "ball_height_m": 0.035235696037977014,
+    "palm_to_ball_distance_m": 0.1079589069462721
+  },
+  {
+    "step": 417,
+    "success": false,
+    "reward": 0.011088247509095928,
+    "ball_height_m": 0.03523531369884978,
+    "palm_to_ball_distance_m": 0.11088247509095926
+  },
+  {
+    "step": 418,
+    "success": false,
+    "reward": 0.01140297800236125,
+    "ball_height_m": 0.035235097967903375,
+    "palm_to_ball_distance_m": 0.11402978002361248
+  },
+  {
+    "step": 419,
+    "success": false,
+    "reward": 0.011725460786974728,
+    "ball_height_m": 0.03523498027875245,
+    "palm_to_ball_distance_m": 0.11725460786974728
+  },
+  {
+    "step": 420,
+    "success": false,
+    "reward": 0.012025552596691321,
+    "ball_height_m": 0.03523493754754678,
+    "palm_to_ball_distance_m": 0.1202555259669132
+  },
+  {
+    "step": 421,
+    "success": false,
+    "reward": 0.012310070945628117,
+    "ball_height_m": 0.03523570816634692,
+    "palm_to_ball_distance_m": 0.12310070945628115
+  },
+  {
+    "step": 422,
+    "success": false,
+    "reward": 0.012591693446006288,
+    "ball_height_m": 0.0352408329619269,
+    "palm_to_ball_distance_m": 0.12591693446006288
+  },
+  {
+    "step": 423,
+    "success": false,
+    "reward": 0.012861562378238229,
+    "ball_height_m": 0.035252841425603046,
+    "palm_to_ball_distance_m": 0.12861562378238228
+  },
+  {
+    "step": 424,
+    "success": false,
+    "reward": 0.013121067947832493,
+    "ball_height_m": 0.035265860490551526,
+    "palm_to_ball_distance_m": 0.13121067947832493
+  },
+  {
+    "step": 425,
+    "success": false,
+    "reward": 0.013341143361484049,
+    "ball_height_m": 0.03526979869096875,
+    "palm_to_ball_distance_m": 0.13341143361484048
+  },
+  {
+    "step": 426,
+    "success": false,
+    "reward": 0.01351161220498675,
+    "ball_height_m": 0.035265054908549656,
+    "palm_to_ball_distance_m": 0.1351161220498675
+  },
+  {
+    "step": 427,
+    "success": false,
+    "reward": 0.01364313617157385,
+    "ball_height_m": 0.03525798088791716,
+    "palm_to_ball_distance_m": 0.1364313617157385
+  },
+  {
+    "step": 428,
+    "success": false,
+    "reward": 0.013756436301534376,
+    "ball_height_m": 0.03525140365014138,
+    "palm_to_ball_distance_m": 0.13756436301534375
+  },
+  {
+    "step": 429,
+    "success": false,
+    "reward": 0.013870424183861677,
+    "ball_height_m": 0.035246183640636634,
+    "palm_to_ball_distance_m": 0.13870424183861677
+  },
+  {
+    "step": 430,
+    "success": false,
+    "reward": 0.013985338446547903,
+    "ball_height_m": 0.035242366040197995,
+    "palm_to_ball_distance_m": 0.139853384465479
+  },
+  {
+    "step": 431,
+    "success": false,
+    "reward": 0.014096066102764274,
+    "ball_height_m": 0.035239712904963014,
+    "palm_to_ball_distance_m": 0.14096066102764274
+  },
+  {
+    "step": 432,
+    "success": false,
+    "reward": 0.014201458282809463,
+    "ball_height_m": 0.0352379333907863,
+    "palm_to_ball_distance_m": 0.14201458282809462
+  },
+  {
+    "step": 433,
+    "success": false,
+    "reward": 0.014304319202763427,
+    "ball_height_m": 0.03523677118248633,
+    "palm_to_ball_distance_m": 0.14304319202763427
+  },
+  {
+    "step": 434,
+    "success": false,
+    "reward": 0.014408138243082716,
+    "ball_height_m": 0.03523602793046704,
+    "palm_to_ball_distance_m": 0.14408138243082716
+  },
+  {
+    "step": 435,
+    "success": false,
+    "reward": 0.014514938823345869,
+    "ball_height_m": 0.03523556075633047,
+    "palm_to_ball_distance_m": 0.1451493882334587
+  },
+  {
+    "step": 436,
+    "success": false,
+    "reward": 0.014625281303654914,
+    "ball_height_m": 0.03523527139556863,
+    "palm_to_ball_distance_m": 0.14625281303654913
+  },
+  {
+    "step": 437,
+    "success": false,
+    "reward": 0.014739438006934173,
+    "ball_height_m": 0.03523509445618239,
+    "palm_to_ball_distance_m": 0.14739438006934172
+  },
+  {
+    "step": 438,
+    "success": false,
+    "reward": 0.014857518082263828,
+    "ball_height_m": 0.035234989634028685,
+    "palm_to_ball_distance_m": 0.14857518082263826
+  },
+  {
+    "step": 439,
+    "success": false,
+    "reward": 0.01497974774698844,
+    "ball_height_m": 0.03523494951722919,
+    "palm_to_ball_distance_m": 0.1497974774698844
+  },
+  {
+    "step": 440,
+    "success": false,
+    "reward": 0.015106416976752739,
+    "ball_height_m": 0.035234937214128785,
+    "palm_to_ball_distance_m": 0.15106416976752737
+  },
+  {
+    "step": 441,
+    "success": false,
+    "reward": 0.015225231322111989,
+    "ball_height_m": 0.03523493344098932,
+    "palm_to_ball_distance_m": 0.15225231322111987
+  },
+  {
+    "step": 442,
+    "success": false,
+    "reward": 0.0153223287875922,
+    "ball_height_m": 0.03523493228383535,
+    "palm_to_ball_distance_m": 0.153223287875922
+  },
+  {
+    "step": 443,
+    "success": false,
+    "reward": 0.015402590720411983,
+    "ball_height_m": 0.03523493192895705,
+    "palm_to_ball_distance_m": 0.15402590720411982
+  },
+  {
+    "step": 444,
+    "success": false,
+    "reward": 0.015473242299663972,
+    "ball_height_m": 0.035234931820122266,
+    "palm_to_ball_distance_m": 0.15473242299663972
+  },
+  {
+    "step": 445,
+    "success": false,
+    "reward": 0.01553887109168342,
+    "ball_height_m": 0.03523493178674459,
+    "palm_to_ball_distance_m": 0.1553887109168342
+  },
+  {
+    "step": 446,
+    "success": false,
+    "reward": 0.015616512644132583,
+    "ball_height_m": 0.035234931776508265,
+    "palm_to_ball_distance_m": 0.15616512644132582
+  },
+  {
+    "step": 447,
+    "success": false,
+    "reward": 0.015705029212947447,
+    "ball_height_m": 0.03523493177336896,
+    "palm_to_ball_distance_m": 0.15705029212947447
+  },
+  {
+    "step": 448,
+    "success": false,
+    "reward": 0.015795843637693138,
+    "ball_height_m": 0.0352349317724062,
+    "palm_to_ball_distance_m": 0.15795843637693138
+  },
+  {
+    "step": 449,
+    "success": false,
+    "reward": 0.01589163892881367,
+    "ball_height_m": 0.035234931772110935,
+    "palm_to_ball_distance_m": 0.1589163892881367
+  },
+  {
+    "step": 450,
+    "success": false,
+    "reward": 0.015995663101601068,
+    "ball_height_m": 0.03523493177202038,
+    "palm_to_ball_distance_m": 0.15995663101601068
+  },
+  {
+    "step": 451,
+    "success": false,
+    "reward": 0.01610487484667238,
+    "ball_height_m": 0.03523493177199261,
+    "palm_to_ball_distance_m": 0.1610487484667238
+  },
+  {
+    "step": 452,
+    "success": false,
+    "reward": 0.01622156518505056,
+    "ball_height_m": 0.0352349317719841,
+    "palm_to_ball_distance_m": 0.16221565185050557
+  },
+  {
+    "step": 453,
+    "success": false,
+    "reward": 0.01634638255135413,
+    "ball_height_m": 0.03523493177198148,
+    "palm_to_ball_distance_m": 0.16346382551354127
+  },
+  {
+    "step": 454,
+    "success": false,
+    "reward": 0.016480350282707744,
+    "ball_height_m": 0.035234931771980685,
+    "palm_to_ball_distance_m": 0.16480350282707742
+  },
+  {
+    "step": 455,
+    "success": false,
+    "reward": 0.01662424212218975,
+    "ball_height_m": 0.03523493177198044,
+    "palm_to_ball_distance_m": 0.16624242122189747
+  },
+  {
+    "step": 456,
+    "success": false,
+    "reward": 0.016778173558093006,
+    "ball_height_m": 0.035234931771980366,
+    "palm_to_ball_distance_m": 0.16778173558093004
+  },
+  {
+    "step": 457,
+    "success": false,
+    "reward": 0.016940914045291477,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.16940914045291475
+  },
+  {
+    "step": 458,
+    "success": false,
+    "reward": 0.0171108765685148,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.171108765685148
+  },
+  {
+    "step": 459,
+    "success": false,
+    "reward": 0.017286616008871707,
+    "ball_height_m": 0.03523493177198033,
+    "palm_to_ball_distance_m": 0.17286616008871705
+  },
+  {
+    "step": 460,
+    "success": false,
+    "reward": 0.01746657771478822,
+    "ball_height_m": 0.03523493177198033,
+    "palm_to_ball_distance_m": 0.17466577714788217
+  },
+  {
+    "step": 461,
+    "success": false,
+    "reward": 0.01762440346175842,
+    "ball_height_m": 0.03523493177198033,
+    "palm_to_ball_distance_m": 0.1762440346175842
+  },
+  {
+    "step": 462,
+    "success": false,
+    "reward": 0.017747614415227084,
+    "ball_height_m": 0.03523493177198033,
+    "palm_to_ball_distance_m": 0.17747614415227084
+  },
+  {
+    "step": 463,
+    "success": false,
+    "reward": 0.017822542064908693,
+    "ball_height_m": 0.03523493177198033,
+    "palm_to_ball_distance_m": 0.17822542064908692
+  },
+  {
+    "step": 464,
+    "success": false,
+    "reward": 0.01785121387795596,
+    "ball_height_m": 0.03523493177198033,
+    "palm_to_ball_distance_m": 0.17851213877955957
+  },
+  {
+    "step": 465,
+    "success": false,
+    "reward": 0.017844321493751186,
+    "ball_height_m": 0.03523493177198033,
+    "palm_to_ball_distance_m": 0.17844321493751186
+  },
+  {
+    "step": 466,
+    "success": false,
+    "reward": 0.01780806594058058,
+    "ball_height_m": 0.03523493177198033,
+    "palm_to_ball_distance_m": 0.17808065940580578
+  },
+  {
+    "step": 467,
+    "success": false,
+    "reward": 0.017750790523087444,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.17750790523087442
+  },
+  {
+    "step": 468,
+    "success": false,
+    "reward": 0.0176560014557823,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.17656001455782297
+  },
+  {
+    "step": 469,
+    "success": false,
+    "reward": 0.01753752508835693,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.1753752508835693
+  },
+  {
+    "step": 470,
+    "success": false,
+    "reward": 0.01743239753830446,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.1743239753830446
+  },
+  {
+    "step": 471,
+    "success": false,
+    "reward": 0.017373143497768997,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.17373143497768995
+  },
+  {
+    "step": 472,
+    "success": false,
+    "reward": 0.017352518576083036,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.17352518576083037
+  },
+  {
+    "step": 473,
+    "success": false,
+    "reward": 0.01737627289210172,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.1737627289210172
+  },
+  {
+    "step": 474,
+    "success": false,
+    "reward": 0.0174393812834102,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.17439381283410196
+  },
+  {
+    "step": 475,
+    "success": false,
+    "reward": 0.017530062691243867,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.17530062691243867
+  },
+  {
+    "step": 476,
+    "success": false,
+    "reward": 0.017644614246245145,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.17644614246245144
+  },
+  {
+    "step": 477,
+    "success": false,
+    "reward": 0.017775580722838052,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.17775580722838052
+  },
+  {
+    "step": 478,
+    "success": false,
+    "reward": 0.017921969526183995,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.17921969526183995
+  },
+  {
+    "step": 479,
+    "success": false,
+    "reward": 0.018072054367786482,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.18072054367786483
+  },
+  {
+    "step": 480,
+    "success": false,
+    "reward": 0.018222957246384928,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.18222957246384927
+  },
+  {
+    "step": 481,
+    "success": false,
+    "reward": 0.018362924711177713,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.1836292471117771
+  },
+  {
+    "step": 482,
+    "success": false,
+    "reward": 0.01848372692207984,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.18483726922079838
+  },
+  {
+    "step": 483,
+    "success": false,
+    "reward": 0.018595346251437012,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.18595346251437012
+  },
+  {
+    "step": 484,
+    "success": false,
+    "reward": 0.01869345012906073,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.1869345012906073
+  },
+  {
+    "step": 485,
+    "success": false,
+    "reward": 0.018772737436252965,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.18772737436252965
+  },
+  {
+    "step": 486,
+    "success": false,
+    "reward": 0.01882985858346335,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.18829858583463346
+  },
+  {
+    "step": 487,
+    "success": false,
+    "reward": 0.018858456140689657,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.18858456140689656
+  },
+  {
+    "step": 488,
+    "success": false,
+    "reward": 0.018876137344277025,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.18876137344277022
+  },
+  {
+    "step": 489,
+    "success": false,
+    "reward": 0.018867319575653366,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.18867319575653363
+  },
+  {
+    "step": 490,
+    "success": false,
+    "reward": 0.018830959558510826,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.18830959558510824
+  },
+  {
+    "step": 491,
+    "success": false,
+    "reward": 0.018780847920008864,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.1878084792000886
+  },
+  {
+    "step": 492,
+    "success": false,
+    "reward": 0.018710577714713763,
+    "ball_height_m": 0.03523493177198034,
+    "palm_to_ball_distance_m": 0.18710577714713764
+  },
+  {
+    "step": 493,
+    "success": false,
+    "reward": 0.018631194870690607,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.18631194870690607
+  },
+  {
+    "step": 494,
+    "success": false,
+    "reward": 0.018519108121031993,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.18519108121031994
+  },
+  {
+    "step": 495,
+    "success": false,
+    "reward": 0.01839963248077082,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.1839963248077082
+  },
+  {
+    "step": 496,
+    "success": false,
+    "reward": 0.018274952069880883,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.18274952069880882
+  },
+  {
+    "step": 497,
+    "success": false,
+    "reward": 0.018157295372583926,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.18157295372583926
+  },
+  {
+    "step": 498,
+    "success": false,
+    "reward": 0.018033169784265102,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.18033169784265102
+  },
+  {
+    "step": 499,
+    "success": false,
+    "reward": 0.01790408310294877,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.17904083102948767
+  },
+  {
+    "step": 500,
+    "success": false,
+    "reward": 0.01777933681747016,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.1777933681747016
+  },
+  {
+    "step": 501,
+    "success": false,
+    "reward": 0.017645429286609893,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.17645429286609893
+  },
+  {
+    "step": 502,
+    "success": false,
+    "reward": 0.017483934968923604,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.17483934968923603
+  },
+  {
+    "step": 503,
+    "success": false,
+    "reward": 0.01732908770464735,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.1732908770464735
+  },
+  {
+    "step": 504,
+    "success": false,
+    "reward": 0.0171833962210205,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.171833962210205
+  },
+  {
+    "step": 505,
+    "success": false,
+    "reward": 0.017059850696396192,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.17059850696396192
+  },
+  {
+    "step": 506,
+    "success": false,
+    "reward": 0.01697037355362626,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.16970373553626258
+  },
+  {
+    "step": 507,
+    "success": false,
+    "reward": 0.016911130033870337,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.16911130033870336
+  },
+  {
+    "step": 508,
+    "success": false,
+    "reward": 0.01688828678950922,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.1688828678950922
+  },
+  {
+    "step": 509,
+    "success": false,
+    "reward": 0.016895066889972544,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.16895066889972543
+  },
+  {
+    "step": 510,
+    "success": false,
+    "reward": 0.01693289780718682,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.1693289780718682
+  },
+  {
+    "step": 511,
+    "success": false,
+    "reward": 0.016999319885342708,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.16999319885342706
+  },
+  {
+    "step": 512,
+    "success": false,
+    "reward": 0.017092363837699267,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.17092363837699265
+  },
+  {
+    "step": 513,
+    "success": false,
+    "reward": 0.017209214238655172,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.1720921423865517
+  },
+  {
+    "step": 514,
+    "success": false,
+    "reward": 0.017349782014101672,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.17349782014101672
+  },
+  {
+    "step": 515,
+    "success": false,
+    "reward": 0.017508268500941827,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.17508268500941826
+  },
+  {
+    "step": 516,
+    "success": false,
+    "reward": 0.017683536937105768,
+    "ball_height_m": 0.035234931771980345,
+    "palm_to_ball_distance_m": 0.17683536937105768
+  },
+  {
+    "step": 517,
+    "success": false,
+    "reward": 0.017871905213556662,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.17871905213556663
+  },
+  {
+    "step": 518,
+    "success": false,
+    "reward": 0.018068585727792956,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.18068585727792955
+  },
+  {
+    "step": 519,
+    "success": false,
+    "reward": 0.018271157463344703,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.182711574633447
+  },
+  {
+    "step": 520,
+    "success": false,
+    "reward": 0.01847781154007549,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.18477811540075492
+  },
+  {
+    "step": 521,
+    "success": false,
+    "reward": 0.0186871209449089,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.18687120944908897
+  },
+  {
+    "step": 522,
+    "success": false,
+    "reward": 0.01892918517175764,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.1892918517175764
+  },
+  {
+    "step": 523,
+    "success": false,
+    "reward": 0.019180903523657714,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.19180903523657714
+  },
+  {
+    "step": 524,
+    "success": false,
+    "reward": 0.019446122322671594,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.19446122322671594
+  },
+  {
+    "step": 525,
+    "success": false,
+    "reward": 0.019704594098548408,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.19704594098548406
+  },
+  {
+    "step": 526,
+    "success": false,
+    "reward": 0.01995495467820724,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.1995495467820724
+  },
+  {
+    "step": 527,
+    "success": false,
+    "reward": 0.020190310518284786,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.20190310518284785
+  },
+  {
+    "step": 528,
+    "success": false,
+    "reward": 0.020416373173336343,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.2041637317333634
+  },
+  {
+    "step": 529,
+    "success": false,
+    "reward": 0.020632278547866957,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.20632278547866956
+  },
+  {
+    "step": 530,
+    "success": false,
+    "reward": 0.020839762615681504,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.208397626156815
+  },
+  {
+    "step": 531,
+    "success": false,
+    "reward": 0.021040487201981962,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.2104048720198196
+  },
+  {
+    "step": 532,
+    "success": false,
+    "reward": 0.02123591760512139,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.2123591760512139
+  },
+  {
+    "step": 533,
+    "success": false,
+    "reward": 0.02142718930904612,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.21427189309046119
+  },
+  {
+    "step": 534,
+    "success": false,
+    "reward": 0.02161404198625414,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.2161404198625414
+  },
+  {
+    "step": 535,
+    "success": false,
+    "reward": 0.021800892934909447,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.21800892934909447
+  },
+  {
+    "step": 536,
+    "success": false,
+    "reward": 0.02198761642825447,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.2198761642825447
+  },
+  {
+    "step": 537,
+    "success": false,
+    "reward": 0.022173835504891527,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.22173835504891526
+  },
+  {
+    "step": 538,
+    "success": false,
+    "reward": 0.02236016958083653,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.22360169580836528
+  },
+  {
+    "step": 539,
+    "success": false,
+    "reward": 0.022547682732451838,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.22547682732451838
+  },
+  {
+    "step": 540,
+    "success": false,
+    "reward": 0.02273646600284675,
+    "ball_height_m": 0.03523493177198035,
+    "palm_to_ball_distance_m": 0.2273646600284675
+  },
+  {
+    "step": 541,
+    "success": false,
+    "reward": 0.022814947695943638,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22814947695943638
+  },
+  {
+    "step": 542,
+    "success": false,
+    "reward": 0.022794477489280863,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22794477489280862
+  },
+  {
+    "step": 543,
+    "success": false,
+    "reward": 0.022712532906174282,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22712532906174282
+  },
+  {
+    "step": 544,
+    "success": false,
+    "reward": 0.022562412038042975,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22562412038042973
+  },
+  {
+    "step": 545,
+    "success": false,
+    "reward": 0.022344226780227086,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22344226780227086
+  },
+  {
+    "step": 546,
+    "success": false,
+    "reward": 0.022151284809441608,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22151284809441607
+  },
+  {
+    "step": 547,
+    "success": false,
+    "reward": 0.022055222525849048,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22055222525849047
+  },
+  {
+    "step": 548,
+    "success": false,
+    "reward": 0.022067322241371364,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22067322241371362
+  },
+  {
+    "step": 549,
+    "success": false,
+    "reward": 0.022154737504496293,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.2215473750449629
+  },
+  {
+    "step": 550,
+    "success": false,
+    "reward": 0.022285793936323593,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22285793936323592
+  },
+  {
+    "step": 551,
+    "success": false,
+    "reward": 0.02241603776864651,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.2241603776864651
+  },
+  {
+    "step": 552,
+    "success": false,
+    "reward": 0.022516194857460026,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22516194857460026
+  },
+  {
+    "step": 553,
+    "success": false,
+    "reward": 0.022618419611045278,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22618419611045276
+  },
+  {
+    "step": 554,
+    "success": false,
+    "reward": 0.022718105381361715,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22718105381361714
+  },
+  {
+    "step": 555,
+    "success": false,
+    "reward": 0.02282692293788135,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22826922937881347
+  },
+  {
+    "step": 556,
+    "success": false,
+    "reward": 0.022948585688968594,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.22948585688968592
+  },
+  {
+    "step": 557,
+    "success": false,
+    "reward": 0.02308222405911275,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.2308222405911275
+  },
+  {
+    "step": 558,
+    "success": false,
+    "reward": 0.02322814531478224,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.2322814531478224
+  },
+  {
+    "step": 559,
+    "success": false,
+    "reward": 0.023384250697785162,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.2338425069778516
+  },
+  {
+    "step": 560,
+    "success": false,
+    "reward": 0.023545884532778436,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.23545884532778436
+  },
+  {
+    "step": 561,
+    "success": false,
+    "reward": 0.023735701218002545,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.23735701218002542
+  },
+  {
+    "step": 562,
+    "success": false,
+    "reward": 0.023972566371247707,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.23972566371247706
+  },
+  {
+    "step": 563,
+    "success": false,
+    "reward": 0.024260318567038624,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.24260318567038622
+  },
+  {
+    "step": 564,
+    "success": false,
+    "reward": 0.024552209138702336,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.24552209138702336
+  },
+  {
+    "step": 565,
+    "success": false,
+    "reward": 0.024838648205136815,
+    "ball_height_m": 0.03523493177198036,
+    "palm_to_ball_distance_m": 0.24838648205136815
+  },
+  {
+    "step": 566,
+    "success": false,
+    "reward": 0.02512255834338714,
+    "ball_height_m": 0.035234931771980366,
+    "palm_to_ball_distance_m": 0.2512255834338714
+  },
+  {
+    "step": 567,
+    "success": false,
+    "reward": 0.02540589608877701,
+    "ball_height_m": 0.035234931771980366,
+    "palm_to_ball_distance_m": 0.2540589608877701
+  },
+  {
+    "step": 568,
+    "success": false,
+    "reward": 0.025688866661212326,
+    "ball_height_m": 0.035203872830342924,
+    "palm_to_ball_distance_m": 0.25688866661212323
+  },
+  {
+    "step": 569,
+    "success": false,
+    "reward": 0.025969972945175147,
+    "ball_height_m": 0.03504641383656082,
+    "palm_to_ball_distance_m": 0.25969972945175146
+  },
+  {
+    "step": 570,
+    "success": false,
+    "reward": 0.026250381950393982,
+    "ball_height_m": 0.03467948315778274,
+    "palm_to_ball_distance_m": 0.2625038195039398
+  },
+  {
+    "step": 571,
+    "success": false,
+    "reward": 0.026533020869531593,
+    "ball_height_m": 0.03403079436342717,
+    "palm_to_ball_distance_m": 0.26533020869531593
+  },
+  {
+    "step": 572,
+    "success": false,
+    "reward": 0.026816614023214305,
+    "ball_height_m": 0.033182539202761395,
+    "palm_to_ball_distance_m": 0.268166140232143
+  },
+  {
+    "step": 573,
+    "success": false,
+    "reward": 0.027091383024393085,
+    "ball_height_m": 0.032118299079011245,
+    "palm_to_ball_distance_m": 0.27091383024393084
+  },
+  {
+    "step": 574,
+    "success": false,
+    "reward": 0.02735946220843761,
+    "ball_height_m": 0.03077595683421251,
+    "palm_to_ball_distance_m": 0.27359462208437607
+  },
+  {
+    "step": 575,
+    "success": false,
+    "reward": 0.027621002734792108,
+    "ball_height_m": 0.02909642721054849,
+    "palm_to_ball_distance_m": 0.27621002734792105
+  },
+  {
+    "step": 576,
+    "success": false,
+    "reward": 0.02787179343706996,
+    "ball_height_m": 0.02705780329420137,
+    "palm_to_ball_distance_m": 0.2787179343706996
+  },
+  {
+    "step": 577,
+    "success": false,
+    "reward": 0.02811236591573682,
+    "ball_height_m": 0.024577160705621534,
+    "palm_to_ball_distance_m": 0.2811236591573682
+  },
+  {
+    "step": 578,
+    "success": false,
+    "reward": 0.028340907237032115,
+    "ball_height_m": 0.021451270960683957,
+    "palm_to_ball_distance_m": 0.28340907237032115
+  },
+  {
+    "step": 579,
+    "success": false,
+    "reward": 0.028558538749199766,
+    "ball_height_m": 0.017609373642857043,
+    "palm_to_ball_distance_m": 0.28558538749199763
+  },
+  {
+    "step": 580,
+    "success": false,
+    "reward": 0.028766801200826298,
+    "ball_height_m": 0.012846184661679996,
+    "palm_to_ball_distance_m": 0.287668012008263
+  },
+  {
+    "step": 581,
+    "success": false,
+    "reward": 0.02899927473712586,
+    "ball_height_m": 0.007107981482910565,
+    "palm_to_ball_distance_m": 0.2899927473712586
+  },
+  {
+    "step": 582,
+    "success": false,
+    "reward": 0.029291716191092443,
+    "ball_height_m": 0.0003947641065487409,
+    "palm_to_ball_distance_m": 0.29291716191092443
+  },
+  {
+    "step": 583,
+    "success": false,
+    "reward": 0.029594560831949127,
+    "ball_height_m": -0.007293467467405466,
+    "palm_to_ball_distance_m": 0.29594560831949124
+  },
+  {
+    "step": 584,
+    "success": false,
+    "reward": 0.029920910150531083,
+    "ball_height_m": -0.01595671323895207,
+    "palm_to_ball_distance_m": 0.2992091015053108
+  },
+  {
+    "step": 585,
+    "success": false,
+    "reward": 0.03028008044010412,
+    "ball_height_m": -0.02559497320809106,
+    "palm_to_ball_distance_m": 0.3028008044010412
+  },
+  {
+    "step": 586,
+    "success": false,
+    "reward": 0.030673494881506915,
+    "ball_height_m": -0.03620824737482245,
+    "palm_to_ball_distance_m": 0.30673494881506913
+  },
+  {
+    "step": 587,
+    "success": false,
+    "reward": 0.03110833267895337,
+    "ball_height_m": -0.04779653573914622,
+    "palm_to_ball_distance_m": 0.3110833267895337
+  },
+  {
+    "step": 588,
+    "success": false,
+    "reward": 0.03160451296210819,
+    "ball_height_m": -0.06035983830106238,
+    "palm_to_ball_distance_m": 0.31604512962108194
+  },
+  {
+    "step": 589,
+    "success": false,
+    "reward": 0.03217705194046138,
+    "ball_height_m": -0.07389815506057096,
+    "palm_to_ball_distance_m": 0.32177051940461376
+  },
+  {
+    "step": 590,
+    "success": false,
+    "reward": 0.03283458404899952,
+    "ball_height_m": -0.08841148601767192,
+    "palm_to_ball_distance_m": 0.32834584048999516
+  },
+  {
+    "step": 591,
+    "success": false,
+    "reward": 0.03358670289578299,
+    "ball_height_m": -0.10389983117236529,
+    "palm_to_ball_distance_m": 0.3358670289578299
+  },
+  {
+    "step": 592,
+    "success": false,
+    "reward": 0.034443646888285245,
+    "ball_height_m": -0.12036319052465103,
+    "palm_to_ball_distance_m": 0.34443646888285245
+  },
+  {
+    "step": 593,
+    "success": false,
+    "reward": 0.03541556045269195,
+    "ball_height_m": -0.13780156407452918,
+    "palm_to_ball_distance_m": 0.3541556045269195
+  },
+  {
+    "step": 594,
+    "success": false,
+    "reward": 0.036511776446634496,
+    "ball_height_m": -0.1562149518219997,
+    "palm_to_ball_distance_m": 0.3651177644663449
+  },
+  {
+    "step": 595,
+    "success": false,
+    "reward": 0.03774026749183315,
+    "ball_height_m": -0.17560335376706265,
+    "palm_to_ball_distance_m": 0.3774026749183315
+  },
+  {
+    "step": 596,
+    "success": false,
+    "reward": 0.03910731541659422,
+    "ball_height_m": -0.19596676990971798,
+    "palm_to_ball_distance_m": 0.3910731541659422
+  },
+  {
+    "step": 597,
+    "success": false,
+    "reward": 0.040617425283690556,
+    "ball_height_m": -0.21730520024996566,
+    "palm_to_ball_distance_m": 0.4061742528369055
+  },
+  {
+    "step": 598,
+    "success": false,
+    "reward": 0.042273383805685565,
+    "ball_height_m": -0.23961864478780578,
+    "palm_to_ball_distance_m": 0.4227338380568556
+  },
+  {
+    "step": 599,
+    "success": false,
+    "reward": 0.044076400583396874,
+    "ball_height_m": -0.2629071035232382,
+    "palm_to_ball_distance_m": 0.4407640058339687
+  },
+  {
+    "step": 600,
+    "success": false,
+    "reward": 0.04602632594188735,
+    "ball_height_m": -0.2871705764562631,
+    "palm_to_ball_distance_m": 0.4602632594188735
+  },
+  {
+    "step": 601,
+    "success": false,
+    "reward": 0.04817696710100906,
+    "ball_height_m": -0.31240906358688036,
+    "palm_to_ball_distance_m": 0.4817696710100906
+  },
+  {
+    "step": 602,
+    "success": false,
+    "reward": 0.050528385665271326,
+    "ball_height_m": -0.3386225649150899,
+    "palm_to_ball_distance_m": 0.5052838566527132
+  },
+  {
+    "step": 603,
+    "success": false,
+    "reward": 0.05304364733014329,
+    "ball_height_m": -0.36581108044089194,
+    "palm_to_ball_distance_m": 0.5304364733014328
+  },
+  {
+    "step": 604,
+    "success": false,
+    "reward": 0.05571639020211995,
+    "ball_height_m": -0.39397461016428637,
+    "palm_to_ball_distance_m": 0.5571639020211995
+  },
+  {
+    "step": 605,
+    "success": false,
+    "reward": 0.05858165062272913,
+    "ball_height_m": -0.42311315408527306,
+    "palm_to_ball_distance_m": 0.5858165062272913
+  },
+  {
+    "step": 606,
+    "success": false,
+    "reward": 0.06162532591232678,
+    "ball_height_m": -0.45322671220385224,
+    "palm_to_ball_distance_m": 0.6162532591232678
+  },
+  {
+    "step": 607,
+    "success": false,
+    "reward": 0.06480963597198386,
+    "ball_height_m": -0.4843152845200238,
+    "palm_to_ball_distance_m": 0.6480963597198386
+  },
+  {
+    "step": 608,
+    "success": false,
+    "reward": 0.06812091643385072,
+    "ball_height_m": -0.5163788710337878,
+    "palm_to_ball_distance_m": 0.6812091643385072
+  },
+  {
+    "step": 609,
+    "success": false,
+    "reward": 0.07155970315156748,
+    "ball_height_m": -0.549417471745144,
+    "palm_to_ball_distance_m": 0.7155970315156748
+  },
+  {
+    "step": 610,
+    "success": false,
+    "reward": 0.07512906192569978,
+    "ball_height_m": -0.5834310866540927,
+    "palm_to_ball_distance_m": 0.7512906192569977
+  },
+  {
+    "step": 611,
+    "success": false,
+    "reward": 0.0788301210344476,
+    "ball_height_m": -0.6184197157606337,
+    "palm_to_ball_distance_m": 0.788301210344476
+  },
+  {
+    "step": 612,
+    "success": false,
+    "reward": 0.08266209718849066,
+    "ball_height_m": -0.6543833590647672,
+    "palm_to_ball_distance_m": 0.8266209718849066
+  },
+  {
+    "step": 613,
+    "success": false,
+    "reward": 0.08662269773223268,
+    "ball_height_m": -0.6913220165664931,
+    "palm_to_ball_distance_m": 0.8662269773223267
+  },
+  {
+    "step": 614,
+    "success": false,
+    "reward": 0.09070649801636153,
+    "ball_height_m": -0.7292356882658112,
+    "palm_to_ball_distance_m": 0.9070649801636153
+  },
+  {
+    "step": 615,
+    "success": false,
+    "reward": 0.09485064910957025,
+    "ball_height_m": -0.7681243741627218,
+    "palm_to_ball_distance_m": 0.9485064910957025
+  },
+  {
+    "step": 616,
+    "success": false,
+    "reward": 0.09897888104355526,
+    "ball_height_m": -0.8079880742572247,
+    "palm_to_ball_distance_m": 0.9897888104355526
+  },
+  {
+    "step": 617,
+    "success": false,
+    "reward": 0.10306353520962208,
+    "ball_height_m": -0.8488267885493201,
+    "palm_to_ball_distance_m": 1.0306353520962208
+  },
+  {
+    "step": 618,
+    "success": false,
+    "reward": 0.10710868207282515,
+    "ball_height_m": -0.8906405170390079,
+    "palm_to_ball_distance_m": 1.0710868207282513
+  },
+  {
+    "step": 619,
+    "success": false,
+    "reward": 0.11113616160044129,
+    "ball_height_m": -0.933429259726288,
+    "palm_to_ball_distance_m": 1.1113616160044129
+  },
+  {
+    "step": 620,
+    "success": false,
+    "reward": 0.11500273675695612,
+    "ball_height_m": -0.9753279078964473,
+    "palm_to_ball_distance_m": 1.1500273675695611
+  },
+  {
+    "step": 621,
+    "success": false,
+    "reward": 0.1165937730321876,
+    "ball_height_m": -0.9918217340853731,
+    "palm_to_ball_distance_m": 1.1659377303218759
+  },
+  {
+    "step": 622,
+    "success": false,
+    "reward": 0.11680924084084965,
+    "ball_height_m": -0.9925976349846571,
+    "palm_to_ball_distance_m": 1.1680924084084965
+  },
+  {
+    "step": 623,
+    "success": false,
+    "reward": 0.11658444874458834,
+    "ball_height_m": -0.9882024439792646,
+    "palm_to_ball_distance_m": 1.1658444874458833
+  },
+  {
+    "step": 624,
+    "success": false,
+    "reward": 0.11632050706733395,
+    "ball_height_m": -0.982878222850739,
+    "palm_to_ball_distance_m": 1.1632050706733394
+  },
+  {
+    "step": 625,
+    "success": false,
+    "reward": 0.11615782374593885,
+    "ball_height_m": -0.9781262799032725,
+    "palm_to_ball_distance_m": 1.1615782374593884
+  },
+  {
+    "step": 626,
+    "success": false,
+    "reward": 0.11612236058610147,
+    "ball_height_m": -0.9742651779583057,
+    "palm_to_ball_distance_m": 1.1612236058610146
+  },
+  {
+    "step": 627,
+    "success": false,
+    "reward": 0.11621241381607113,
+    "ball_height_m": -0.9712968160899987,
+    "palm_to_ball_distance_m": 1.1621241381607113
+  },
+  {
+    "step": 628,
+    "success": false,
+    "reward": 0.11642312708338472,
+    "ball_height_m": -0.9691687196193234,
+    "palm_to_ball_distance_m": 1.1642312708338471
+  },
+  {
+    "step": 629,
+    "success": false,
+    "reward": 0.11673888287368661,
+    "ball_height_m": -0.9677275813229539,
+    "palm_to_ball_distance_m": 1.1673888287368661
+  },
+  {
+    "step": 630,
+    "success": false,
+    "reward": 0.11713555039691577,
+    "ball_height_m": -0.9667509208102173,
+    "palm_to_ball_distance_m": 1.1713555039691577
+  },
+  {
+    "step": 631,
+    "success": false,
+    "reward": 0.11759623507100658,
+    "ball_height_m": -0.9660854504614941,
+    "palm_to_ball_distance_m": 1.1759623507100658
+  },
+  {
+    "step": 632,
+    "success": false,
+    "reward": 0.11810964443697712,
+    "ball_height_m": -0.9656303123771065,
+    "palm_to_ball_distance_m": 1.1810964443697711
+  },
+  {
+    "step": 633,
+    "success": false,
+    "reward": 0.11866787977948026,
+    "ball_height_m": -0.9653183133618891,
+    "palm_to_ball_distance_m": 1.1866787977948026
+  },
+  {
+    "step": 634,
+    "success": false,
+    "reward": 0.11926532561707232,
+    "ball_height_m": -0.9651066089771668,
+    "palm_to_ball_distance_m": 1.192653256170723
+  },
+  {
+    "step": 635,
+    "success": false,
+    "reward": 0.11989779251782418,
+    "ball_height_m": -0.9649684521686083,
+    "palm_to_ball_distance_m": 1.1989779251782418
+  },
+  {
+    "step": 636,
+    "success": false,
+    "reward": 0.12056153058058612,
+    "ball_height_m": -0.9648828980186316,
+    "palm_to_ball_distance_m": 1.2056153058058612
+  },
+  {
+    "step": 637,
+    "success": false,
+    "reward": 0.12125293438385104,
+    "ball_height_m": -0.9648320526063483,
+    "palm_to_ball_distance_m": 1.2125293438385103
+  },
+  {
+    "step": 638,
+    "success": false,
+    "reward": 0.12196867276483654,
+    "ball_height_m": -0.9648026201323486,
+    "palm_to_ball_distance_m": 1.2196867276483654
+  },
+  {
+    "step": 639,
+    "success": false,
+    "reward": 0.12270570242352952,
+    "ball_height_m": -0.9647858971540798,
+    "palm_to_ball_distance_m": 1.2270570242352952
+  },
+  {
+    "step": 640,
+    "success": false,
+    "reward": 0.12346116590147321,
+    "ball_height_m": -0.964776535848704,
+    "palm_to_ball_distance_m": 1.234611659014732
+  },
+  {
+    "step": 641,
+    "success": false,
+    "reward": 0.12426546959383851,
+    "ball_height_m": -0.9647713651211001,
+    "palm_to_ball_distance_m": 1.242654695938385
+  },
+  {
+    "step": 642,
+    "success": false,
+    "reward": 0.12512509870173028,
+    "ball_height_m": -0.9647685466292414,
+    "palm_to_ball_distance_m": 1.2512509870173028
+  },
+  {
+    "step": 643,
+    "success": false,
+    "reward": 0.1259858449165254,
+    "ball_height_m": -0.9647670318317298,
+    "palm_to_ball_distance_m": 1.2598584491652538
+  },
+  {
+    "step": 644,
+    "success": false,
+    "reward": 0.1268144156458632,
+    "ball_height_m": -0.9647662305415213,
+    "palm_to_ball_distance_m": 1.268144156458632
+  },
+  {
+    "step": 645,
+    "success": false,
+    "reward": 0.12759583843991743,
+    "ball_height_m": -0.9647658145545479,
+    "palm_to_ball_distance_m": 1.2759583843991742
+  },
+  {
+    "step": 646,
+    "success": false,
+    "reward": 0.12832900833445038,
+    "ball_height_m": -0.9647656035392358,
+    "palm_to_ball_distance_m": 1.2832900833445038
+  },
+  {
+    "step": 647,
+    "success": false,
+    "reward": 0.12902226924219667,
+    "ball_height_m": -0.9647655139073518,
+    "palm_to_ball_distance_m": 1.2902226924219666
+  },
+  {
+    "step": 648,
+    "success": false,
+    "reward": 0.12968944223457526,
+    "ball_height_m": -0.9647654863760813,
+    "palm_to_ball_distance_m": 1.2968944223457526
+  },
+  {
+    "step": 649,
+    "success": false,
+    "reward": 0.13034649622568306,
+    "ball_height_m": -0.964765477932736,
+    "palm_to_ball_distance_m": 1.3034649622568306
+  },
+  {
+    "step": 650,
+    "success": false,
+    "reward": 0.13100893936609767,
+    "ball_height_m": -0.964765475343314,
+    "palm_to_ball_distance_m": 1.3100893936609765
+  },
+  {
+    "step": 651,
+    "success": false,
+    "reward": 0.13169006790981183,
+    "ball_height_m": -0.9647654745491849,
+    "palm_to_ball_distance_m": 1.3169006790981181
+  },
+  {
+    "step": 652,
+    "success": false,
+    "reward": 0.1323998510167213,
+    "ball_height_m": -0.9647654743056397,
+    "palm_to_ball_distance_m": 1.323998510167213
+  },
+  {
+    "step": 653,
+    "success": false,
+    "reward": 0.13314521012678682,
+    "ball_height_m": -0.9647654742309488,
+    "palm_to_ball_distance_m": 1.3314521012678682
+  },
+  {
+    "step": 654,
+    "success": false,
+    "reward": 0.1339299960148115,
+    "ball_height_m": -0.9647654742080425,
+    "palm_to_ball_distance_m": 1.339299960148115
+  },
+  {
+    "step": 655,
+    "success": false,
+    "reward": 0.1347547857959933,
+    "ball_height_m": -0.9647654742010174,
+    "palm_to_ball_distance_m": 1.3475478579599327
+  },
+  {
+    "step": 656,
+    "success": false,
+    "reward": 0.1356173481228377,
+    "ball_height_m": -0.964765474198863,
+    "palm_to_ball_distance_m": 1.356173481228377
+  },
+  {
+    "step": 657,
+    "success": false,
+    "reward": 0.13651354010816372,
+    "ball_height_m": -0.9647654741982024,
+    "palm_to_ball_distance_m": 1.3651354010816372
+  },
+  {
+    "step": 658,
+    "success": false,
+    "reward": 0.13743821755095262,
+    "ball_height_m": -0.9647654741979997,
+    "palm_to_ball_distance_m": 1.374382175509526
+  },
+  {
+    "step": 659,
+    "success": false,
+    "reward": 0.138385931572506,
+    "ball_height_m": -0.9647654741979376,
+    "palm_to_ball_distance_m": 1.38385931572506
+  },
+  {
+    "step": 660,
+    "success": false,
+    "reward": 0.1393513074728575,
+    "ball_height_m": -0.9647654741979186,
+    "palm_to_ball_distance_m": 1.393513074728575
+  },
+  {
+    "step": 661,
+    "success": false,
+    "reward": 0.14034253137967587,
+    "ball_height_m": -0.9647654741979127,
+    "palm_to_ball_distance_m": 1.4034253137967585
+  },
+  {
+    "step": 662,
+    "success": false,
+    "reward": 0.1413641253390013,
+    "ball_height_m": -0.9647654741979109,
+    "palm_to_ball_distance_m": 1.413641253390013
+  },
+  {
+    "step": 663,
+    "success": false,
+    "reward": 0.14240848399204545,
+    "ball_height_m": -0.9647654741979103,
+    "palm_to_ball_distance_m": 1.4240848399204544
+  },
+  {
+    "step": 664,
+    "success": false,
+    "reward": 0.14347123055316277,
+    "ball_height_m": -0.9647654741979103,
+    "palm_to_ball_distance_m": 1.4347123055316275
+  },
+  {
+    "step": 665,
+    "success": false,
+    "reward": 0.14455397981357943,
+    "ball_height_m": -0.9647654741979103,
+    "palm_to_ball_distance_m": 1.4455397981357943
+  },
+  {
+    "step": 666,
+    "success": false,
+    "reward": 0.14564824008349644,
+    "ball_height_m": -0.9647654741979103,
+    "palm_to_ball_distance_m": 1.4564824008349644
+  },
+  {
+    "step": 667,
+    "success": false,
+    "reward": 0.14669142961709064,
+    "ball_height_m": -0.9647654741979103,
+    "palm_to_ball_distance_m": 1.4669142961709063
+  },
+  {
+    "step": 668,
+    "success": false,
+    "reward": 0.14760524968702263,
+    "ball_height_m": -0.9647654741979103,
+    "palm_to_ball_distance_m": 1.4760524968702262
+  },
+  {
+    "step": 669,
+    "success": false,
+    "reward": 0.14836340143910862,
+    "ball_height_m": -0.9647654741979103,
+    "palm_to_ball_distance_m": 1.483634014391086
+  },
+  {
+    "step": 670,
+    "success": false,
+    "reward": 0.14897948246949097,
+    "ball_height_m": -0.9647654741979103,
+    "palm_to_ball_distance_m": 1.4897948246949095
+  },
+  {
+    "step": 671,
+    "success": false,
+    "reward": 0.14951119050359787,
+    "ball_height_m": -0.9647654741979103,
+    "palm_to_ball_distance_m": 1.4951119050359787
+  },
+  {
+    "step": 672,
+    "success": false,
+    "reward": 0.14995102573212243,
+    "ball_height_m": -0.9647650613785739,
+    "palm_to_ball_distance_m": 1.4995102573212242
+  },
+  {
+    "step": 673,
+    "success": false,
+    "reward": 0.15033830361764017,
+    "ball_height_m": -0.9647588513060478,
+    "palm_to_ball_distance_m": 1.5033830361764016
+  },
+  {
+    "step": 674,
+    "success": false,
+    "reward": 0.15070849729206492,
+    "ball_height_m": -0.9647415260608369,
+    "palm_to_ball_distance_m": 1.507084972920649
+  },
+  {
+    "step": 675,
+    "success": false,
+    "reward": 0.1510792386906891,
+    "ball_height_m": -0.9647047501412318,
+    "palm_to_ball_distance_m": 1.5107923869068909
+  },
+  {
+    "step": 676,
+    "success": false,
+    "reward": 0.15146449214829583,
+    "ball_height_m": -0.9646131461397561,
+    "palm_to_ball_distance_m": 1.514644921482958
+  },
+  {
+    "step": 677,
+    "success": false,
+    "reward": 0.1518643339763817,
+    "ball_height_m": -0.9644839529128851,
+    "palm_to_ball_distance_m": 1.5186433397638168
+  },
+  {
+    "step": 678,
+    "success": false,
+    "reward": 0.15229030838147758,
+    "ball_height_m": -0.964528355667421,
+    "palm_to_ball_distance_m": 1.5229030838147757
+  },
+  {
+    "step": 679,
+    "success": false,
+    "reward": 0.15272330909519047,
+    "ball_height_m": -0.9645476402736937,
+    "palm_to_ball_distance_m": 1.5272330909519045
+  },
+  {
+    "step": 680,
+    "success": false,
+    "reward": 0.1531565695664337,
+    "ball_height_m": -0.9645194801799779,
+    "palm_to_ball_distance_m": 1.5315656956643369
+  },
+  {
+    "step": 681,
+    "success": false,
+    "reward": 0.15356847356366077,
+    "ball_height_m": -0.9645336171205604,
+    "palm_to_ball_distance_m": 1.5356847356366077
+  },
+  {
+    "step": 682,
+    "success": false,
+    "reward": 0.153926218344427,
+    "ball_height_m": -0.9645971119407029,
+    "palm_to_ball_distance_m": 1.53926218344427
+  },
+  {
+    "step": 683,
+    "success": false,
+    "reward": 0.1542312270838122,
+    "ball_height_m": -0.9646475557163179,
+    "palm_to_ball_distance_m": 1.542312270838122
+  },
+  {
+    "step": 684,
+    "success": false,
+    "reward": 0.15448985495361653,
+    "ball_height_m": -0.9646852005496845,
+    "palm_to_ball_distance_m": 1.5448985495361651
+  },
+  {
+    "step": 685,
+    "success": false,
+    "reward": 0.15470680778739856,
+    "ball_height_m": -0.9647120818197342,
+    "palm_to_ball_distance_m": 1.5470680778739856
+  },
+  {
+    "step": 686,
+    "success": false,
+    "reward": 0.1548855234221107,
+    "ball_height_m": -0.9647306378271144,
+    "palm_to_ball_distance_m": 1.548855234221107
+  },
+  {
+    "step": 687,
+    "success": false,
+    "reward": 0.1550284559165089,
+    "ball_height_m": -0.9647431008099854,
+    "palm_to_ball_distance_m": 1.550284559165089
+  },
+  {
+    "step": 688,
+    "success": false,
+    "reward": 0.15513734689496964,
+    "ball_height_m": -0.9647512824453475,
+    "palm_to_ball_distance_m": 1.5513734689496963
+  },
+  {
+    "step": 689,
+    "success": false,
+    "reward": 0.15521349440980858,
+    "ball_height_m": -0.9647565501316309,
+    "palm_to_ball_distance_m": 1.5521349440980856
+  },
+  {
+    "step": 690,
+    "success": false,
+    "reward": 0.15525798262617663,
+    "ball_height_m": -0.9647598852174738,
+    "palm_to_ball_distance_m": 1.552579826261766
+  },
+  {
+    "step": 691,
+    "success": false,
+    "reward": 0.15527186048198655,
+    "ball_height_m": -0.9647619658737218,
+    "palm_to_ball_distance_m": 1.5527186048198653
+  },
+  {
+    "step": 692,
+    "success": false,
+    "reward": 0.155256258433194,
+    "ball_height_m": -0.9647632470449674,
+    "palm_to_ball_distance_m": 1.5525625843319397
+  },
+  {
+    "step": 693,
+    "success": false,
+    "reward": 0.15521246204712102,
+    "ball_height_m": -0.9647640266623172,
+    "palm_to_ball_distance_m": 1.5521246204712102
+  },
+  {
+    "step": 694,
+    "success": false,
+    "reward": 0.1551419244860054,
+    "ball_height_m": -0.9647644959636548,
+    "palm_to_ball_distance_m": 1.5514192448600537
+  },
+  {
+    "step": 695,
+    "success": false,
+    "reward": 0.1550462097482434,
+    "ball_height_m": -0.9647647756312554,
+    "palm_to_ball_distance_m": 1.550462097482434
+  },
+  {
+    "step": 696,
+    "success": false,
+    "reward": 0.15492704731801618,
+    "ball_height_m": -0.964764940708737,
+    "palm_to_ball_distance_m": 1.5492704731801616
+  },
+  {
+    "step": 697,
+    "success": false,
+    "reward": 0.15478634019328677,
+    "ball_height_m": -0.96476502964709,
+    "palm_to_ball_distance_m": 1.5478634019328676
+  },
+  {
+    "step": 698,
+    "success": false,
+    "reward": 0.15462608760844443,
+    "ball_height_m": -0.9647650591830145,
+    "palm_to_ball_distance_m": 1.546260876084444
+  },
+  {
+    "step": 699,
+    "success": false,
+    "reward": 0.15444834839315202,
+    "ball_height_m": -0.964765068241151,
+    "palm_to_ball_distance_m": 1.5444834839315202
+  },
+  {
+    "step": 700,
+    "success": false,
+    "reward": 0.15425521327390604,
+    "ball_height_m": -0.9647650710191183,
+    "palm_to_ball_distance_m": 1.5425521327390603
+  },
+  {
+    "step": 701,
+    "success": false,
+    "reward": 0.15404305589467276,
+    "ball_height_m": -0.9647650718710711,
+    "palm_to_ball_distance_m": 1.5404305589467275
+  },
+  {
+    "step": 702,
+    "success": false,
+    "reward": 0.15380735658722203,
+    "ball_height_m": -0.9647650721323496,
+    "palm_to_ball_distance_m": 1.5380735658722202
+  },
+  {
+    "step": 703,
+    "success": false,
+    "reward": 0.15355229561680106,
+    "ball_height_m": -0.9647650722124791,
+    "palm_to_ball_distance_m": 1.5355229561680106
+  },
+  {
+    "step": 704,
+    "success": false,
+    "reward": 0.1532816711245843,
+    "ball_height_m": -0.9647650722370534,
+    "palm_to_ball_distance_m": 1.5328167112458428
+  },
+  {
+    "step": 705,
+    "success": false,
+    "reward": 0.15299900347928755,
+    "ball_height_m": -0.96476507224459,
+    "palm_to_ball_distance_m": 1.5299900347928754
+  },
+  {
+    "step": 706,
+    "success": false,
+    "reward": 0.15270751147759498,
+    "ball_height_m": -0.9647650722469014,
+    "palm_to_ball_distance_m": 1.5270751147759496
+  },
+  {
+    "step": 707,
+    "success": false,
+    "reward": 0.15241011560662213,
+    "ball_height_m": -0.9647650722476103,
+    "palm_to_ball_distance_m": 1.5241011560662212
+  },
+  {
+    "step": 708,
+    "success": false,
+    "reward": 0.15210945539778897,
+    "ball_height_m": -0.9647650722478278,
+    "palm_to_ball_distance_m": 1.5210945539778895
+  },
+  {
+    "step": 709,
+    "success": false,
+    "reward": 0.15180791393969778,
+    "ball_height_m": -0.9647650722478945,
+    "palm_to_ball_distance_m": 1.5180791393969777
+  },
+  {
+    "step": 710,
+    "success": false,
+    "reward": 0.15150764592499205,
+    "ball_height_m": -0.9647650722479151,
+    "palm_to_ball_distance_m": 1.5150764592499204
+  },
+  {
+    "step": 711,
+    "success": false,
+    "reward": 0.15121059964238004,
+    "ball_height_m": -0.9647650722479214,
+    "palm_to_ball_distance_m": 1.5121059964238002
+  },
+  {
+    "step": 712,
+    "success": false,
+    "reward": 0.15091853426699509,
+    "ball_height_m": -0.9647650722479233,
+    "palm_to_ball_distance_m": 1.5091853426699506
+  },
+  {
+    "step": 713,
+    "success": false,
+    "reward": 0.15063303256393637,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5063303256393636
+  },
+  {
+    "step": 714,
+    "success": false,
+    "reward": 0.15035550974485865,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5035550974485863
+  },
+  {
+    "step": 715,
+    "success": false,
+    "reward": 0.15008721812570783,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5008721812570782
+  },
+  {
+    "step": 716,
+    "success": false,
+    "reward": 0.14982925104365716,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4982925104365714
+  },
+  {
+    "step": 717,
+    "success": false,
+    "reward": 0.14958254772412855,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4958254772412853
+  },
+  {
+    "step": 718,
+    "success": false,
+    "reward": 0.14934789783682684,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4934789783682683
+  },
+  {
+    "step": 719,
+    "success": false,
+    "reward": 0.14912594712056007,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4912594712056007
+  },
+  {
+    "step": 720,
+    "success": false,
+    "reward": 0.1489172042718394,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.489172042718394
+  },
+  {
+    "step": 721,
+    "success": false,
+    "reward": 0.14875763738169884,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4875763738169883
+  },
+  {
+    "step": 722,
+    "success": false,
+    "reward": 0.14868425829493256,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4868425829493257
+  },
+  {
+    "step": 723,
+    "success": false,
+    "reward": 0.14868377100042,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4868377100041998
+  },
+  {
+    "step": 724,
+    "success": false,
+    "reward": 0.14874551055296167,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4874551055296166
+  },
+  {
+    "step": 725,
+    "success": false,
+    "reward": 0.14886011610743718,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4886011610743717
+  },
+  {
+    "step": 726,
+    "success": false,
+    "reward": 0.1490197156738654,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.490197156738654
+  },
+  {
+    "step": 727,
+    "success": false,
+    "reward": 0.14921792169401038,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4921792169401038
+  },
+  {
+    "step": 728,
+    "success": false,
+    "reward": 0.14944971687694686,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4944971687694686
+  },
+  {
+    "step": 729,
+    "success": false,
+    "reward": 0.14971143430016617,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4971143430016618
+  },
+  {
+    "step": 730,
+    "success": false,
+    "reward": 0.15000106004094754,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5000106004094753
+  },
+  {
+    "step": 731,
+    "success": false,
+    "reward": 0.15031013033724766,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5031013033724765
+  },
+  {
+    "step": 732,
+    "success": false,
+    "reward": 0.1506260808497714,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5062608084977138
+  },
+  {
+    "step": 733,
+    "success": false,
+    "reward": 0.15094210302668173,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5094210302668172
+  },
+  {
+    "step": 734,
+    "success": false,
+    "reward": 0.15125758489723007,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5125758489723007
+  },
+  {
+    "step": 735,
+    "success": false,
+    "reward": 0.15157681707804094,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5157681707804094
+  },
+  {
+    "step": 736,
+    "success": false,
+    "reward": 0.15190675961976818,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5190675961976816
+  },
+  {
+    "step": 737,
+    "success": false,
+    "reward": 0.15224382791496793,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.522438279149679
+  },
+  {
+    "step": 738,
+    "success": false,
+    "reward": 0.15259550455619186,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5259550455619186
+  },
+  {
+    "step": 739,
+    "success": false,
+    "reward": 0.15296588946218753,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5296588946218752
+  },
+  {
+    "step": 740,
+    "success": false,
+    "reward": 0.15335400824216014,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5335400824216012
+  },
+  {
+    "step": 741,
+    "success": false,
+    "reward": 0.153710166037617,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5371016603761698
+  },
+  {
+    "step": 742,
+    "success": false,
+    "reward": 0.15396807471852758,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5396807471852756
+  },
+  {
+    "step": 743,
+    "success": false,
+    "reward": 0.1541482531582255,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.541482531582255
+  },
+  {
+    "step": 744,
+    "success": false,
+    "reward": 0.15426396183437666,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5426396183437665
+  },
+  {
+    "step": 745,
+    "success": false,
+    "reward": 0.15432625907669525,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5432625907669524
+  },
+  {
+    "step": 746,
+    "success": false,
+    "reward": 0.15434355217274343,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5434355217274343
+  },
+  {
+    "step": 747,
+    "success": false,
+    "reward": 0.15432177883621345,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5432177883621343
+  },
+  {
+    "step": 748,
+    "success": false,
+    "reward": 0.1542651557074624,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.542651557074624
+  },
+  {
+    "step": 749,
+    "success": false,
+    "reward": 0.15417671334620986,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5417671334620984
+  },
+  {
+    "step": 750,
+    "success": false,
+    "reward": 0.15405872382856295,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5405872382856294
+  },
+  {
+    "step": 751,
+    "success": false,
+    "reward": 0.15391304648168924,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5391304648168924
+  },
+  {
+    "step": 752,
+    "success": false,
+    "reward": 0.15374137297659382,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.537413729765938
+  },
+  {
+    "step": 753,
+    "success": false,
+    "reward": 0.1535453801135421,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5354538011354208
+  },
+  {
+    "step": 754,
+    "success": false,
+    "reward": 0.15332681499138384,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5332681499138383
+  },
+  {
+    "step": 755,
+    "success": false,
+    "reward": 0.15308751130975073,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5308751130975071
+  },
+  {
+    "step": 756,
+    "success": false,
+    "reward": 0.15282940599472117,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5282940599472117
+  },
+  {
+    "step": 757,
+    "success": false,
+    "reward": 0.15255452115531132,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.525545211553113
+  },
+  {
+    "step": 758,
+    "success": false,
+    "reward": 0.15226493621135412,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.522649362113541
+  },
+  {
+    "step": 759,
+    "success": false,
+    "reward": 0.15196276926408403,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5196276926408403
+  },
+  {
+    "step": 760,
+    "success": false,
+    "reward": 0.15165021174219773,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.516502117421977
+  },
+  {
+    "step": 761,
+    "success": false,
+    "reward": 0.15132946010619175,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5132946010619175
+  },
+  {
+    "step": 762,
+    "success": false,
+    "reward": 0.15100268909376702,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.51002689093767
+  },
+  {
+    "step": 763,
+    "success": false,
+    "reward": 0.15067203474761992,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.506720347476199
+  },
+  {
+    "step": 764,
+    "success": false,
+    "reward": 0.15033957609924933,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5033957609924933
+  },
+  {
+    "step": 765,
+    "success": false,
+    "reward": 0.15000731986140914,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.5000731986140912
+  },
+  {
+    "step": 766,
+    "success": false,
+    "reward": 0.14967718691415174,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4967718691415175
+  },
+  {
+    "step": 767,
+    "success": false,
+    "reward": 0.14935099910714808,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4935099910714809
+  },
+  {
+    "step": 768,
+    "success": false,
+    "reward": 0.1490304677904199,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4903046779041988
+  },
+  {
+    "step": 769,
+    "success": false,
+    "reward": 0.1487171850252933,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.487171850252933
+  },
+  {
+    "step": 770,
+    "success": false,
+    "reward": 0.1484126165494821,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.484126165494821
+  },
+  {
+    "step": 771,
+    "success": false,
+    "reward": 0.14811809373022986,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4811809373022984
+  },
+  {
+    "step": 772,
+    "success": false,
+    "reward": 0.14783481099521104,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4783481099521103
+  },
+  {
+    "step": 773,
+    "success": false,
+    "reward": 0.14756382379082222,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4756382379082222
+  },
+  {
+    "step": 774,
+    "success": false,
+    "reward": 0.14730614078050475,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4730614078050475
+  },
+  {
+    "step": 775,
+    "success": false,
+    "reward": 0.14706254407739294,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4706254407739294
+  },
+  {
+    "step": 776,
+    "success": false,
+    "reward": 0.14683239949803262,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4683239949803262
+  },
+  {
+    "step": 777,
+    "success": false,
+    "reward": 0.14661507004372196,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4661507004372194
+  },
+  {
+    "step": 778,
+    "success": false,
+    "reward": 0.14641005236936222,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.4641005236936222
+  },
+  {
+    "step": 779,
+    "success": false,
+    "reward": 0.1462170143194177,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.462170143194177
+  },
+  {
+    "step": 780,
+    "success": false,
+    "reward": 0.14606587163271842,
+    "ball_height_m": -0.964765072247924,
+    "palm_to_ball_distance_m": 1.460658716327184
+  }
+]

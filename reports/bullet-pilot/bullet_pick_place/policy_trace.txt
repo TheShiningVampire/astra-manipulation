@@ -1,0 +1,3218 @@
+=== call_000/input.json ===
+{
+  "observation": {
+    "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+    "step_index": 0,
+    "proprioception": {
+      "joint_positions": [
+        0.0,
+        0.41,
+        0.0,
+        -1.85,
+        0.0,
+        2.26,
+        0.79,
+        0.0,
+        0.0
+      ],
+      "joint_velocities": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "eef_position_world": [
+        0.0384396701101811,
+        -2.194472194883551e-12,
+        0.19740014349589585
+      ],
+      "eef_velocity_world": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "eef_orientation_xyzw": [
+        0.9999973528886573,
+        -0.002300916269285469,
+        1.0229004332220806e-14,
+        4.490803921970418e-12
+      ],
+      "finger_width_m": [
+        0.0
+      ]
+    },
+    "camera_names": [
+      "front",
+      "overhead_oblique"
+    ]
+  },
+  "action_specification": {
+    "spec_version": "pybullet-cartesian-v1",
+    "task": "bullet_pick_place",
+    "names": [
+      "world_delta_x",
+      "world_delta_y",
+      "world_delta_z",
+      "finger_width_delta"
+    ],
+    "dimension": 4,
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "control_dt": 0.04,
+    "position_delta_scale_m": 0.05,
+    "finger_width_delta_scale_m": 0.2,
+    "proprioception_joint_names": [
+      "panda_joint1",
+      "panda_joint2",
+      "panda_joint3",
+      "panda_joint4",
+      "panda_joint5",
+      "panda_joint6",
+      "panda_joint7",
+      "panda_finger_joint1",
+      "panda_finger_joint2"
+    ],
+    "proprioception_joint_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "camera_calibration": {
+      "front": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          0.5081893932869372,
+          -0.6081893595694607,
+          0.70225521882161
+        ],
+        "forward_world": [
+          -0.5792279366118783,
+          0.5792279366118783,
+          -0.5735763825929859
+        ],
+        "up_world": [
+          -0.4055797120533995,
+          0.4055797120533995,
+          0.8191519400389399
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.7071068286895752,
+          -0.4055798351764679,
+          0.5792280435562134,
+          0.0,
+          0.7071068286895752,
+          0.4055798351764679,
+          -0.5792279839515686,
+          0.0,
+          0.0,
+          0.8191521763801575,
+          0.5735764503479004,
+          0.0,
+          0.07071065902709961,
+          -0.12247318029403687,
+          -1.0494349002838135,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      },
+      "overhead_oblique": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          -0.5300548331519999,
+          -0.3011276202743462,
+          1.00932660615546
+        ],
+        "forward_world": [
+          0.4095760920836673,
+          0.2867882279002699,
+          -0.8660253635724346
+        ],
+        "up_world": [
+          0.7094064191861565,
+          0.4967316543903975,
+          0.4999999773622958
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.5735764503479004,
+          0.7094065546989441,
+          -0.40957605838775635,
+          0.0,
+          -0.8191521763801575,
+          0.4967317581176758,
+          -0.2867882251739502,
+          0.0,
+          0.0,
+          0.5000001192092896,
+          0.8660253882408142,
+          0.0,
+          0.05735762417316437,
+          0.02094060182571411,
+          -1.1775600910186768,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      }
+    },
+    "versions": {
+      "panda_gym": "3.0.7",
+      "pybullet": "3.2.7"
+    },
+    "semantics": "Native Panda Cartesian displacement control. Each step commands current measured end-effector XYZ + 0.05*action[:3] meters in WORLD coordinates. +Z goes UP. Downward gripper orientation is held by inverse kinematics, quaternion xyzw=[1,0,0,0]; orientation is not controllable. Target Z is clipped to >=0. Last action (only if present) changes total finger width by 0.2*action meters: POSITIVE OPENS, NEGATIVE CLOSES, ZERO targets current width. Robot joint limits constrain actual opening. Zero XYZ requests current measured pose. Actions are positional increments, not velocities; repeating an action re-applies the increment at each 0.04s control step. Motor dynamics mean measured displacement can differ. Reach has only three actions and a blocked closed gripper; PickAndPlace has four. Magenta target is a visible noncolliding marker; green solid cube is manipulable. The robot measurements and calibrated RGB are the only task sensing.",
+    "command_protocol": "done=true stops IMMEDIATELY and discards the action in that same response: no movement or gripper command is executed. Keep done=false while issuing any motion, including the final approach. Native success terminates the environment automatically. repeat is the count of incremental control steps, so large repeats can overshoot.",
+    "control_budget": {
+      "decision_index": 0,
+      "max_decisions": 40,
+      "remaining_decisions": 40,
+      "remaining_control_steps": 800,
+      "maximum_repeat": 10
+    }
+  },
+  "previous_actions": []
+}
+
+=== call_000/response.json ===
+{
+  "decision": {
+    "action": [
+      -0.8,
+      -0.1,
+      -0.5,
+      1
+    ],
+    "repeat": 4,
+    "done": false
+  },
+  "metadata": {
+    "requested_model": "gpt-6-astra",
+    "resolved_model": null,
+    "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+    "provider": "codex-cli",
+    "usage": {
+      "input_tokens": 11990,
+      "cached_input_tokens": 6912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 725,
+      "reasoning_output_tokens": 687
+    },
+    "latency_seconds": 25.639167525005178,
+    "tool_calls": 0,
+    "request_attempts_for_decision": 1
+  },
+  "image_sha256": {
+    "front": "ae6fcabbb79d63d3bd17e8576adc2c7d1071cd54ee5eaa1b749e41b2539f8143",
+    "overhead_oblique": "ff61bc8d589f7bd3c7433921aada895ae43a459b735ac4f5566022542cfcf286"
+  }
+}
+
+=== call_001/input.json ===
+{
+  "observation": {
+    "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+    "step_index": 4,
+    "proprioception": {
+      "joint_positions": [
+        -0.02479245417942492,
+        0.2990295607814542,
+        -0.008272216147584905,
+        -2.286485189239646,
+        0.0044471736997162194,
+        2.583456683502146,
+        0.7489032175942418,
+        0.03999114179043685,
+        0.03999124022263362
+      ],
+      "joint_velocities": [
+        -0.061414132542881125,
+        -0.14797053709964214,
+        -0.016049048665079522,
+        -1.152964611990788,
+        0.010184877633102487,
+        0.6524220476352974,
+        -0.08232036710968949,
+        0.0004895649629704237,
+        0.0004860853199651499
+      ],
+      "eef_position_world": [
+        -0.06723074789098495,
+        -0.017702666948931398,
+        0.11646239966092518
+      ],
+      "eef_velocity_world": [
+        -0.40090741155459303,
+        -0.029685004751511312,
+        -0.2798273643674901
+      ],
+      "eef_orientation_xyzw": [
+        0.9999997749681829,
+        1.5892258291405618e-05,
+        -0.0006704270740699327,
+        1.8399947062119216e-05
+      ],
+      "finger_width_m": [
+        0.07998238201307047
+      ]
+    },
+    "camera_names": [
+      "front",
+      "overhead_oblique"
+    ]
+  },
+  "action_specification": {
+    "spec_version": "pybullet-cartesian-v1",
+    "task": "bullet_pick_place",
+    "names": [
+      "world_delta_x",
+      "world_delta_y",
+      "world_delta_z",
+      "finger_width_delta"
+    ],
+    "dimension": 4,
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "control_dt": 0.04,
+    "position_delta_scale_m": 0.05,
+    "finger_width_delta_scale_m": 0.2,
+    "proprioception_joint_names": [
+      "panda_joint1",
+      "panda_joint2",
+      "panda_joint3",
+      "panda_joint4",
+      "panda_joint5",
+      "panda_joint6",
+      "panda_joint7",
+      "panda_finger_joint1",
+      "panda_finger_joint2"
+    ],
+    "proprioception_joint_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "camera_calibration": {
+      "front": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          0.5081893932869372,
+          -0.6081893595694607,
+          0.70225521882161
+        ],
+        "forward_world": [
+          -0.5792279366118783,
+          0.5792279366118783,
+          -0.5735763825929859
+        ],
+        "up_world": [
+          -0.4055797120533995,
+          0.4055797120533995,
+          0.8191519400389399
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.7071068286895752,
+          -0.4055798351764679,
+          0.5792280435562134,
+          0.0,
+          0.7071068286895752,
+          0.4055798351764679,
+          -0.5792279839515686,
+          0.0,
+          0.0,
+          0.8191521763801575,
+          0.5735764503479004,
+          0.0,
+          0.07071065902709961,
+          -0.12247318029403687,
+          -1.0494349002838135,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      },
+      "overhead_oblique": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          -0.5300548331519999,
+          -0.3011276202743462,
+          1.00932660615546
+        ],
+        "forward_world": [
+          0.4095760920836673,
+          0.2867882279002699,
+          -0.8660253635724346
+        ],
+        "up_world": [
+          0.7094064191861565,
+          0.4967316543903975,
+          0.4999999773622958
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.5735764503479004,
+          0.7094065546989441,
+          -0.40957605838775635,
+          0.0,
+          -0.8191521763801575,
+          0.4967317581176758,
+          -0.2867882251739502,
+          0.0,
+          0.0,
+          0.5000001192092896,
+          0.8660253882408142,
+          0.0,
+          0.05735762417316437,
+          0.02094060182571411,
+          -1.1775600910186768,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      }
+    },
+    "versions": {
+      "panda_gym": "3.0.7",
+      "pybullet": "3.2.7"
+    },
+    "semantics": "Native Panda Cartesian displacement control. Each step commands current measured end-effector XYZ + 0.05*action[:3] meters in WORLD coordinates. +Z goes UP. Downward gripper orientation is held by inverse kinematics, quaternion xyzw=[1,0,0,0]; orientation is not controllable. Target Z is clipped to >=0. Last action (only if present) changes total finger width by 0.2*action meters: POSITIVE OPENS, NEGATIVE CLOSES, ZERO targets current width. Robot joint limits constrain actual opening. Zero XYZ requests current measured pose. Actions are positional increments, not velocities; repeating an action re-applies the increment at each 0.04s control step. Motor dynamics mean measured displacement can differ. Reach has only three actions and a blocked closed gripper; PickAndPlace has four. Magenta target is a visible noncolliding marker; green solid cube is manipulable. The robot measurements and calibrated RGB are the only task sensing.",
+    "command_protocol": "done=true stops IMMEDIATELY and discards the action in that same response: no movement or gripper command is executed. Keep done=false while issuing any motion, including the final approach. Native success terminates the environment automatically. repeat is the count of incremental control steps, so large repeats can overshoot.",
+    "control_budget": {
+      "decision_index": 1,
+      "max_decisions": 40,
+      "remaining_decisions": 39,
+      "remaining_control_steps": 796,
+      "maximum_repeat": 10
+    }
+  },
+  "previous_actions": [
+    {
+      "action": [
+        -0.8,
+        -0.1,
+        -0.5,
+        1
+      ],
+      "repeat": 4,
+      "done": false
+    }
+  ]
+}
+
+=== call_001/response.json ===
+{
+  "decision": {
+    "action": [
+      -0.9,
+      -0.2,
+      -0.9,
+      0
+    ],
+    "repeat": 2,
+    "done": false
+  },
+  "metadata": {
+    "requested_model": "gpt-6-astra",
+    "resolved_model": null,
+    "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+    "provider": "codex-cli",
+    "usage": {
+      "input_tokens": 12139,
+      "cached_input_tokens": 6912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 387,
+      "reasoning_output_tokens": 349
+    },
+    "latency_seconds": 12.522636544999841,
+    "tool_calls": 0,
+    "request_attempts_for_decision": 1
+  },
+  "image_sha256": {
+    "front": "6a40807e2a94f63243149c353ad0bebdb975f12a44a3a90058e3a51a4d7470e6",
+    "overhead_oblique": "5ad739e603a6b7005c6921ea3025ae4f39a3d741bacddd6115ae573d46ad56e3"
+  }
+}
+
+=== call_002/input.json ===
+{
+  "observation": {
+    "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+    "step_index": 6,
+    "proprioception": {
+      "joint_positions": [
+        -0.05890168393766443,
+        0.380497243739348,
+        -0.012239285520361671,
+        -2.480431118118493,
+        0.012419983629467946,
+        2.846165257150599,
+        0.7027138025074019,
+        0.03999090139278664,
+        0.039991101800848416
+      ],
+      "joint_velocities": [
+        -0.18818402784242524,
+        1.4077645459121577,
+        -0.0011938015318023465,
+        -0.8011558236993325,
+        0.0320914219387772,
+        0.9784953390641908,
+        -0.1845511181613357,
+        5.8028127738152745e-06,
+        -1.08927897947078e-06
+      ],
+      "eef_position_world": [
+        -0.13547740357180954,
+        -0.03413039452882817,
+        0.03795569246452489
+      ],
+      "eef_velocity_world": [
+        -0.6605921769989238,
+        -0.05066994482264958,
+        -0.7890688668906127
+      ],
+      "eef_orientation_xyzw": [
+        0.999981089050592,
+        0.00027602205503685084,
+        -0.006143706100503217,
+        1.5111850325569016e-05
+      ],
+      "finger_width_m": [
+        0.07998200319363505
+      ]
+    },
+    "camera_names": [
+      "front",
+      "overhead_oblique"
+    ]
+  },
+  "action_specification": {
+    "spec_version": "pybullet-cartesian-v1",
+    "task": "bullet_pick_place",
+    "names": [
+      "world_delta_x",
+      "world_delta_y",
+      "world_delta_z",
+      "finger_width_delta"
+    ],
+    "dimension": 4,
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "control_dt": 0.04,
+    "position_delta_scale_m": 0.05,
+    "finger_width_delta_scale_m": 0.2,
+    "proprioception_joint_names": [
+      "panda_joint1",
+      "panda_joint2",
+      "panda_joint3",
+      "panda_joint4",
+      "panda_joint5",
+      "panda_joint6",
+      "panda_joint7",
+      "panda_finger_joint1",
+      "panda_finger_joint2"
+    ],
+    "proprioception_joint_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "camera_calibration": {
+      "front": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          0.5081893932869372,
+          -0.6081893595694607,
+          0.70225521882161
+        ],
+        "forward_world": [
+          -0.5792279366118783,
+          0.5792279366118783,
+          -0.5735763825929859
+        ],
+        "up_world": [
+          -0.4055797120533995,
+          0.4055797120533995,
+          0.8191519400389399
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.7071068286895752,
+          -0.4055798351764679,
+          0.5792280435562134,
+          0.0,
+          0.7071068286895752,
+          0.4055798351764679,
+          -0.5792279839515686,
+          0.0,
+          0.0,
+          0.8191521763801575,
+          0.5735764503479004,
+          0.0,
+          0.07071065902709961,
+          -0.12247318029403687,
+          -1.0494349002838135,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      },
+      "overhead_oblique": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          -0.5300548331519999,
+          -0.3011276202743462,
+          1.00932660615546
+        ],
+        "forward_world": [
+          0.4095760920836673,
+          0.2867882279002699,
+          -0.8660253635724346
+        ],
+        "up_world": [
+          0.7094064191861565,
+          0.4967316543903975,
+          0.4999999773622958
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.5735764503479004,
+          0.7094065546989441,
+          -0.40957605838775635,
+          0.0,
+          -0.8191521763801575,
+          0.4967317581176758,
+          -0.2867882251739502,
+          0.0,
+          0.0,
+          0.5000001192092896,
+          0.8660253882408142,
+          0.0,
+          0.05735762417316437,
+          0.02094060182571411,
+          -1.1775600910186768,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      }
+    },
+    "versions": {
+      "panda_gym": "3.0.7",
+      "pybullet": "3.2.7"
+    },
+    "semantics": "Native Panda Cartesian displacement control. Each step commands current measured end-effector XYZ + 0.05*action[:3] meters in WORLD coordinates. +Z goes UP. Downward gripper orientation is held by inverse kinematics, quaternion xyzw=[1,0,0,0]; orientation is not controllable. Target Z is clipped to >=0. Last action (only if present) changes total finger width by 0.2*action meters: POSITIVE OPENS, NEGATIVE CLOSES, ZERO targets current width. Robot joint limits constrain actual opening. Zero XYZ requests current measured pose. Actions are positional increments, not velocities; repeating an action re-applies the increment at each 0.04s control step. Motor dynamics mean measured displacement can differ. Reach has only three actions and a blocked closed gripper; PickAndPlace has four. Magenta target is a visible noncolliding marker; green solid cube is manipulable. The robot measurements and calibrated RGB are the only task sensing.",
+    "command_protocol": "done=true stops IMMEDIATELY and discards the action in that same response: no movement or gripper command is executed. Keep done=false while issuing any motion, including the final approach. Native success terminates the environment automatically. repeat is the count of incremental control steps, so large repeats can overshoot.",
+    "control_budget": {
+      "decision_index": 2,
+      "max_decisions": 40,
+      "remaining_decisions": 38,
+      "remaining_control_steps": 794,
+      "maximum_repeat": 10
+    }
+  },
+  "previous_actions": [
+    {
+      "action": [
+        -0.8,
+        -0.1,
+        -0.5,
+        1
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        -0.9,
+        -0.2,
+        -0.9,
+        0
+      ],
+      "repeat": 2,
+      "done": false
+    }
+  ]
+}
+
+=== call_002/response.json ===
+{
+  "decision": {
+    "action": [
+      0.3,
+      0.28,
+      -0.32,
+      0
+    ],
+    "repeat": 1,
+    "done": false
+  },
+  "metadata": {
+    "requested_model": "gpt-6-astra",
+    "resolved_model": null,
+    "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+    "provider": "codex-cli",
+    "usage": {
+      "input_tokens": 12162,
+      "cached_input_tokens": 6912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 414,
+      "reasoning_output_tokens": 377
+    },
+    "latency_seconds": 20.68150228500599,
+    "tool_calls": 0,
+    "request_attempts_for_decision": 1
+  },
+  "image_sha256": {
+    "front": "2b3e4152f5b5e4fc208441a9e4e71971e9ac840b047a26397514c27b72bd750e",
+    "overhead_oblique": "28b2499e1ae3a8056e41f6e0654b279bb1db92d46e5d13640192df1aac54edc5"
+  }
+}
+
+=== call_003/input.json ===
+{
+  "observation": {
+    "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+    "step_index": 7,
+    "proprioception": {
+      "joint_positions": [
+        -0.038769593090389035,
+        0.45842240791708244,
+        -0.008028350428784144,
+        -2.4447690903531347,
+        0.014254189984798698,
+        2.8702556985587218,
+        0.7274986615538066,
+        0.039991136948596594,
+        0.03999100888212303
+      ],
+      "joint_velocities": [
+        0.2913664787411313,
+        0.9825011242857564,
+        0.03149906195790879,
+        0.5328913464518888,
+        0.014113228613194832,
+        0.1852398422451314,
+        0.19055335076197943,
+        -1.467709158218698e-07,
+        -4.2884788662464306e-07
+      ],
+      "eef_position_world": [
+        -0.1349883089006308,
+        -0.023235245543182365,
+        0.012049841716197163
+      ],
+      "eef_velocity_world": [
+        0.03430889400376531,
+        0.14914110910229258,
+        -0.30833194382890367
+      ],
+      "eef_orientation_xyzw": [
+        0.9998684540006658,
+        -0.0010790357048303112,
+        -0.016160609364631172,
+        -0.0008631808790183961
+      ],
+      "finger_width_m": [
+        0.07998214583071962
+      ]
+    },
+    "camera_names": [
+      "front",
+      "overhead_oblique"
+    ]
+  },
+  "action_specification": {
+    "spec_version": "pybullet-cartesian-v1",
+    "task": "bullet_pick_place",
+    "names": [
+      "world_delta_x",
+      "world_delta_y",
+      "world_delta_z",
+      "finger_width_delta"
+    ],
+    "dimension": 4,
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "control_dt": 0.04,
+    "position_delta_scale_m": 0.05,
+    "finger_width_delta_scale_m": 0.2,
+    "proprioception_joint_names": [
+      "panda_joint1",
+      "panda_joint2",
+      "panda_joint3",
+      "panda_joint4",
+      "panda_joint5",
+      "panda_joint6",
+      "panda_joint7",
+      "panda_finger_joint1",
+      "panda_finger_joint2"
+    ],
+    "proprioception_joint_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "camera_calibration": {
+      "front": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          0.5081893932869372,
+          -0.6081893595694607,
+          0.70225521882161
+        ],
+        "forward_world": [
+          -0.5792279366118783,
+          0.5792279366118783,
+          -0.5735763825929859
+        ],
+        "up_world": [
+          -0.4055797120533995,
+          0.4055797120533995,
+          0.8191519400389399
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.7071068286895752,
+          -0.4055798351764679,
+          0.5792280435562134,
+          0.0,
+          0.7071068286895752,
+          0.4055798351764679,
+          -0.5792279839515686,
+          0.0,
+          0.0,
+          0.8191521763801575,
+          0.5735764503479004,
+          0.0,
+          0.07071065902709961,
+          -0.12247318029403687,
+          -1.0494349002838135,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      },
+      "overhead_oblique": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          -0.5300548331519999,
+          -0.3011276202743462,
+          1.00932660615546
+        ],
+        "forward_world": [
+          0.4095760920836673,
+          0.2867882279002699,
+          -0.8660253635724346
+        ],
+        "up_world": [
+          0.7094064191861565,
+          0.4967316543903975,
+          0.4999999773622958
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.5735764503479004,
+          0.7094065546989441,
+          -0.40957605838775635,
+          0.0,
+          -0.8191521763801575,
+          0.4967317581176758,
+          -0.2867882251739502,
+          0.0,
+          0.0,
+          0.5000001192092896,
+          0.8660253882408142,
+          0.0,
+          0.05735762417316437,
+          0.02094060182571411,
+          -1.1775600910186768,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      }
+    },
+    "versions": {
+      "panda_gym": "3.0.7",
+      "pybullet": "3.2.7"
+    },
+    "semantics": "Native Panda Cartesian displacement control. Each step commands current measured end-effector XYZ + 0.05*action[:3] meters in WORLD coordinates. +Z goes UP. Downward gripper orientation is held by inverse kinematics, quaternion xyzw=[1,0,0,0]; orientation is not controllable. Target Z is clipped to >=0. Last action (only if present) changes total finger width by 0.2*action meters: POSITIVE OPENS, NEGATIVE CLOSES, ZERO targets current width. Robot joint limits constrain actual opening. Zero XYZ requests current measured pose. Actions are positional increments, not velocities; repeating an action re-applies the increment at each 0.04s control step. Motor dynamics mean measured displacement can differ. Reach has only three actions and a blocked closed gripper; PickAndPlace has four. Magenta target is a visible noncolliding marker; green solid cube is manipulable. The robot measurements and calibrated RGB are the only task sensing.",
+    "command_protocol": "done=true stops IMMEDIATELY and discards the action in that same response: no movement or gripper command is executed. Keep done=false while issuing any motion, including the final approach. Native success terminates the environment automatically. repeat is the count of incremental control steps, so large repeats can overshoot.",
+    "control_budget": {
+      "decision_index": 3,
+      "max_decisions": 40,
+      "remaining_decisions": 37,
+      "remaining_control_steps": 793,
+      "maximum_repeat": 10
+    }
+  },
+  "previous_actions": [
+    {
+      "action": [
+        -0.8,
+        -0.1,
+        -0.5,
+        1
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        -0.9,
+        -0.2,
+        -0.9,
+        0
+      ],
+      "repeat": 2,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.28,
+        -0.32,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    }
+  ]
+}
+
+=== call_003/response.json ===
+{
+  "decision": {
+    "action": [
+      0.3,
+      0.03,
+      0.15,
+      0
+    ],
+    "repeat": 1,
+    "done": false
+  },
+  "metadata": {
+    "requested_model": "gpt-6-astra",
+    "resolved_model": null,
+    "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+    "provider": "codex-cli",
+    "usage": {
+      "input_tokens": 12191,
+      "cached_input_tokens": 6912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 246,
+      "reasoning_output_tokens": 209
+    },
+    "latency_seconds": 11.883583078000811,
+    "tool_calls": 0,
+    "request_attempts_for_decision": 1
+  },
+  "image_sha256": {
+    "front": "7c6a9f12c90b8a4f2fff0f330406b168907b668a075331cc3cfa34c7356db7c6",
+    "overhead_oblique": "ec487ed45447501050c887806ca25fcc6a942f32aaa3b3465f0657c332a6b031"
+  }
+}
+
+=== call_004/input.json ===
+{
+  "observation": {
+    "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+    "step_index": 8,
+    "proprioception": {
+      "joint_positions": [
+        -0.035692198190741285,
+        0.46313091305689,
+        -0.007863629230079367,
+        -2.4275292966940083,
+        0.01359943185351245,
+        2.8772623521073566,
+        0.7297047148663667,
+        0.039991018167037234,
+        0.039991154714580965
+      ],
+      "joint_velocities": [
+        0.023923718934098247,
+        -0.5535347909558219,
+        0.0006124692336419682,
+        0.13917297800146194,
+        -0.0050643974933719665,
+        0.0539972408996447,
+        0.016914308394395304,
+        -4.704112754139162e-05,
+        4.5659763179520805e-05
+      ],
+      "eef_position_world": [
+        -0.12563100690729775,
+        -0.02183035244946477,
+        0.013607805320988875
+      ],
+      "eef_velocity_world": [
+        0.26735403370363175,
+        0.00166442579542009,
+        0.30358123105527796
+      ],
+      "eef_orientation_xyzw": [
+        0.9999724076312753,
+        -0.00011718529652748887,
+        -0.007420122193292835,
+        -0.00033470935686801456
+      ],
+      "finger_width_m": [
+        0.0799821728816182
+      ]
+    },
+    "camera_names": [
+      "front",
+      "overhead_oblique"
+    ]
+  },
+  "action_specification": {
+    "spec_version": "pybullet-cartesian-v1",
+    "task": "bullet_pick_place",
+    "names": [
+      "world_delta_x",
+      "world_delta_y",
+      "world_delta_z",
+      "finger_width_delta"
+    ],
+    "dimension": 4,
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "control_dt": 0.04,
+    "position_delta_scale_m": 0.05,
+    "finger_width_delta_scale_m": 0.2,
+    "proprioception_joint_names": [
+      "panda_joint1",
+      "panda_joint2",
+      "panda_joint3",
+      "panda_joint4",
+      "panda_joint5",
+      "panda_joint6",
+      "panda_joint7",
+      "panda_finger_joint1",
+      "panda_finger_joint2"
+    ],
+    "proprioception_joint_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "camera_calibration": {
+      "front": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          0.5081893932869372,
+          -0.6081893595694607,
+          0.70225521882161
+        ],
+        "forward_world": [
+          -0.5792279366118783,
+          0.5792279366118783,
+          -0.5735763825929859
+        ],
+        "up_world": [
+          -0.4055797120533995,
+          0.4055797120533995,
+          0.8191519400389399
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.7071068286895752,
+          -0.4055798351764679,
+          0.5792280435562134,
+          0.0,
+          0.7071068286895752,
+          0.4055798351764679,
+          -0.5792279839515686,
+          0.0,
+          0.0,
+          0.8191521763801575,
+          0.5735764503479004,
+          0.0,
+          0.07071065902709961,
+          -0.12247318029403687,
+          -1.0494349002838135,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      },
+      "overhead_oblique": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          -0.5300548331519999,
+          -0.3011276202743462,
+          1.00932660615546
+        ],
+        "forward_world": [
+          0.4095760920836673,
+          0.2867882279002699,
+          -0.8660253635724346
+        ],
+        "up_world": [
+          0.7094064191861565,
+          0.4967316543903975,
+          0.4999999773622958
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.5735764503479004,
+          0.7094065546989441,
+          -0.40957605838775635,
+          0.0,
+          -0.8191521763801575,
+          0.4967317581176758,
+          -0.2867882251739502,
+          0.0,
+          0.0,
+          0.5000001192092896,
+          0.8660253882408142,
+          0.0,
+          0.05735762417316437,
+          0.02094060182571411,
+          -1.1775600910186768,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      }
+    },
+    "versions": {
+      "panda_gym": "3.0.7",
+      "pybullet": "3.2.7"
+    },
+    "semantics": "Native Panda Cartesian displacement control. Each step commands current measured end-effector XYZ + 0.05*action[:3] meters in WORLD coordinates. +Z goes UP. Downward gripper orientation is held by inverse kinematics, quaternion xyzw=[1,0,0,0]; orientation is not controllable. Target Z is clipped to >=0. Last action (only if present) changes total finger width by 0.2*action meters: POSITIVE OPENS, NEGATIVE CLOSES, ZERO targets current width. Robot joint limits constrain actual opening. Zero XYZ requests current measured pose. Actions are positional increments, not velocities; repeating an action re-applies the increment at each 0.04s control step. Motor dynamics mean measured displacement can differ. Reach has only three actions and a blocked closed gripper; PickAndPlace has four. Magenta target is a visible noncolliding marker; green solid cube is manipulable. The robot measurements and calibrated RGB are the only task sensing.",
+    "command_protocol": "done=true stops IMMEDIATELY and discards the action in that same response: no movement or gripper command is executed. Keep done=false while issuing any motion, including the final approach. Native success terminates the environment automatically. repeat is the count of incremental control steps, so large repeats can overshoot.",
+    "control_budget": {
+      "decision_index": 4,
+      "max_decisions": 40,
+      "remaining_decisions": 36,
+      "remaining_control_steps": 792,
+      "maximum_repeat": 10
+    }
+  },
+  "previous_actions": [
+    {
+      "action": [
+        -0.8,
+        -0.1,
+        -0.5,
+        1
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        -0.9,
+        -0.2,
+        -0.9,
+        0
+      ],
+      "repeat": 2,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.28,
+        -0.32,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.03,
+        0.15,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    }
+  ]
+}
+
+=== call_004/response.json ===
+{
+  "decision": {
+    "action": [
+      0,
+      0,
+      0,
+      -1
+    ],
+    "repeat": 4,
+    "done": false
+  },
+  "metadata": {
+    "requested_model": "gpt-6-astra",
+    "resolved_model": null,
+    "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+    "provider": "codex-cli",
+    "usage": {
+      "input_tokens": 12232,
+      "cached_input_tokens": 6912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 130,
+      "reasoning_output_tokens": 99
+    },
+    "latency_seconds": 7.211119485000381,
+    "tool_calls": 0,
+    "request_attempts_for_decision": 1
+  },
+  "image_sha256": {
+    "front": "a5904733b7ec8d1b0efb15e0ed23acf6fd6e0aea056086e8e942bff67d30777d",
+    "overhead_oblique": "a5b83c4141df1a4c741239ba1fc79f8e21ec5d3225dae273cd75f1005c097c42"
+  }
+}
+
+=== call_005/input.json ===
+{
+  "observation": {
+    "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+    "step_index": 12,
+    "proprioception": {
+      "joint_positions": [
+        -0.03596092866224141,
+        0.46283666716381544,
+        -0.00743960465768656,
+        -2.434236383599282,
+        0.013852676187595104,
+        2.8968682366793552,
+        0.7293415835972754,
+        0.02551683720253259,
+        0.013782539526861558
+      ],
+      "joint_velocities": [
+        -3.218014616967156e-05,
+        -0.0003994242144189572,
+        0.00016372736939644118,
+        -0.00024819132531729744,
+        0.0003545180511500146,
+        -0.0009348201061964642,
+        -0.0011471487482993207,
+        0.0023500226717152405,
+        0.0007913041008615455
+      ],
+      "eef_position_world": [
+        -0.12462094880666452,
+        -0.021803193081692027,
+        0.014302931691299078
+      ],
+      "eef_velocity_world": [
+        -0.00020803279367052232,
+        7.78757586034853e-05,
+        4.272408821491443e-05
+      ],
+      "eef_orientation_xyzw": [
+        0.9999999962547929,
+        -1.8165667411418349e-06,
+        -8.4012345752776e-05,
+        -2.071328616120281e-05
+      ],
+      "finger_width_m": [
+        0.039299376729394146
+      ]
+    },
+    "camera_names": [
+      "front",
+      "overhead_oblique"
+    ]
+  },
+  "action_specification": {
+    "spec_version": "pybullet-cartesian-v1",
+    "task": "bullet_pick_place",
+    "names": [
+      "world_delta_x",
+      "world_delta_y",
+      "world_delta_z",
+      "finger_width_delta"
+    ],
+    "dimension": 4,
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "control_dt": 0.04,
+    "position_delta_scale_m": 0.05,
+    "finger_width_delta_scale_m": 0.2,
+    "proprioception_joint_names": [
+      "panda_joint1",
+      "panda_joint2",
+      "panda_joint3",
+      "panda_joint4",
+      "panda_joint5",
+      "panda_joint6",
+      "panda_joint7",
+      "panda_finger_joint1",
+      "panda_finger_joint2"
+    ],
+    "proprioception_joint_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "camera_calibration": {
+      "front": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          0.5081893932869372,
+          -0.6081893595694607,
+          0.70225521882161
+        ],
+        "forward_world": [
+          -0.5792279366118783,
+          0.5792279366118783,
+          -0.5735763825929859
+        ],
+        "up_world": [
+          -0.4055797120533995,
+          0.4055797120533995,
+          0.8191519400389399
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.7071068286895752,
+          -0.4055798351764679,
+          0.5792280435562134,
+          0.0,
+          0.7071068286895752,
+          0.4055798351764679,
+          -0.5792279839515686,
+          0.0,
+          0.0,
+          0.8191521763801575,
+          0.5735764503479004,
+          0.0,
+          0.07071065902709961,
+          -0.12247318029403687,
+          -1.0494349002838135,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      },
+      "overhead_oblique": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          -0.5300548331519999,
+          -0.3011276202743462,
+          1.00932660615546
+        ],
+        "forward_world": [
+          0.4095760920836673,
+          0.2867882279002699,
+          -0.8660253635724346
+        ],
+        "up_world": [
+          0.7094064191861565,
+          0.4967316543903975,
+          0.4999999773622958
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.5735764503479004,
+          0.7094065546989441,
+          -0.40957605838775635,
+          0.0,
+          -0.8191521763801575,
+          0.4967317581176758,
+          -0.2867882251739502,
+          0.0,
+          0.0,
+          0.5000001192092896,
+          0.8660253882408142,
+          0.0,
+          0.05735762417316437,
+          0.02094060182571411,
+          -1.1775600910186768,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      }
+    },
+    "versions": {
+      "panda_gym": "3.0.7",
+      "pybullet": "3.2.7"
+    },
+    "semantics": "Native Panda Cartesian displacement control. Each step commands current measured end-effector XYZ + 0.05*action[:3] meters in WORLD coordinates. +Z goes UP. Downward gripper orientation is held by inverse kinematics, quaternion xyzw=[1,0,0,0]; orientation is not controllable. Target Z is clipped to >=0. Last action (only if present) changes total finger width by 0.2*action meters: POSITIVE OPENS, NEGATIVE CLOSES, ZERO targets current width. Robot joint limits constrain actual opening. Zero XYZ requests current measured pose. Actions are positional increments, not velocities; repeating an action re-applies the increment at each 0.04s control step. Motor dynamics mean measured displacement can differ. Reach has only three actions and a blocked closed gripper; PickAndPlace has four. Magenta target is a visible noncolliding marker; green solid cube is manipulable. The robot measurements and calibrated RGB are the only task sensing.",
+    "command_protocol": "done=true stops IMMEDIATELY and discards the action in that same response: no movement or gripper command is executed. Keep done=false while issuing any motion, including the final approach. Native success terminates the environment automatically. repeat is the count of incremental control steps, so large repeats can overshoot.",
+    "control_budget": {
+      "decision_index": 5,
+      "max_decisions": 40,
+      "remaining_decisions": 35,
+      "remaining_control_steps": 788,
+      "maximum_repeat": 10
+    }
+  },
+  "previous_actions": [
+    {
+      "action": [
+        -0.8,
+        -0.1,
+        -0.5,
+        1
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        -0.9,
+        -0.2,
+        -0.9,
+        0
+      ],
+      "repeat": 2,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.28,
+        -0.32,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.03,
+        0.15,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0,
+        0,
+        0,
+        -1
+      ],
+      "repeat": 4,
+      "done": false
+    }
+  ]
+}
+
+=== call_005/response.json ===
+{
+  "decision": {
+    "action": [
+      0,
+      0,
+      0.7,
+      -0.2
+    ],
+    "repeat": 4,
+    "done": false
+  },
+  "metadata": {
+    "requested_model": "gpt-6-astra",
+    "resolved_model": null,
+    "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+    "provider": "codex-cli",
+    "usage": {
+      "input_tokens": 12263,
+      "cached_input_tokens": 6912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 82,
+      "reasoning_output_tokens": 47
+    },
+    "latency_seconds": 7.382160863002355,
+    "tool_calls": 0,
+    "request_attempts_for_decision": 1
+  },
+  "image_sha256": {
+    "front": "7bd5f48c21eb59f4c5e7643e30fad4f107da1cad4204eb0eff5a01c2671401d4",
+    "overhead_oblique": "c692022c8c214a31f861c54071d0fc3933cf04b3a8ecfb4e47571d19324b72a7"
+  }
+}
+
+=== call_006/input.json ===
+{
+  "observation": {
+    "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+    "step_index": 16,
+    "proprioception": {
+      "joint_positions": [
+        -0.032584119225560926,
+        0.1998290189072576,
+        -0.01343535632173031,
+        -2.5086072469122502,
+        0.006460423880022589,
+        2.702722131153119,
+        0.7336986043980295,
+        0.026246822070459752,
+        0.013843103633145327
+      ],
+      "joint_velocities": [
+        0.0043745148592198736,
+        -0.8485171286509543,
+        -0.00938361224430705,
+        -0.10972364471597013,
+        -0.017393237893011063,
+        -0.4084181082838652,
+        0.010879806087715395,
+        -0.00038968128922333214,
+        0.0006341735780218453
+      ],
+      "eef_position_world": [
+        -0.13418386782227523,
+        -0.02188208772590883,
+        0.0992876587790811
+      ],
+      "eef_velocity_world": [
+        0.053363495632062184,
+        -0.0022848517250093955,
+        0.32484346006754744
+      ],
+      "eef_orientation_xyzw": [
+        0.9999949596151682,
+        4.206927271205309e-05,
+        -0.0031696275214721987,
+        -0.00018009944365868046
+      ],
+      "finger_width_m": [
+        0.040089925703605075
+      ]
+    },
+    "camera_names": [
+      "front",
+      "overhead_oblique"
+    ]
+  },
+  "action_specification": {
+    "spec_version": "pybullet-cartesian-v1",
+    "task": "bullet_pick_place",
+    "names": [
+      "world_delta_x",
+      "world_delta_y",
+      "world_delta_z",
+      "finger_width_delta"
+    ],
+    "dimension": 4,
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "control_dt": 0.04,
+    "position_delta_scale_m": 0.05,
+    "finger_width_delta_scale_m": 0.2,
+    "proprioception_joint_names": [
+      "panda_joint1",
+      "panda_joint2",
+      "panda_joint3",
+      "panda_joint4",
+      "panda_joint5",
+      "panda_joint6",
+      "panda_joint7",
+      "panda_finger_joint1",
+      "panda_finger_joint2"
+    ],
+    "proprioception_joint_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "camera_calibration": {
+      "front": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          0.5081893932869372,
+          -0.6081893595694607,
+          0.70225521882161
+        ],
+        "forward_world": [
+          -0.5792279366118783,
+          0.5792279366118783,
+          -0.5735763825929859
+        ],
+        "up_world": [
+          -0.4055797120533995,
+          0.4055797120533995,
+          0.8191519400389399
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.7071068286895752,
+          -0.4055798351764679,
+          0.5792280435562134,
+          0.0,
+          0.7071068286895752,
+          0.4055798351764679,
+          -0.5792279839515686,
+          0.0,
+          0.0,
+          0.8191521763801575,
+          0.5735764503479004,
+          0.0,
+          0.07071065902709961,
+          -0.12247318029403687,
+          -1.0494349002838135,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      },
+      "overhead_oblique": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          -0.5300548331519999,
+          -0.3011276202743462,
+          1.00932660615546
+        ],
+        "forward_world": [
+          0.4095760920836673,
+          0.2867882279002699,
+          -0.8660253635724346
+        ],
+        "up_world": [
+          0.7094064191861565,
+          0.4967316543903975,
+          0.4999999773622958
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.5735764503479004,
+          0.7094065546989441,
+          -0.40957605838775635,
+          0.0,
+          -0.8191521763801575,
+          0.4967317581176758,
+          -0.2867882251739502,
+          0.0,
+          0.0,
+          0.5000001192092896,
+          0.8660253882408142,
+          0.0,
+          0.05735762417316437,
+          0.02094060182571411,
+          -1.1775600910186768,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      }
+    },
+    "versions": {
+      "panda_gym": "3.0.7",
+      "pybullet": "3.2.7"
+    },
+    "semantics": "Native Panda Cartesian displacement control. Each step commands current measured end-effector XYZ + 0.05*action[:3] meters in WORLD coordinates. +Z goes UP. Downward gripper orientation is held by inverse kinematics, quaternion xyzw=[1,0,0,0]; orientation is not controllable. Target Z is clipped to >=0. Last action (only if present) changes total finger width by 0.2*action meters: POSITIVE OPENS, NEGATIVE CLOSES, ZERO targets current width. Robot joint limits constrain actual opening. Zero XYZ requests current measured pose. Actions are positional increments, not velocities; repeating an action re-applies the increment at each 0.04s control step. Motor dynamics mean measured displacement can differ. Reach has only three actions and a blocked closed gripper; PickAndPlace has four. Magenta target is a visible noncolliding marker; green solid cube is manipulable. The robot measurements and calibrated RGB are the only task sensing.",
+    "command_protocol": "done=true stops IMMEDIATELY and discards the action in that same response: no movement or gripper command is executed. Keep done=false while issuing any motion, including the final approach. Native success terminates the environment automatically. repeat is the count of incremental control steps, so large repeats can overshoot.",
+    "control_budget": {
+      "decision_index": 6,
+      "max_decisions": 40,
+      "remaining_decisions": 34,
+      "remaining_control_steps": 784,
+      "maximum_repeat": 10
+    }
+  },
+  "previous_actions": [
+    {
+      "action": [
+        -0.8,
+        -0.1,
+        -0.5,
+        1
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        -0.9,
+        -0.2,
+        -0.9,
+        0
+      ],
+      "repeat": 2,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.28,
+        -0.32,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.03,
+        0.15,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0,
+        0,
+        0,
+        -1
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        0,
+        0,
+        0.7,
+        -0.2
+      ],
+      "repeat": 4,
+      "done": false
+    }
+  ]
+}
+
+=== call_006/response.json ===
+{
+  "decision": {
+    "action": [
+      -0.65,
+      -0.15,
+      0.6,
+      -0.2
+    ],
+    "repeat": 1,
+    "done": false
+  },
+  "metadata": {
+    "requested_model": "gpt-6-astra",
+    "resolved_model": null,
+    "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+    "provider": "codex-cli",
+    "usage": {
+      "input_tokens": 12287,
+      "cached_input_tokens": 6912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 290,
+      "reasoning_output_tokens": 250
+    },
+    "latency_seconds": 12.573823252998409,
+    "tool_calls": 0,
+    "request_attempts_for_decision": 1
+  },
+  "image_sha256": {
+    "front": "409499422f65831683989770daab4c13aad7de0d479d495839efc798c6a93da7",
+    "overhead_oblique": "b4bcc3a8f8b715db4f5c89bda5054e71e2b46ec4e2303850117edb20fdaf698e"
+  }
+}
+
+=== call_007/input.json ===
+{
+  "observation": {
+    "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+    "step_index": 17,
+    "proprioception": {
+      "joint_positions": [
+        -0.04209101524234804,
+        0.09950341862230125,
+        -0.0218154847295893,
+        -2.5890660795948515,
+        0.0037202263601465867,
+        2.6755039327389727,
+        0.7179132654109157,
+        0.01974221399860683,
+        0.02036669344746967
+      ],
+      "joint_velocities": [
+        -0.10575698163413133,
+        -1.7227938973837702,
+        -0.060136233009802316,
+        -1.0122254689742467,
+        -0.021310612211285364,
+        -0.2092604301451022,
+        -0.12173605678658898,
+        -0.05031662137094887,
+        0.050698891618003575
+      ],
+      "eef_position_world": [
+        -0.1595534316455011,
+        -0.028410253959264938,
+        0.1161426612309762
+      ],
+      "eef_velocity_world": [
+        -0.20466632640209542,
+        -0.05421921279669322,
+        0.4104318271902656
+      ],
+      "eef_orientation_xyzw": [
+        0.999975299873892,
+        0.0001959168110326482,
+        -0.007023517924638562,
+        -0.00017735468816029989
+      ],
+      "finger_width_m": [
+        0.0401089074460765
+      ]
+    },
+    "camera_names": [
+      "front",
+      "overhead_oblique"
+    ]
+  },
+  "action_specification": {
+    "spec_version": "pybullet-cartesian-v1",
+    "task": "bullet_pick_place",
+    "names": [
+      "world_delta_x",
+      "world_delta_y",
+      "world_delta_z",
+      "finger_width_delta"
+    ],
+    "dimension": 4,
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "control_dt": 0.04,
+    "position_delta_scale_m": 0.05,
+    "finger_width_delta_scale_m": 0.2,
+    "proprioception_joint_names": [
+      "panda_joint1",
+      "panda_joint2",
+      "panda_joint3",
+      "panda_joint4",
+      "panda_joint5",
+      "panda_joint6",
+      "panda_joint7",
+      "panda_finger_joint1",
+      "panda_finger_joint2"
+    ],
+    "proprioception_joint_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "camera_calibration": {
+      "front": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          0.5081893932869372,
+          -0.6081893595694607,
+          0.70225521882161
+        ],
+        "forward_world": [
+          -0.5792279366118783,
+          0.5792279366118783,
+          -0.5735763825929859
+        ],
+        "up_world": [
+          -0.4055797120533995,
+          0.4055797120533995,
+          0.8191519400389399
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.7071068286895752,
+          -0.4055798351764679,
+          0.5792280435562134,
+          0.0,
+          0.7071068286895752,
+          0.4055798351764679,
+          -0.5792279839515686,
+          0.0,
+          0.0,
+          0.8191521763801575,
+          0.5735764503479004,
+          0.0,
+          0.07071065902709961,
+          -0.12247318029403687,
+          -1.0494349002838135,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      },
+      "overhead_oblique": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          -0.5300548331519999,
+          -0.3011276202743462,
+          1.00932660615546
+        ],
+        "forward_world": [
+          0.4095760920836673,
+          0.2867882279002699,
+          -0.8660253635724346
+        ],
+        "up_world": [
+          0.7094064191861565,
+          0.4967316543903975,
+          0.4999999773622958
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.5735764503479004,
+          0.7094065546989441,
+          -0.40957605838775635,
+          0.0,
+          -0.8191521763801575,
+          0.4967317581176758,
+          -0.2867882251739502,
+          0.0,
+          0.0,
+          0.5000001192092896,
+          0.8660253882408142,
+          0.0,
+          0.05735762417316437,
+          0.02094060182571411,
+          -1.1775600910186768,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      }
+    },
+    "versions": {
+      "panda_gym": "3.0.7",
+      "pybullet": "3.2.7"
+    },
+    "semantics": "Native Panda Cartesian displacement control. Each step commands current measured end-effector XYZ + 0.05*action[:3] meters in WORLD coordinates. +Z goes UP. Downward gripper orientation is held by inverse kinematics, quaternion xyzw=[1,0,0,0]; orientation is not controllable. Target Z is clipped to >=0. Last action (only if present) changes total finger width by 0.2*action meters: POSITIVE OPENS, NEGATIVE CLOSES, ZERO targets current width. Robot joint limits constrain actual opening. Zero XYZ requests current measured pose. Actions are positional increments, not velocities; repeating an action re-applies the increment at each 0.04s control step. Motor dynamics mean measured displacement can differ. Reach has only three actions and a blocked closed gripper; PickAndPlace has four. Magenta target is a visible noncolliding marker; green solid cube is manipulable. The robot measurements and calibrated RGB are the only task sensing.",
+    "command_protocol": "done=true stops IMMEDIATELY and discards the action in that same response: no movement or gripper command is executed. Keep done=false while issuing any motion, including the final approach. Native success terminates the environment automatically. repeat is the count of incremental control steps, so large repeats can overshoot.",
+    "control_budget": {
+      "decision_index": 7,
+      "max_decisions": 40,
+      "remaining_decisions": 33,
+      "remaining_control_steps": 783,
+      "maximum_repeat": 10
+    }
+  },
+  "previous_actions": [
+    {
+      "action": [
+        -0.8,
+        -0.1,
+        -0.5,
+        1
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        -0.9,
+        -0.2,
+        -0.9,
+        0
+      ],
+      "repeat": 2,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.28,
+        -0.32,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.03,
+        0.15,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0,
+        0,
+        0,
+        -1
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        0,
+        0,
+        0.7,
+        -0.2
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        -0.65,
+        -0.15,
+        0.6,
+        -0.2
+      ],
+      "repeat": 1,
+      "done": false
+    }
+  ]
+}
+
+=== call_007/response.json ===
+{
+  "decision": {
+    "action": [
+      0,
+      0,
+      0,
+      -0.2
+    ],
+    "repeat": 5,
+    "done": false
+  },
+  "metadata": {
+    "requested_model": "gpt-6-astra",
+    "resolved_model": null,
+    "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+    "provider": "codex-cli",
+    "usage": {
+      "input_tokens": 12320,
+      "cached_input_tokens": 6912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 288,
+      "reasoning_output_tokens": 255
+    },
+    "latency_seconds": 12.732053245003044,
+    "tool_calls": 0,
+    "request_attempts_for_decision": 1
+  },
+  "image_sha256": {
+    "front": "994033e474300ace9f5e9b73436df842e5d5cff33f163fb0908458c75fb740b9",
+    "overhead_oblique": "7c23511d43281d70922c151e06c542e9a5849bb88d00e234570c3b5f93b07a5c"
+  }
+}
+
+=== call_008/input.json ===
+{
+  "observation": {
+    "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+    "step_index": 22,
+    "proprioception": {
+      "joint_positions": [
+        -0.04209350983864928,
+        0.09703350100325585,
+        -0.021499606092373627,
+        -2.595056290536302,
+        0.00479653975078277,
+        2.6920640225238204,
+        0.7175635899167397,
+        0.02048956838520589,
+        0.019610806372786352
+      ],
+      "joint_velocities": [
+        -2.4149194319003815e-05,
+        9.726024080961015e-06,
+        7.890049443990115e-05,
+        -9.74085278439979e-06,
+        2.3388804741493116e-05,
+        -1.7917725252294958e-05,
+        2.405995019072807e-06,
+        0.0031712105621432203,
+        -0.0031775268506243756
+      ],
+      "eef_position_world": [
+        -0.15902947044842644,
+        -0.0284237015876759,
+        0.11752185282286375
+      ],
+      "eef_velocity_world": [
+        -9.323250145160486e-06,
+        2.6587450199512057e-05,
+        -9.155069961951437e-06
+      ],
+      "eef_orientation_xyzw": [
+        0.9999999999363847,
+        1.124140344471725e-05,
+        5.929183078075692e-07,
+        -7.141376125392749e-07
+      ],
+      "finger_width_m": [
+        0.040100374757992246
+      ]
+    },
+    "camera_names": [
+      "front",
+      "overhead_oblique"
+    ]
+  },
+  "action_specification": {
+    "spec_version": "pybullet-cartesian-v1",
+    "task": "bullet_pick_place",
+    "names": [
+      "world_delta_x",
+      "world_delta_y",
+      "world_delta_z",
+      "finger_width_delta"
+    ],
+    "dimension": 4,
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "control_dt": 0.04,
+    "position_delta_scale_m": 0.05,
+    "finger_width_delta_scale_m": 0.2,
+    "proprioception_joint_names": [
+      "panda_joint1",
+      "panda_joint2",
+      "panda_joint3",
+      "panda_joint4",
+      "panda_joint5",
+      "panda_joint6",
+      "panda_joint7",
+      "panda_finger_joint1",
+      "panda_finger_joint2"
+    ],
+    "proprioception_joint_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "camera_calibration": {
+      "front": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          0.5081893932869372,
+          -0.6081893595694607,
+          0.70225521882161
+        ],
+        "forward_world": [
+          -0.5792279366118783,
+          0.5792279366118783,
+          -0.5735763825929859
+        ],
+        "up_world": [
+          -0.4055797120533995,
+          0.4055797120533995,
+          0.8191519400389399
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.7071068286895752,
+          -0.4055798351764679,
+          0.5792280435562134,
+          0.0,
+          0.7071068286895752,
+          0.4055798351764679,
+          -0.5792279839515686,
+          0.0,
+          0.0,
+          0.8191521763801575,
+          0.5735764503479004,
+          0.0,
+          0.07071065902709961,
+          -0.12247318029403687,
+          -1.0494349002838135,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      },
+      "overhead_oblique": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          -0.5300548331519999,
+          -0.3011276202743462,
+          1.00932660615546
+        ],
+        "forward_world": [
+          0.4095760920836673,
+          0.2867882279002699,
+          -0.8660253635724346
+        ],
+        "up_world": [
+          0.7094064191861565,
+          0.4967316543903975,
+          0.4999999773622958
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.5735764503479004,
+          0.7094065546989441,
+          -0.40957605838775635,
+          0.0,
+          -0.8191521763801575,
+          0.4967317581176758,
+          -0.2867882251739502,
+          0.0,
+          0.0,
+          0.5000001192092896,
+          0.8660253882408142,
+          0.0,
+          0.05735762417316437,
+          0.02094060182571411,
+          -1.1775600910186768,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      }
+    },
+    "versions": {
+      "panda_gym": "3.0.7",
+      "pybullet": "3.2.7"
+    },
+    "semantics": "Native Panda Cartesian displacement control. Each step commands current measured end-effector XYZ + 0.05*action[:3] meters in WORLD coordinates. +Z goes UP. Downward gripper orientation is held by inverse kinematics, quaternion xyzw=[1,0,0,0]; orientation is not controllable. Target Z is clipped to >=0. Last action (only if present) changes total finger width by 0.2*action meters: POSITIVE OPENS, NEGATIVE CLOSES, ZERO targets current width. Robot joint limits constrain actual opening. Zero XYZ requests current measured pose. Actions are positional increments, not velocities; repeating an action re-applies the increment at each 0.04s control step. Motor dynamics mean measured displacement can differ. Reach has only three actions and a blocked closed gripper; PickAndPlace has four. Magenta target is a visible noncolliding marker; green solid cube is manipulable. The robot measurements and calibrated RGB are the only task sensing.",
+    "command_protocol": "done=true stops IMMEDIATELY and discards the action in that same response: no movement or gripper command is executed. Keep done=false while issuing any motion, including the final approach. Native success terminates the environment automatically. repeat is the count of incremental control steps, so large repeats can overshoot.",
+    "control_budget": {
+      "decision_index": 8,
+      "max_decisions": 40,
+      "remaining_decisions": 32,
+      "remaining_control_steps": 778,
+      "maximum_repeat": 10
+    }
+  },
+  "previous_actions": [
+    {
+      "action": [
+        -0.8,
+        -0.1,
+        -0.5,
+        1
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        -0.9,
+        -0.2,
+        -0.9,
+        0
+      ],
+      "repeat": 2,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.28,
+        -0.32,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.03,
+        0.15,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0,
+        0,
+        0,
+        -1
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        0,
+        0,
+        0.7,
+        -0.2
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        -0.65,
+        -0.15,
+        0.6,
+        -0.2
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0,
+        0,
+        0,
+        -0.2
+      ],
+      "repeat": 5,
+      "done": false
+    }
+  ]
+}
+
+=== call_008/response.json ===
+{
+  "decision": {
+    "action": [
+      -0.44,
+      -0.2,
+      0.42,
+      -0.2
+    ],
+    "repeat": 1,
+    "done": false
+  },
+  "metadata": {
+    "requested_model": "gpt-6-astra",
+    "resolved_model": null,
+    "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+    "provider": "codex-cli",
+    "usage": {
+      "input_tokens": 12377,
+      "cached_input_tokens": 6912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 266,
+      "reasoning_output_tokens": 226
+    },
+    "latency_seconds": 15.3265643190025,
+    "tool_calls": 0,
+    "request_attempts_for_decision": 1
+  },
+  "image_sha256": {
+    "front": "fd9a1ac52aec11188b1f1210ed39d795c844422b5b2d4bda0a7e09a62a259ad2",
+    "overhead_oblique": "2b7bf55ea91ef7b8d72a85bff09f9ecafd15f7d4606b810f574789b5b8b87971"
+  }
+}
+
+=== call_009/input.json ===
+{
+  "observation": {
+    "instruction": "Grasp the solid green cube and carry its center to the magenta target cube.",
+    "step_index": 23,
+    "proprioception": {
+      "joint_positions": [
+        -0.053701482143481,
+        0.030623761975073997,
+        -0.03326793536668242,
+        -2.648915144322516,
+        0.0007495458879300423,
+        2.6611850059146755,
+        0.6972756178599073,
+        0.012311021379828877,
+        0.027805413107594712
+      ],
+      "joint_velocities": [
+        -0.13589181360596003,
+        -1.4216394335870763,
+        -0.09055409833443931,
+        -0.5195395105013265,
+        -0.031218401565330012,
+        -0.23742975866450783,
+        -0.15598605752450265,
+        -0.07920771066929667,
+        0.07907360047462618
+      ],
+      "eef_position_world": [
+        -0.18027492751395482,
+        -0.036611162832353814,
+        0.12498197010877973
+      ],
+      "eef_velocity_world": [
+        -0.033666861748067406,
+        -0.0843027924977419,
+        0.40766333514000846
+      ],
+      "eef_orientation_xyzw": [
+        0.9999515536640116,
+        0.00028885690062280256,
+        -0.009826954299403324,
+        -0.0004877046420361046
+      ],
+      "finger_width_m": [
+        0.04011643448742359
+      ]
+    },
+    "camera_names": [
+      "front",
+      "overhead_oblique"
+    ]
+  },
+  "action_specification": {
+    "spec_version": "pybullet-cartesian-v1",
+    "task": "bullet_pick_place",
+    "names": [
+      "world_delta_x",
+      "world_delta_y",
+      "world_delta_z",
+      "finger_width_delta"
+    ],
+    "dimension": 4,
+    "low": [
+      -1.0,
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "high": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "control_dt": 0.04,
+    "position_delta_scale_m": 0.05,
+    "finger_width_delta_scale_m": 0.2,
+    "proprioception_joint_names": [
+      "panda_joint1",
+      "panda_joint2",
+      "panda_joint3",
+      "panda_joint4",
+      "panda_joint5",
+      "panda_joint6",
+      "panda_joint7",
+      "panda_finger_joint1",
+      "panda_finger_joint2"
+    ],
+    "proprioception_joint_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "camera_calibration": {
+      "front": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          0.5081893932869372,
+          -0.6081893595694607,
+          0.70225521882161
+        ],
+        "forward_world": [
+          -0.5792279366118783,
+          0.5792279366118783,
+          -0.5735763825929859
+        ],
+        "up_world": [
+          -0.4055797120533995,
+          0.4055797120533995,
+          0.8191519400389399
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.7071068286895752,
+          -0.4055798351764679,
+          0.5792280435562134,
+          0.0,
+          0.7071068286895752,
+          0.4055798351764679,
+          -0.5792279839515686,
+          0.0,
+          0.0,
+          0.8191521763801575,
+          0.5735764503479004,
+          0.0,
+          0.07071065902709961,
+          -0.12247318029403687,
+          -1.0494349002838135,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      },
+      "overhead_oblique": {
+        "width": 768,
+        "height": 768,
+        "position_world": [
+          -0.5300548331519999,
+          -0.3011276202743462,
+          1.00932660615546
+        ],
+        "forward_world": [
+          0.4095760920836673,
+          0.2867882279002699,
+          -0.8660253635724346
+        ],
+        "up_world": [
+          0.7094064191861565,
+          0.4967316543903975,
+          0.4999999773622958
+        ],
+        "intrinsics_fx_fy_cx_cy": [
+          665.107510106449,
+          665.107510106449,
+          384.0,
+          384.0
+        ],
+        "view_matrix_opengl_columnmajor": [
+          0.5735764503479004,
+          0.7094065546989441,
+          -0.40957605838775635,
+          0.0,
+          -0.8191521763801575,
+          0.4967317581176758,
+          -0.2867882251739502,
+          0.0,
+          0.0,
+          0.5000001192092896,
+          0.8660253882408142,
+          0.0,
+          0.05735762417316437,
+          0.02094060182571411,
+          -1.1775600910186768,
+          1.0
+        ],
+        "projection_matrix_opengl_columnmajor": [
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.7320507764816284,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -1.0100502967834473,
+          -1.0,
+          0.0,
+          0.0,
+          -0.10050251334905624,
+          0.0
+        ],
+        "projection": "fixed world perspective, pixel x right y down, no distortion"
+      }
+    },
+    "versions": {
+      "panda_gym": "3.0.7",
+      "pybullet": "3.2.7"
+    },
+    "semantics": "Native Panda Cartesian displacement control. Each step commands current measured end-effector XYZ + 0.05*action[:3] meters in WORLD coordinates. +Z goes UP. Downward gripper orientation is held by inverse kinematics, quaternion xyzw=[1,0,0,0]; orientation is not controllable. Target Z is clipped to >=0. Last action (only if present) changes total finger width by 0.2*action meters: POSITIVE OPENS, NEGATIVE CLOSES, ZERO targets current width. Robot joint limits constrain actual opening. Zero XYZ requests current measured pose. Actions are positional increments, not velocities; repeating an action re-applies the increment at each 0.04s control step. Motor dynamics mean measured displacement can differ. Reach has only three actions and a blocked closed gripper; PickAndPlace has four. Magenta target is a visible noncolliding marker; green solid cube is manipulable. The robot measurements and calibrated RGB are the only task sensing.",
+    "command_protocol": "done=true stops IMMEDIATELY and discards the action in that same response: no movement or gripper command is executed. Keep done=false while issuing any motion, including the final approach. Native success terminates the environment automatically. repeat is the count of incremental control steps, so large repeats can overshoot.",
+    "control_budget": {
+      "decision_index": 9,
+      "max_decisions": 40,
+      "remaining_decisions": 31,
+      "remaining_control_steps": 777,
+      "maximum_repeat": 10
+    }
+  },
+  "previous_actions": [
+    {
+      "action": [
+        -0.9,
+        -0.2,
+        -0.9,
+        0
+      ],
+      "repeat": 2,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.28,
+        -0.32,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0.3,
+        0.03,
+        0.15,
+        0
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0,
+        0,
+        0,
+        -1
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        0,
+        0,
+        0.7,
+        -0.2
+      ],
+      "repeat": 4,
+      "done": false
+    },
+    {
+      "action": [
+        -0.65,
+        -0.15,
+        0.6,
+        -0.2
+      ],
+      "repeat": 1,
+      "done": false
+    },
+    {
+      "action": [
+        0,
+        0,
+        0,
+        -0.2
+      ],
+      "repeat": 5,
+      "done": false
+    },
+    {
+      "action": [
+        -0.44,
+        -0.2,
+        0.42,
+        -0.2
+      ],
+      "repeat": 1,
+      "done": false
+    }
+  ]
+}
+
+=== call_009/response.json ===
+{
+  "decision": {
+    "action": [
+      0.65,
+      -0.55,
+      0.7,
+      -0.2
+    ],
+    "repeat": 2,
+    "done": false
+  },
+  "metadata": {
+    "requested_model": "gpt-6-astra",
+    "resolved_model": null,
+    "model_verification": "CLI --model flag; server model ID not exposed in JSON events",
+    "provider": "codex-cli",
+    "usage": {
+      "input_tokens": 12345,
+      "cached_input_tokens": 6912,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 555,
+      "reasoning_output_tokens": 516
+    },
+    "latency_seconds": 24.016603085998213,
+    "tool_calls": 0,
+    "request_attempts_for_decision": 1
+  },
+  "image_sha256": {
+    "front": "244e0a8cb15ced2842c44d3a800f2c7679d6c05531ed9fbe65c8a16cecdb2f87",
+    "overhead_oblique": "0161ae4334e5f9788cacc97b175c9c959e2fc9631f166caf8d1bc981a521d05b"
+  }
+}
